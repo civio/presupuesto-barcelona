@@ -1,0 +1,280 @@
+#Área,Política,Grupo,Programa,Descripción
+#
+# Áreas de gasto y Políticas, definidas en la Orden HAP/419/2014 y comunes a todas las EELL.
+# Ver http://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-2922
+0,,,,Deute públic
+0,1,,,Deute públic
+1,,,,Serveis públics bàsics
+1,3,,,Seguretat i mobilitat ciutadana
+1,5,,,Habitatge i urbanisme
+1,6,,,Benestar comunitari
+1,7,,,Medi ambient
+2,,,,Actuacions de protecció i promoció social
+2,1,,,Pensions
+2,2,,,Altres prestacions econòmiques a favor d'empleats
+2,3,,,Serveis socials i promoció social
+2,4,,,Foment de l'ocupació
+3,,,,Producció de béns públics de caràcter preferent
+3,1,,,Sanitat
+3,2,,,Educació
+3,3,,,Cultura
+3,4,,,Esport
+4,,,,Actuacions de caràcter econòmic
+4,1,,,"Agricultura, ramaderia i pesca"
+4,2,,,Indústria i energia
+4,3,,,"Comerç, turisme i petites i mitjanes empreses"
+4,4,,,Transport públic
+4,5,,,Infraestructures
+4,6,,,"Investigació, desenvolupament e innovació"
+4,9,,,Altres actuacions de caràcter econòmic
+9,,,,Actuacions de caràcter general
+9,1,,,Òrgans de govern
+9,2,,,Serveis de caràcter general
+9,3,,,Administració financera i tributària
+9,4,,,Transferències a altres administracions públiques
+#
+# Programas específicos de Barcelona
+0,1,1,11,Servei del deute
+1,3,0,11,Gestió programa administració seguretat
+1,3,0,12,Desenvolupament professional prevenció i seguretat
+1,3,0,13,Assessorament legal a la gerència i òrgans Gov SP
+1,3,0,14,Desenvolupament dels serveis de GUB i SPEIS
+1,3,0,15,Comunicació interna i externa SP
+1,3,2,11,Gestió del programa de seguretat ciutadana
+1,3,2,12,Serveis generals de la Guàrdia Urbana
+1,3,2,13,Desenvol. professional,selecció, prevenc.salut GUB
+1,3,2,21,Prevenció de la delinqüència
+1,3,3,11,Estacionament regulat
+1,3,3,12,Altres serveis BSM
+1,3,4,11,Gestió del programa de mobilitat
+1,3,4,12,Planificació i projectes de mobilitat
+1,3,4,13,Operacions i informació del trànsit
+1,3,4,14,Senyalització viària horitzontal i vertical
+1,3,5,11,Protecció civil
+1,3,6,12,Intervenció en extinció d’incendis i salvament
+1,3,6,13,Desenvol.professional,selecció,prevenc.salut SPEIS
+1,3,6,14,Actuacions de prevenció d'incendis forestals
+1,5,0,11,Despeses generals d'Ecologia Urbana
+1,5,0,12,Coordinació jurídica Ecologia Urbana
+1,5,0,13,Planificació Ecologia Urbana
+1,5,0,14,Millora contínua Ecologia Urbana
+1,5,0,15,Anàlisi i sistemes d'informació Ecologia Urbana
+1,5,0,16,Comunicació Ecologia Urbana
+1,5,0,17,Manteniment i conservació edificis Ecologia Urbana
+1,5,1,11,Llicències
+1,5,1,12,Inspeccions
+1,5,1,13,Altres serveis d'actuació urbanística
+1,5,1,14,Execucions subsidiàrie
+1,5,1,21,Gestió del sòl
+1,5,1,31,Redacció de projectes-execució d'obres
+1,5,1,41,Projectes estratègics Ecologia Urbana
+1,5,1,42,Estratègia Ecologia Urbana
+1,5,1,43,Participació Ecologia Urbana
+1,5,1,51,Planejament de la ciutat
+1,5,1,52,Altres projectes de planejament
+1,5,1,61,Control i seguiment de grans infraestructures
+1,5,1,62,Manteniment integral rondes
+1,5,2,11,Promoció de l'habitatge social
+1,5,2,12,Ajuts a persones en risc de vulnerabilitat
+1,5,2,21,Millora del paisatge urbà i la qualitat de vida
+1,5,3,21,Manteniment i renovació del paviment
+1,5,3,31,Manteniment i renovació de les estructures vials
+1,5,3,41,Manteniment i millora espais públics centralitzat
+1,5,3,43,Millora integral de barris
+1,5,3,44,Manteniment-millora espais públics no centralitzat
+1,5,3,45,Manteniment i millora d'espai públic de Collserola
+1,5,3,51,Llei de Barris Barceloneta
+1,5,3,53,Llei de Barris Torre Baró-Ciutat Meridiana
+1,5,3,54,Llei de Barris La Bordeta
+1,5,3,55,Llei de Barris El Coll
+1,5,3,56,Llei de Barris Maresme-Besós
+1,5,3,57,Llei de Barris La Vinya-Can Clos
+1,5,3,59,Llei de Barris Raval Sud
+1,5,3,58,Llei de Barris Bon Pastor
+1,6,0,11,Sanejament xarxa de clavegueram
+1,6,1,11,Abastament de les aigües
+1,6,2,11,Recollida de residus
+1,6,2,21,Gestió de residus sòlids urbans
+1,6,2,31,Tractament de residus
+1,6,3,11,Neteja viària
+1,6,3,12,Avaluació de la neteja viària
+1,6,4,11,Cementiris
+1,6,5,11,Gestió de l'enllumenat públic
+1,6,9,11,Protecció i control d'animals
+1,7,1,11,Construcció i manteniment d'espais verds
+1,7,1,12,Biodiversitat
+1,7,2,11,Intervenció mediambiental
+1,7,2,12,Intervenció acústica ambiental
+1,7,2,21,Educació mediambiental
+1,7,9,41,Gestió de recursos energètics locals
+1,7,9,42,Coordinació Urbana. Vehicle elèctric
+2,1,1,11,Pensions
+2,3,0,11,Direcció i administració de serveis socials
+2,3,0,12,Direcció d'equitat social
+2,3,0,13,Serveis comuns d'equipaments de serveis socials
+2,3,0,17,Direcció de família de Serveis Socials
+2,3,0,21,Administració general serveis a persones-territori
+2,3,0,31,Direcció estratègia-innovació de serveis socials
+2,3,0,32,Recerca i coneixement de serveis socials
+2,3,0,33,Gestió de projectes d'innovació social
+2,3,0,34,Participació social
+2,3,0,35,Comunicació i informació de serveis socials
+2,3,0,36,Planificació i Processos de serveis socials
+2,3,0,38,Gestió sistemes d'informació de serveis socials
+2,3,1,11,Atenció infància i adolescència
+2,3,1,21,Acció municipal envers les famílies
+2,3,1,22,Atenció social individual i familiar
+2,3,1,31,Habitatges amb serveis gent gran
+2,3,1,32,Centres per atenció gent gran
+2,3,1,33,Acolliment temporal urgències gent gran
+2,3,1,34,Altres serveis d'atenció gent gran
+2,3,1,35,Teleassistència
+2,3,1,41,Centres diurns i res. inserc. sense sost
+2,3,1,42,Serveis i projecte persones sense sostre
+2,3,1,43,Serveis d'intervenció en l'espai públic
+2,3,1,44,Serveis d'alim. - menjadors socials PVSP
+2,3,1,45,Suport accés a l'habitatge PVSP
+2,3,1,51,Serveis socials bàsics
+2,3,1,52,Atenció social i neteja llar (SAD)
+2,3,1,61,Acollida i acompanyament d’immigrants
+2,3,1,62,Immigració-reglament d'estrangeria
+2,3,1,63,Pla d'assentaments irregulars
+2,3,1,71,Atenció a la dona víctima de viol.
+2,3,1,72,Abordatge integr. del treball sexual
+2,3,1,81,Atenció i prevenció grupal i comunitària
+2,3,1,82,'Suport a les accions comunitàries
+2,3,1,91,Emergències i urgències socials
+2,3,2,11,Altres accions millora de la infància
+2,3,2,12,Gestió equipaments d'infants i adolescents
+2,3,2,13,Promoció i participació infància
+2,3,2,21,Promoció i atenció a la joventut
+2,3,2,22,Gestió d'equipaments juvenils
+2,3,2,31,Promoció de la gent gran
+2,3,2,32,Gestió de casals i espais per a la gent gran
+2,3,2,41,Promoció de les dones
+2,3,2,51,Atenció la diversitat i no discriminació
+2,3,2,52,Foment i promoció dels drets humans
+2,3,2,61,Promoció de la convivència i interculturalitat
+2,3,2,71,Temps i qualitat de vida
+2,3,2,81,Serveis i projectes comunitaris
+2,3,2,91,Cooperació Internacional
+2,3,4,11,Atenció a les persones discapacitades
+2,3,9,11,Fons de contingència social
+3,1,1,11,Promoció de la salut
+3,1,1,12,Protecció de la salut
+3,1,2,11,Assistència sanitària
+3,2,0,11,Administració general d'educació
+3,2,0,21,Manteniment dels centres educatius
+3,2,0,22,Neteja dels centres educatius
+3,2,0,23,Subministraments dels centres educatius
+3,2,0,24,Vigilància dels centres educatius
+3,2,3,21,Funcionam.gral.centres educació infantil-primària
+3,2,3,22,Mantenim.-neteja-subministraments-vigilància (i+p)
+3,2,3,31,Funcionament de centres d'educació especial
+3,2,4,11,Funcion.centres educació secundària-formació prof.
+3,2,4,12,Mantenim.-neteja-subministraments-vigilància(s+fp)
+3,2,5,31,Formació adults i centres educa.especial
+3,2,6,11,Ajuts de menjador
+3,2,6,12,Altres serveis complementaris d'educació
+3,2,6,21,Accions de promoció educativa
+3,2,6,23,Serveis educatius i innovació educativa
+3,2,6,24,Promoció de l'educació universitària
+3,2,8,11,Escoles de música
+3,2,8,12,Conservatori
+3,2,8,21,Ensenyaments artístics
+3,2,8,31,Formació d'adults
+3,2,9,11,Funcionament d'escoles bressol municipals
+3,3,0,11,Administració general de cultura
+3,3,2,11,Biblioteques
+3,3,2,12,Activitats a les biblioteques dels districtes
+3,3,3,11,Museus i centres patrimonials
+3,3,3,21,Arts escèniques i música
+3,3,4,11,Promoció cultural
+3,3,6,13,Arqueologia
+3,3,7,11,Gestió de centres cívics
+3,3,7,12,Accions complementàries en els centres cívics
+3,3,8,11,Festes i actes populars
+3,3,8,12,Activitats a l’espai de Glòries
+3,4,1,11,Gestió de l'esport
+3,4,1,12,Foment i promoció de la pràctica esportiva
+3,4,2,11,Instal·lacions esportives
+3,4,3,11,Esdeveniments esportius
+4,3,0,11,Administració i gerència de Presidència i Economia
+4,3,0,13,Comunicació Presidència i Economia
+4,3,0,14,Consell Econòmic i Social
+4,3,1,21,Mercats municipals
+4,3,1,41,Serveis de promoció del comerç
+4,3,1,42,Campanyes específiq. promoció del comerç
+4,3,2,11,Foment del turisme
+4,3,2,12,Promoció del turisme
+4,3,2,13,Esdeveniments d'interés econòmic
+4,3,3,11,Suport Ocupació i Empresa
+4,3,3,14,Plans d’ocupació
+4,3,3,19,Pla de rescat social
+4,3,3,21,Promoció econòmica de la ciutat
+4,3,3,32,Col·laboració públic-privada
+4,3,3,33,Desenvolupament econòmic
+4,3,3,41,Dinamització econòmica de proximitat
+4,3,3,51,Foment de l’economia cooperativa, social
+4,4,1,11,Suport al transport públic de viatgers
+4,4,1,21,Servei del Bicing
+4,5,9,10,Altres infraestructures
+4,9,1,11,Informació i comunicació de Barcelona
+4,9,3,11,Arbitratge
+4,9,3,12,Informació al consumidor
+9,1,2,11,Representacio política
+9,1,2,12,Direcció tècnica de premsa
+9,1,2,21,Relacions institucionals
+9,1,2,22,Protocol
+9,1,2,23,Relacions internacionals
+9,2,0,11,Administració general
+9,2,0,12,Serveis editorials
+9,2,0,13,Programa actuació sectorial
+9,2,0,14,Serveis jurídics
+9,2,0,15,Coordinació territorial
+9,2,0,16,Direcció administrativa gabinet d'alcaldia
+9,2,0,17,Espais de coresponsabilitat
+9,2,0,21,Sindicatura de Greuges
+9,2,0,31,Arxiu municipal administratiu
+9,2,0,32,Sistema d'arxius
+9,2,0,33,Biblioteca general
+9,2,2,11,Direcció de recursos humans i organització
+9,2,2,12,Gestió-administració recursos humans-organització
+9,2,2,13,Assessoria jurídica de recursos humans i organització
+9,2,2,14,Comunicació interna recursos humans i organització
+9,2,2,15,Organització municipal
+9,2,2,16,Selecció de personal
+9,2,2,17,Formació del personal
+9,2,2,18,Prevenció de riscos laborals
+9,2,3,11,Gestió del padró municipal d'habitants
+9,2,3,21,Anàlisi i programació
+9,2,3,22,Estudis d’opinió
+9,2,4,11,Òrgans de participació
+9,2,4,12,Participació ciutadana i associativa de districtes
+9,2,4,13,Relacions ciutadanes
+9,2,4,14,Actuacions de civisme
+9,2,4,16,Gestió equipaments de participació dels districtes
+9,2,5,11,Atenció al ciutadà
+9,2,5,21,Comunicació corporativa
+9,2,5,22,Màrqueting corporatiu
+9,2,5,23,Internet
+9,2,5,24,Xarxes socials i continguts on line
+9,2,6,11,Sistemes d'informació
+9,2,6,12,Gestió xarxa integrada d'informació
+9,2,9,11,Fons de contingència
+9,2,9,21,Dotació per imprevistos
+9,2,9,22,Reserves per realització d'ingressos
+9,3,1,11,Planificació i pressupostació estratègica
+9,3,1,12,Pressupost i política fiscal
+9,3,1,13,Administració comptable
+9,3,1,14,Gestió financera
+9,3,1,15,Control intern
+9,3,1,16,Auditoria interna
+9,3,2,11,Gestió tributària
+9,3,2,12,Consell Tributari
+9,3,2,13,Dipòsits i fiances
+9,3,3,11,Patrimoni
+9,3,3,12,Manteniment d’edificis centralitzats
+9,3,3,14,Manteniment d’edificis i solars no centralitzats
+9,3,4,11,Tresoreria
+9,4,3,11,Transferències a altres ens locals
