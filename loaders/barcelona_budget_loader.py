@@ -36,7 +36,7 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
             return {
                 'is_expense': True,
                 'is_actual': is_actual,
-                'fc_code': fc_code,
+                'fc_code': fc_code[:-1],
                 'ec_code': self.clean(line[0])[:-2],
                 'ic_code': self.clean(line[1]),
                 'item_number': self.clean(line[0])[-2:],    # Last two digits
