@@ -41,7 +41,7 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
                 'ic_code': self.clean(line[1]),
                 'item_number': self.clean(line[0])[-2:],    # Last two digits
                 'description': line[3],
-                'amount': self.parse_amount(line[6 if is_actual else 4])
+                'amount': self.parse_amount(line[6 if is_actual else 5])
             }
 
         else:
@@ -52,6 +52,6 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
                 'ic_code': self.clean(line[1]),             # All income goes to the root node
                 'item_number': self.clean(line[0])[-2:],    # Last two digits
                 'description': line[3],
-                'amount': self._parse_amount(line[6 if is_actual else 4])
+                'amount': self._parse_amount(line[6 if is_actual else 5])
             }
 
