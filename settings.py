@@ -14,7 +14,7 @@ OVERVIEW_INCOME_NODES = [['11', '113'], '13', '42', '43', '45', '46', '30', '33'
 OVERVIEW_EXPENSE_NODES = ['23', '92', '13', '16', '15', '01', '33', '32', '43', '44', '91', '93', '17']
 
 # Show an extra tab with institutional breakdown. Default: True.
-SHOW_INSTITUTIONAL_TAB = False
+SHOW_INSTITUTIONAL_TAB = True
 
 # Show an extra tab with funding breakdown (only applicable to some budgets). Default: False.
 # SHOW_FUNDING_TAB = False

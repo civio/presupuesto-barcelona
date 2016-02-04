@@ -18,10 +18,6 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
         # See https://github.com/dcabo/presupuestos-aragon/wiki/La-clasificaci%C3%B3n-funcional-en-las-Entidades-Locales
         programme_mapping = {
         }
-        if line[0] == '':
-            return {
-                'amount': 0
-            }
 
         is_expense = (filename.find('gastos.csv')!=-1)
         is_actual = (filename.find('/ejecucion_')!=-1)
@@ -41,7 +37,7 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
                 'ic_code': self.clean(line[1]),
                 'item_number': self.clean(line[0])[-2:],    # Last two digits
                 'description': line[3],
-                'amount': self._parse_amount(line[6 if is_actual else 5] or line[4])
+                'amount': self._parse_amount(line[6 if is_actual else 5])
             }
 
         else:
@@ -52,6 +48,6 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
                 'ic_code': self.clean(line[1]),             # All income goes to the root node
                 'item_number': self.clean(line[0])[-2:],    # Last two digits
                 'description': line[3],
-                'amount': self._parse_amount(line[6 if is_actual else 5] or line[4])
+                'amount': self._parse_amount(line[6 if is_actual else 5])
             }
 
