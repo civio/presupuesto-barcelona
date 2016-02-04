@@ -18,10 +18,6 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
         # See https://github.com/dcabo/presupuestos-aragon/wiki/La-clasificaci%C3%B3n-funcional-en-las-Entidades-Locales
         programme_mapping = {
         }
-        if line[0] == '':
-            return {
-                'amount': 0
-            }
 
         is_expense = (filename.find('gastos.csv')!=-1)
         is_actual = (filename.find('/ejecucion_')!=-1)
