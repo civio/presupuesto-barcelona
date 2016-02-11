@@ -9241,8 +9241,12 @@ header > .container {
       margin: 0; }
     .home-content .expense-examples li {
       list-style: none;
+      -webkit-box-shadow: none;
+      box-shadow: none;
       margin-bottom: 10px;
-      background: #eeeeee; }
+      background: #DEF7FB;
+      border: none;
+      border-radius: 0; }
       .home-content .expense-examples li a {
         -webkit-transition: color 0.3s ease-out;
         -o-transition: color 0.3s ease-out;
@@ -9254,7 +9258,7 @@ header > .container {
         font-weight: 600; }
   .home-content .options {
     padding-top: 30px;
-    background: #fcfcfc; }
+    background: #DEF7FB; }
     .home-content .options .option > div {
       padding: 15px;
       margin-bottom: 30px;
