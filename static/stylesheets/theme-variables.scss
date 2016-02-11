@@ -2,7 +2,6 @@
 // Colors
 // -------------
 
-/*
 $gray-base:             #000 !default;
 $gray-darker:           lighten($gray-base, 13.5%) !default; // #222
 $gray-dark:             lighten($gray-base, 20%) !default;   // #333
@@ -11,35 +10,40 @@ $gray-light:            lighten($gray-base, 46.7%) !default; // #777
 $gray-lighter:          lighten($gray-base, 93.5%) !default; // #eee
 $gray-lightest:         lighten($gray-base, 96%) !default;
 
-$brand-primary:         #d32e12;
-$brand-secondary:       #49647A;
-$brand-terciary:        #DDCFC1;
-
-$link-color:            $brand-primary;
-$link-hover-color:      $link-color;
-$link-hover-decoration: underline;
-*/
+$brand-primary:         #009C9B;
+$brand-secondary:       #F2F2F2;
+$brand-terciary:        #DEF7FB;
 
 $text-color:            #666666;
 
-$headings-color:        #00ad00;
+$headings-color:        $brand-primary;
 
+/*
 $bcn-blue:    #0069e1;
 $bcn-pink:    #d50283;
 $bcn-green:   #008000;
 $bcn-violet:  #7519E6;
 $bcn-olive:   #1c7da3;
 $bcn-red:￼    #E91B1D;
+*/
+
+$link-color:            $brand-primary;
+$link-hover-color:      $link-color;
+$link-hover-decoration: underline;
 
 
 // Typography
 // -------------
 
+$font-family-sans-serif:  "Source Sans Pro", Helvetica, Arial, sans-serif;
+$font-family-serif:       Georgia, "Times New Roman", Times, serif;
+$font-family-base:        $font-family-sans-serif;
+
 $font-weight-200:         200;
 $font-weight-300:         300;
 $font-weight-400:         400;
-$font-weight-600:         400; 
-$font-weight-700:         700; 
+$font-weight-600:         600; 
+$font-weight-700:         700;
 
 $headings-font-weight:    $font-weight-300;
 
@@ -47,16 +51,25 @@ $headings-font-weight:    $font-weight-300;
 // Container sizes
 // -------------
 
+$grid-gutter-width:        30px;
+
 // Large screen / wide desktop
 
 $screen-lg:                  1280px;
 $container-large-desktop:    (1080px + $grid-gutter-width);
 
 
+// Main Entity Logo
+// -------------
+
+$main-entity-logo-width:   200px;
+$main-entity-logo-height:  200px;
+
+
 // Navbar
 // -------------
 
-//$navbar-border-radius: 0;
+$navbar-border-radius: 0;
 
 // Point at which the navbar becomes uncollapsed
 // $grid-float-breakpoint: 992px;  // $screen-md
@@ -64,30 +77,61 @@ $container-large-desktop:    (1080px + $grid-gutter-width);
 $dvmi-menu-length: 3;  // Number of items in main menu
 
 // Navbar background color
-//$navbar-default-bg: $brand-primary;
+$navbar-default-bg: $brand-primary;
 
 // Navbar options text color
-//$dvmi-navbar-color: mix( $brand-primary, white, 10% );
+$dvmi-navbar-color: mix( $brand-primary, white, 10% );
 
-/*
+
 // Footer
 // --------------
 
-$footer-color: white;
-$footer-bg: $brand-primary;
+$footer-color:  $text-color;
+$footer-bg:     white;
+
+
+// Buttons
+// --------------
+
+$btn-default-color:              $text-color;
+$btn-default-bg:                 $brand-secondary;
+$btn-default-border:             $brand-secondary;
+
+$btn-primary-border:             $brand-primary;
+
+$btn-border-radius-base:         0;
+$btn-border-radius-large:        0;
+$btn-border-radius-small:        0;
+
+
+// Border Radius
+// --------------
+
+$border-radius-base:  0;
+$panel-border-radius: 0;
+
+
+// Pagination
+// --------------
+
+$pagination-color:                     $brand-primary;
+$pagination-hover-color:               $brand-primary;
+
+$pagination-active-bg:                 $brand-primary;
+$pagination-active-border:             $brand-primary;
 
 
 // Search Form
 // --------------
 
-$search-form-bg: $brand-terciary;
+$search-form-bg: $brand-secondary;
 
 
 // Page Header
 // --------------
 
-$page-header-bg:            mix( $brand-secondary, white, 8% );
-$page-header-border-color:  mix( $brand-secondary, white, 70% );
+$page-header-bg:            $brand-terciary;        //mix( $brand-secondary, white, 8% );
+$page-header-border-color:  $brand-primary;  //mix( $brand-secondary, white, 70% );
 
 
 // Budget Stream
@@ -99,7 +143,7 @@ $budget-stream-color: $brand-secondary;
 // Data Panel
 // --------------
 
-$data-panel-color: $brand-secondary;
+$data-panel-color: $brand-primary;
 
 
 // Data Sources
@@ -111,16 +155,5 @@ $data-sources-color: $brand-terciary;
 // Sankey Viz
 // --------------
 
-$sankey-budget-color:     saturate( lighten( $brand-secondary, 12% ), 10% );                          // #1F77B4;
-$sankey-execution-color:  saturate( lighten( adjust-hue( $sankey-budget-color, 100% ), 10% ), 10% );  //#E377C2;
-
-
-// Pagination
-// --------------
-
-$pagination-color:                     $brand-secondary;
-$pagination-hover-color:               $brand-secondary;
-
-$pagination-active-bg:                 $brand-secondary;
-$pagination-active-border:             $brand-secondary;
-*/
+$sankey-budget-color:     mix( $gray-light, $gray-lighter, 50% );
+$sankey-execution-color:  $brand-primary;
