@@ -8569,6 +8569,119 @@ label {
 .chart-container text.nv-legend-text:hover {
   font-weight: 600; }
 
+.stacked-area-chart .bkg-rect {
+  fill: white;
+  cursor: auto; }
+.stacked-area-chart .nonexecuted-overlay rect {
+  fill: white;
+  opacity: 0.5;
+  pointer-events: none; }
+.stacked-area-chart .nonexecuted-overlay text {
+  display: none;
+  font-size: 0.875em;
+  fill: #777777;
+  text-anchor: middle;
+  font-style: italic; }
+.stacked-area-chart .axis path,
+.stacked-area-chart .axis line {
+  fill: none;
+  stroke: #cacaca;
+  shape-rendering: crispEdges; }
+.stacked-area-chart .axis.x path,
+.stacked-area-chart .axis.x line {
+  stroke: #9b9b9b; }
+.stacked-area-chart .axis.y .domain {
+  stroke: none; }
+.stacked-area-chart .axis text {
+  fill: #666666;
+  font-size: 0.875em;
+  font-weight: 300; }
+.stacked-area-chart .axis.x text {
+  font-weight: 400; }
+.stacked-area-chart path.area {
+  opacity: 0.8;
+  cursor: pointer;
+  -webkit-transition: opacity 0.3s ease-out;
+  -o-transition: opacity 0.3s ease-out;
+  transition: opacity 0.3s ease-out; }
+  .stacked-area-chart path.area.hover {
+    opacity: 0.6; }
+.stacked-area-chart .line {
+  fill: none;
+  stroke-width: 2px;
+  cursor: pointer; }
+.stacked-area-chart .point {
+  stroke-width: 0;
+  stroke-opacity: 0.7;
+  stroke: white;
+  cursor: pointer;
+  -webkit-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out; }
+  .stacked-area-chart .point.hover {
+    stroke-width: 1.5px; }
+
+.stacked-area-chart-legend {
+  margin-left: 80px;
+  margin-right: 20px; }
+  .stacked-area-chart-legend .label {
+    display: inline-block;
+    color: #666666;
+    font-size: 0.875em;
+    font-weight: 400;
+    padding: 0 5px;
+    margin-right: 5px;
+    margin-bottom: 4px;
+    line-height: 20px;
+    cursor: pointer; }
+    .stacked-area-chart-legend .label:hover {
+      color: black;
+      background: white; }
+    .stacked-area-chart-legend .label span {
+      float: left;
+      width: 10px;
+      height: 10px;
+      border-width: 2px;
+      border-style: solid;
+      border-radius: 5px;
+      margin-top: 5px;
+      margin-right: 5px; }
+    .stacked-area-chart-legend .label.inactive {
+      color: #777777; }
+      .stacked-area-chart-legend .label.inactive span {
+        background: none !important; }
+
+.chart-container {
+  position: relative; }
+  .chart-container .popover {
+    top: auto; }
+    .chart-container .popover .popover-title {
+      margin: 0 15px;
+      padding: 8px 0;
+      background: white;
+      border-color: #d0d0d0;
+      font-size: 1.5em;
+      font-weight: 300;
+      text-align: center; }
+    .chart-container .popover .popover-content-year {
+      font-size: 1.125em;
+      color: #777777;
+      margin-bottom: 0; }
+    .chart-container .popover .popover-content-value {
+      font-size: 1.25em;
+      margin-bottom: 5px; }
+      .chart-container .popover .popover-content-value b {
+        font-weight: 600; }
+    .chart-container .popover .popover-content {
+      padding-bottom: 15px;
+      text-align: right; }
+      .chart-container .popover .popover-content .label {
+        font-size: 0.875em;
+        font-weight: 400; }
+
+@media (min-width: 768px) {
+  .stacked-area-chart .nonexecuted-overlay text {
+    display: block; } }
 .data-controllers {
   margin-bottom: 60px;
   text-align: center;
@@ -9081,6 +9194,17 @@ header > .container {
         border: none; }
       #menu-lang ul li .active {
         font-weight: 600; }
+      #menu-lang ul li input[type=submit] {
+        color: #009C9B;
+        line-height: 1em;
+        padding: 0;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        background: none;
+        border: none; }
+        #menu-lang ul li input[type=submit]:hover {
+          text-decoration: underline; }
 
 @media (min-width: 768px) {
   .main-entity-logo {
@@ -9383,7 +9507,7 @@ header > .container {
 .policies-graph {
   position: relative;
   background: #DEF7FB;
-  padding: 15px 15px 0;
+  padding: 30px 15px 15px;
   margin: 30px 0 15px; }
 
 @media (min-width: 768px) {
@@ -9394,8 +9518,11 @@ header > .container {
     margin: 0;
     text-align: left; }
 
-  .policies-graph {
-    padding: 30px 30px 0; } }
+  /*
+  .policies-graph{
+    padding-top: $grid-gutter-width;
+  }
+  */ }
 .payments-content > .container {
   max-width: 1010px; }
 .payments-content .lead {
@@ -9601,174 +9728,6 @@ header > .container {
     margin-bottom: 30px; }
   .search-content #form-search-controls {
     text-align: right; } }
-.chartWrap {
-  margin: 0;
-  padding: 0;
-  overflow: hidden; }
-
-.nvtooltip {
-  position: absolute;
-  background-color: black;
-  border: 1px solid #000;
-  color: white;
-  padding: 10px;
-  z-index: 10000;
-  font-size: 12px;
-  transition: opacity 100ms linear;
-  -moz-transition: opacity 100ms linear;
-  -webkit-transition: opacity 100ms linear;
-  transition-delay: 100ms;
-  -moz-transition-delay: 100ms;
-  -webkit-transition-delay: 100ms;
-  -moz-box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
-  -webkit-box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
-  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
-  -moz-border-radius: 10px;
-  border-radius: 10px;
-  pointer-events: none;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none; }
-  .nvtooltip h3 {
-    margin: 0;
-    padding: 0;
-    text-align: center; }
-  .nvtooltip p {
-    margin: 0;
-    padding: 0;
-    text-align: center; }
-    .nvtooltip p.percentage {
-      margin-top: .2em;
-      padding: 0;
-      font-weight: normal;
-      font-size: 1em;
-      line-height: 1;
-      text-align: left; }
-  .nvtooltip p.amount,
-  .nvtooltip span.amount {
-    margin-top: .2em;
-    padding: 0;
-    font-weight: normal;
-    font-size: 1.5em;
-    line-height: 1;
-    text-align: left; }
-  .nvtooltip p.year,
-  .nvtooltip span.year {
-    padding: 0;
-    font-weight: normal;
-    font-size: 1em;
-    line-height: 1;
-    margin-top: .5em;
-    text-align: left; }
-  .nvtooltip span.highlight {
-    padding: 0;
-    font-weight: normal;
-    font-size: 1.2em;
-    line-height: 1;
-    text-align: left; }
-  .nvtooltip span {
-    display: inline-block;
-    margin: 2px 0; }
-
-.nvtooltip-pending-removal {
-  position: absolute;
-  pointer-events: none; }
-
-svg {
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  /* Trying to get SVG to act like a greedy block in all browsers */
-  display: block;
-  width: 100%;
-  height: 100%; }
-  svg text {
-    font: normal 12px; }
-  svg .title {
-    font: bold 14px; }
-
-.nvd3 .nv-background {
-  fill: none; }
-.nvd3.nv-noData {
-  font-size: 18px;
-  font-weight: bold; }
-.nvd3 .nv-legend .nv-series {
-  cursor: pointer; }
-.nvd3 .nv-legend .nv-series text {
-  font-size: 11px; }
-.nvd3 .nv-legend .disabled circle {
-  fill-opacity: 0; }
-.nvd3 .nv-axis path {
-  fill: none;
-  stroke: #000;
-  stroke-opacity: .75;
-  shape-rendering: crispEdges; }
-  .nvd3 .nv-axis path.domain {
-    stroke-opacity: .75; }
-.nvd3 .nv-axis line {
-  fill: none;
-  stroke: #000;
-  stroke-opacity: .25;
-  shape-rendering: crispEdges; }
-  .nvd3 .nv-axis line.zero {
-    stroke-opacity: .75; }
-.nvd3 .nv-axis .nv-axisMaxMin text {
-  font-weight: bold; }
-.nvd3 .nv-groups path.nv-line {
-  fill: none;
-  stroke-width: 2.5px;
-  stroke-linecap: round;
-  shape-rendering: geometricPrecision; }
-.nvd3 .nv-groups path.nv-area {
-  stroke: none;
-  stroke-linecap: round;
-  shape-rendering: geometricPrecision; }
-.nvd3 .nv-groups .nv-point {
-  transition: stroke-width 250ms linear, stroke-opacity 250ms linear;
-  -moz-transition: stroke-width 250ms linear, stroke-opacity 250ms linear;
-  -webkit-transition: stroke-width 250ms linear, stroke-opacity 250ms linear; }
-.nvd3 .nv-line.hover path {
-  stroke-width: 6px; }
-.nvd3.nv-line .nvd3.nv-scatter .nv-groups .nv-point {
-  fill-opacity: 0;
-  stroke-opacity: 0; }
-.nvd3.nv-scatter.nv-single-point .nv-groups .nv-point {
-  fill-opacity: .5;
-  stroke-opacity: .5; }
-.nvd3.nv-scatter .nv-groups .nv-point.hover,
-.nvd3 .nv-groups .nv-point.hover {
-  stroke-width: 20px;
-  fill-opacity: .5 !important;
-  stroke-opacity: .5 !important; }
-.nvd3 .nv-point-paths path {
-  stroke: #aaa;
-  stroke-opacity: 0;
-  fill: #eee;
-  fill-opacity: 0; }
-.nvd3 .nv-indexLine {
-  cursor: ew-resize; }
-.nvd3.nv-stackedarea path.nv-area {
-  fill-opacity: .7;
-  stroke-opacity: 0;
-  transition: fill-opacity 250ms linear, stroke-opacity 250ms linear;
-  -moz-transition: fill-opacity 250ms linear, stroke-opacity 250ms linear;
-  -webkit-transition: fill-opacity 250ms linear, stroke-opacity 250ms linear; }
-  .nvd3.nv-stackedarea path.nv-area.hover {
-    fill-opacity: .9; }
-.nvd3.nv-stackedarea .nv-groups .nv-point {
-  stroke-opacity: 0;
-  fill-opacity: .7; }
-  .nvd3.nv-stackedarea .nv-groups .nv-point.hover {
-    stroke-width: 20px;
-    stroke-opacity: .75;
-    fill-opacity: .9; }
-
 #pop-up {
   display: none;
   position: absolute;
