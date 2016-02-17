@@ -29,6 +29,10 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
             if int(year) < 2015:
                 fc_code = programme_mapping.get(fc_code, fc_code)
 
+            # The budget data we have for 2016 doesn't (yet) have amended expense figures,
+            # so in that case we use the initial budget
+            budget_column = 4 if int(year)==2016 else 5
+
             return {
                 'is_expense': True,
                 'is_actual': is_actual,
@@ -37,7 +41,7 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
                 'ic_code': self.clean(line[1]),
                 'item_number': self.clean(line[0])[-2:],    # Last two digits
                 'description': line[3],
-                'amount': self._parse_amount(line[6 if is_actual else 5])
+                'amount': self._parse_amount(line[6 if is_actual else budget_column])
             }
 
         else:
