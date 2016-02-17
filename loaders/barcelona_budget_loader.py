@@ -22,7 +22,7 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
         is_expense = (filename.find('gastos.csv')!=-1)
         is_actual = (filename.find('/ejecucion_')!=-1)
         if is_expense:
-            fc_code = self.clean(line[2]).zfill(5)          # Fill with zeroes on the left if needed
+            fc_code = self.clean(line[2])
 
             # For years before 2015 we check whether we need to amend the programme code
             year = re.search('municipio/(\d+)/', filename).group(1)
@@ -36,9 +36,9 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
             return {
                 'is_expense': True,
                 'is_actual': is_actual,
-                'fc_code': fc_code[:-1],
+                'fc_code': fc_code,
                 'ec_code': self.clean(line[0])[:-2],
-                'ic_code': self.clean(line[1]),
+                'ic_code': self.clean(line[1])[1:],
                 'item_number': self.clean(line[0])[-2:],    # Last two digits
                 'description': line[3],
                 'amount': self._parse_amount(line[6 if is_actual else budget_column])
@@ -49,7 +49,7 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
                 'is_expense': False,
                 'is_actual': is_actual,
                 'ec_code': self.clean(line[0])[:-2],
-                'ic_code': self.clean(line[1]),             # All income goes to the root node
+                'ic_code': self.clean(line[1])[1:],
                 'item_number': self.clean(line[0])[-2:],    # Last two digits
                 'description': line[3],
                 'amount': self._parse_amount(line[6 if is_actual else 5])
