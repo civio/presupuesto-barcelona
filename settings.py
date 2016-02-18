@@ -10,8 +10,32 @@ PAYMENTS_LOADER = 'BarcelonaPaymentsLoader'
 
 FEATURED_PROGRAMMES = ['1710', '3321', '3261', '1630', '2410', '3263', '3340', '3370', '3410', '4411', '9242']
 
-OVERVIEW_INCOME_NODES = [['11', '113'], '13', '42', '43', '45', '46', '30', '33', '34', '39']
-OVERVIEW_EXPENSE_NODES = ['23', '92', '13', '16', '15', '01', '33', '32', '43', '44', '91', '93', '17']
+OVERVIEW_INCOME_NODES = [
+                          { 'label': 'Impost sobre béns immobles (IBI)', 'nodes': [['11', '113'], ['11', '114']] },
+                          { 'label': 'Resta d\'impostos locals propis (plusvàlua, IAE, circulació y ICIO)', 'nodes': [['11', '115'], ['11', '116'], '13', '29'] },
+                          { 'label': 'Impostos cedits (IRPF, IVA i especials)', 'nodes': ['10', '21', '22'] },
+                          { 'label': 'Taxes, preus públics i altres', 'nodes': ['30', '32', '33', '34', '35', '36', '38', '39'] },
+                          { 'label': 'Transferències corrents de l\'estat', 'nodes': '42' },
+                          { 'label': 'Transferències corrents de comunitats autònomes, ens locals i altres', 'nodes': ['41', '44', '45', '46', '47', '48', '49'] },
+                          { 'label': 'Rendiments patrimonials', 'nodes': ['50', '52', '53', '54', '55'] },
+                          { 'label': 'Ingressos de capital', 'nodes': ['60', '61', '68', '75', '79'] },
+                          { 'label': 'Ingressos financers', 'nodes': ['84', '90', '94'] }
+                        ]
+OVERVIEW_EXPENSE_NODES =  [
+                            { 'label': 'Deute', 'nodes': '01' },
+                            { 'label': 'Seguretat i mobilitat ciutadana', 'nodes': '13' },
+                            { 'label': 'Habitatge i urbanisme', 'nodes': ['15', '45'] },
+                            { 'label': 'Serveis urbans i medi ambient', 'nodes': ['16', '17'] },
+                            { 'label': 'Serveis socials i salut', 'nodes': ['23', '31'] },
+                            { 'label': 'Educació', 'nodes': '32' },
+                            { 'label': 'Cultura', 'nodes': '33' },
+                            { 'label': 'Esports', 'nodes': '34' },
+                            { 'label': 'Promoció econòmica i ocupació', 'nodes': ['43', ['49', '4931']] },
+                            { 'label': 'Transport públic', 'nodes': '44' },
+                            { 'label': 'Òrgans de govern', 'nodes': '91' },
+                            { 'label': 'Transferències a altres administracions', 'nodes': '94' },
+                            { 'label': 'Serveis de caràcter general i administració', 'nodes': ['21', '92', '93', ['49', '4911']] }
+                          ]
 
 # Show Payments section in menu & home options. Default: False.
 SHOW_PAYMENTS           = False
