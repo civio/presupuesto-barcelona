@@ -8,7 +8,7 @@ MAIN_ENTITY_NAME = 'Barcelona'
 BUDGET_LOADER = 'BarcelonaBudgetLoader'
 PAYMENTS_LOADER = 'BarcelonaPaymentsLoader'
 
-FEATURED_PROGRAMMES = ['1710', '3321', '3261', '1630', '2410', '3263', '3340', '3370', '3410', '4411', '9242']
+FEATURED_PROGRAMMES = ['1532', '2313', '3291', '3341', '3321', '3371', '4411', '1711', '4911', '4321']
 
 OVERVIEW_INCOME_NODES = [
                           { 'label': 'Impost sobre béns immobles (IBI)', 'nodes': [['11', '113'], ['11', '114']] },
