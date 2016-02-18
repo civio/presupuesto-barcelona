@@ -8661,6 +8661,7 @@ label {
   margin-left: 80px;
   margin-right: 20px; }
   .stacked-area-chart-legend .label {
+    position: relative;
     display: inline-block;
     color: #666666;
     font-size: 0.875em;
@@ -8669,12 +8670,15 @@ label {
     margin-right: 5px;
     margin-bottom: 4px;
     line-height: 20px;
-    cursor: pointer; }
+    cursor: pointer;
+    text-indent: 15px; }
     .stacked-area-chart-legend .label:hover {
       color: black;
       background: white; }
     .stacked-area-chart-legend .label span {
-      float: left;
+      position: absolute;
+      top: 0;
+      left: 5px;
       width: 10px;
       height: 10px;
       border-width: 2px;
