@@ -1277,16 +1277,16 @@ $bcn-red:￼    #E91B1D;
   right: 0; }
 
 .jslider .jslider-value {
-  font-weight: 800;
+  font-weight: 600;
   white-space: nowrap;
   padding: .25em;
   position: absolute;
   top: -2.25em;
   left: 20%;
-  background: #222222;
+  background: #333333;
   color: white;
   line-height: 1.125;
-  border-radius: .25em; }
+  border-radius: 4px; }
 
 .jslider .jslider-value-to {
   left: 80%; }
@@ -9976,13 +9976,19 @@ header > .container {
 .policies-graph {
   background: white; }
 
+.stacked-area-chart-legend .label:hover {
+  background: #F2F2F2; }
+
 .form-search-glossary .btn-default {
   background: #009C9B;
   border-color: #009C9B; }
 
-.glossary-terms h3:before,
-.glossary-terms h4:before {
-  color: #009C9B; }
+.glossary-terms h3,
+.glossary-terms h4 {
+  font-weight: 300; }
+  .glossary-terms h3:before,
+  .glossary-terms h4:before {
+    color: #009C9B; }
 
 .search-content .alert {
   background: #F2F2F2; }

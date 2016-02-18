@@ -113,14 +113,25 @@
   background: white;
 }
 
+.stacked-area-chart-legend .label{
+  
+  &:hover{
+    background: $brand-secondary;
+  }
+}
+
 // Glossary
 .form-search-glossary .btn-default{
   background: $brand-primary;
   border-color: $brand-primary;
 }
-.glossary-terms h3:before, 
-.glossary-terms h4:before{
-  color: $brand-primary;
+.glossary-terms h3, 
+.glossary-terms h4{
+  font-weight: $font-weight-300;
+  
+  &:before{
+    color: $brand-primary;
+  }
 }
 
 // Search
