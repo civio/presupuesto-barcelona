@@ -21,32 +21,15 @@ msgstr ""
 msgid "Presupuestos del Gobierno de Aragón"
 msgstr "Presupuestos del Ayuntamiento de Barcelona"
 
-#: templates/budgets/budgets_intro.html:10
-msgid ""
-"Se realiza a través de <b>impuestos directos</b> - como el IRPF y el "
-"impuesto de sociedades - y de <b>impuestos indirectos</b> - el IVA e "
-"impuestos sobre el tabaco, el alcohol o la gasolina -."
-msgstr "La recaudación de impuestos locales se realiza a través de impuestos directos, principalmente el IBI, y de tasas y precios públicos. Por otro lado la ciudadanía paga impuestos al Estado y a la Generalitat de Cataluña a través de los impuestos directos - como el IRPF y el impuesto de sociedades- y de impuestos indirectos -IVA e impuestos sobre el tabaco, el alcohol o la gasolina."
-
 #: templates/budgets/budgets_intro.html:16
 msgid ""
-"Una parte del dinero recaudado se queda en la <b>Administración General del "
-"Estado</b>, mientras que otra parte se transfiere al <b>Gobierno de Aragón</"
-"b>"
+"El dinero recaudado localmente se complementa con las transferencias de la "
+"Administración General del Estado y del Gobierno de Aragón, que son los "
+"encargados de recaudar otros ingresos como el IVA y el IRPF"
 msgstr ""
-"Una parte del dinero recaudado se queda en la <b>Administración General del "
-"Estado</b>, mientras que otra parte se transfiere al <b>Ayuntamiento de Barcelona</"
-"b>"
-
-#: templates/budgets/budgets_intro.html:22
-msgid ""
-"El <b>Gobierno de Aragón</b> utiliza el dinero recaudado, junto con otras "
-"fuentes de financiación como puede ser la deuda, para <b>mantener los "
-"servicios públicos</b>"
-msgstr ""
-"El <b>Ayuntamiento de Barcelona</b> utiliza el dinero recaudado, junto con otras "
-"fuentes de financiación como puede ser la deuda, para <b>mantener los "
-"servicios públicos</b>"
+"El dinero recaudado localmente se complementa con las transferencias de la "
+"Administración General del Estado y de la Generalitat de Catalunya, que son los "
+"encargados de recaudar otros ingresos como el IVA y el IRPF"
 
 #: templates/budgets/index.html:17
 msgid "Ingresos y gastos en el Gobierno de Aragón"
