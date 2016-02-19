@@ -34,119 +34,119 @@
 9,4,,,Transferencias a otras administraciónes públicas
 #
 # Programas específicos de Barcelona
-0,1,1,1,Servei del deute
-1,3,0,1,Administració general de prevenció i seguretat
-1,3,2,1,Seguretat ciutadana
-1,3,2,2,Prevenció de la delinqüència
-1,3,3,1,Control i regulació estacionament de via pública
-1,3,4,1,Mobilitat
-1,3,5,1,Protecció civil
-1,3,6,1,Prevenció i extinció d'incendis i salvament
-1,5,0,1,Administració d'Ecologia Urbana
-1,5,1,1,Actuació urbanística i disciplina
-1,5,1,2,Gestió del sòl
-1,5,1,3,Redacció de projectes-execució d'obres
-1,5,1,4,Projectes i estratègia
-1,5,1,5,Planejament de la ciutat
-1,5,1,6,Control i seguiment de grans infraestructures
-1,5,2,1,Promoció i gestió d'habitatge de protecció pública
-1,5,2,2,Conservació i rehabilitació de l'edificació
-1,5,3,2,Pavimentació de vies públiques
-1,5,3,3,Manteniment i renovació de les estructures vials
-1,5,3,4,Espai públic
-1,5,3,5,Llei de Barris
-1,6,0,1,Sanejament xarxa de clavegueram
-1,6,1,1,Abastament de les aigües
-1,6,2,1,Recollida de residus
-1,6,2,2,Gestió de residus sòlids urbans
-1,6,2,3,Tractament de residus
-1,6,3,1,Neteja viària
-1,6,4,1,Cementiris
-1,6,5,1,Gestió de l'enllumenat públic
-1,6,9,1,Protecció i control d'animals
-1,7,1,1,Espais verds i biodiversitat
-1,7,2,1,Protec.contaminació acústica-lumínica-atmosfèrica
-1,7,2,2,Educació mediambiental
-1,7,9,4,Gestió i promoció dels recursos energètics
-2,1,1,1,Pensions
-2,3,0,1,Administració general de serveis socials
-2,3,0,2,Administració general serveis a persones-territori
-2,3,0,3,Estratègia i innovació de serveis socials
-2,3,1,1,Atenció infància i adolescència
-2,3,1,2,Atenció i suport als individus i a les famílies
-2,3,1,3,Atenció a la gent gran
-2,3,1,4,Atenció persones en situació pobresa-risc exclusió
-2,3,1,5,Serveis socials bàsics
-2,3,1,6,Atenció la immigració
-2,3,1,7,Atenció a la dona en situació de vulnerabilitat
-2,3,1,8,Atenció a grups i comunitats
-2,3,1,9,Emergències i urgències socials
-2,3,2,1,Promoció i participació de infància i adolescència
-2,3,2,2,Promoció i atenció a la joventut
-2,3,2,3,Promoció de la gent gran
-2,3,2,4,Promoció de les dones
-2,3,2,5,Drets humans-no discrimi.:foment-promoció-atenció
-2,3,2,6,Promoció social de la immigració
-2,3,2,7,Temps i qualitat de vida
-2,3,2,8,Serveis i projectes comunitaris
-2,3,2,9,Cooperació i ajuda
-2,3,4,1,Atenció a les persones discapacitades
-2,3,9,1,Fons de contingència social
-3,1,1,1,Promoció i protecció de la salut
-3,1,2,1,Assistència sanitària
-3,2,0,1,Administració general d'educació
-3,2,0,2,Suport obligatori als centres educatius
-3,2,3,2,Funcionament centres educació infantil i primària
-3,2,3,3,Funcionament de centres d'educació especial
-3,2,4,1,Funcion.centres educació secundària-formació prof.
-3,2,5,3,Formació adults i centres educa.especial
-3,2,6,1,Serveis complementaris d'educació
-3,2,6,2,Promoció educativa
-3,2,8,1,Ensenyaments musicals
-3,2,8,2,Ensenyaments artístics
-3,2,8,3,Formació d'adults
-3,2,9,1,Funcionament d'escoles bressol municipals
-3,3,0,1,Administració general de cultura
-3,3,2,1,Biblioteques
-3,3,3,1,Museus i arts plàstiques
-3,3,3,2,Arts escèniques i música
-3,3,4,1,Promoció cultural
-3,3,6,1,Patrimoni històric i artístic de la ciutat
-3,3,7,1,Centres cívics
-3,3,8,1,Festes i actes populars
-3,4,1,1,Gestió i promoció de l'esport
-3,4,2,1,Instal·lacions esportives
-3,4,3,1,Esdeveniments esportius
-4,3,0,1,Administració general d'acció econòmica
-4,3,1,2,"Mercats, proveïments i llotges"
-4,3,1,4,Promoció del comerç
-4,3,2,1,Foment i promoció del turisme
-4,3,3,1,Suport Ocupació i Empresa
-4,3,3,2,Promoció econòmica de la ciutat
-4,3,3,3,Foment creixement econòmic i sectors estratègics
-4,3,3,4,Dinamització econòmica de proximitat
-4,3,3,5,"Foment de l’economia cooperativa, social i solid."
-4,4,1,1,Transport col·lectiu urbà de viatgers
-4,4,1,2,Altres transports de viatgers
-4,5,9,1,Altres infraestructures
-4,9,1,1,Mitjans de comunicació públics
-4,9,3,1,Defensa dels drets dels consumidors
-9,1,2,1,Òrgans de govern
-9,1,2,2,Relacions institucionals
-9,2,0,1,Direcció i administració generals
-9,2,0,2,Defensa drets-llibertats públiques dels ciutadans
-9,2,0,3,Arxiu i biblioteca municipal
-9,2,2,1,Serveis d'organització i recursos humans
-9,2,3,1,Gestió del padró municipal d'habitants
-9,2,3,2,Estadístiques i estudis municipals
-9,2,4,1,Relació amb la ciutadania i les entitats
-9,2,5,1,Informació i atenció al ciutadà
-9,2,5,2,Comunicació corporativa
-9,2,6,1,Sistemes informació i telecomunicacions municipals
-9,2,9,1,Fons de contingència
-9,2,9,2,Dotació per imprevistos
-9,3,1,1,Administració i control econòmic i financer
-9,3,2,1,Administració tributària i d'ingressos municipals
-9,3,3,1,Gestió del patrimoni municipal
-9,3,4,1,Gestió del deute i la tresoreria
-9,4,3,1,Transferències a altres ens locals
+0,1,1,1,Servicio de la deuda
+1,3,0,1,Administración general de prevención y seguridad
+1,3,2,1,Seguridad ciudadana
+1,3,2,2,Prevención de la delincuencia
+1,3,3,1,Control y regulación estacionamiento de vía pública
+1,3,4,1,Movilidad
+1,3,5,1,Protección civil
+1,3,6,1,Prevención y extinción de incendios y salvamento
+1,5,0,1,Administración de Ecología Urbana
+1,5,1,1,Actuación urbanística y disciplina
+1,5,1,2,Gestión del suelo
+1,5,1,3,Redacción de proyectos-ejecución de obras
+1,5,1,4,Proyectos y estrategia
+1,5,1,5,Planeamiento de la ciudad
+1,5,1,6,Control y seguimiento de grandes infraestructuras
+1,5,2,1,Promoción y gestión de vivienda de protección pública
+1,5,2,2,Conservación y rehabilitación de la edificación
+1,5,3,2,Pavimentación de vías públicas
+1,5,3,3,Mantenimiento y renovación de las estructuras viales
+1,5,3,4,Espacio público
+1,5,3,5,Ley de Barrios
+1,6,0,1,Saneamiento red de alcantarillado
+1,6,1,1,Abastecimiento de las aguas
+1,6,2,1,Recogida de residuos
+1,6,2,2,Gestión de residuos sólidos urbanos
+1,6,2,3,Tratamiento de residuos
+1,6,3,1,Limpieza viaria
+1,6,4,1,Cementerios
+1,6,5,1,Gestión del alumbrado público
+1,6,9,1,Protección y control de animales
+1,7,1,1,Espacios verdes y biodiversidad
+1,7,2,1,Protec.contaminació acústica-lumínica-atmosférica
+1,7,2,2,Educación medioambiental
+1,7,9,4,Gestión y promoción de los recursos energéticos
+2,1,1,1,Pensiones
+2,3,0,1,Administración general de servicios sociales
+2,3,0,2,Administración general servicios a personas-territorio
+2,3,0,3,Estrategia e innovación de servicios sociales
+2,3,1,1,Atención infancia y adolescencia
+2,3,1,2,Atención y apoyo a los individuos y las familias
+2,3,1,3,Atención a las personas mayores
+2,3,1,4,Atención personas en situación pobreza-riesgo exclusión
+2,3,1,5,Servicios sociales básicos
+2,3,1,6,Atención la inmigración
+2,3,1,7,Atención a la mujer en situación de vulnerabilidad
+2,3,1,8,Atención a grupos y comunidades
+2,3,1,9,Emergencias y urgencias sociales
+2,3,2,1,Promoción y participación de infancia y adolescencia
+2,3,2,2,Promoción y atención a la juventud
+2,3,2,3,Promoción de la gente mayor
+2,3,2,4,Promoción de las mujeres
+2,3,2,5,Derechos humanos-no discrimi.:foment-promoció-atenció
+2,3,2,6,Promoción social de la inmigración
+2,3,2,7,Tiempo y calidad de vida
+2,3,2,8,Servicios y proyectos comunitarios
+2,3,2,9,Cooperación y ayuda
+2,3,4,1,Atención a las personas discapacitadas
+2,3,9,1,Fondo de contingencia social
+3,1,1,1,Promoción y protección de la salud
+3,1,2,1,Asistencia sanitaria
+3,2,0,1,Administración General de Educación
+3,2,0,2,Soporte obligatorio en los centros educativos
+3,2,3,2,Funcionamiento centros educación infantil y primaria
+3,2,3,3,Funcionamiento de centros de educación especial
+3,2,4,1,Funcion.centres educación secundaria-formación prof.
+3,2,5,3,Formación adultos y centros educa.especial
+3,2,6,1,Servicios complementarios de educación
+3,2,6,2,Promoción educativa
+3,2,8,1,Enseñanzas musicales
+3,2,8,2,Enseñanzas artísticas
+3,2,8,3,Formación de adultos
+3,2,9,1,Funcionamiento de guarderías municipales
+3,3,0,1,Administración general de cultura
+3,3,2,1,Bibliotecas
+3,3,3,1,Museos y artes plásticas
+3,3,3,2,Artes escénicas y música
+3,3,4,1,Promoción cultural
+3,3,6,1,Patrimonio histórico y artístico de la ciudad
+3,3,7,1,Centros cívicos
+3,3,8,1,Fiestas y actos populares
+3,4,1,1,Gestión y promoción del deporte
+3,4,2,1,Instalaciones deportivas
+3,4,3,1,Eventos deportivos
+4,3,0,1,Administración general de acción económica
+4,3,1,2,"Mercados, abastecimientos y lonjas"
+4,3,1,4,Promoción del comercio
+4,3,2,1,Fomento y promoción del turismo
+4,3,3,1,Soporte Empleo y Empresa
+4,3,3,2,Promoción económica de la ciudad
+4,3,3,3,Fomento crecimiento económico y sectores estratégicos
+4,3,3,4,Dinamización económica de proximidad
+4,3,3,5,"Fomento de la economía cooperativa, social y sólid."
+4,4,1,1,Transporte colectivo urbano de viajeros
+4,4,1,2,Otros transportes de viajeros
+4,5,9,1,Otras infraestructuras
+4,9,1,1,Medios de comunicación públicos
+4,9,3,1,Defensa de los derechos de los consumidores
+9,1,2,1,Órganos de gobierno
+9,1,2,2,Relaciones institucionales
+9,2,0,1,Dirección y administración generales
+9,2,0,2,Defensa derechos-libertades públicas de los ciudadanos
+9,2,0,3,Archivo y biblioteca municipal
+9,2,2,1,Servicios de organización y recursos humanos
+9,2,3,1,Gestión del padrón municipal de habitantes
+9,2,3,2,Estadísticas y estudios municipales
+9,2,4,1,Relación con la ciudadanía y las entidades
+9,2,5,1,Información y atención al ciudadano
+9,2,5,2,Comunicación corporativa
+9,2,6,1,Sistemas información y telecomunicaciones municipales
+9,2,9,1,Fondo de contingencia
+9,2,9,2,Dotación para imprevistos
+9,3,1,1,Administración y control económico y financiero
+9,3,2,1,Administración tributaria y de ingresos municipales
+9,3,3,1,Gestión del patrimonio municipal
+9,3,4,1,Gestión de la deuda y la tesorería
+9,4,3,1,Transferencias a otros entes locales
