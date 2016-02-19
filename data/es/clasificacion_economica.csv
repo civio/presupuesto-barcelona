@@ -522,50 +522,50 @@ G,9,4,0,Devolución de depósitos
 G,9,4,1,Devolución de fianzas
 #
 # Conceptos específicos de Barcelona
-G,1,1,9,ALTRES RETRIBUCIONS PERSONAL EVENTUAL
-G,1,2,9,ALTRES RETRIBUCIONS PERSONAL FUNCIONARI
-G,1,3,9,ALTRES RETRIBUCIONS PERSONAL LABORAL
-G,1,5,4,CONTINGÈNCIES
-G,2,7,0,DESPESES IMPREVISTES I FUNCIONS NO CLASS
-G,4,1,0,A ORGANISMES AUT.LOCALS DE L'AJUNTAMENT
+G,1,1,9,Otras retribuciones del personal eventual
+G,1,2,9,Otras retribuciones del personal funcionario
+G,1,3,9,Otras retribuciones del personal laboral
+G,1,5,4,Contingencias
+G,2,7,0,Gastos imprevistos y funciones no clasificadas
+G,4,1,0,A organismos autónomos del Ayuntamiento
 G,4,4,3,A EPE'S
-G,4,4,4,SOCIETATS MERCANTILS DE L'AJUN
-G,4,8,0,A FAMILIES I INSTITUCIONS SENSE AFANY LU
-G,4,8,1,AJUTS PER ESTUDIS I INVESTIGACIO
-G,4,8,5,TRANSFERÈNCIES NOMINATIVES
-G,4,8,6,TRANSFERÈNCIES NOMINATIVES
-G,4,8,9,ALTRES TRANSFERENCIES
-G,4,9,0,A L'EXTERIOR
-G,5,1,0,FONS DE CONTINGÈNCIA SOCIAL
-G,6,0,1,INVERSIÓ NOVA EN INFRAESTR. I BÉNS D'ÚS GENERAL
-G,6,0,2,INVERSIÓ NOVA EN INFRAESTR. I BÉNS D'ÚS GENERAL
-G,6,0,3,INVERSIÓ NOVA EN INFRAESTR. I BÉNS D'ÚS GENERAL
-G,6,0,4,INVERSIÓ NOVA EN INFRAESTR. I BÉNS D'ÚS GENERAL
-G,6,0,5,EXPROPIACIONS
-G,6,0,6,EXPROPIACIONS
-G,6,0,7,INVERSIÓ NOVA EN INFRAESTR. I BÉNS D'ÚS GENERAL
-G,6,1,1,INVERSIÓ REPOSICIÓ INFRAESTR. I BÉNS D'ÚS GENERAL
-G,6,2,8,INVERSIÓ NOVA EN SERVEIS_EDIFICIS
-G,6,3,8,INVERSIÓ REPOSICIÓ SERVEIS_EDIFICIS
-G,7,1,0,A ORGANISMES AUTONOMS DE L'AJUNTAMENT
-G,7,4,3,A ENTITATS PUBL.EMPR.DE L'AJUNTAMENT
-G,7,4,4,A SOCIETATS MERCANTILS LOCALS
-G,7,8,0,A FAMILIES I INST.SENSE AFANY DE LUCRE
-G,7,9,0,ALTRES TRANSFERÈNCIES DE CAPITAL
-G,8,5,0,ADQUISICIÓ D'ACCIONS I PARTICIPACIONS DE
-I,1,8,0,DIRECTES EXTINGITS
-I,3,6,1,VENDA ENERGIA
-I,3,6,2,D'AJUNTAMENTS
-I,3,6,3,IMPRESOS
-I,3,6,4,D'AREES METROPOLITANES
-I,3,6,5,DE COMARQUES
-I,4,1,0,D'ORGANISMES AUTONOMS DE L'AJUNTAMENT
-I,4,6,9,ALTRES SUBVENCIONS ENTITATS LOCALS
-I,4,7,0,D'EMPRESES PRIVADES
-I,4,8,0,DE FAMILIES I INS. SENSE AFANY DE LUCRE
-I,5,2,0,EN COMPTES DE BANCS O CAIXES D'ESTALVIS
-I,6,0,3,PATRIMONI PÚBLIC DEL SÒL
-I,7,1,0,D'ORGANISMES AUTONOMS DE L'ENTITAT LOCAL
-I,7,7,0,APORT. EMPRESES PRIVADES
-I,7,8,0,APORT. HOSPITAL SANTA CREU RESTAURACIÓ F
-I,8,5,0,VENDA ACCIONS I PARTICIPACIONS SEC. PÚBL
+G,4,4,4,A sociedades mercantiles del Ayuntamiento
+G,4,8,0,A familias e instituciones sin fines de lucro
+G,4,8,1,Ayudas por estudios e investigación
+G,4,8,5,Transferencias nominativas
+G,4,8,6,Transferencias nominativas
+G,4,8,9,Otras transferencias
+G,4,9,0,Al exterior
+G,5,1,0,Fondo de contingencia social
+G,6,0,1,Inversión nueva en infraestructuras y bienes destinados al uso general
+G,6,0,2,Inversión nueva en infraestructuras y bienes destinados al uso general
+G,6,0,3,Inversión nueva en infraestructuras y bienes destinados al uso general
+G,6,0,4,Inversión nueva en infraestructuras y bienes destinados al uso general
+G,6,0,5,Expropiaciones
+G,6,0,6,Expropiaciones
+G,6,0,7,Inversión nueva en infraestructuras y bienes destinados al uso general
+G,6,1,1,Inversión de reposición en infraestructuras y bienes destinados al uso general
+G,6,2,8,Edificios
+G,6,3,8,Edificios
+G,7,1,0,A organismos autónomos del Ayuntamiento
+G,7,4,3,A EPE's
+G,7,4,4,A sociedades mercantiles del Ayuntamiento
+G,7,8,0,A familias e instituciones sin fines de lucro
+G,7,9,0,Otras transferencias de capital
+G,8,5,0,Adquisición de acciones y participaciones del sector público
+I,1,8,0,Impuestos directos extinguidos
+I,3,6,1,Venta de energía
+I,3,6,2,Material inservible
+I,3,6,3,Impresos
+I,3,6,4,De áreas metropolitanas
+I,3,6,5,De comarcas
+I,4,1,0,De organismos autónomos de la entitad local
+I,4,6,9,Otras subvenciones de entidades locales
+I,4,7,0,De empresas privadas
+I,4,8,0,De familias e instituciones sin fines de lucro
+I,5,2,0,En cuentas de bancos o cajas de ahorro
+I,6,0,3,Patrimonio público del suelo
+I,7,1,0,De organismos autónomos de la entidad local
+I,7,7,0,Aportaciones de empreses privades
+I,7,8,0,Aportación Hospital Santa Creu Restauración
+I,8,5,0,Venta de acciones y participaciones del sector público
