@@ -37,6 +37,10 @@ OVERVIEW_EXPENSE_NODES =  [
                             { 'label': 'Serveis de caràcter general i administració', 'nodes': ['21', '92', '93', ['49', '4911']] }
                           ]
 
+# How aggresive should the Sankey diagram reorder the nodes. Default: 0.79 (Optional)
+# Note: 0.5 usually leaves nodes ordered as defined. 0.95 sorts by size (decreasing).
+OVERVIEW_RELAX_FACTOR = 0.5
+
 # Show Payments section in menu & home options. Default: False.
 SHOW_PAYMENTS           = False
 
