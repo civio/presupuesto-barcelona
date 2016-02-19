@@ -17,6 +17,10 @@
   visibility: hidden;
   height: 50px;
   background: white;
+
+  a{
+    background: none; // remove reference to logo.png
+  }
 }
 
 .navbar-default .navbar-nav{

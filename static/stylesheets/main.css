@@ -9921,6 +9921,8 @@ header > .container {
   visibility: hidden;
   height: 50px;
   background: white; }
+  .main-entity-logo a {
+    background: none; }
 
 .navbar-default .navbar-nav [class*="icon-"]:before {
   display: none; }
