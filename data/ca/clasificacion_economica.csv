@@ -131,7 +131,7 @@ I,4,6,,D'entitats locals
 I,4,6,1,"De diputacions, consells o cabildos"
 I,4,6,2,D'Ajuntaments
 I,4,6,3,De mancomunitats
-I,4,6,4,D'Àreas metropolitanes
+I,4,6,4,D'àreas metropolitanes
 I,4,6,5,De comarques
 I,4,6,6,D'altres entitats que agrupen municipis
 I,4,6,7,De consorcis
@@ -298,7 +298,7 @@ G,1,4,3,Altre personal
 G,1,4,7,Contribucions a plans i fons de pensions
 G,1,5,,Incentius al rendiment
 G,1,5,0,Productivitat
-G,1,5,1,gratificacions
+G,1,5,1,Gratificacions
 G,1,5,2,Altres incentius al rendiment
 G,1,5,3,Complements de dedicació especial
 G,1,6,,Quotes prestacions i despeses socials a càrrec de l'ocupador
@@ -417,7 +417,7 @@ G,6,1,,Inversions de reposició d'infraestructures i béns destinats a l'ús gen
 G,6,1,0,Inversions en terrenys
 G,6,1,9,Altres inversions de reposició en infraestructures i béns destinats a l'ús general
 G,6,2,,Inversió nova associada al funcionament operatiu dels serveis
-G,6,2,1,Terrensy i béns naturals
+G,6,2,1,Terrenys i béns naturals
 G,6,2,2,Edificis i altres construccions
 G,6,2,3,"Maquinària, instal·lacions tècniques i utillatge"
 G,6,2,4,Elements de transport
@@ -492,8 +492,8 @@ G,8,3,,Concessió de préstecs fora del sector públic
 G,8,3,0,Préstecs a curt temini. Desenvolupament per sectors
 G,8,3,1,Préstecs a llarg temini. Desenvolupament per sectors
 G,8,4,,Constitució de dipòsits i fiances
-G,8,4,0,Dipòsits
-G,8,4,1,fiances 
+G,8,4,0,Dipòsits a llarg termini
+G,8,4,1,Fiances a llarg termini
 G,8,5,,Adquisició d'accions i participacions del sector públic
 G,8,5,0,Adquisició d'accions i participacions del sector públic
 G,8,6,,Adquisició d'accions i participacions fora del sector públic
@@ -522,50 +522,50 @@ G,9,4,0,Devolució de dipòsits
 G,9,4,1,Devolució de fiances
 #
 # Conceptos específicos de Barcelona
-G,1,1,9,ALTRES RETRIBUCIONS PERSONAL EVENTUAL
-G,1,2,9,ALTRES RETRIBUCIONS PERSONAL FUNCIONARI
-G,1,3,9,ALTRES RETRIBUCIONS PERSONAL LABORAL
-G,1,5,4,CONTINGÈNCIES
-G,2,7,0,DESPESES IMPREVISTES I FUNCIONS NO CLASS
-G,4,1,0,A ORGANISMES AUT.LOCALS DE L'AJUNTAMENT
+G,1,1,9,Altres retribucions del personal eventual
+G,1,2,9,Altres retribucions del personal funcionari
+G,1,3,9,Altres retribucions del personal laboral
+G,1,5,4,Contingències
+G,2,7,0,Despeses imprevistes i funcions no classificades
+G,4,1,0,A organismes autònoms de l'Ajuntament
 G,4,4,3,A EPE'S
-G,4,4,4,SOCIETATS MERCANTILS DE L'AJUN
-G,4,8,0,A FAMILIES I INSTITUCIONS SENSE AFANY LU
-G,4,8,1,AJUTS PER ESTUDIS I INVESTIGACIO
-G,4,8,5,TRANSFERÈNCIES NOMINATIVES
-G,4,8,6,TRANSFERÈNCIES NOMINATIVES
-G,4,8,9,ALTRES TRANSFERENCIES
-G,4,9,0,A L'EXTERIOR
-G,5,1,0,FONS DE CONTINGÈNCIA SOCIAL
-G,6,0,1,INVERSIÓ NOVA EN INFRAESTR. I BÉNS D'ÚS GENERAL
-G,6,0,2,INVERSIÓ NOVA EN INFRAESTR. I BÉNS D'ÚS GENERAL
-G,6,0,3,INVERSIÓ NOVA EN INFRAESTR. I BÉNS D'ÚS GENERAL
-G,6,0,4,INVERSIÓ NOVA EN INFRAESTR. I BÉNS D'ÚS GENERAL
-G,6,0,5,EXPROPIACIONS
-G,6,0,6,EXPROPIACIONS
-G,6,0,7,INVERSIÓ NOVA EN INFRAESTR. I BÉNS D'ÚS GENERAL
-G,6,1,1,INVERSIÓ REPOSICIÓ INFRAESTR. I BÉNS D'ÚS GENERAL
-G,6,2,8,INVERSIÓ NOVA EN SERVEIS_EDIFICIS
-G,6,3,8,INVERSIÓ REPOSICIÓ SERVEIS_EDIFICIS
-G,7,1,0,A ORGANISMES AUTONOMS DE L'AJUNTAMENT
-G,7,4,3,A ENTITATS PUBL.EMPR.DE L'AJUNTAMENT
-G,7,4,4,A SOCIETATS MERCANTILS LOCALS
-G,7,8,0,A FAMILIES I INST.SENSE AFANY DE LUCRE
-G,7,9,0,ALTRES TRANSFERÈNCIES DE CAPITAL
-G,8,5,0,ADQUISICIÓ D'ACCIONS I PARTICIPACIONS DE
-I,1,8,0,DIRECTES EXTINGITS
-I,3,6,1,VENDA ENERGIA
-I,3,6,2,D'AJUNTAMENTS
-I,3,6,3,IMPRESOS
-I,3,6,4,D'AREES METROPOLITANES
-I,3,6,5,DE COMARQUES
-I,4,1,0,D'ORGANISMES AUTONOMS DE L'AJUNTAMENT
-I,4,6,9,ALTRES SUBVENCIONS ENTITATS LOCALS
-I,4,7,0,D'EMPRESES PRIVADES
-I,4,8,0,DE FAMILIES I INS. SENSE AFANY DE LUCRE
-I,5,2,0,EN COMPTES DE BANCS O CAIXES D'ESTALVIS
-I,6,0,3,PATRIMONI PÚBLIC DEL SÒL
-I,7,1,0,D'ORGANISMES AUTONOMS DE L'ENTITAT LOCAL
-I,7,7,0,APORT. EMPRESES PRIVADES
-I,7,8,0,APORT. HOSPITAL SANTA CREU RESTAURACIÓ F
-I,8,5,0,VENDA ACCIONS I PARTICIPACIONS SEC. PÚBL
+G,4,4,4,A societats mercantils de l'Ajuntament
+G,4,8,0,A famílies e institucions sense fins de lucre
+G,4,8,1,Ajuts per estudis i investigació
+G,4,8,5,Transferències nominatives
+G,4,8,6,Transferències nominatives
+G,4,8,9,Altres transferències
+G,4,9,0,A l'exterior
+G,5,1,0,Fons de contingència social
+G,6,0,1,Inversió nova en infraestructures i béns destinats a l'ús general
+G,6,0,2,Inversió nova en infraestructures i béns destinats a l'ús general
+G,6,0,3,Inversió nova en infraestructures i béns destinats a l'ús general
+G,6,0,4,Inversió nova en infraestructures i béns destinats a l'ús general
+G,6,0,5,Expropiacions
+G,6,0,6,Expropiacions
+G,6,0,7,Inversió nova en infraestructures i béns destinats a l'ús general
+G,6,1,1,Inversions de reposició d'infraestructures i béns destinats a l'ús general
+G,6,2,8,Inversió nova en serveis: edificis
+G,6,3,8,Inversió de reposició en serveis: edificis
+G,7,1,0,A organismes autònoms de l'Ajuntament
+G,7,4,3,A EPE's
+G,7,4,4,A societats mercantils de l'Ajuntament
+G,7,8,0,A famílies e institucions sense fins de lucre
+G,7,9,0,Altres transferències de capital
+G,8,5,0,Adquisició d'accions i participacions del sector públic
+I,1,8,0,Impostos directes extingits
+I,3,6,1,Venda energia
+I,3,6,2,Material inservible
+I,3,6,3,Impresos
+I,3,6,4,D'àrees metropolitanes
+I,3,6,5,De comarques
+I,4,1,0,D'organismes autònoms de l'entitat local
+I,4,6,9,Altres subvencions entitats locals
+I,4,7,0,D'empreses privades
+I,4,8,0,De famílies e institucions sense fins de lucre
+I,5,2,0,En comptes de bancs o caixes d'estalvi
+I,6,0,3,Patrimoni públic del sòl
+I,7,1,0,D'Organismes autònoms de l'entitat local
+I,7,7,0,Aportacions d'empreses privades
+I,7,8,0,Aportació Hospital Santa Creu Restauració F
+I,8,5,0,Venda d'accions i participacions del sector públic
