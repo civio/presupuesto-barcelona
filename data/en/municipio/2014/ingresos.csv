@@ -1,0 +1,737 @@
+10000,0703,9321,Cessió IRPF,50039245.31,50039245.31,48358242.99,2014
+11301,0703,9321,IBI de naturalesa urbana,584644000,584644000,616289944.93,2014
+11401,0703,9321,IBI de característiques especials,7185000,7185000,9725265.85,2014
+11500,0703,9321,Impost sobre vehicles tracció mecànica,58620000,58620000,62486747.73,2014
+11600,0703,9321,I. s/ increm. valor terrenys nat. urbana,87647000,87647000,145779450.91,2014
+13000,0703,9321,Impost activitats econòmiques (IAE),82228000,82228000,81910561.29,2014
+13001,0703,9321,Impost activitats profesionals i artisti,10,10,9343.5,2014
+13004,0703,9321,Quotes nacionals i provincials IAE,9104000,9104000,10936432.29,2014
+18000,0703,9321,Directes extingits,10,10,-14.77,2014
+21000,0703,9321,Cessió IVA,27503463.33,27503463.33,26697597.26,2014
+22000,0703,9321,Cessió IE alcohol i derivats,91567.8,91567.8,369786.55,2014
+22001,0703,9321,Cessió IE cervesa,383709.83,383709.83,133532.5,2014
+22003,0703,9321,Cessió IE tabac,3215715.02,3215715.02,3305860.99,2014
+22004,0703,9321,Cessió IE hidrocarburs,3060738.27,3060738.27,3431295.27,2014
+22006,0703,9321,Cessió IE de productes intermedis,8127.76,8127.76,8976.69,2014
+29000,0501,9321,"Impost s/ construccions, instal·lacions",6000000,6000000,5241167.51,2014
+29000,0502,9321,"Impost s/ construccions, instal·lacions",5000,5000,13002.63,2014
+29000,0601,9321,"Impost s/ construccions, instal·lacions",600000,600000,1990742.65,2014
+29000,0602,9321,"Impost s/ construccions, instal·lacions",2500000,2500000,5743033.62,2014
+29000,0603,9321,"Impost s/ construccions, instal·lacions",1200000,1200000,1492880.46,2014
+29000,0604,9321,"Impost s/ construccions, instal·lacions",400000,400000,904632.19,2014
+29000,0605,9321,"Impost s/ construccions, instal·lacions",1200000,1200000,1857874.37,2014
+29000,0606,9321,"Impost s/ construccions, instal·lacions",600000,600000,835137.92,2014
+29000,0607,9321,"Impost s/ construccions, instal·lacions",400000,400000,550361.31,2014
+29000,0608,9321,"Impost s/ construccions, instal·lacions",295000,295000,293725.66,2014
+29000,0609,9321,"Impost s/ construccions, instal·lacions",500000,500000,588693.44,2014
+29000,0610,9321,"Impost s/ construccions, instal·lacions",1200000,1200000,2449919.9,2014
+29000,0703,9321,"Impost s/ construccions, instal·lacions",0,0,78409.04,2014
+30100,0502,1601,Taxa de clavegueram,0,0,14565730.96,2014
+30100,0502,9321,Taxa de clavegueram,15851000,15851000,0,2014
+30901,0502,9321,Taxa per retirada de sacs i contenidors,334000,334000,339.29,2014
+30902,0401,9321,Taxa per extinció d'incendis i salvament,211000,211000,114263.17,2014
+30903,0703,9321,Taxa de cementiris,12036010,12036010,11948449.83,2014
+30904,0401,9321,Taxa per prestacions serveis GU,0,0,343385.47,2014
+32100,0501,9321,Taxes per llicències d'obres,2894000,2894000,5501914.27,2014
+32100,0502,9321,Taxes per llicències d'obres,50000,50000,49541.72,2014
+32100,0601,9321,Taxes per llicències d'obres,18000,18000,5925.47,2014
+32100,0602,9321,Taxes per llicències d'obres,45000,45000,16729.65,2014
+32100,0603,9321,Taxes per llicències d'obres,42000,42000,14561.65,2014
+32100,0604,9321,Taxes per llicències d'obres,16000,16000,3765.58,2014
+32100,0605,9321,Taxes per llicències d'obres,10000,10000,5619.83,2014
+32100,0606,9321,Taxes per llicències d'obres,17000,17000,1202.64,2014
+32100,0607,9321,Taxes per llicències d'obres,22000,22000,7496.86,2014
+32100,0608,9321,Taxes per llicències d'obres,16000,16000,4471.46,2014
+32100,0609,9321,Taxes per llicències d'obres,35000,35000,28196.14,2014
+32100,0610,9321,Taxes per llicències d'obres,100000,100000,42202.45,2014
+32101,0601,9321,Taxes per llicències d'activitats,150000,150000,177757.4,2014
+32101,0602,9321,Taxes per llicències d'activitats,550000,550000,642115.19,2014
+32101,0603,9321,Taxes per llicències d'activitats,180000,180000,235394.33,2014
+32101,0604,9321,Taxes per llicències d'activitats,100000,100000,106202.66,2014
+32101,0605,9321,Taxes per llicències d'activitats,175000,175000,157688.88,2014
+32101,0606,9321,Taxes per llicències d'activitats,150000,150000,197770.7,2014
+32101,0607,9321,Taxes per llicències d'activitats,80000,80000,98697.68,2014
+32101,0608,9321,Taxes per llicències d'activitats,60000,60000,69284.49,2014
+32101,0609,9321,Taxes per llicències d'activitats,95000,95000,101598.77,2014
+32101,0610,9321,Taxes per llicències d'activitats,190000,190000,271058.48,2014
+32300,0601,9321,Taxa inspecció d'execució d'obres,10,10,0,2014
+32300,0602,9321,Taxa inspecció d'execució d'obres,10,10,0,2014
+32300,0603,9321,Taxa inspecció d'execució d'obres,10,10,0,2014
+32300,0604,9321,Taxa inspecció d'execució d'obres,10,10,0,2014
+32300,0605,9321,Taxa inspecció d'execució d'obres,10,10,0,2014
+32300,0606,9321,Taxa inspecció d'execució d'obres,10,10,0,2014
+32300,0607,9321,Taxa inspecció d'execució d'obres,10,10,90.89,2014
+32300,0608,9321,Taxa inspecció d'execució d'obres,10,10,0,2014
+32300,0609,9321,Taxa inspecció d'execució d'obres,10,10,0,2014
+32300,0610,9321,Taxa inspecció d'execució d'obres,10,10,0,2014
+32301,0501,9321,"(SIR) Taxa informes, certif. i plànols urbanístics",10000,10000,7709.4,2014
+32301,0601,9321,"(SIR) Taxa informes, certif. i plànols urbanístics",26450,26450,7510.07,2014
+32301,0602,9321,"(SIR) Taxa informes, certif. i plànols urbanístics",3450,3450,7994.07,2014
+32301,0603,9321,"(SIR) Taxa informes, certif. i plànols urbanístics",18400,18400,3780.32,2014
+32301,0604,9321,"(SIR) Taxa informes, certif. i plànols urbanístics",345,345,1430.48,2014
+32301,0605,9321,"(SIR) Taxa informes, certif. i plànols urbanístics",10,10,4222.03,2014
+32301,0606,9321,"(SIR) Taxa informes, certif. i plànols urbanístics",10,10,3715.12,2014
+32301,0607,9321,"(SIR) Taxa informes, certif. i plànols urbanístics",10,10,2746.65,2014
+32301,0608,9321,"(SIR) Taxa informes, certif. i plànols urbanístics",3450,3450,1514.2,2014
+32301,0609,9321,"(SIR) Taxa informes, certif. i plànols urbanístics",10,10,1752.69,2014
+32301,0610,9321,"(SIR) Taxa informes, certif. i plànols urbanístics",10,10,5939.65,2014
+32500,0101,9321,Taxa per expedició documents serveis gen,55000,55000,60134.22,2014
+32500,0201,9321,Taxa per expedició documents serveis gen,10,10,165,2014
+32500,0401,9321,Taxa per expedició documents serveis gen,415000,415000,167263.72,2014
+32500,0501,9321,Taxa per expedició documents serveis gen,10000,10000,982.81,2014
+32500,0502,9321,Taxa per expedició documents serveis gen,0,0,5259.08,2014
+32500,0601,9321,Taxa per expedició documents serveis gen,4600,4600,5175.58,2014
+32500,0602,9321,Taxa per expedició documents serveis gen,8050,8050,7549.58,2014
+32500,0603,9321,Taxa per expedició documents serveis gen,2300,2300,1421.9,2014
+32500,0604,9321,Taxa per expedició documents serveis gen,1725,1725,1157.66,2014
+32500,0605,9321,Taxa per expedició documents serveis gen,1380,1380,2022.53,2014
+32500,0606,9321,Taxa per expedició documents serveis gen,8050,8050,4981.63,2014
+32500,0607,9321,Taxa per expedició documents serveis gen,6670,6670,3492.02,2014
+32500,0608,9321,Taxa per expedició documents serveis gen,10,10,2008.65,2014
+32500,0609,9321,Taxa per expedició documents serveis gen,4459,4459,801.61,2014
+32500,0610,9321,Taxa per expedició documents serveis gen,4140,4140,4395.71,2014
+32600,0703,9321,Taxa de grua i parany,16732963,16732963,15416173.77,2014
+32601,0703,9321,Taxa abandonaments vehicles BSM,1458000,1458000,1361700.55,2014
+32602,0401,9321,Taxa permanències al dipòsit municipal,1000,1000,1082.67,2014
+32901,0502,9321,Taxes per homologació gestió residus,2000,2000,8904.71,2014
+32902,0401,9321,Taxa per expedició de documents serveis GU,216000,216000,223141.35,2014
+32903,0101,9321,Taxa de salut pública i animals,37000,37000,58935.9,2014
+32903,0502,9321,Taxa de salut pública i animals,0,0,27761.99,2014
+32904,0401,9321,Recollida i trasllat dipòsit elements vi,10,10,8753.4,2014
+32904,0601,9321,Recollida i trasllat dipòsit elements vi,10,10,389.04,2014
+32904,0602,9321,Recollida i trasllat dipòsit elements vi,10,10,0,2014
+32904,0603,9321,Recollida i trasllat dipòsit elements vi,10,10,0,2014
+32904,0604,9321,Recollida i trasllat dipòsit elements vi,10,10,0,2014
+32904,0605,9321,Recollida i trasllat dipòsit elements vi,10,10,0,2014
+32904,0606,9321,Recollida i trasllat dipòsit elements vi,10,10,194.52,2014
+32904,0607,9321,Recollida i trasllat dipòsit elements vi,10,10,0,2014
+32904,0608,9321,Recollida i trasllat dipòsit elements vi,10,10,0,2014
+32904,0609,9321,Recollida i trasllat dipòsit elements vi,10,10,0,2014
+32904,0610,9321,Recollida i trasllat dipòsit elements vi,10,10,0,2014
+32905,0101,9321,Taxes per accés oferta pública,121000,121000,144204.6,2014
+32910,0101,9321,Taxa per matrimoni civil,10,10,0,2014
+32912,0401,9321,Taxa per anàlisi d'alcoholèmies,203490,203490,0,2014
+32913,0401,9321,Taxa per anàlisi de drogo-test,10,10,0,2014
+32914,0101,9321,Taxa entrevista informe d'arrelament,10,10,0,2014
+32914,0201,9321,Taxa entrevista informe d'arrelament,10,10,0,2014
+32915,0101,9321,Taxa inspecció habitatge informe reagrup,10,10,0,2014
+32915,0201,9321,Taxa inspecció habitatge informe reagrup,10,10,0,2014
+32916,0401,9321,Taxa per còpies autoritzades informes accidents,0,0,461056.39,2014
+32917,0401,9321,Taxa per autorització Transport Escolar i menors,0,0,3374.1,2014
+32918,0401,9321,Taxa per concessió targetes carabines i pistoles,0,0,3556.2,2014
+32919,0401,9321,Taxa per préstec roba SPEIS,0,0,57226.32,2014
+32998,0601,9321,Altres taxes i ingressos extinguits,0,0,126.98,2014
+32998,0602,9321,Altres taxes i ingressos extinguits,0,0,218.1,2014
+33000,0703,9321,Taxa estacionament de vehicles (parquím),34350955,34350955,35736947.82,2014
+33001,0401,9321,Taxa reserva estacionament,20000,20000,43077.3,2014
+33001,0601,9321,Taxa reserva estacionament,100000,100000,81218.1,2014
+33001,0602,9321,Taxa reserva estacionament,270000,270000,143934.02,2014
+33001,0603,9321,Taxa reserva estacionament,27000,27000,27210.66,2014
+33001,0604,9321,Taxa reserva estacionament,55000,55000,46132.34,2014
+33001,0605,9321,Taxa reserva estacionament,60000,60000,66330.32,2014
+33001,0606,9321,Taxa reserva estacionament,15000,15000,19810.46,2014
+33001,0607,9321,Taxa reserva estacionament,20000,20000,11875.61,2014
+33001,0608,9321,Taxa reserva estacionament,10000,10000,2037.74,2014
+33001,0609,9321,Taxa reserva estacionament,19739.75,19739.75,7507.3,2014
+33001,0610,9321,Taxa reserva estacionament,70000,70000,39847.5,2014
+33100,0601,9321,Taxa per entrada vehicles (Guals),350000,350000,374169.16,2014
+33100,0602,9321,Taxa per entrada vehicles (Guals),2625000,2625000,2696248.3,2014
+33100,0603,9321,Taxa per entrada vehicles (Guals),1444000,1444000,1477508.8,2014
+33100,0604,9321,Taxa per entrada vehicles (Guals),1616000,1616000,1679947.88,2014
+33100,0605,9321,Taxa per entrada vehicles (Guals),3400000,3400000,3541583.52,2014
+33100,0606,9321,Taxa per entrada vehicles (Guals),1292000,1292000,1342230.09,2014
+33100,0607,9321,Taxa per entrada vehicles (Guals),1420000,1420000,1467768.48,2014
+33100,0608,9321,Taxa per entrada vehicles (Guals),758000,758000,771988.76,2014
+33100,0609,9321,Taxa per entrada vehicles (Guals),1425000,1425000,1532136.13,2014
+33100,0610,9321,Taxa per entrada vehicles (Guals),2050000,2050000,2126148.78,2014
+33200,0502,9321,Taxa uti. priv. empreses explot. submini,22792000,22792000,19959972.33,2014
+33300,0502,9321,Taxa uti. priv. empreses explot. telecos,1728000,1728000,1345789.21,2014
+33500,0601,9321,Taxa de taules i cadires (vetlladors),800000,800000,837383.25,2014
+33500,0602,9321,Taxa de taules i cadires (vetlladors),1900000,1900000,2073857.13,2014
+33500,0603,9321,Taxa de taules i cadires (vetlladors),300000,300000,297346.07,2014
+33500,0604,9321,Taxa de taules i cadires (vetlladors),180000,180000,232154.63,2014
+33500,0605,9321,Taxa de taules i cadires (vetlladors),250000,250000,369101.31,2014
+33500,0606,9321,Taxa de taules i cadires (vetlladors),165000,165000,184002.45,2014
+33500,0607,9321,Taxa de taules i cadires (vetlladors),80000,80000,98357.98,2014
+33500,0608,9321,Taxa de taules i cadires (vetlladors),105000,105000,154701.8,2014
+33500,0609,9321,Taxa de taules i cadires (vetlladors),184000,184000,214880.43,2014
+33500,0610,9321,Taxa de taules i cadires (vetlladors),600000,600000,591470.25,2014
+33501,0101,9321,Taxa de quioscos i vidrieres,950000,950000,560969.92,2014
+33502,0401,9321,Taxes d'altres ocupacions via pública,212500,212500,304316.6,2014
+33502,0601,9321,Taxes d'altres ocupacions via pública,543750,543750,741216.55,2014
+33502,0602,9321,Taxes d'altres ocupacions via pública,825000,825000,438107.05,2014
+33502,0603,9321,Taxes d'altres ocupacions via pública,93750,93750,86311.56,2014
+33502,0604,9321,Taxes d'altres ocupacions via pública,212500,212500,312891.08,2014
+33502,0605,9321,Taxes d'altres ocupacions via pública,62500,62500,66440.89,2014
+33502,0606,9321,Taxes d'altres ocupacions via pública,62500,62500,113682.39,2014
+33502,0607,9321,Taxes d'altres ocupacions via pública,25000,25000,42079.15,2014
+33502,0608,9321,Taxes d'altres ocupacions via pública,181250,181250,174677.14,2014
+33502,0609,9321,Taxes d'altres ocupacions via pública,93750,93750,68808.55,2014
+33502,0610,9321,Taxes d'altres ocupacions via pública,187500,187500,552845.13,2014
+33800,0502,9321,Compensació Telefònica de España SA,8504000,8504000,6921638.54,2014
+33900,0502,9321,Taxa utilitza. privada enllumenat públic,10,10,0,2014
+33901,0502,9321,Taxa utilització privada fonts ornamenta,65000,65000,23791.99,2014
+33902,0502,9321,Taxa per serveis especials de vialitat,352000,352000,158.27,2014
+33903,0703,9321,Taxa per caixers automàtics,301000,301000,313065.1,2014
+34100,0201,9321,Residència-habitatge tutelat-centres dia,1961750,1961750,2366847.55,2014
+34101,0201,9321,Equipaments gent gran,10,10,468.86,2014
+34102,0201,9321,Serveis d'atenció domiciliària,10,10,0,2014
+34104,0201,9321,Temps Barri - cursos famílies i discapac,5000,5000,6527.65,2014
+34300,0601,9321,Activitats centres esportius,10000,10000,0,2014
+34300,0602,9321,Activitats centres esportius,10000,10000,0,2014
+34300,0603,9321,Activitats centres esportius,10000,10000,0,2014
+34300,0604,9321,Activitats centres esportius,10000,10000,0,2014
+34300,0605,9321,Activitats centres esportius,10000,10000,0,2014
+34300,0606,9321,Activitats centres esportius,10000,10000,0,2014
+34300,0607,9321,Activitats centres esportius,10000,10000,0,2014
+34300,0608,9321,Activitats centres esportius,10000,10000,0,2014
+34300,0609,9321,Activitats centres esportius,10000,10000,0,2014
+34300,0610,9321,Activitats centres esportius,10000,10000,0,2014
+34400,0201,9321,Actes culturals,7500,7500,4024.35,2014
+34400,0601,9321,Actes culturals,10,10,0,2014
+34400,0602,9321,Actes culturals,10,10,0,2014
+34400,0603,9321,Actes culturals,6900,6900,7808.07,2014
+34400,0604,9321,Actes culturals,10,10,2882.21,2014
+34400,0605,9321,Actes culturals,230,230,87.93,2014
+34400,0606,9321,Actes culturals,13225,13225,13147.14,2014
+34400,0607,9321,Actes culturals,230,230,1103,2014
+34400,0608,9321,Actes culturals,2300,2300,515.16,2014
+34400,0609,9321,Actes culturals,19740,19740,13690.79,2014
+34400,0610,9321,Actes culturals,10,10,3263.23,2014
+34900,0601,9321,Activitats centres civics districtes,10,10,0,2014
+34900,0602,9321,Activitats centres civics districtes,10,10,0,2014
+34900,0603,9321,Activitats centres civics districtes,157916,157916,100634.8,2014
+34900,0604,9321,Activitats centres civics districtes,2300,2300,46807.39,2014
+34900,0605,9321,Activitats centres civics districtes,23000,23000,19156.76,2014
+34900,0606,9321,Activitats centres civics districtes,11500,11500,0,2014
+34900,0607,9321,Activitats centres civics districtes,49450,49450,272.73,2014
+34900,0608,9321,Activitats centres civics districtes,28750,28750,26487.4,2014
+34900,0609,9321,Activitats centres civics districtes,90972,90972,71318.08,2014
+34900,0610,9321,Activitats centres civics districtes,14030,14030,12461.84,2014
+34901,0201,9321,Activitats Centres Oberts,34389,34389,29846.58,2014
+34902,0201,9321,Atenció a les famílies,0,0,3634.53,2014
+34908,0601,9321,Esponsoritzacions,10,10,0,2014
+34908,0602,9321,Esponsoritzacions,10,10,0,2014
+34908,0603,9321,Esponsoritzacions,10,10,0,2014
+34908,0604,9321,Esponsoritzacions,10,10,0,2014
+34908,0605,9321,Esponsoritzacions,10,10,0,2014
+34908,0606,9321,Esponsoritzacions,10,10,0,2014
+34908,0607,9321,Esponsoritzacions,10,10,0,2014
+34908,0608,9321,Esponsoritzacions,10,10,0,2014
+34908,0609,9321,Esponsoritzacions,10,10,0,2014
+34908,0610,9321,Esponsoritzacions,10,10,0,2014
+34908,0703,4412,Esponsoritzacions,1400000,1400000,0,2014
+34910,0401,9321,Unitat montada i secció canina de la GU,10,10,3786.53,2014
+34911,0401,9321,Cursos SPEIS,2000,2000,38636.34,2014
+34912,0401,9321,Cursos formació policial (GU),10,10,0,2014
+34913,0401,9321,Cursos utilització torre de pràctiques,10,10,0,2014
+34914,0401,9321,Formació Policial a Tercers,0,0,1458.8,2014
+34920,0502,9321,Recollida comercial residus,17646000,17646000,21288897.28,2014
+34921,0502,9321,Preus púb. servei especial neteja i rec.,5837000,5837000,6374771.85,2014
+34930,0101,9321,Productes i serveis de Bcn Informació,10,10,0,2014
+34931,0703,4412,Serveing del Bicing,4198000,4198000,0,2014
+34932,0703,9321,Encàrrec de gestió Parc Güell,0,0,2055979,2014
+35100,0401,9321,Contribucions especials per serveis públ,10,10,90.37,2014
+36000,0101,9321,Publicacions,64970,64970,106733.94,2014
+36000,0201,9321,Publicacions,10,10,0,2014
+36000,0501,9321,Publicacions,10,10,0,2014
+36000,0601,9321,Publicacions,10,10,0,2014
+36000,0602,9321,Publicacions,10,10,0,2014
+36000,0603,9321,Publicacions,10,10,0,2014
+36000,0604,9321,Publicacions,10,10,0,2014
+36000,0605,9321,Publicacions,10,10,0,2014
+36000,0606,9321,Publicacions,10,10,0,2014
+36000,0607,9321,Publicacions,10,10,111.54,2014
+36000,0608,9321,Publicacions,10,10,0,2014
+36000,0609,9321,Publicacions,10,10,0,2014
+36000,0610,9321,Publicacions,10,10,0,2014
+36000,0801,9321,Publicacions,10,10,0,2014
+36001,0101,9321,Publicitat en publicacions municipals,6000,6000,24851.25,2014
+36002,0101,9321,Difusió d'informació per compte de terc.,52980,52980,59936.48,2014
+36002,0501,9321,Difusió d'informació per compte de terc.,10,10,0,2014
+36002,0502,9321,Difusió d'informació per compte de terc.,10,10,0,2014
+36002,0601,9321,Difusió d'informació per compte de terc.,10,10,0,2014
+36002,0602,9321,Difusió d'informació per compte de terc.,10,10,0,2014
+36002,0603,9321,Difusió d'informació per compte de terc.,10,10,0,2014
+36002,0604,9321,Difusió d'informació per compte de terc.,10,10,0,2014
+36002,0605,9321,Difusió d'informació per compte de terc.,10,10,0,2014
+36002,0606,9321,Difusió d'informació per compte de terc.,10,10,0,2014
+36002,0607,9321,Difusió d'informació per compte de terc.,10,10,0,2014
+36002,0608,9321,Difusió d'informació per compte de terc.,10,10,0,2014
+36002,0609,9321,Difusió d'informació per compte de terc.,10,10,0,2014
+36002,0610,9321,Difusió d'informació per compte de terc.,10,10,0,2014
+36003,0703,9321,Altres ingressos per prestació serveis,10,10,0,2014
+36100,0101,9321,Venda d'energia solar fotovoltaica,225000,225000,0,2014
+36200,0101,9321,Venda de material inservible,10,10,3013.65,2014
+36300,0101,9321,Impresos,10,10,0,2014
+36300,0502,9321,Impresos,10,10,0,2014
+36300,0601,9321,Impresos,10,10,0,2014
+36300,0602,9321,Impresos,10,10,0,2014
+36300,0603,9321,Impresos,10,10,0,2014
+36300,0604,9321,Impresos,10,10,0,2014
+36300,0605,9321,Impresos,10,10,0,2014
+36300,0606,9321,Impresos,10,10,0,2014
+36300,0607,9321,Impresos,10,10,0,2014
+36300,0608,9321,Impresos,10,10,0,2014
+36300,0609,9321,Impresos,10,10,0,2014
+36300,0610,9321,Impresos,10,10,0,2014
+36401,0101,9321,Treballs impremta municipal,41000,41000,34177.87,2014
+36500,0502,9321,Venda de recollida selectiva residus,7854000,7854000,8694166.32,2014
+38901,0703,9321,Reintegraments creditors extrapressup,10,10,0,2014
+38902,0703,9321,Reintegraments despeses avançades (ooaa),10,10,0,2014
+38903,0101,9321,Pagaments indeguts d'exercicis anteriors,233000,233000,163762.55,2014
+38903,0201,9321,Pagaments indeguts d'exercicis anteriors,10,10,60003.46,2014
+38903,0401,9321,Pagaments indeguts d'exercicis anteriors,0,0,1815,2014
+38903,0501,9321,Pagaments indeguts d'exercicis anteriors,5000,5000,1680.85,2014
+38903,0502,9321,Pagaments indeguts d'exercicis anteriors,5000,5000,86.94,2014
+38903,0601,9321,Pagaments indeguts d'exercicis anteriors,10000,10000,5729.35,2014
+38903,0602,9321,Pagaments indeguts d'exercicis anteriors,5000,5000,5304.08,2014
+38903,0603,9321,Pagaments indeguts d'exercicis anteriors,5000,5000,8679.8,2014
+38903,0604,9321,Pagaments indeguts d'exercicis anteriors,5000,5000,1810.67,2014
+38903,0605,9321,Pagaments indeguts d'exercicis anteriors,5000,5000,2817,2014
+38903,0606,9321,Pagaments indeguts d'exercicis anteriors,5000,5000,11802.26,2014
+38903,0607,9321,Pagaments indeguts d'exercicis anteriors,5000,5000,12519.8,2014
+38903,0608,9321,Pagaments indeguts d'exercicis anteriors,5000,5000,1835.86,2014
+38903,0609,9321,Pagaments indeguts d'exercicis anteriors,5000,5000,1850,2014
+38903,0610,9321,Pagaments indeguts d'exercicis anteriors,5000,5000,1500,2014
+38903,0701,9321,Pagaments indeguts d'exercicis anteriors,0,0,533.02,2014
+38903,0702,9321,Pagaments indeguts d'exercicis anteriors,100000,100000,1106688.48,2014
+38903,0703,9321,Pagaments indeguts d'exercicis anteriors,65000,65000,425889.68,2014
+38904,0703,9321,Devolucions d'IVA pressupostari,10,10,0,2014
+38905,0703,9321,Devolucions d'ingressos,10,10,0,2014
+38906,0201,9321,Reintegraments per subministres,10,10,0,2014
+38906,0601,9321,Reintegraments per subministres,10,10,0,2014
+38906,0602,9321,Reintegraments per subministres,109250,109250,70472.81,2014
+38906,0603,9321,Reintegraments per subministres,10,10,0,2014
+38906,0604,9321,Reintegraments per subministres,10,10,0,2014
+38906,0605,9321,Reintegraments per subministres,40250,40250,34703.96,2014
+38906,0606,9321,Reintegraments per subministres,10,10,0,2014
+38906,0607,9321,Reintegraments per subministres,10,10,0,2014
+38906,0608,9321,Reintegraments per subministres,10,10,0,2014
+38906,0609,9321,Reintegraments per subministres,27708,27708,0,2014
+38906,0610,9321,Reintegraments per subministres,10,10,0,2014
+38907,0101,9321,Pagaments indeguts Bcn Solidària,32000,32000,40952.25,2014
+38908,0101,9321,Reintegrament despeses,10,10,6280.22,2014
+38908,0702,9321,Reintegrament despeses,10,10,0,2014
+38909,0703,9321,Reintegraments ADOJ Exercicis anteriors,314000,314000,191923.64,2014
+38910,0101,9321,Reintegraments subvencions SIR,10,10,0,2014
+38910,0201,9321,Reintegraments subvencions SIR,10,10,0,2014
+38910,0601,9321,Reintegraments subvencions SIR,10,10,0,2014
+38910,0602,9321,Reintegraments subvencions SIR,10,10,0,2014
+38910,0603,9321,Reintegraments subvencions SIR,10,10,0,2014
+38910,0604,9321,Reintegraments subvencions SIR,10,10,0,2014
+38910,0605,9321,Reintegraments subvencions SIR,10,10,0,2014
+38910,0606,9321,Reintegraments subvencions SIR,10,10,0,2014
+38910,0607,9321,Reintegraments subvencions SIR,10,10,0,2014
+38910,0608,9321,Reintegraments subvencions SIR,10,10,0,2014
+38910,0609,9321,Reintegraments subvencions SIR,10,10,0,2014
+38910,0610,9321,Reintegraments subvencions SIR,10,10,0,2014
+39120,0401,9321,Infraccions trànsit - ajuntament,46234000,46234000,59380847.46,2014
+39130,0101,9321,Infraccions ordenances,3222000,3222000,16038962.11,2014
+39130,0401,9321,Infraccions ordenances,25000,25000,13756.06,2014
+39130,0502,9321,Infraccions ordenances,300000,300000,381428.95,2014
+39130,0601,9321,Infraccions ordenances,632500,632500,2894807.04,2014
+39130,0602,9321,Infraccions ordenances,460000,460000,1175247.56,2014
+39130,0603,9321,Infraccions ordenances,152950,152950,420588.93,2014
+39130,0604,9321,Infraccions ordenances,57500,57500,117757.37,2014
+39130,0605,9321,Infraccions ordenances,80500,80500,679051.62,2014
+39130,0606,9321,Infraccions ordenances,80500,80500,394398.71,2014
+39130,0607,9321,Infraccions ordenances,46000,46000,259363.06,2014
+39130,0608,9321,Infraccions ordenances,115000,115000,320550.3,2014
+39130,0609,9321,Infraccions ordenances,82646,82646,401292.64,2014
+39130,0610,9321,Infraccions ordenances,80500,80500,382354.14,2014
+39130,0703,9321,Infraccions ordenances,100000,100000,5194819.05,2014
+39140,0101,9321,Infraccions d'ordenances inspecció (sanc,536000,536000,23587.1,2014
+39140,0703,9321,Infraccions d'ordenances inspecció (sanc,1200000,1200000,3666024.51,2014
+39191,0101,9321,Sancions de Contractes,10,10,1600000,2014
+39191,0201,9321,Sancions de Contractes,10,10,0,2014
+39191,0401,9321,Sancions de Contractes,10,10,0,2014
+39191,0501,9321,Sancions de Contractes,10,10,0,2014
+39191,0502,9321,Sancions de Contractes,10,10,0,2014
+39191,0601,9321,Sancions de Contractes,10,10,0,2014
+39191,0602,9321,Sancions de Contractes,10,10,0,2014
+39191,0603,9321,Sancions de Contractes,10,10,0,2014
+39191,0604,9321,Sancions de Contractes,10,10,0,2014
+39191,0605,9321,Sancions de Contractes,10,10,0,2014
+39191,0606,9321,Sancions de Contractes,10,10,0,2014
+39191,0607,9321,Sancions de Contractes,10,10,0,2014
+39191,0608,9321,Sancions de Contractes,10,10,0,2014
+39191,0609,9321,Sancions de Contractes,10,10,0,2014
+39191,0610,9321,Sancions de Contractes,10,10,0,2014
+39191,0701,9321,Sancions de Contractes,10,10,0,2014
+39191,0702,9321,Sancions de Contractes,10,10,0,2014
+39191,0703,9321,Sancions de Contractes,10,10,0,2014
+39191,0801,9321,Sancions de Contractes,10,10,0,2014
+39200,0703,9321,Recàrrecs declaració extemporanea s.r.p.,458000,458000,477166.44,2014
+39210,0703,9321,Recàrrec executiu,8056000,8056000,5924534.65,2014
+39211,0703,9321,Recàrrec apremi,1803000,1803000,2705704.65,2014
+39300,0101,9321,Interessos de demora,10,10,53065.82,2014
+39300,0703,9321,Interessos de demora,6406990,6406990,8320145.43,2014
+39612,0610,9321,Càrregues urbanístiques,0,0,144494.39,2014
+39612,0703,9321,Càrregues urbanístiques,10,10,0,2014
+39700,0703,1505,Cessió per aprofitament urbanístic (10%),0,0,595179.34,2014
+39700,0703,9321,Cessió per aprofitament urbanístic (10%),10,10,0,2014
+39900,0501,9321,Execucions subsidiàries,586500,586500,0,2014
+39900,0502,9321,Execucions subsidiàries,586500,586500,40279.55,2014
+39900,0601,9321,Execucions subsidiàries,10,300267.77,1023813.38,2014
+39900,0602,9321,Execucions subsidiàries,10,10,6613.68,2014
+39900,0603,9321,Execucions subsidiàries,10,10,11095.1,2014
+39900,0604,9321,Execucions subsidiàries,10,10,37292.96,2014
+39900,0605,9321,Execucions subsidiàries,10,10,136798.75,2014
+39900,0606,9321,Execucions subsidiàries,10,10,1160.25,2014
+39900,0607,9321,Execucions subsidiàries,10,10,91699.93,2014
+39900,0608,9321,Execucions subsidiàries,10,10,0,2014
+39900,0609,9321,Execucions subsidiàries,10,10,19205.61,2014
+39900,0610,9321,Execucions subsidiàries,10,10,25147.6,2014
+39901,0101,9321,Tarifa plataforma telefònica,536000,536000,454662.35,2014
+39902,0401,9321,Prevenció i extinció incendis port bcn,10,10,0,2014
+39903,0101,9321,Indemnitzacions desperfectes OOAA,10,10,0,2014
+39904,0101,9321,Indemnitzacions,50000,50000,0,2014
+39904,0201,9321,Indemnitzacions,10,10,0,2014
+39904,0401,9321,Indemnitzacions,43960,43960,49774.43,2014
+39904,0501,9321,Indemnitzacions,150000,150000,9086.62,2014
+39904,0502,9321,Indemnitzacions,5000,5000,206869.55,2014
+39904,0601,9321,Indemnitzacions,10,10,0,2014
+39904,0602,9321,Indemnitzacions,11500,11500,2330.15,2014
+39904,0603,9321,Indemnitzacions,34500,34500,23044.03,2014
+39904,0604,9321,Indemnitzacions,10,10,0,2014
+39904,0605,9321,Indemnitzacions,11500,11500,6001.59,2014
+39904,0606,9321,Indemnitzacions,23690,23690,507.41,2014
+39904,0607,9321,Indemnitzacions,6900,6900,1497.55,2014
+39904,0608,9321,Indemnitzacions,3450,3450,16097.72,2014
+39904,0609,9321,Indemnitzacions,1367,1367,747.65,2014
+39904,0610,9321,Indemnitzacions,10,10,1684.15,2014
+39904,0701,9321,Indemnitzacions,10,10,0,2014
+39904,0702,9321,Indemnitzacions,10,10,0,2014
+39904,0703,9321,Indemnitzacions,10,10,2553.64,2014
+39904,0801,9321,Indemnitzacions,10,10,0,2014
+39905,0101,9321,Utilització telèfon públic,10,10,0,2014
+39905,0201,9321,Utilització telèfon públic,10,10,0,2014
+39905,0601,9321,Utilització telèfon públic,10,10,0,2014
+39905,0602,9321,Utilització telèfon públic,10,10,0,2014
+39905,0603,9321,Utilització telèfon públic,10,10,0,2014
+39905,0604,9321,Utilització telèfon públic,10,10,0,2014
+39905,0605,9321,Utilització telèfon públic,10,10,0,2014
+39905,0606,9321,Utilització telèfon públic,10,10,0,2014
+39905,0607,9321,Utilització telèfon públic,10,10,0,2014
+39905,0608,9321,Utilització telèfon públic,10,10,0,2014
+39905,0609,9321,Utilització telèfon públic,31,31,2,2014
+39905,0610,9321,Utilització telèfon públic,10,10,30.4,2014
+39905,0801,9321,Utilització telèfon públic,10,10,0,2014
+39906,0603,9321,Actuacions mercadillos varis,282853,282853,202599.67,2014
+39907,0401,9321,Altres ingressos seguretat i mobilitat,73000,73000,20494.65,2014
+39907,0601,9321,Altres ingressos seguretat i mobilitat,10,10,0,2014
+39907,0602,9321,Altres ingressos seguretat i mobilitat,10,10,0,2014
+39907,0603,9321,Altres ingressos seguretat i mobilitat,10,10,0,2014
+39907,0604,9321,Altres ingressos seguretat i mobilitat,10,10,0,2014
+39907,0605,9321,Altres ingressos seguretat i mobilitat,10,10,0,2014
+39907,0606,9321,Altres ingressos seguretat i mobilitat,10,10,0,2014
+39907,0607,9321,Altres ingressos seguretat i mobilitat,10,10,0,2014
+39907,0608,9321,Altres ingressos seguretat i mobilitat,10,10,0,2014
+39907,0609,9321,Altres ingressos seguretat i mobilitat,10,10,0,2014
+39907,0610,9321,Altres ingressos seguretat i mobilitat,10,10,0,2014
+39908,0101,9321,Actes promoció relacions cíviques,10,10,0,2014
+39909,0101,9321,Sentències jutjats i tribunals,5000,5000,30270.38,2014
+39909,0703,9321,Sentències jutjats i tribunals,5000,5000,11528.96,2014
+39910,0502,9321,Serveis especials educació ambiental,10,10,10171.2,2014
+39911,0101,9321,Compensacio costos,8670000,8670000,8332746.8,2014
+39911,0701,9321,Compensacio costos,500000,500000,236427.52,2014
+39912,0101,9321,Incautació de dipòsits,10,10,0,2014
+39912,0201,9321,Incautació de dipòsits,10,10,0,2014
+39912,0401,9321,Incautació de dipòsits,10,10,0,2014
+39912,0501,9321,Incautació de dipòsits,10,10,319550.16,2014
+39912,0502,9321,Incautació de dipòsits,10,10,0,2014
+39912,0503,9321,Incautació de dipòsits,10,10,0,2014
+39912,0504,9321,Incautació de dipòsits,10,10,0,2014
+39912,0601,9321,Incautació de dipòsits,10,10,0,2014
+39912,0602,9321,Incautació de dipòsits,10,10,0,2014
+39912,0603,9321,Incautació de dipòsits,10,10,0,2014
+39912,0604,9321,Incautació de dipòsits,10,10,0,2014
+39912,0605,9321,Incautació de dipòsits,10,10,0,2014
+39912,0606,9321,Incautació de dipòsits,10,10,0,2014
+39912,0607,9321,Incautació de dipòsits,10,10,0,2014
+39912,0608,9321,Incautació de dipòsits,10,10,0,2014
+39912,0609,9321,Incautació de dipòsits,10,10,0,2014
+39912,0610,9321,Incautació de dipòsits,10,10,0,2014
+39912,0701,9321,Incautació de dipòsits,10,10,0,2014
+39912,0702,9321,Incautació de dipòsits,10,10,0,2014
+39912,0703,9321,Incautació de dipòsits,10,10,152394.26,2014
+39912,0801,9321,Incautació de dipòsits,10,10,0,2014
+39913,0601,9321,Actuacions fires del districte,10,10,0,2014
+39913,0602,9321,Actuacions fires del districte,10,10,0,2014
+39913,0603,9321,Actuacions fires del districte,10,10,0,2014
+39913,0604,9321,Actuacions fires del districte,10,10,0,2014
+39913,0605,9321,Actuacions fires del districte,10,10,0,2014
+39913,0606,9321,Actuacions fires del districte,10,10,0,2014
+39913,0607,9321,Actuacions fires del districte,10,10,0,2014
+39913,0608,9321,Actuacions fires del districte,10,10,0,2014
+39913,0609,9321,Actuacions fires del districte,10,10,0,2014
+39913,0610,9321,Actuacions fires del districte,10,10,0,2014
+39914,0703,9321,Recuperació costes embargaments,22000,22000,25411.29,2014
+39915,0703,9321,Recuperació costes notificacions,300000,300000,252460.72,2014
+39916,0501,9321,Prestació serveis tècnics projectes i o.,10,10,0,2014
+39917,0401,9321,Regul.per fin.contr.(renting vehicles),10,10,31058.3,2014
+39918,0101,9321,Repercussió costos FCV,0,0,168,2014
+39919,0502,9321,Exec. subsidiària Medi Ambient,0,52578.58,183323.56,2014
+39920,0502,9321,Exec. subsidiària Ordenança Convivència,0,2622.49,21070.18,2014
+39998,0703,9321,Altres ingressos extingits,10,10,-2579.14,2014
+39999,0101,9321,Altres ingressos diversos,485000,485000,61698.05,2014
+39999,0201,9321,Altres ingressos diversos,0,0,58.18,2014
+39999,0604,9321,Altres ingressos diversos,0,0,12191.44,2014
+39999,0606,9321,Altres ingressos diversos,0,0,4.84,2014
+39999,0608,9321,Altres ingressos diversos,0,0,358.45,2014
+41000,0101,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,298812.58,357952.64,2014
+41000,0201,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,12000,14046,2014
+41000,0401,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,0,2014
+41000,0501,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,0,2014
+41000,0502,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,0,2014
+41000,0601,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,4620.6,2014
+41000,0602,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,150010,154159.5,2014
+41000,0603,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,8084.4,2014
+41000,0604,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,2479.08,2014
+41000,0605,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,886.24,2014
+41000,0606,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,1330.8,2014
+41000,0607,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,12010,16822.77,2014
+41000,0608,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,13348.5,2014
+41000,0609,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,3222.9,2014
+41000,0610,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,18645.83,2014
+41000,0703,9321,Aport. d'OOAA de l'Ajuntament Barcelona,0,10000,10000,2014
+41000,0801,9321,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,400000,2014
+42010,0703,9321,Fons complementari de finançament,875194516.48,875194516.48,860158942.38,2014
+42011,0703,9321,Compensació IAE inicial,80249753.56,80249753.56,79625282.54,2014
+42012,0703,9321,Compensació IAE addicional,3166767.38,3166767.38,3797412.68,2014
+42030,0703,9321,Compensació tributs,2269000,2269000,2434580.93,2014
+42090,0101,9321,Altres transf. corrents de l'A.G.Estat,10,10,0,2014
+42090,0201,9321,Altres transf. corrents de l'A.G.Estat,10,10,0,2014
+42090,0401,9321,Altres transf. corrents de l'A.G.Estat,10,10,0,2014
+42090,0701,9321,Altres transf. corrents de l'A.G.Estat,10,10,0,2014
+42090,0702,9321,Altres transf. corrents de l'A.G.Estat,21940,21940,41234.87,2014
+42090,0703,9321,Altres transf. corrents de l'A.G.Estat,10,10,0,2014
+42090,0801,9321,Altres transf. corrents de l'A.G.Estat,10,10,0,2014
+42091,0801,9321,Aportació Estat institucions àmplia proj,10,10,0,2014
+42092,0101,9321,Subvencions fin. A.G. Estat eleccions,10,10,0,2014
+42093,0102,9321,Aport. Estat formació de personal,200000,200000,0,2014
+42095,0201,9321,Aport. Ministeri Sanitat programa assist,10,10,0,2014
+42110,0101,9321,Aportacions INE eleccions,10,10,0,2014
+42120,0502,9321,Aportacions IMSERSO,10,10,0,2014
+42190,0201,9321,D'altres organismes autònoms i agències,0,11795,9436,2014
+42190,0703,9321,D'altres organismes autònoms i agències,10,10,0,2014
+44100,0201,9321,De societats mercantils de l'Ajuntament,0,0,22000,2014
+45010,0703,9321,Fons cooperació local de Catalunya (FCLC,3390000,3390000,1933489.06,2014
+45030,0801,9321,Subv. finanlistes Generalitat per l'IMEB,7938485,7938485,1200450,2014
+45040,0201,9321,Subv. finalistes Gen. atenció primària,21483322.67,21483322.67,20279229.73,2014
+45041,0201,9321,Subv. finalistes Generalitat per l'EAIA,3146136.72,3146136.72,2788281.96,2014
+45042,0201,9321,Aportació de Generalitat per a gent gran,3400000,3400000,3457334.31,2014
+45043,0201,9321,Aport. Generalitat conveni discapacitats,2457470.38,2457470.38,1562036.87,2014
+45044,0201,9321,Subv. finalistes Generalitat immigració,1000000,1000000,950000,2014
+45045,0201,9321,Subv. Generalitat per a SAD dependència,13700000,13700000,4989766.46,2014
+45047,0201,9321,Altres subv. Generalitat Conv. Marc S.S.,1222019,1222019,214272.64,2014
+45048,0201,9321,Serveis Informació i atenció dones - SIAD,46000,46000,43700,2014
+45051,0101,9321,Subvencions fin. Generalitat (ocupació),10,10,0,2014
+45051,0702,9321,Subvencions fin. Generalitat (ocupació),0,6610609.53,6610609.53,2014
+45060,0101,9321,Altres transferències de la Generalitat,10,10,0,2014
+45060,0703,9321,Altres transferències de la Generalitat,0,0,19728.36,2014
+45061,0703,9321,Subvenció Generalitat  per  transport,10,10,0,2014
+45062,0703,9321,Aport. Generalitat per estalvi energètic,10,10,0,2014
+45070,0703,1535,Aportació de Generalitat per llei barris,75000,75000,0,2014
+45070,0703,1535,Aportació de Generalitat per llei barris,20000,20000,0,2014
+45070,0703,1535,Aportació de Generalitat per llei barris,119826,121702.5,0,2014
+45070,0703,1535,Aportació de Generalitat per llei barris,64165,203215.86,0,2014
+45070,0703,1535,Aportació de Generalitat per llei barris,175445,465420.39,0,2014
+45070,0703,1535,Aportació de Generalitat per llei barris,153203,167386.07,0,2014
+45080,0101,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0201,9321,Altres subvencions de la CCAA,0,54000,54000,2014
+45080,0401,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0501,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0502,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0503,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0504,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0601,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0602,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0603,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0604,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0605,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0606,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0607,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0608,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0609,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0610,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0703,9321,Altres subvencions de la CCAA,10,10,0,2014
+45080,0801,9321,Altres subvencions de la CCAA,10,10,0,2014
+45081,0101,9321,Subvencions fin. Gener. per eleccions,10,10,0,2014
+45083,0701,9321,Fons Foment Turisme,5700000,5700000,4649857.81,2014
+45101,0401,9321,Aport. SCT per al manteniment de rondes,397000,397000,0,2014
+45103,0102,9321,Aportacio EAPC Formació de personal,0,0,116350.88,2014
+45300,0502,9321,D'empreses públiques i altres de CCAA,10,10,0,2014
+46100,0101,9321,Aportacions de la Diputació de Barcelona,10,10,0,2014
+46100,0201,9321,Aportacions de la Diputació de Barcelona,10,75291,41000,2014
+46100,0401,9321,Aportacions de la Diputació de Barcelona,10,10,0,2014
+46100,0702,9321,Aportacions de la Diputació de Barcelona,0,43750,43750,2014
+46100,0703,9321,Aportacions de la Diputació de Barcelona,10,10,0,2014
+46100,0801,9321,Aportacions de la Diputació de Barcelona,10,10,100000,2014
+46110,0201,9321,Subv. finalistes de DiBa afers socials,10,10,0,2014
+46120,0201,9321,Aport. DiBa per a conveni discapacitats,10,10,0,2014
+46200,0101,9321,Transferències d'Ajuntaments,10,10,0,2014
+46401,0502,1622,Aportació AMB (TMTR),56078421,56505794.51,56505794.51,2014
+46402,0502,9321,Subv.retorn cànon dep.residus (AMB),1500000,1500000,341833,2014
+46403,0703,9321,Aportació AMB pel manteniment de rondes,10,10,0,2014
+46407,0401,9321,AMB Enquesta victimització BCN i Àrea,0,33440,33440,2014
+46408,0702,9321,Aportacions de l'Area Metropolitana,0,150000,150000,2014
+46700,0201,9321,Aportacions de Consorcis,10,10,0,2014
+46900,0101,9321,Altres subvencions d'entitats locals,10,10,0,2014
+46900,0703,9321,Altres subvencions d'entitats locals,10,10,0,2014
+47000,0101,9321,Aportacions finalistes empreses privades,10,10,30000,2014
+47000,0201,9321,Aportacions finalistes empreses privades,10,6000,6000,2014
+47000,0401,9321,Aportacions finalistes empreses privades,10,10,9400,2014
+47000,0501,9321,Aportacions finalistes empreses privades,10,10,0,2014
+47000,0502,9321,Aportacions finalistes empreses privades,3000,21000,21000,2014
+47000,0503,9321,Aportacions finalistes empreses privades,10,10,0,2014
+47000,0504,9321,Aportacions finalistes empreses privades,10,60000,170000,2014
+47000,0601,9321,Aportacions finalistes empreses privades,10,10,0,2014
+47000,0602,9321,Aportacions finalistes empreses privades,33643,33643,27244,2014
+47000,0603,9321,Aportacions finalistes empreses privades,10,10,0,2014
+47000,0604,9321,Aportacions finalistes empreses privades,18630,18630,11974.26,2014
+47000,0605,9321,Aportacions finalistes empreses privades,10,10,0,2014
+47000,0606,9321,Aportacions finalistes empreses privades,41055,41055,40027.67,2014
+47000,0607,9321,Aportacions finalistes empreses privades,10,10,0,2014
+47000,0608,9321,Aportacions finalistes empreses privades,10,10,0,2014
+47000,0609,9321,Aportacions finalistes empreses privades,10,10,0,2014
+47000,0610,9321,Aportacions finalistes empreses privades,10,51200,51200,2014
+47000,0701,9321,Aportacions finalistes empreses privades,10,10,0,2014
+47000,0702,9321,Aportacions finalistes empreses privades,15930,15930,0,2014
+47000,0801,9321,Aportacions finalistes empreses privades,10,10,0,2014
+48000,0201,9321,Aportacions de famílies i institucions,10,10,0,2014
+48010,0101,9321,Aport. finalistes famílies i institucion,1000,1000,0,2014
+48010,0201,9321,Aport. finalistes famílies i institucion,10,10,0,2014
+48010,0401,9321,Aport. finalistes famílies i institucion,1000,1000,531.13,2014
+48010,0601,9321,Aport. finalistes famílies i institucion,10,10,0,2014
+48010,0602,9321,Aport. finalistes famílies i institucion,10,10,0,2014
+48010,0603,9321,Aport. finalistes famílies i institucion,5000,5000,0,2014
+48010,0604,9321,Aport. finalistes famílies i institucion,10,10,0,2014
+48010,0605,9321,Aport. finalistes famílies i institucion,10,10,0,2014
+48010,0606,9321,Aport. finalistes famílies i institucion,10,10,0,2014
+48010,0607,9321,Aport. finalistes famílies i institucion,10,10,0,2014
+48010,0608,9321,Aport. finalistes famílies i institucion,10,10,0,2014
+48010,0609,9321,Aport. finalistes famílies i institucion,10,10,0,2014
+48010,0610,9321,Aport. finalistes famílies i institucion,10,10,0,2014
+48010,0701,9321,Aport. finalistes famílies i institucion,1000,1000,0,2014
+48010,0702,9321,Aport. finalistes famílies i institucion,1000,1000,0,2014
+48010,0801,9321,Aport. finalistes famílies i institucion,1000,1000,0,2014
+49000,0101,9321,Aportacions del Fons Social Europeu,10,10,0,2014
+49000,0201,9321,Aportacions del Fons Social Europeu,10,10,0,2014
+49000,0401,9321,Aportacions del Fons Social Europeu,10,10,0,2014
+49000,0702,9321,Aportacions del Fons Social Europeu,10,190881.39,190881.39,2014
+49000,0801,9321,Aportacions del Fons Social Europeu,10,10,0,2014
+49041,0703,9321,Aport Fons Cohesió 2007-13 Eix 5,10,10,0,2014
+49100,0703,9321,Aportacions del FEDER,10,10,0,2014
+49110,0101,9321,FEDER programa Inter III B-Medoc,10,10,0,2014
+49110,0801,9321,FEDER programa Inter III B-Medoc,10,10,0,2014
+49111,0703,9321,Aportació FEDER 2007-2013 Eix 1,611407,2267658.16,0,2014
+49112,0703,9321,Aportació FEDER 07-13 eix 4 urban,0,382946.5,167685.14,2014
+49114,0703,9321,Aportació FEDER 07-13 eix renov. urb.,10,10,0,2014
+49200,0703,9321,Fons Cohessió Eix 5,10,10,0,2014
+49700,0101,9321,Aport. UE i d'altres municipis europeus,221950,221950,0,2014
+49700,0201,9321,Aport. UE i d'altres municipis europeus,10,10,7648.8,2014
+49700,0401,9321,Aport. UE i d'altres municipis europeus,48960,48960,1943.98,2014
+49700,0502,9321,Aport. UE i d'altres municipis europeus,10,78104.4,238101.53,2014
+49700,0702,9321,Aport. UE i d'altres municipis europeus,10,10,0,2014
+49700,0801,9321,Aport. UE i d'altres municipis europeus,10,10,0,2014
+49701,0101,9321,Premis procedents de la UE,0,500000,500000,2014
+49702,0401,9321,European Forum for Urban Security (EFUS),0,18000,18000,2014
+49910,0101,9321,Subv. final. d'organismes internacionals,10,10,0,2014
+49910,0201,9321,Subv. final. d'organismes internacionals,10,10,0,2014
+49910,0702,9321,Subv. final. d'organismes internacionals,0,100000,100000,2014
+49910,0703,9321,Subv. final. d'organismes internacionals,10,10,0,2014
+49910,0801,9321,Subv. final. d'organismes internacionals,10,10,0,2014
+50000,0703,9321,Int. de títols i val. emesos per l'estat,500000,500000,1714581.84,2014
+52000,0703,9321,Inter. de dipòs. ctes. de bancs o caixes,1658000,1658000,3714327.85,2014
+52001,0703,9321,Interessos ajornats,10,10,303017.08,2014
+53400,0703,9321,De societats i entitats depenents de les,10,10,0,2014
+53700,0703,9321,D'empreses privades,0,0,469905.82,2014
+54100,0101,9321,Producte de l'arrendament de finques ur.,2142000,2142000,1533327.73,2014
+54100,0101,9331,Producte de l'arrendament de finques ur.,0,0,253717.02,2014
+54101,0101,9321,Lloguers locals Foment de Ciutat Vella,10,10,86615.31,2014
+54102,0101,9321,Lloguers habitatges Foment de Ciutat Vella,10,10,777032.44,2014
+54103,0101,9321,Arrendaments finques sense IVA,0,0,12375.67,2014
+54104,0101,9321,Lloguer fibra fosca,104000,104000,135676.43,2014
+54105,0101,9321,Lloguer sales tècniques,0,0,138051.7,2014
+54900,0703,9321,Altres rendes de bens immobles,0,0,208111.74,2014
+55000,0101,9321,Concessions d'aparcaments,3834000,3834000,2747859.76,2014
+55000,0101,9331,Concessions d'aparcaments,0,0,983115.89,2014
+55001,0101,9321,Concessions d'instal·lacions esportives,10,10,42289.92,2014
+55002,0101,9321,Altres concessions administratives,19578000,19578000,13872386.78,2014
+55002,0101,9331,Altres concessions administratives,0,0,4278239.92,2014
+55002,0201,9321,Altres concessions administratives,10,10,0,2014
+55002,0601,9321,Altres concessions administratives,14950,14950,20826.01,2014
+55002,0602,9321,Altres concessions administratives,805,805,700,2014
+55002,0603,9321,Altres concessions administratives,28932,28932,40128.71,2014
+55002,0604,9321,Altres concessions administratives,805,805,6800,2014
+55002,0605,9321,Altres concessions administratives,5750,5750,16920.03,2014
+55002,0606,9321,Altres concessions administratives,72450,72450,60498.2,2014
+55002,0607,9321,Altres concessions administratives,17250,17250,20425.38,2014
+55002,0608,9321,Altres concessions administratives,8050,8050,3020,2014
+55002,0609,9321,Altres concessions administratives,22350,22350,52753.52,2014
+55002,0610,9321,Altres concessions administratives,65320,65320,331077.41,2014
+55002,0801,9321,Altres concessions administratives,10,10,0,2014
+55003,0703,4412,Canon bicing,0,0,4226445.79,2014
+55004,0703,9321,Concessions aparcaments municipals BAMSA,0,0,174158119.55,2014
+55200,0101,9321,Drets superfície amb contraprest. periòd,2638000,2638000,1457101.85,2014
+55200,0101,9331,Drets superfície amb contraprest. periòd,0,0,1079287.66,2014
+55250,0101,9321,Dret Superficie PMSH,10,10,0,2014
+55250,0101,9331,Dret Superficie PMSH,0,0,17814.82,2014
+55300,0101,9321,Dret super. contraprestació no periòdico,10,10,0,2014
+55501,0101,9321,Canons i rendiments d'empreses,10,10,188085.85,2014
+55901,0101,9321,Cànon publicitat quioscos,422000,422000,1381519.07,2014
+60000,0703,9321,Venda de solars,10,10,3222987,2014
+60001,0703,9321,Venda/permuta solars,10,10,0,2014
+60200,0703,9321,Venda parceles sobrants via pública,10,10,0,2014
+60300,0703,1505,Venda Solars PMSH,1522000,1522000,899972.29,2014
+60301,0703,1505,Permuta solars PMSH,10,10,0,2014
+60900,0703,9321,Indemnització substitutòria edificabilitat,10,10,0,2014
+61900,0703,9321,Reversió de finques,10,10,0,2014
+61901,0703,9321,Venda places aparcaments,10,10,0,2014
+61902,0703,9321,Habitatges i locals negoci,6000000,6000000,7003831.32,2014
+61924,0502,9321,Venda equips mesura gasos,10,10,0,2014
+61928,0401,9321,Venda elements de transport,0,0,8231.4,2014
+61950,0703,1505,Venda habitatges i locals PMSH,10,10,0,2014
+68000,0703,9321,Reint. tans. cap. empreses del grup,10,10,0,2014
+68001,0703,9321,Reinteg op. capital exerc.tancats,0,0,2298.85,2014
+72014,0801,9321,"Aportació Ministerio de Educación, Cultura y Depor",0,37335.6,37335.6,2014
+72390,0703,9321,"De soc. mercantils estats, epe's i altre",1187000,1431813.76,0,2014
+75030,0703,9321,Transf. capital conveni en matèria d'educació,0,0,0,2014
+75031,0703,9321,Aportació Gencat/places educ preescolar,0,0,4714000,2014
+75061,0703,9321,Aportació Generalitat Centre Cultural Disseny,0,0,10000000,2014
+75062,0703,9321,Aport. Generalitat bateries antiaèries Turó Rovira,0,400000,400000,2014
+75070,0703,1535,Aport. Generalitat llei de barris,0,0,1.09,2014
+75070,0703,1535,Aport. Generalitat llei de barris,0,0,0,2014
+75070,0703,1535,Aport. Generalitat llei de barris,0,0,0,2014
+75070,0703,1535,Aport. Generalitat llei de barris,0,0,0,2014
+75070,0703,1535,Aport. Generalitat llei de barris,0,450411.18,0,2014
+75070,0703,1535,Aport. Generalitat llei de barris,0,60556.42,0,2014
+75070,0703,1535,Aport. Generalitat llei de barris,0,0,0,2014
+75070,0703,1535,Aport. Generalitat llei de barris,0,0,0,2014
+75070,0703,1535,Aport. Generalitat llei de barris,0,9416.27,0,2014
+75081,0703,9321,Aport. Generalitat Biblioteques,0,0,456004.74,2014
+75100,0703,9321,Aportació Consell Català de l'Esport,0,0,488924.21,2014
+75303,0703,9321,Aport. gener. red. proj. obres (Alchemika),0,0,1973956.91,2014
+76100,0703,9321,Aportacions de la Diputació de Barcelona,14770000,16428644.9,10575940.95,2014
+76400,0501,9321,Aportacions AMB (Inv Metropolitanes),0,6280000,5558460.39,2014
+77000,0703,9321,Aportacions d'empreses privades,0,300000,300000,2014
+79100,0703,9321,Aportacions del FEDER,10,10,1319947.84,2014
+79101,0703,9321,Aport. Feder Eix 1,10,1608733.32,0,2014
+79102,0703,9321,Aportacions del Feder Eix4 22@,10,10,0,2014
+79103,0703,9321,Aportacions Feder Iniciativa Urbana,0,0,1650013.49,2014
+79112,0703,9321,Aportació Eix 4 iniciativa Urbana,10,10,0,2014
+79200,0703,9321,Aportacions del Fons de Cohesió,10,10,0,2014
+79201,0703,9321,Fons Cohesio 2007-13 F2 Medi Ambient,10,10,0,2014
+79700,0703,9321,Altres aportacions de la UE,10,10,0,2014
+79720,0703,9321,Aportacions UE programa Europres,10,10,0,2014
+84010,0703,0111,Devolució dipòsits constituïts a llarg t,5000000,5000000,0,2014
+85000,0703,9321,Venda d'accions,101500000,101500000,0,2014
+85003,0703,9321,Liquidació CLABSA,0,0,0,2014
+85005,0703,9321,Accions BCN Emprèn,10,10,0,2014
+87000,0703,9321,Romanents de tresoreria per a despeses generals,0,100000000,0,2014
+87010,0703,9321,Romanents de tresoreria per a despeses amb F.A,0,5323404.69,0,2014
+90199,0703,9321,Nou finançament,129000000,129000000,0,2014
+94101,0703,9321,Fiances per guals (recepció),150000,150000,479415.98,2014
+94102,0703,9321,Fiances urbanístiques (recepció),1650000,1650000,1274468.61,2014
