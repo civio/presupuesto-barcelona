@@ -1,31 +1,31 @@
 #Institució,Secció,Departament,Nom
 1,,,Sector de Recursos
-2,,,Gerència de Drets Socials
-4,,,Gerència Seguretat i Prevenció
-5,,,"Sector Ecologia, Urbanisme i Mobilitat"
-6,,,Districtes
-7,,,Sector Presidència i Economia
-8,,,Gerència Drets Ciutadania Participació i Transparència
-1,0,1,Gerència de Recursos
-1,0,2,Gerència de Recursos Humans i Organització
-1,0,4,Gerència Municipal i Coord. Ens i Territori
-2,0,1,Gerència de Drets Socials
-4,0,1,Gerència de Seguretat i Prevenció
-5,0,1,Gerència Ecologia, Urbanisme i Mobilitat
-5,0,2,Gerència Medi Ambient i Serveis Urbans
-5,0,3,Gerència d'Urbanisme
-5,0,4,Gerència d'Infraestructures i Coordinació Urbana
-6,0,1,Districte de Ciutat Vella
-6,0,2,Districte de l'Eixample
-6,0,3,Districte de Sants-Montjuïc
-6,0,4,Districte de Les Corts
-6,0,5,Districte de Sarrià Sant Gervasi
-6,0,6,Districte de Gràcia
-6,0,7,Districte d'Horta-Guinardó
-6,0,8,Districte de Nou Barris
-6,0,9,Districte de Sant Andreu
-6,1,0,Districte de Sant Martí
-7,0,1,Gerència de Presidència i Economia
-7,0,2,Gerència d'Empresa, Ocupació i Turisme
-7,0,3,Serveis Centrals
-8,0,1,Gerència de Drets de Ciutadania, Participació i Transparència
+2,,,Gerencia de Derechos Sociales
+4,,,Gerencia Seguridad y Prevención
+5,,,"Sector Ecología, Urbanismo y Mobilidad"
+6,,,Distritos
+7,,,Sector de Presidencia y Economía
+8,,,"Gerencia de Derechos de la Ciudadanía, Participación y Transparencia"
+1,0,1,Gerencia de Recursos
+1,0,2,Gerencia de Recursos Humanos y Organización
+1,0,4,Gerencia Municipal y Coord. Entes y Territorio
+2,0,1,Gerencia de Derechos Sociales
+4,0,1,Gerencia Seguridad y Prevención
+5,0,1,Gerencia Ecología, Urbanismo y Mobilidad
+5,0,2,Gerencia Medio Ambiente y Servicios Urbanos
+5,0,3,Gerencia de Urbanismo
+5,0,4,Gerencia de Infraestructuras y Coordinación Urbana
+6,0,1,Distrito de Ciutat Vella
+6,0,2,Distrito del Eixample
+6,0,3,Distrito de Sants-Montjuïc
+6,0,4,Distrito de Les Corts
+6,0,5,Distrito de Sarrià Sant Gervasi
+6,0,6,Distrito de Gràcia
+6,0,7,Distrito de Horta-Guinardó
+6,0,8,Distrito de Nou Barris
+6,0,9,Distrito de Sant Andreu
+6,1,0,Distrito de Sant Martí
+7,0,1,Gerencia de Presidencia y Economía
+7,0,2,Gerencia de Empresa, Ocupación y Turismo
+7,0,3,Servicios Centrales
+8,0,1,Gerencia de Derechos de la Ciudadanía, Participación y Transparencia

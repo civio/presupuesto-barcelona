@@ -3,8 +3,8 @@
 # Áreas de gasto y Políticas, definidas en la Orden EHA/3565/2008 y comunes a todas las EELL.
 # Ver http://www.boe.es/buscar/doc.php?id=BOE-A-2008-19916
 I,1,,,Impostos directes
-I,1,0,,Impost sobre la renda
-I,1,0,0,Impost sobre la renda de les persones físiques
+I,1,0,,Impost sobre la renta
+I,1,0,0,Impost sobre la renta de les persones físiques
 I,1,0,1,Impost sobre societats
 I,1,0,2,Impost sobre la renda de no residents
 I,1,1,,Impost sobre el capital
@@ -16,29 +16,29 @@ I,1,1,4,Sobre béns immobles de característiques especials
 I,1,1,5,Impost sobre vehicles de tracció mecànica
 I,1,1,6,Impost sobre l´increment de valor dels terrenys de naturalesa urbana
 I,1,1,7,Impost sobre habitatges desocupats
-I,1,3,,Impost sobre les activitats econòmiques
+I,1,3,,Impost sobre activitats econòmiques
 I,1,3,0,Impost sobre activitats econòmiques
-I,1,6,,Recàrrecs sobre Impostos directes de l'Estat i de la Comunitat Autònoma
-I,1,6,0,Sobre Impostos de l'Estat
-I,1,6,1,Sobre Impostos de la Comunitat Autònoma
-I,1,7,,Recàrrecs sobre Impostos directes d'altres ens locals
-I,1,7,0,en l'Impost sobre béns immobles
-I,1,7,1,Recàrrec provincial en l'Impost sobre activitats econòmiques
-I,1,7,9,Altres recàrrecs sobre Impostos directes d'altres ens locals
+I,1,6,,Recàrrecs sobre impostos directes de l'Estat i de la Comunitat Autònoma
+I,1,6,0,Sobre impostos de l'Estat
+I,1,6,1,Sobre impostos de la Comunitat Autònoma
+I,1,7,,Recàrrecs sobre impostos directes d'altres ens locals
+I,1,7,0,En l'impost sobre béns immobles
+I,1,7,1,Recàrrec provincial en l'impost sobre activitats econòmiques
+I,1,7,9,Altres recàrrecs sobre impostos directes d'altres ens locals
 I,1,8,,Impostos directes extingits
-I,1,9,,Altres Impostos directes
+I,1,9,,Altres impostos directes
 I,2,,,Impostos indirectes
 I,2,1,,Impostos sobre el valor afegit
 I,2,1,0,Impost sobre el valor afegit
 I,2,2,,Sobre consums específics
 I,2,2,0,Impostos especials
-I,2,6,,Recàrrecs sobre Impostos indirectes de l'Estat i de la Comunitat Autònoma
-I,2,6,0,Sobre Impostos de l'Estat
-I,2,6,1,Sobre Impostos de la Comunitat Autònoma
-I,2,7,,Recàrrecs sobre Impostos indirectes d'altres ens locals
-I,2,7,0,Sobre Impostos d'altres ens locals
+I,2,6,,Recàrrecs sobre impostos indirectes de l'Estat i de la Comunitat Autònoma
+I,2,6,0,Sobre impostos de l'Estat
+I,2,6,1,Sobre impostos de la Comunitat Autònoma
+I,2,7,,Recàrrecs sobre impostos indirectes d'altres ens locals
+I,2,7,0,Sobre impostos d'altres ens locals
 I,2,8,,Impostos indirectes extingits
-I,2,9,,Altres Impostos indirectes
+I,2,9,,Altres impostos indirectes
 I,2,9,0,"Impost sobre contruccions, instal·lacions i obres"
 I,2,9,1,Impost sobre despeses sumptuaris (vedats de caça i pesca)
 I,2,9,2,Arbitri sobre importacions i lliuraments de mercaderies a les Canàries (AIEM)
@@ -46,8 +46,8 @@ I,2,9,3,Impost general indirecte canari (IGIC)
 I,2,9,4,Impost sobre la producció
 I,2,9,5,Impost sobre primes d'assegurances
 I,2,9,6,Impost sobre transmissions patrimonials i actes jurídics documentals
-I,2,9,9,Altres Impostos indirectes
-I,3,,,"Taxes, preus públics i altres ingressos"
+I,2,9,9,Altres impostos indirectes
+I,3,,,"Taxes i altres ingressos"
 I,3,0,,Taxes per la prestació de serveis públics bàsics
 I,3,0,0,Servei d'abastament d'aigua
 I,3,0,1,Servei de clavegueram
@@ -82,7 +82,7 @@ I,3,3,6,Taxa per l'ocupació de la via pública  amb suspensió temporal del tr�
 I,3,3,7,Taxes per l'aprofitament del vol
 I,3,3,8,Compensació de Telefònica de España SA
 I,3,3,9,Altres taxes per utilització privativa del domini públic
-I,3,4,,Preus públics
+I,3,4,,Preus públics per la prestació de serveis
 I,3,4,0,Serveis hospitalaris
 I,3,4,1,Serveis assistencials
 I,3,4,2,Serveis educatius
@@ -95,7 +95,7 @@ I,3,5,0,Per l'execució d'obres
 I,3,5,1,Per a l'establiment o ampliació de serveis
 I,3,6,,Vendes
 I,3,6,0,Vendes
-I,3,8,,Reintegrament d'operacions corrents
+I,3,8,,Reintegraments
 I,3,8,0,Reintegrament d'avals
 I,3,8,9,Altres reintegraments d'operacions corrents
 I,3,9,,Altres ingressos
@@ -108,8 +108,7 @@ I,3,9,6,Ingressos per actuacions d'urbanització
 I,3,9,7,Aprofitaments urbanístics
 I,3,9,8,Indemnitzacions de assegurances de no vida
 I,3,9,9,Altres ingressos diversos
-I,4,,,Transferència corrent
-I,4,,,Transferencies corrents
+I,4,,,Transferències corrents
 I,4,0,,De l'Administració General de l'entitat local
 I,4,0,0,De l'Administració General de l'entitat local
 I,4,1,,D'organismes autònoms de l'entitat local
@@ -137,8 +136,8 @@ I,4,6,6,D'altres entitats que agrupen municipis
 I,4,6,7,De consorcis
 I,4,6,8,D'Entitats Locals menors
 I,4,7,,D'empreses privades
-I,4,8,,De famílies e institucions sense fins de lucre
-I,4,8,9,De famílies e institucions sense fins de lucre
+I,4,8,,De famílies e institucions sense afany de lucre
+I,4,8,9,De famílies e institucions sense afany de lucre
 I,4,9,,De l'exterior
 I,4,9,0,Del Fons Social Europeu
 I,4,9,1,Del Fons de desenvolupament Regional
@@ -184,14 +183,14 @@ I,5,9,,Altres ingressos patrimonials
 I,5,9,1,Beneficis per realitzacions d'inversions financeres
 I,5,9,2,Ingressos per operacions d'intercanvi financer
 I,5,9,9,Altres ingressos patrimonials
-I,6,,,Alienació d'inversions reals
+I,6,,,Venda d'inversions reals
 I,6,0,,De terrenys
 I,6,0,0,Venda de solars
 I,6,0,1,Venda de finques rústiques
 I,6,0,2,Parcel·les sobrants de la via pública
 I,6,0,3,Patrimoni públic del sòl
 I,6,0,9,Altres terrenys
-I,6,1,,De les altres inversions reals
+I,6,1,,De les demés inversions reals
 I,6,1,1,D'inversions de caràcter immaterial
 I,6,1,2,D'objectes valuosos
 I,6,1,9,D'altres inversions reals
@@ -199,10 +198,10 @@ I,6,8,,Reintegraments per operacions de capital
 I,6,8,0,D'exercicis tancats
 I,7,,,Transferències de capital
 I,7,0,,De l'Administració General de l'entitat local
-I,7,1,,D'Organismes autònoms de l'entitat local
+I,7,1,,D'organismes autònoms de l'entitat local
 I,7,2,,De l'Administració de l'Estat
 I,7,2,0,De l'Administració General de l'Estat
-I,7,2,1,D'Organismes Autònoms i agencies estatals
+I,7,2,1,D'organismes autònoms i agencies estatals
 I,7,2,2,De fundacions estatals
 I,7,2,3,"De societats mercantils estatals, entitats públiques empresarials i altres organismes públics"
 I,7,3,,De la seguretat social
@@ -215,17 +214,17 @@ I,7,5,0,De l'administració general de les comunitats autònomes
 I,7,5,1,D'organismes autònoms i agències de les comunitats autònomes
 I,7,5,2,De fundacions de les comunitats autònomes
 I,7,5,3,"De societats mercantils, entitats públiques empresarials i altres organismes públics dependens de les comunitats autònomes"
-I,7,6,,D'Entitats Locals
+I,7,6,,D'entitats Locals
 I,7,6,1,"De diputacions, consells o cabildos"
-I,7,6,2,D'Ajuntaments
+I,7,6,2,D'ajuntaments
 I,7,6,3,De mancomunitats
-I,7,6,4,D'Àreas metropolitanes
+I,7,6,4,D'àreas metropolitanes
 I,7,6,5,De comarques
 I,7,6,6,D'altres entitats que agrupen municipis
 I,7,6,7,De consorcis
-I,7,6,8,D'Entitats Locals menors
+I,7,6,8,D'entitats locals menors
 I,7,7,,D'empreses privades
-I,7,8,,De famílies e institucions sense fins de lucre
+I,7,8,,De famílies e institucions sense afany de lucre
 I,7,9,,De l'exterior
 I,7,9,0,Del Fons Social Europeu
 I,7,9,1,Del Fons de desenvolupament Regional
@@ -237,10 +236,10 @@ I,7,9,6,Del Fons Europeu de la Pesca (FEP)
 I,7,9,7,Altres transferències de la Unió Europea
 I,7,9,9,"Altres transferències de l'exterior, exclosa l'Unió Europea"
 I,8,,,Actius financers
-I,8,0,,Alienació de deute del sector públic
+I,8,0,,Venda de deute del sector públic
 I,8,0,0,A curt termini
 I,8,0,1,A llarg termini
-I,8,1,,Alienació d'obligacions i bons fora del sector públic
+I,8,1,,Venda d'obligacions i bons fora del sector públic
 I,8,1,0,A curt termini
 I,8,1,1,A llarg termini
 I,8,2,,Reintegrament de préstecs i bestretes concedits al sector públic
@@ -252,15 +251,15 @@ I,8,3,1,A llarg termini
 I,8,4,,Devolució de dipòsits i fiances constituïts
 I,8,4,0,Devolució de dipòsits 
 I,8,4,1,Devolució de fiances
-I,8,5,,Alienació d'accions i participacions del sector públic
-I,8,6,,Alienació d'accions i participacions de fora del sector públic
+I,8,5,,Venda d'accions i participacions del sector públic
+I,8,6,,Venda d'accions i participacions de fora del sector públic
 I,8,7,,Romanent de tresoreria
 I,8,7,0,Romanent de tresoreria
 I,9,,,Passius financers
 I,9,0,,Emissió de deute públic en euros
 I,9,0,0,A curt termini
 I,9,0,1,A llarg termini
-I,9,1,,Préstecs rebuts en euros
+I,9,1,,Préstecs
 I,9,1,0,Préstecs rebuts a curt termini d'ens dels sector públic
 I,9,1,1,Préstecs rebuts a llarg termini d'ens dels sector públic
 I,9,1,2,Préstecs rebuts a curt termini d'ens de fora del sector públic
@@ -289,8 +288,8 @@ G,1,2,2,Retribucions en espècie
 G,1,2,4,Retribucions de funcionaris en pràctiques
 G,1,2,7,Contribucions a plans i fons de pensions
 G,1,3,,Personal laboral
-G,1,3,0,laboral fix
-G,1,3,1,laboral temporal
+G,1,3,0,Laboral fix
+G,1,3,1,Laboral temporal
 G,1,3,2,Retribucions en espècie
 G,1,3,7,Contribucions a plans i fons de pensions
 G,1,4,,Altre personal
@@ -301,25 +300,25 @@ G,1,5,0,Productivitat
 G,1,5,1,Gratificacions
 G,1,5,2,Altres incentius al rendiment
 G,1,5,3,Complements de dedicació especial
-G,1,6,,Quotes prestacions i despeses socials a càrrec de l'ocupador
+G,1,6,,"Quotes, prestacions i despeses socials a càrrec de l'ocupador"
 G,1,6,0,Quotes socials
 G,1,6,1,Prestacions socials
 G,1,6,2,Despeses socials del personal
 G,1,6,4,Complement familiar
-G,2,,,Despeses corrents en béns i serveis
-G,2,0,,Arrendament i cànons
-G,2,0,0,terrenys i béns naturals
+G,2,,,Despeses en béns corrents i serveis
+G,2,0,,Arrendaments i cànons
+G,2,0,0,Terrenys i béns naturals
 G,2,0,2,Edificis i altres construccions
-G,2,0,3,"maquinària, instal·lacions i utillatge"
-G,2,0,4,material de transport
+G,2,0,3,"Maquinària, instal·lacions i utillatge"
+G,2,0,4,Material de transport
 G,2,0,5,Mobiliari i estris
 G,2,0,6,Equips per a processos d'informació
 G,2,0,8,Altre immovilitzat material
 G,2,0,9,Cànons
-G,2,1,,"Reparacions, manteniment i conservació"
+G,2,1,,"Manteniment, reparacions i conservació"
 G,2,1,0,Infraestructures i béns naturals
 G,2,1,2,Edificis i altres construccions
-G,2,1,3,"maquinària, instal·lacions tècniques i utillatge"
+G,2,1,3,"Maquinària, instal·lacions tècniques i utillatge"
 G,2,1,4,Elements de transport
 G,2,1,5,Mobiliari 
 G,2,1,6,Èquips per a processos d'informació
@@ -333,7 +332,7 @@ G,2,2,4,Primes d'assegurances
 G,2,2,5,Tributs
 G,2,2,6,Despeses diverses
 G,2,2,7,Treballs realitzats per altres empreses i professionals
-G,2,3,,Indemnitzacions per raó del servei
+G,2,3,,Indemnitzacions per motiu del servei
 G,2,3,0,Dietes
 G,2,3,1,Locomoció
 G,2,3,3,Altres indemnitzacions
@@ -348,7 +347,7 @@ G,3,0,,De deute públic en euros
 G,3,0,0,Interessos
 G,3,0,1,"Despeses d'emissió, modificació i cancel·lació"
 G,3,0,9,Altres despeses financeres de deute públic en euros
-G,3,1,,De préstecs i altres operacions financeres en euros
+G,3,1,,De préstecs i altres operacions financeres
 G,3,1,0,Interessos
 G,3,1,1,"Despeses de formalització, modificació i cancel·lació"
 G,3,1,9,Altres despeses financeres de préstecs i altres operacions financeres en euros
@@ -373,14 +372,14 @@ G,3,5,8,Interessos per operacions d'arrendament financer (leasing)
 G,3,5,9,Altres despeses financeres
 G,4,,,Transferències corrents
 G,4,0,,A l'Administració General de l'entitat local
-G,4,1,,A organismes autònoms de l'entitat local
+G,4,1,,A organismes autònoms de l'Ajuntament
 G,4,2,,A l'Administració de l'Estat
 G,4,2,0,A l'Administració General de l'Estat
 G,4,2,1,A organismes autònoms i agències de l'Estat
 G,4,2,2,A fundacions estatals
 G,4,2,3,"A societats mercantils estatals, entitats públiques empresarials i altres organismes públics"
 G,4,3,,A la seguretat social
-G,4,4,,A ens públics i societats mercantils de l'entitat local
+G,4,4,,A ens públics i societats mercantils de l'Ajuntament
 G,4,4,0,Subvencions per a foment de l'ocupació
 G,4,4,1,Subvencions per a bonificació d'interessos i primes d'assegurances
 G,4,4,2,Subvencions per reduir el preu a pagar pels consumidors
@@ -390,11 +389,11 @@ G,4,5,0,A l'Administració General de les comunitats autònomes
 G,4,5,1,A Organismes autònoms i agencies de les comunitats autònomes
 G,4,5,2,A fundacions de les comunitats autònomes
 G,4,5,3,A societats mercantils entitats públiques empresarials i altres organismes públics dependents de les comunitats autònomes
-G,4,6,,A Entitats locals
+G,4,6,,A entitats locals
 G,4,6,1,"A diputacions, consells o cabildos insulars"
 G,4,6,2,A ajuntaments
 G,4,6,3,A mancomunitats
-G,4,6,4,A Àrees metropolitanes
+G,4,6,4,A àrees metropolitanes
 G,4,6,5,A comarques
 G,4,6,6,A altres entitats que agrupen municipis
 G,4,6,7,A consorcis
@@ -404,10 +403,10 @@ G,4,7,0,Subvencions per al foment de l'ocupació
 G,4,7,1,Subvencions per a bonificació d'interessos i primes d'assegurances
 G,4,7,2,Subvencions per reduir el preu a pagar pels consumidors
 G,4,7,9,Altres subvencions a empreses privades
-G,4,8,,A famílies e institucions sense fins de lucre
+G,4,8,,A famílies e institucions sense afany de lucre
 G,4,9,,A l'exterior
 G,5,,,Fons de contingència
-G,5,0,,Fons de contingència
+G,5,0,,Fons de contingència LO 2/2012
 G,5,0,0,Fons de contingència
 G,6,,,Inversions reals
 G,6,0,,Inversió nova en infraestructures i béns destinats a l'ús general
@@ -448,35 +447,35 @@ G,6,9,,Inversions en béns comunals
 G,6,9,0,Terrenys i béns naturals
 G,6,9,2,Inversions en infraestructures
 G,7,,,Transferències de capital
-G,7,0,,A l'Administració General de l'entitat local
-G,7,1,,A organismes autònoms de l'entitat local
-G,7,1,0,A organismes autònoms de l'entitat local
-G,7,1,1,A organismes autònoms de l'entitat local
+G,7,0,,A l'Administració General de l'Ajuntament
+G,7,1,,A organismes autònoms de l'Ajuntament
+G,7,1,0,A organismes autònoms de l'Ajuntament
+G,7,1,1,A organismes autònoms de l'Ajuntament
 G,7,2,,A l'Administració de l'Estat
 G,7,2,0,A l'Administració General de l'Estat
 G,7,2,1,A organismes autònoms i agències 
 G,7,2,2,A fundacions estatals
 G,7,2,3,"A societats mercantils estatals, entitats públiques empresarials i altres organismes públics"
 G,7,3,,A la seguretat social
-G,7,4,,A ens públics i societats mercantils de l'entitat local
+G,7,4,,A ens públics i societats mercantils de l'Ajuntament
 G,7,5,,A comunitats autònomes
 G,7,5,0,A l'Administració General de les comunitats autònomes
 G,7,5,1,A Organismes autònoms i agencies de les comunitats autònomes
 G,7,5,2,A fundacions de les comunitats autònomes
 G,7,5,3,"A societats mercantils, entitats públiques empresarials i altres organismes públics dependents de les comunitats autònomes"
-G,7,6,,A Entitats Locals
+G,7,6,,A entitats Locals
 G,7,6,1,"A diputacions, consells o cabildos "
 G,7,6,2,A ajuntaments
 G,7,6,3,A mancomunitats
-G,7,6,4,A Àrees metropolitanes
+G,7,6,4,A àrees metropolitanes
 G,7,6,5,A comarques
 G,7,6,6,A entitats que agrupen municipis
 G,7,6,7,A consorcis
-G,7,6,8,A Entitats Locals menors
+G,7,6,8,A entitats Locals menors
 G,7,7,,A empreses privades
 G,7,7,0,A empreses privades
-G,7,8,,A famílies e institucions sense fins de lucre
-G,7,8,1,A famílies e institucions sense fins de lucre
+G,7,8,,A famílies e institucions sense afany de lucre
+G,7,8,1,A famílies e institucions sense afany de lucre
 G,7,9,,A l'exterior
 G,8,,,Actius financers
 G,8,0,,Adquisició de deute del sector públic
