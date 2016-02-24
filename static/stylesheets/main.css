@@ -8576,8 +8576,11 @@ label {
       font-weight: 300;
       text-align: center; }
     .chart-container .popover .popover-content {
-      padding-bottom: 15px;
-      text-align: right; }
+      padding-bottom: 15px; }
+      .chart-container .popover .popover-content .popover-content-value {
+        font-size: 1.375em;
+        font-weight: 600;
+        line-height: 1em; }
       .chart-container .popover .popover-content .label {
         font-size: 0.875em;
         font-weight: 400; }
@@ -8619,15 +8622,17 @@ label {
 .sankey .legend-note circle {
   fill: none; }
 .sankey .legend-note text {
+  fill: #555555;
+  font-size: 0.875em;
   font-weight: 400 !important; }
+.sankey .popover-content .executed, .sankey .popover-content .budgeted {
+  display: inline-block;
+  margin-bottom: 5px; }
 .sankey .popover-content .budgeted {
   color: #b3b3b3; }
 .sankey .popover-content .executed {
-  color: #009C9B; }
-.sankey .popover-content b {
-  font-size: 1.25em;
-  font-weight: 600;
-  margin-bottom: 10px; }
+  color: #009C9B;
+  margin-top: 10px; }
 
 .budget-summary {
   height: 20px;
@@ -8705,8 +8710,6 @@ label {
   margin-bottom: 0;
   padding: 10px 15px 5px; }
 .policies .chart-container .popover .popover-content {
-  font-size: 1.25em;
-  font-weight: 600;
   text-align: center; }
 
 .stacked-area-chart .bkg-rect {
@@ -8737,7 +8740,13 @@ label {
   font-size: 0.875em;
   font-weight: 300; }
 .stacked-area-chart .axis.x text {
-  font-weight: 400; }
+  font-weight: 400;
+  -webkit-transition: fill 0.3s ease-out;
+  -o-transition: fill 0.3s ease-out;
+  transition: fill 0.3s ease-out; }
+.stacked-area-chart .axis.x .active text {
+  fill: #333333;
+  font-weight: 600; }
 .stacked-area-chart path.area {
   opacity: 0.8;
   cursor: pointer;
@@ -8751,15 +8760,13 @@ label {
   stroke-width: 2px;
   cursor: pointer; }
 .stacked-area-chart .point {
-  stroke-width: 0;
-  stroke-opacity: 0.7;
-  stroke: white;
+  stroke-width: 0px;
   cursor: pointer;
   -webkit-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out; }
   .stacked-area-chart .point.hover {
-    stroke-width: 1.5px; }
+    stroke-width: 2px; }
 
 .stacked-area-chart-legend {
   margin-left: 80px;
@@ -8799,21 +8806,18 @@ label {
   font-size: 1.125em;
   color: #777777;
   margin-bottom: 5px; }
-.policy-breakdown .chart-container .popover-content-value {
-  font-size: 1.25em;
-  margin-bottom: 5px; }
-  .policy-breakdown .chart-container .popover-content-value b {
-    font-weight: 600; }
 .policy-breakdown .chart-container .popover-content-variation {
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  margin-top: 15px; }
+  .policy-breakdown .chart-container .popover-content-variation .label {
+    font-size: 1em;
+    font-weight: 300;
+    margin-right: 5px; }
 .policy-breakdown .chart-container .popover-content-variation-label {
   margin-bottom: 5px;
   font-size: 0.913em;
   font-style: italic;
   font-weight: 300; }
-  .policy-breakdown .chart-container .popover-content-variation-label .variation-year {
-    font-weight: 400;
-    font-style: normal; }
 
 @media (min-width: 768px) {
   .stacked-area-chart .nonexecuted-overlay text {
@@ -8912,92 +8916,82 @@ label {
 @media (min-width: 768px) {
   .data-controllers .quantity-selection {
     text-align: left; } }
-.data-panel {
-  text-align: center; }
-  .data-panel #totals-year {
-    font-weight: 400;
-    margin-left: 0.5em; }
-  .data-panel .panel, .data-panel .panel-downloads, .data-panel .home-content .options .option > div, .home-content .options .data-panel .option > div, .data-panel .budget-intro .budget-step, .budget-intro .data-panel .budget-step, .data-panel .policies-graph, .data-panel .tax-receipt-content .form-user-incomings, .tax-receipt-content .data-panel .form-user-incomings, .data-panel .tax-receipt-content #tax-amount, .tax-receipt-content .data-panel #tax-amount {
-    margin: 0;
-    padding: 0;
-    border-radius: 0;
-    border-color: #009C9B; }
-    .data-panel .panel:first-child, .data-panel .panel-downloads:first-child, .data-panel .home-content .options .option > div:first-child, .home-content .options .data-panel .option > div:first-child, .data-panel .budget-intro .budget-step:first-child, .budget-intro .data-panel .budget-step:first-child, .data-panel .policies-graph:first-child, .data-panel .tax-receipt-content .form-user-incomings:first-child, .tax-receipt-content .data-panel .form-user-incomings:first-child, .data-panel .tax-receipt-content #tax-amount:first-child, .tax-receipt-content .data-panel #tax-amount:first-child {
-      border-top-right-radius: 0;
-      border-top-left-radius: 0;
-      /*
-      .panel-title{
-        border-radius: 6px 6px 0 0;
-      }
-      */ }
-    .data-panel .panel:last-child, .data-panel .panel-downloads:last-child, .data-panel .home-content .options .option > div:last-child, .home-content .options .data-panel .option > div:last-child, .data-panel .budget-intro .budget-step:last-child, .budget-intro .data-panel .budget-step:last-child, .data-panel .policies-graph:last-child, .data-panel .tax-receipt-content .form-user-incomings:last-child, .tax-receipt-content .data-panel .form-user-incomings:last-child, .data-panel .tax-receipt-content #tax-amount:last-child, .tax-receipt-content .data-panel #tax-amount:last-child {
-      border-bottom-right-radius: 0;
-      border-bottom-left-radius: 0; }
-  .data-panel .panel-title {
-    margin: 0;
-    padding: 15px;
-    color: #f2fafa;
-    background: #009C9B;
-    font-size: 1.25em;
-    font-weight: 600;
-    line-height: 1em;
-    text-transform: uppercase; }
-  .data-panel .panel-content {
-    font-size: 1.25em;
-    text-transform: uppercase;
-    padding: 15px; }
-    .data-panel .panel-content > p {
-      line-height: 1.375em;
-      margin-bottom: 0; }
-      .data-panel .panel-content > p:before, .data-panel .panel-content > p:after {
-        content: " ";
-        display: table; }
-      .data-panel .panel-content > p:after {
-        clear: both; }
-    .data-panel .panel-content b {
-      display: block;
-      font-weight: 600; }
-    .data-panel .panel-content .total-executed {
-      font-size: 1.125em;
-      font-weight: 600;
-      margin-bottom: 10px; }
-    .data-panel .panel-content .total-budgeted b {
-      font-weight: 400; }
-  .data-panel .panel.indicators .panel-content > p, .data-panel .indicators.panel-downloads .panel-content > p, .data-panel .home-content .options .option > div.indicators .panel-content > p, .home-content .options .data-panel .option > div.indicators .panel-content > p, .data-panel .budget-intro .indicators.budget-step .panel-content > p, .budget-intro .data-panel .indicators.budget-step .panel-content > p, .data-panel .indicators.policies-graph .panel-content > p, .data-panel .tax-receipt-content .indicators.form-user-incomings .panel-content > p, .tax-receipt-content .data-panel .indicators.form-user-incomings .panel-content > p, .data-panel .tax-receipt-content .indicators#tax-amount .panel-content > p, .tax-receipt-content .data-panel .indicators#tax-amount .panel-content > p {
-    margin-bottom: 10px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #99d7d7; }
-    .data-panel .panel.indicators .panel-content > p:last-child, .data-panel .indicators.panel-downloads .panel-content > p:last-child, .data-panel .home-content .options .option > div.indicators .panel-content > p:last-child, .home-content .options .data-panel .option > div.indicators .panel-content > p:last-child, .data-panel .budget-intro .indicators.budget-step .panel-content > p:last-child, .budget-intro .data-panel .indicators.budget-step .panel-content > p:last-child, .data-panel .indicators.policies-graph .panel-content > p:last-child, .data-panel .tax-receipt-content .indicators.form-user-incomings .panel-content > p:last-child, .tax-receipt-content .data-panel .indicators.form-user-incomings .panel-content > p:last-child, .data-panel .tax-receipt-content .indicators#tax-amount .panel-content > p:last-child, .tax-receipt-content .data-panel .indicators#tax-amount .panel-content > p:last-child {
-      margin-bottom: 0;
-      padding-bottom: 0;
-      border: none; }
-  .data-panel .panel.indicators .icon-question, .data-panel .indicators.panel-downloads .icon-question, .data-panel .home-content .options .option > div.indicators .icon-question, .home-content .options .data-panel .option > div.indicators .icon-question, .data-panel .budget-intro .indicators.budget-step .icon-question, .budget-intro .data-panel .indicators.budget-step .icon-question, .data-panel .indicators.policies-graph .icon-question, .data-panel .tax-receipt-content .indicators.form-user-incomings .icon-question, .tax-receipt-content .data-panel .indicators.form-user-incomings .icon-question, .data-panel .tax-receipt-content .indicators#tax-amount .icon-question, .tax-receipt-content .data-panel .indicators#tax-amount .icon-question {
-    float: left;
+.data-panel #totals-year {
+  font-weight: 400;
+  margin-left: 0.5em; }
+.data-panel .panel, .data-panel .panel-downloads, .data-panel .home-content .options .option > div, .home-content .options .data-panel .option > div, .data-panel .budget-intro .budget-step, .budget-intro .data-panel .budget-step, .data-panel .policies-graph, .data-panel .tax-receipt-content .form-user-incomings, .tax-receipt-content .data-panel .form-user-incomings, .data-panel .tax-receipt-content #tax-amount, .tax-receipt-content .data-panel #tax-amount {
+  margin: 0;
+  padding: 0;
+  border-radius: 0;
+  border-color: #009C9B; }
+  .data-panel .panel:first-child, .data-panel .panel-downloads:first-child, .data-panel .home-content .options .option > div:first-child, .home-content .options .data-panel .option > div:first-child, .data-panel .budget-intro .budget-step:first-child, .budget-intro .data-panel .budget-step:first-child, .data-panel .policies-graph:first-child, .data-panel .tax-receipt-content .form-user-incomings:first-child, .tax-receipt-content .data-panel .form-user-incomings:first-child, .data-panel .tax-receipt-content #tax-amount:first-child, .tax-receipt-content .data-panel #tax-amount:first-child {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0; }
+  .data-panel .panel:last-child, .data-panel .panel-downloads:last-child, .data-panel .home-content .options .option > div:last-child, .home-content .options .data-panel .option > div:last-child, .data-panel .budget-intro .budget-step:last-child, .budget-intro .data-panel .budget-step:last-child, .data-panel .policies-graph:last-child, .data-panel .tax-receipt-content .form-user-incomings:last-child, .tax-receipt-content .data-panel .form-user-incomings:last-child, .data-panel .tax-receipt-content #tax-amount:last-child, .tax-receipt-content .data-panel #tax-amount:last-child {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0; }
+.data-panel .panel-title {
+  margin: 0;
+  padding: 15px;
+  color: #f2fafa;
+  background: #009C9B;
+  font-size: 1.25em;
+  font-weight: 600;
+  line-height: 1em;
+  text-transform: uppercase; }
+.data-panel .panel-content {
+  font-size: 1.25em;
+  text-transform: uppercase;
+  padding: 15px; }
+  .data-panel .panel-content > p {
+    line-height: 1.375em;
+    margin-bottom: 0; }
+    .data-panel .panel-content > p:before, .data-panel .panel-content > p:after {
+      content: " ";
+      display: table; }
+    .data-panel .panel-content > p:after {
+      clear: both; }
+  .data-panel .panel-content b {
     display: block;
-    width: 22px;
-    height: 22px;
-    margin-top: 1px;
-    margin-right: 8px;
-    border-radius: 11px;
-    background: url(../assets/bugget-stream-question.png) no-repeat 6px 3px #777777;
-    -webkit-transition: background-color 0.3s ease-out;
-    -o-transition: background-color 0.3s ease-out;
-    transition: background-color 0.3s ease-out; }
-    .data-panel .panel.indicators .icon-question:hover, .data-panel .indicators.panel-downloads .icon-question:hover, .data-panel .home-content .options .option > div.indicators .icon-question:hover, .home-content .options .data-panel .option > div.indicators .icon-question:hover, .data-panel .budget-intro .indicators.budget-step .icon-question:hover, .budget-intro .data-panel .indicators.budget-step .icon-question:hover, .data-panel .indicators.policies-graph .icon-question:hover, .data-panel .tax-receipt-content .indicators.form-user-incomings .icon-question:hover, .tax-receipt-content .data-panel .indicators.form-user-incomings .icon-question:hover, .data-panel .tax-receipt-content .indicators#tax-amount .icon-question:hover, .tax-receipt-content .data-panel .indicators#tax-amount .icon-question:hover {
-      background-color: #009C9B; }
-  @media (min-width: 768px) {
-    .data-panel {
-      text-align: left; }
-      .data-panel:before, .data-panel:after {
-        content: " ";
-        display: table; }
-      .data-panel:after {
-        clear: both; }
-      .data-panel .panel-content .total-executed {
-        margin-bottom: 5px; }
-      .data-panel .panel-content b {
-        float: right;
-        text-align: right; } }
+    font-weight: 600;
+    float: right;
+    text-align: right; }
+  .data-panel .panel-content .total-executed {
+    font-size: 1.125em;
+    font-weight: 600;
+    margin-bottom: 10px; }
+  .data-panel .panel-content .total-budgeted b {
+    font-weight: 400; }
+.data-panel .panel.indicators .panel-content > p, .data-panel .indicators.panel-downloads .panel-content > p, .data-panel .home-content .options .option > div.indicators .panel-content > p, .home-content .options .data-panel .option > div.indicators .panel-content > p, .data-panel .budget-intro .indicators.budget-step .panel-content > p, .budget-intro .data-panel .indicators.budget-step .panel-content > p, .data-panel .indicators.policies-graph .panel-content > p, .data-panel .tax-receipt-content .indicators.form-user-incomings .panel-content > p, .tax-receipt-content .data-panel .indicators.form-user-incomings .panel-content > p, .data-panel .tax-receipt-content .indicators#tax-amount .panel-content > p, .tax-receipt-content .data-panel .indicators#tax-amount .panel-content > p {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #99d7d7; }
+  .data-panel .panel.indicators .panel-content > p:last-child, .data-panel .indicators.panel-downloads .panel-content > p:last-child, .data-panel .home-content .options .option > div.indicators .panel-content > p:last-child, .home-content .options .data-panel .option > div.indicators .panel-content > p:last-child, .data-panel .budget-intro .indicators.budget-step .panel-content > p:last-child, .budget-intro .data-panel .indicators.budget-step .panel-content > p:last-child, .data-panel .indicators.policies-graph .panel-content > p:last-child, .data-panel .tax-receipt-content .indicators.form-user-incomings .panel-content > p:last-child, .tax-receipt-content .data-panel .indicators.form-user-incomings .panel-content > p:last-child, .data-panel .tax-receipt-content .indicators#tax-amount .panel-content > p:last-child, .tax-receipt-content .data-panel .indicators#tax-amount .panel-content > p:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border: none; }
+.data-panel .icon-question {
+  float: left;
+  display: block;
+  width: 22px;
+  height: 22px;
+  margin-top: 1px;
+  margin-right: 8px;
+  border-radius: 11px;
+  background: url(../assets/bugget-stream-question.png) no-repeat 6px 3px #777777;
+  -webkit-transition: background-color 0.3s ease-out;
+  -o-transition: background-color 0.3s ease-out;
+  transition: background-color 0.3s ease-out; }
+  .data-panel .icon-question:hover {
+    background-color: #009C9B; }
+@media (min-width: 768px) {
+  .data-panel:before, .data-panel:after {
+    content: " ";
+    display: table; }
+  .data-panel:after {
+    clear: both; }
+  .data-panel .panel-content .total-executed {
+    margin-bottom: 5px; } }
 
 .data-sources {
   padding-bottom: 30px;
@@ -9813,10 +9807,59 @@ header > .container {
   background: #DEF7FB; }
   .budget-data .data-panel {
     margin-bottom: 15px; }
+  .budget-data .budget-totals {
+    margin-bottom: 30px;
+    text-align: left; }
+    .budget-data .budget-totals .panel, .budget-data .budget-totals .panel-downloads, .budget-data .budget-totals .home-content .options .option > div, .home-content .options .budget-data .budget-totals .option > div, .budget-data .budget-totals .budget-intro .budget-step, .budget-intro .budget-data .budget-totals .budget-step, .budget-data .budget-totals .policies-graph, .budget-data .budget-totals .tax-receipt-content .form-user-incomings, .tax-receipt-content .budget-data .budget-totals .form-user-incomings, .budget-data .budget-totals .tax-receipt-content #tax-amount, .tax-receipt-content .budget-data .budget-totals #tax-amount {
+      margin-bottom: 15px; }
+    .budget-data .budget-totals .panel-title {
+      display: none; }
+      .budget-data .budget-totals .panel-title .col-sm-4 {
+        padding-right: 0;
+        padding-left: 0; }
+    .budget-data .budget-totals .panel-content {
+      padding-top: 5px;
+      padding-bottom: 0; }
+      .budget-data .budget-totals .panel-content .row {
+        margin-left: 0;
+        margin-right: 0;
+        padding-bottom: 10px;
+        border-top: 1px solid #99d7d7; }
+      .budget-data .budget-totals .panel-content .col-sm-4 {
+        padding: 10px 0 0; }
+      .budget-data .budget-totals .panel-content .data-label {
+        float: left;
+        text-transform: none; }
+      .budget-data .budget-totals .panel-content .total-executed {
+        border: none;
+        font-weight: 600;
+        margin-bottom: 0; }
+        .budget-data .budget-totals .panel-content .total-executed > .col-sm-4 {
+          padding-bottom: 0; }
+      .budget-data .budget-totals .panel-content .total-budgeted {
+        border-top: none; }
+      .budget-data .budget-totals .panel-content .chapters {
+        text-transform: none; }
+      .budget-data .budget-totals .panel-content .chapters-sub {
+        font-weight: 300;
+        border-top-color: #ccebeb; }
+        .budget-data .budget-totals .panel-content .chapters-sub.chapters-sub-first {
+          border-top-color: #99d7d7; }
+      .budget-data .budget-totals .panel-content .chapters-first {
+        border-top-color: #009C9B; }
 
 @media (min-width: 768px) {
   .budget-intro {
-    display: block; } }
+    display: block; }
+
+  .budget-data .budget-totals .panel-title {
+    display: block; }
+  .budget-data .budget-totals .panel-content .row {
+    padding-bottom: 0; }
+  .budget-data .budget-totals .panel-content .col-sm-4 {
+    padding: 10px; }
+  .budget-data .budget-totals .panel-content .data-label {
+    display: none; } }
 @media (min-width: 992px) {
   .budget-viz .sankey-container {
     margin: -30px 30px 0; } }
