@@ -65,3 +65,7 @@ msgid ""
 "Para que tengas una idea general de los ingresos y gastos del Gobierno de "
 "Aragón"
 msgstr "Perquè et facis una idea general dels ingressos i les despeses del Ajuntament de Barcelona"
+
+#: templates/shared/header.html:33
+msgid "Presupuestos"
+msgstr "Pressupost Obert"

@@ -65,3 +65,7 @@ msgstr "¿Cómo y en qué gasta el Ayuntamiento de Barcelona?"
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
 msgstr ""
 "Para que tengas una idea general de los ingresos y gastos del Ayuntamiento de Barcelona"
+
+#: templates/shared/header.html:33
+msgid "Presupuestos"
+msgstr "Presupuesto Abierto"
