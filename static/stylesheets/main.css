@@ -9725,12 +9725,25 @@ header > .container {
     .home-content .options .option > div {
       padding: 15px;
       margin-bottom: 30px;
-      border: none;
-      text-align: center; }
+      border-color: transparent;
+      text-align: center;
+      -webkit-transition: border-color 0.3s ease-out;
+      -o-transition: border-color 0.3s ease-out;
+      transition: border-color 0.3s ease-out; }
+      .home-content .options .option > div:hover {
+        border-color: #009C9B; }
       .home-content .options .option > div .icon {
-        color: #F2F2F2;
+        color: #009C9B;
         height: 64px;
         margin: 15px 0; }
+      .home-content .options .option > div .option-title {
+        color: #666666;
+        -webkit-transition: color 0.3s ease-out;
+        -o-transition: color 0.3s ease-out;
+        transition: color 0.3s ease-out; }
+        .home-content .options .option > div .option-title:hover {
+          color: #009C9B;
+          text-decoration: none; }
       .home-content .options .option > div h3 {
         font-size: 2em;
         margin: 15px 0 10px; }
@@ -10002,9 +10015,9 @@ header > .container {
     border-color: #F2F2F2; }
   .form-search-glossary label {
     margin-bottom: 10px; }
-  .form-search-glossary .btn-default {
+  .form-search-glossary .btn-primary {
     border-color: #F2F2F2;
-    background: #F2F2F2;
+    background-color: #F2F2F2;
     margin-top: -1px; }
 
 .glossary-terms {
@@ -10150,14 +10163,7 @@ header > .container {
 
 .panel-downloads {
   border-color: #F2F2F2;
-  background: #F2F2F2;
-  /*
-  [class*="icon-"]:before{
-    float: none;
-    margin-right: 5px;
-    margin-left: 5px;
-  }
-  */ }
+  background: #F2F2F2; }
   .panel-downloads a {
     color: #009C9B; }
     .panel-downloads a:hover {
@@ -10165,8 +10171,18 @@ header > .container {
 
 .home-content .options {
   background: #F2F2F2; }
-  .home-content .options .option > div .icon {
-    color: #009C9B; }
+  .home-content .options .option > div .option-title:hover h3 {
+    color: #666666; }
+  .home-content .options .option > div .btn {
+    font-size: 1.125em;
+    font-weight: 300; }
+    .home-content .options .option > div .btn:before {
+      content: "";
+      display: block;
+      width: 19px;
+      height: 19px;
+      margin-top: 1px;
+      background: url(/static/assets/plus-icon.png) no-repeat 0 0 transparent; }
 
 .budget-intro {
   background: #DEF7FB; }
@@ -10193,9 +10209,12 @@ header > .container {
 .stacked-area-chart-legend .label:hover {
   background: #F2F2F2; }
 
-.form-search-glossary .btn-default {
-  background: #009C9B;
+.form-search-glossary .btn-primary {
+  background-color: #009C9B;
   border-color: #009C9B; }
+  .form-search-glossary .btn-primary:hover {
+    background-color: #40b5b4;
+    border-color: #40b5b4; }
 
 .glossary-terms h3,
 .glossary-terms h4 {
@@ -10203,6 +10222,9 @@ header > .container {
   .glossary-terms h3:before,
   .glossary-terms h4:before {
     color: #009C9B; }
+
+.form-search-glossary .form-control {
+  border-color: #009C9B; }
 
 .search-content .alert {
   background: #F2F2F2; }
@@ -10214,5 +10236,14 @@ header > .container {
     background: #009C9B; }
     .search-content .panel .panel-heading h3, .search-content .panel-downloads .panel-heading h3, .search-content .home-content .options .option > div .panel-heading h3, .home-content .options .search-content .option > div .panel-heading h3, .search-content .budget-intro .budget-step .panel-heading h3, .budget-intro .search-content .budget-step .panel-heading h3, .search-content .policies-graph .panel-heading h3, .search-content .tax-receipt-content .form-user-incomings .panel-heading h3, .tax-receipt-content .search-content .form-user-incomings .panel-heading h3, .search-content .tax-receipt-content #tax-amount .panel-heading h3, .tax-receipt-content .search-content #tax-amount .panel-heading h3 {
       color: white; }
+
+.form-search-glossary .btn-default:before,
+.form-search .form-inline .btn:before {
+  content: "";
+  display: block;
+  width: 15px;
+  height: 15px;
+  margin-top: 2px;
+  background: url(/static/assets/search-icon.png) no-repeat 0 0 transparent; }
 
 /*# sourceMappingURL=main.css.map */
