@@ -27,7 +27,7 @@ I,1,7,1,Recargo provincial en el impuesto sobre actividades económicas
 I,1,7,9,Otros recargos sobre impuestos directos de otros entes locales
 I,1,8,,Extinct direct taxes
 I,1,9,,Other direct taxes
-I,2,,,Indirect Taxes
+I,2,,,Indirect taxes
 I,2,1,,Value Added Tax
 I,2,1,0,Value Added Tax
 I,2,2,,Taxes on special consumption
@@ -47,8 +47,8 @@ I,2,9,4,"Impuesto sobre la producción, los servicios y la importación (IPSI) d
 I,2,9,5,Impuesto sobre primas de seguros
 I,2,9,6,Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados
 I,2,9,9,Otros impuestos indirectos
-I,3,,,"Fees, Sales and Other Revenues"
-I,3,0,,Fees for Basic Public Services
+I,3,,,"Fees, sales and other revenues"
+I,3,0,,Fees for basic public services
 I,3,0,0,Servicio de abastecimiento de agua
 I,3,0,1,Servicio de alcantarillado
 I,3,0,2,Servicio de recogida de basuras
@@ -108,7 +108,7 @@ I,3,9,6,Ingresos por actuaciones de urbanización
 I,3,9,7,Aprovechamientos urbanísticos
 I,3,9,8,Indemnizaciones de seguros de no vida
 I,3,9,9,Otros ingresos diversos
-I,4,,,Current Transfers
+I,4,,,Current transfers
 I,4,0,,De la Administración General de la entidad local
 I,4,0,0,De la Administración General de la entidad local
 I,4,1,,City Council's autonomous public entities
@@ -148,7 +148,7 @@ I,4,9,5,Del FEOGA-Orientación
 I,4,9,6,Del Fondo Europeo de la Pesca (FEP)
 I,4,9,7,Otras transferencias de la Unión Europea
 I,4,9,9,"Otras tansferencias del exterior, excluyendo la Unión Europea"
-I,5,,,Property Revenues
+I,5,,,Property revenues
 I,5,0,,Securities interest
 I,5,0,0,Del Estado
 I,5,0,1,De organismos autónomos y agencias
@@ -183,7 +183,7 @@ I,5,9,,Otros ingresos patrimoniales
 I,5,9,1,Beneficios por realización de inversiones financieras
 I,5,9,2,Ingresos por operaciones de intercambio financiero
 I,5,9,9,Otros ingresos patrimoniales
-I,6,,,Real Investments Disposal
+I,6,,,Real investments disposal
 I,6,0,,Lands
 I,6,0,0,Venta de solares
 I,6,0,1,Venta de fincas rústicas
@@ -196,7 +196,7 @@ I,6,1,2,De objetos valiosos
 I,6,1,9,De otras inversiones reales
 I,6,8,,Capital operations repayments
 I,6,8,0,De ejercicios cerrados
-I,7,,,Capital Transfers
+I,7,,,Capital transfers
 I,7,0,,De la Administración General de la entidad local
 I,7,1,,City Council's autonomous public entities
 I,7,2,,Spanish central government
@@ -235,7 +235,7 @@ I,7,9,5,Del FEOGA-Orientación
 I,7,9,6,Del Fondo Europeo de la Pesca (FEP)
 I,7,9,7,Otras transferencias de la Unión Europea
 I,7,9,9,"Otras tansferencias del exterior, excluyendo la Unión Europea"
-I,8,,,Financial Assets
+I,8,,,Financial assets
 I,8,0,,Enajenacion de deuda del sector público
 I,8,0,0,Short term
 I,8,0,1,Long term
@@ -255,7 +255,7 @@ I,8,5,,Sales of public sector shares
 I,8,6,,Enajenacion de acciones y participaciones fuera del sector público
 I,8,7,,Treasury surplus application
 I,8,7,0,Remanente de tesoreria
-I,9,,,Financial Liabilities
+I,9,,,Financial liabilities
 I,9,0,,Public debt issuance in euros
 I,9,0,0,Short term
 I,9,0,1,Long term
@@ -273,7 +273,7 @@ I,9,3,1,Long term
 I,9,4,,Deposits
 I,9,4,0,Depósitos recibidos
 I,9,4,1,Fianzas recibidas
-G,1,,,Personnel Expenditures
+G,1,,,Personnel expenditures
 G,1,0,,Government bodies and executive personnel
 G,1,0,0,Retribuciones básicas y otras remuneraciones de los miembros de los órganos de gobierno
 G,1,0,1,Retribuciones básicas y otras remuneraciones del personal directivo
@@ -305,7 +305,7 @@ G,1,6,0,Cuotas sociales
 G,1,6,1,Prestaciónes sociales
 G,1,6,2,Gastos sociales del personal
 G,1,6,4,Complemento familiar
-G,2,,,Current Expenditures on Goods and Services
+G,2,,,Current expenditures on goods and services
 G,2,0,,Rents
 G,2,0,0,Terrenos y bienes naturales
 G,2,0,2,Edificios y otras construcciones
@@ -342,7 +342,7 @@ G,2,5,,Trabajos realizados por administraciones públicas y otras entidades púb
 G,2,5,0,Trabajos realizados por administraciones públicas y otras entidades públicas
 G,2,6,,Trabajos realizados por instituciones sin fines de lucro
 G,2,7,,Non-classified and unexpected expenditures
-G,3,,,Financial Expenditures (Interests)
+G,3,,,Financial expenditures (Interests)
 G,3,0,,De deuda pública en euros
 G,3,0,0,Intereses
 G,3,0,1,"Gastos de emisión, modificación y cancelación"
@@ -370,7 +370,7 @@ G,3,5,3,Operaciones de intercambio financiero
 G,3,5,7,Ejecución de avales
 G,3,5,8,Intereses por operaciones de arrendamiento financiero (leasing)
 G,3,5,9,Otros gastos financieros
-G,4,,,Current Transfers
+G,4,,,Current transfers
 G,4,0,,A la Administración General de la entidad local
 G,4,1,,To City Council's autonomous public entities
 G,4,2,,A la Administración del Estado
@@ -405,10 +405,10 @@ G,4,7,2,Subvenciones para reducir el precio a pagar por los consumidores
 G,4,7,9,Otras subvenciones a empresas privadas
 G,4,8,,To families and non-profit organizations
 G,4,9,,To external or foreign organizations
-G,5,,,Contingency Fund
+G,5,,,Contingency fund
 G,5,0,,Contingency fund
 G,5,0,0,Contingency fund
-G,6,,,Real Investments
+G,6,,,Real investments
 G,6,0,,New investment in general use infrastructures
 G,6,0,0,Inversiones en terrenos
 G,6,0,9,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general
@@ -446,7 +446,7 @@ G,6,8,9,Otros gastos en inversiones de bienes patrimoniales
 G,6,9,,Inversiones en bienes comunales
 G,6,9,0,Terrenos y bienes naturales
 G,6,9,2,Inversión en infraestructuras
-G,7,,,Capital Transfers
+G,7,,,Capital transfers
 G,7,0,,A la Administración General de la entidad local
 G,7,1,,To City Council's autonomous public entities
 G,7,1,0,A organismos autónomos de la entidad local
@@ -477,7 +477,7 @@ G,7,7,0,To private companies
 G,7,8,,To families and non-profit organizations
 G,7,8,1,To families and non-profit organizations
 G,7,9,,To external or foreign organizations
-G,8,,,Financial Assets
+G,8,,,Financial assets
 G,8,0,,Adquisición de deuda del sector público
 G,8,0,0,Short term
 G,8,0,1,Long term
@@ -501,7 +501,7 @@ G,8,7,,Aportaciones patrimoniales
 G,8,7,0,Aportaciones a fundaciones
 G,8,7,1,Aportaciones a consorcios
 G,8,7,2,Aportaciones a otros entes
-G,9,,,Financial Liabilities
+G,9,,,Financial liabilities
 G,9,0,,Amortización de deuda pública en euros
 G,9,0,0,Short term
 G,9,0,1,Long term
