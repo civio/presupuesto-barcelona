@@ -8807,6 +8807,7 @@ label {
   color: #777777;
   margin-bottom: 5px; }
 .policy-breakdown .chart-container .popover-content-variation {
+  display: none;
   margin-bottom: 0;
   margin-top: 15px; }
   .policy-breakdown .chart-container .popover-content-variation .label {
@@ -8824,18 +8825,7 @@ label {
     display: block; } }
 .data-controllers {
   margin-bottom: 60px;
-  text-align: center;
-  /*
-  .tab-content & {
-    background: @black95;
-    margin: 0 -1em 1em;
-    padding: 1em 1.5em;
-    @shadow:
-    0 0 0 1px @black80 inset,
-    0 0 0 2px @white inset;
-    .box-shadow(@shadow);
-  }
-  */ }
+  text-align: center; }
   .data-controllers .title {
     color: #555555; }
   .data-controllers .layout-slider {
@@ -8891,31 +8881,20 @@ label {
     line-height: 1.25em;
     font-weight: 700;
     text-transform: uppercase; }
+  .data-controllers .single-year #year-selection {
+    display: none; }
+  .data-controllers .single-year .layout-slider > p {
+    font-size: 1.25em;
+    line-height: 30px;
+    font-weight: 600; }
 
-/*
-.data-controllers.functional_view {
-  #btn-field {
-    .btn {
-      font-size: .9em;
-      padding: 6px 6px;
-    }
-  } 
-}
-
-.data-controllers.functional_view .quantity-selection {
-  text-align: center;
-}
-
-#year-selection {}
-.layout-slider {height: 3.5em;}
-
-.data-controllers .layout-slider{
-  margin-top: -6px;
-}
-*/
 @media (min-width: 768px) {
   .data-controllers .quantity-selection {
-    text-align: left; } }
+    text-align: left; }
+  .data-controllers .single-year {
+    text-align: right; }
+    .data-controllers .single-year .layout-slider {
+      margin: 0; } }
 .data-panel #totals-year {
   font-weight: 400;
   margin-left: 0.5em; }
