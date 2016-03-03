@@ -179,7 +179,7 @@ INCLUDE_FINANCIAL_CHAPTERS_IN_BREAKDOWNS = True
 # Search in entity names. Default: True.
 SEARCH_ENTITIES = False
 
-# Supported languages. Default: ('ca', 'Catal&agrave;')
+# Supported languages. Default: ('es', 'Castellano')
 LANGUAGES = (
   ('ca', 'Catal&agrave;'),
   ('es', 'Castellano'),
