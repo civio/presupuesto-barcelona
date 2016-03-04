@@ -69,3 +69,24 @@ msgstr ""
 #: templates/shared/header.html:33
 msgid "Presupuestos"
 msgstr "Open Budget"
+
+msgid "Capacidad/Necesidad de financiación"
+msgstr "Capacity or need for financing"
+
+msgid "Ahorro corriente / Ingresos corrientes"
+msgstr "Current savings / Current revenues"
+
+msgid "Deuda viva"
+msgstr "Debt"
+
+msgid "Ingresos corrientes"
+msgstr "Current revenues"
+
+msgid "Remanente de tesorería"
+msgstr "Treasury Surplus"
+
+msgid "Remanente de tesorería para gastos generales"
+msgstr "Treasury Surplus for General Exepeditures"
+
+msgid "El cálculo de los indicadores utiliza las cifras del presupuesto aprobado"
+msgstr "The indicators are calculated in terms of the European System of Accounts (ESA), excluding the 'Treasury Surplus'"

@@ -69,3 +69,24 @@ msgstr "Perquè et facis una idea general dels ingressos i les despeses del Ajun
 #: templates/shared/header.html:33
 msgid "Presupuestos"
 msgstr "Pressupost Obert"
+
+msgid "Capacidad/Necesidad de financiación"
+msgstr "Capacitat o necessitat de finançament"
+
+msgid "Ahorro corriente / Ingresos corrientes"
+msgstr "Estalvi corrent / Ingressos corrents"
+
+msgid "Deuda viva"
+msgstr "Deute viu"
+
+msgid "Ingresos corrientes"
+msgstr "Ingressos corrents"
+
+msgid "Remanente de tesorería"
+msgstr "Romanent de tresoreria"
+
+msgid "Remanente de tesorería para gastos generales"
+msgstr "Romanent de tresoreria per a despeses generals"
+
+msgid "El cálculo de los indicadores utiliza las cifras del presupuesto aprobado"
+msgstr "El càlcul dels indicadors està realitzat en termes del Sistema Europeu de Comptes (SEC), excepte el Romanent de Tresoreria"

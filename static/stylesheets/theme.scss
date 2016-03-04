@@ -120,8 +120,13 @@
   background: $brand-secondary;
 }
 
+.data-panel .panel.indicators .panel-content b{
+  display: none;
+  font-weight: $font-weight-400;
+}
+
 // Policies
-.policies-graph{
+.policies-chart{
   background: white;
 }
 
@@ -172,6 +177,11 @@
   }
 }
 
+table.table-grid tr td .toggle.expand, 
+table.table-grid tr td .toggle.collapse{
+  background-color: mix( $gray-light, $gray-lighter, 70% );
+}
+
 // Search Icon
 .form-search-glossary .btn-default:before,
 .form-search .form-inline .btn:before{
@@ -181,4 +191,10 @@
   height: 15px;
   margin-top: 2px;
   background: url(/static/assets/search-icon.png) no-repeat 0 0 transparent;
+}
+
+// Modal
+.modal-content{
+  border-radius: 0;
+  border: none;
 }
