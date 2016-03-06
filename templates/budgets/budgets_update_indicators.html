@@ -1,3 +1,4 @@
+<script>
 // Global function getSum
 function getSum(breakdown, ids, field, year) {
   // TODO: Take into account whether actual spending figures exists (and whether they cover whole year)
@@ -6,7 +7,7 @@ function getSum(breakdown, ids, field, year) {
 
 
 // Update global budget indicators
-function updateIndicators(uiState) {
+function updateIndicators(chapterBreakdown, economicBreakdown, stats, uiState) {
   function format(amount) {
     return formatAmount(adjustInflation(amount, stats, uiState.year));
   }
@@ -62,3 +63,4 @@ function updateIndicators(uiState) {
   $('#totals-panel .panel.indicators .value').hide();
   $('#totals-panel .panel.indicators .value-'+uiState.year).show();
 }
+</script>
