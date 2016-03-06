@@ -155,19 +155,22 @@ OVERVIEW_RELAX_FACTOR = 0.5
 SHOW_PAYMENTS           = True
 
 # Show Tax Receipt section in menu & home options. Default: False.
-SHOW_TAX_RECEIPT        = False
+# SHOW_TAX_RECEIPT        = False
 
 # Show Counties & Towns links in Policies section in menu & home options. Default: False.
-SHOW_COUNTIES_AND_TOWNS = False
+# SHOW_COUNTIES_AND_TOWNS = False
 
 # Show an extra tab with institutional breakdown. Default: True.
 SHOW_INSTITUTIONAL_TAB  = True
 
-# Show Subtotals panel in Overview
-SHOW_OVERVIEW_SUBTOTALS = True
-
 # Show an extra tab with funding breakdown (only applicable to some budgets). Default: False.
 # SHOW_FUNDING_TAB = False
+
+# Show Subtotals panel in Overview. Default: False
+SHOW_OVERVIEW_SUBTOTALS = True
+
+# Calculate budget indicators (True), or show/hide the ones hardcoded in HTML (False). Default: True.
+CALCULATE_BUDGET_INDICATORS = False
 
 # Show an extra column with actual revenues/expenses. Default: True.
 # Warning: the execution data still gets shown in the summary chart and in downloads.
