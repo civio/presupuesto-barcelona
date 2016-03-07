@@ -161,7 +161,8 @@
 }
 
 // Search
-.search-content .alert{
+.search-content .alert,
+.glossary-content .glossary-search-results .alert{
   background: $brand-secondary;
 }
 .search-content .panel{
