@@ -154,6 +154,12 @@ OVERVIEW_RELAX_FACTOR = 0.5
 # Show Payments section in menu & home options. Default: False.
 SHOW_PAYMENTS           = True
 
+# Configure 'by area' payment breakdown. Default: ['area', 'payee', 'description']
+PAYMENTS_BREAKDOWN_BY_AREA = ['area', 'programme', 'payee', 'description']
+
+# Configure 'by payee' payment breakdown. Default: ['payee', 'area', 'description']
+# PAYMENTS_BREAKDOWN_BY_PAYEE = ['payee', 'area', 'description']
+
 # Show Tax Receipt section in menu & home options. Default: False.
 # SHOW_TAX_RECEIPT        = False
 
