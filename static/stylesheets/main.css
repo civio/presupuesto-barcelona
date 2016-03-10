@@ -3703,7 +3703,7 @@ pre {
   .row:after {
     clear: both; }
 
-.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .home-content .options .option, .tax-receipt-content .form-user-incomings .form-group, .tax-receipt-content .form-user-incomings .select-info, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .home-content .options .option, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .tax-receipt-content .form-user-incomings .form-group, .tax-receipt-content .form-user-incomings .select-info, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
   position: relative;
   min-height: 1px;
   padding-left: 15px;
@@ -3866,7 +3866,7 @@ pre {
   margin-left: 100%; }
 
 @media (min-width: 768px) {
-  .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .home-content .options .option, .tax-receipt-content .form-user-incomings .form-group, .tax-receipt-content .form-user-incomings .select-info, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+  .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .home-content .options .option, .col-sm-5, .col-sm-6, .tax-receipt-content .form-user-incomings .form-group, .tax-receipt-content .form-user-incomings .select-info, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
     float: left; }
 
   .col-sm-1 {
@@ -3878,13 +3878,13 @@ pre {
   .col-sm-3 {
     width: 25%; }
 
-  .col-sm-4 {
+  .col-sm-4, .home-content .options .option {
     width: 33.33333%; }
 
   .col-sm-5 {
     width: 41.66667%; }
 
-  .col-sm-6, .home-content .options .option, .tax-receipt-content .form-user-incomings .form-group, .tax-receipt-content .form-user-incomings .select-info {
+  .col-sm-6, .tax-receipt-content .form-user-incomings .form-group, .tax-receipt-content .form-user-incomings .select-info {
     width: 50%; }
 
   .col-sm-7 {
@@ -8509,7 +8509,8 @@ label {
 .chart-container {
   position: relative; }
   .chart-container .popover {
-    top: auto; }
+    top: auto;
+    pointer-events: none; }
     .chart-container .popover .popover-title {
       margin: 0 15px;
       padding: 8px 0;
@@ -8779,7 +8780,7 @@ label {
   .stacked-area-chart .nonexecuted-overlay text {
     display: block; } }
 .data-controllers {
-  margin-bottom: 60px;
+  margin-bottom: 45px;
   text-align: center; }
   .data-controllers .title {
     color: #555555; }
@@ -8851,8 +8852,9 @@ label {
     .data-controllers .single-year .layout-slider {
       margin: 0; } }
 .data-panel #totals-year {
+  display: block;
   font-weight: 400;
-  margin-left: 0.5em; }
+  margin-top: 10px; }
 .data-panel .panel, .data-panel .panel-downloads, .data-panel .home-content .options .option > div, .home-content .options .data-panel .option > div, .data-panel .budget-intro .budget-step, .budget-intro .data-panel .budget-step, .data-panel .policies-chart, .data-panel .tax-receipt-content .form-user-incomings, .tax-receipt-content .data-panel .form-user-incomings, .data-panel .tax-receipt-content #tax-amount, .tax-receipt-content .data-panel #tax-amount {
   margin: 0;
   padding: 0;
@@ -8870,9 +8872,13 @@ label {
   color: #f2fafa;
   background: #009C9B;
   font-size: 1.25em;
-  font-weight: 600;
+  font-weight: 400;
   line-height: 1em;
   text-transform: uppercase; }
+  .data-panel .panel-title .main-label {
+    font-weight: 400; }
+    .data-panel .panel-title .main-label b {
+      font-weight: 300; }
 .data-panel .panel-content {
   font-size: 1.25em;
   text-transform: uppercase;
@@ -8928,7 +8934,34 @@ label {
   .data-panel:after {
     clear: both; }
   .data-panel .panel-content .total-executed {
-    margin-bottom: 5px; } }
+    margin-bottom: 5px; }
+  .data-panel #totals-year {
+    float: right;
+    margin-top: 0; } }
+
+#totals-panel {
+  margin-bottom: 30px; }
+  #totals-panel .panel-title,
+  #totals-panel .panel-content {
+    font-size: 1.375em; }
+
+#non-financial-total {
+  display: none;
+  border-top: none;
+  margin-top: -1px; }
+  #non-financial-total .panel-title {
+    color: #666666;
+    background: none;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    border-top: 1px solid #009C9B; }
+    #non-financial-total .panel-title .main-label {
+      font-weight: 600; }
+  #non-financial-total .panel-content {
+    font-size: 1.25em; }
 
 .data-sources {
   padding-bottom: 30px;
@@ -9201,19 +9234,26 @@ table.table-grid {
       padding: 15px;
       font-size: 1.125em;
       font-weight: 400;
-      line-height: 1em; }
+      line-height: 1em;
+      text-align: right; }
       table.table-grid thead th:hover {
         background: #1aa6a5; }
+      table.table-grid thead th:first-child {
+        text-align: left; }
       table.table-grid thead th:last-child {
         border-right: none; }
+    table.table-grid thead > tr > th.sorting, table.table-grid thead > tr > th.sorting_asc, table.table-grid thead > tr > th.sorting_desc, table.table-grid thead > tr > th.sorting_asc_disabled, table.table-grid thead > tr > th.sorting_desc_disabled {
+      padding-right: 40px; }
     table.table-grid thead .sorting:after,
     table.table-grid thead .sorting_asc:after,
     table.table-grid thead .sorting_desc:after,
     table.table-grid thead .sorting_asc_disabled:after,
     table.table-grid thead .sorting_desc_disabled:after {
-      bottom: auto;
-      top: 16px;
-      font-size: 12px; }
+      position: static;
+      display: inline-block;
+      font-size: 12px;
+      margin-left: 10px;
+      margin-right: -30px; }
     table.table-grid thead .sorting:after,
     table.table-grid thead .sorting_asc_disabled:after,
     table.table-grid thead .sorting_desc_disabled:after {
@@ -9561,7 +9601,7 @@ header > .container {
           background: #40b5b4; }
     @media (min-width: 768px) {
       .navbar-default .navbar-nav > li {
-        width: 33.33333%; }
+        width: 25%; }
         .navbar-default .navbar-nav > li > a {
           border-right: 1px solid #80cecd;
           border-bottom: none; }
@@ -9776,11 +9816,10 @@ header > .container {
       .budget-intro .budget-step .desc b {
         font-weight: 600; }
 
-.budget-viz .sankey-container {
-  margin: 0; }
+.budget-viz .page-title {
+  margin-bottom: 15px; }
 
 .budget-data {
-  margin-top: 30px;
   background: #DEF7FB; }
   .budget-data .data-panel {
     margin-bottom: 15px; }
@@ -9791,7 +9830,7 @@ header > .container {
       margin-bottom: 15px; }
     .budget-data .budget-totals .panel-title {
       display: none; }
-      .budget-data .budget-totals .panel-title .col-sm-4 {
+      .budget-data .budget-totals .panel-title .col-sm-4, .budget-data .budget-totals .panel-title .home-content .options .option, .home-content .options .budget-data .budget-totals .panel-title .option {
         padding-right: 0;
         padding-left: 0; }
     .budget-data .budget-totals .panel-content {
@@ -9802,7 +9841,7 @@ header > .container {
         margin-right: 0;
         padding-bottom: 10px;
         border-top: 1px solid #99d7d7; }
-      .budget-data .budget-totals .panel-content .col-sm-4 {
+      .budget-data .budget-totals .panel-content .col-sm-4, .budget-data .budget-totals .panel-content .home-content .options .option, .home-content .options .budget-data .budget-totals .panel-content .option {
         padding: 10px 0 0; }
       .budget-data .budget-totals .panel-content .data-label {
         float: left;
@@ -9811,7 +9850,7 @@ header > .container {
         border: none;
         font-weight: 600;
         margin-bottom: 0; }
-        .budget-data .budget-totals .panel-content .total-executed > .col-sm-4 {
+        .budget-data .budget-totals .panel-content .total-executed > .col-sm-4, .budget-data .budget-totals .panel-content .home-content .options .total-executed > .option, .home-content .options .budget-data .budget-totals .panel-content .total-executed > .option {
           padding-bottom: 0; }
       .budget-data .budget-totals .panel-content .total-budgeted {
         border-top: none; }
@@ -9833,13 +9872,10 @@ header > .container {
     display: block; }
   .budget-data .budget-totals .panel-content .row {
     padding-bottom: 0; }
-  .budget-data .budget-totals .panel-content .col-sm-4 {
+  .budget-data .budget-totals .panel-content .col-sm-4, .budget-data .budget-totals .panel-content .home-content .options .option, .home-content .options .budget-data .budget-totals .panel-content .option {
     padding: 10px; }
   .budget-data .budget-totals .panel-content .data-label {
     display: none; } }
-@media (min-width: 992px) {
-  .budget-viz .sankey-container {
-    margin: -30px 30px 0; } }
 .policies-header .container {
   position: relative; }
 .policies-header .page-title {
@@ -9858,6 +9894,10 @@ header > .container {
     font-weight: 700;
     border-left: 2px solid #F2F2F2;
     background: #fcfcfc;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 200px;
+    overflow: hidden;
     -webkit-transition: background 0.3s ease-out;
     -o-transition: background 0.3s ease-out;
     transition: background 0.3s ease-out; }
