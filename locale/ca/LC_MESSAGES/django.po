@@ -27,7 +27,7 @@ msgstr "El pressupost municipal inclou altres ingressos provinents, principalmen
 
 #: templates/budgets/index.html:17
 msgid "Ingresos y gastos en el Gobierno de Aragón"
-msgstr "Ingresos y gastos en el Ajuntament de Barcelona"
+msgstr "Ingressos i despeses a l'Ajuntament de Barcelona"
 
 #: templates/budgets/index.html:127 templates/shared/data_sources.html:7
 #: templates/shared/footer.html:18 templates/shared/header.html:28
