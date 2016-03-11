@@ -14,13 +14,15 @@
 
 // Header
 .main-entity-logo{
-  visibility: hidden;
-  height: 50px;
-  background: white;
+  display: none;
 
   a{
     background: none; // remove reference to logo.png
   }
+}
+
+header > .container{
+  height: 110px;  // We need to setup header height because we remove logo
 }
 
 .navbar-default .navbar-nav{
