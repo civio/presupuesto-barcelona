@@ -1,11 +1,8 @@
 @charset "UTF-8";
 /*
-$bcn-blue:    #0069e1;
-$bcn-pink:    #d50283;
-$bcn-green:   #008000;
-$bcn-violet:  #7519E6;
-$bcn-olive:   #1c7da3;
-$bcn-red:￼    #E91B1D;
+$brand-primary:         #3F1712;
+$brand-secondary:       #717F4C;
+$brand-terciary:        #FCEEAE;
 */
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
@@ -5495,8 +5492,8 @@ button.close {
     opacity: 0;
     filter: alpha(opacity=0); }
   .modal-backdrop.in {
-    opacity: 0.5;
-    filter: alpha(opacity=50); }
+    opacity: 0.75;
+    filter: alpha(opacity=75); }
 
 .modal-header {
   padding: 15px;
@@ -7753,11 +7750,12 @@ body.widget .stacked-area-chart-legend {
   margin-left: 10px; }
 
 .main-entity-logo {
-  visibility: hidden;
-  height: 50px;
-  background: white; }
+  display: none; }
   .main-entity-logo a {
     background: none; }
+
+header > .container {
+  height: 110px; }
 
 .navbar-default .navbar-nav [class*="icon-"]:before {
   display: none; }
