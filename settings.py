@@ -152,7 +152,7 @@ OVERVIEW_EXPENSE_NODES =  [
 OVERVIEW_RELAX_FACTOR = 0.5
 
 # Show Payments section in menu & home options. Default: False.
-#SHOW_PAYMENTS           = True
+SHOW_PAYMENTS           = True
 
 # Configure 'by area' payment breakdown. Default: ['area', 'payee', 'description']
 PAYMENTS_BREAKDOWN_BY_AREA = ['area', 'programme', 'payee', 'description']
