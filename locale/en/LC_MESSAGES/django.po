@@ -82,3 +82,6 @@ msgstr "Treasury Surplus for General Exepeditures"
 
 msgid "El cálculo de los indicadores utiliza las cifras de ejecución para los años cuya liquidación está cerrada, o el presupuesto aprobado en caso contrario."
 msgstr "The indicators are calculated in terms of the European System of Accounts (ESA), excluding the 'Treasury Surplus'."
+
+msgid "Principales proveedores del Gobierno de Aragón"
+msgstr "Principales proveedores del Ayuntamiento de Barcelona"

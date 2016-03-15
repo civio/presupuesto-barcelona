@@ -79,3 +79,7 @@ msgstr "Romanent de tresoreria per a despeses generals"
 
 msgid "El cálculo de los indicadores utiliza las cifras de ejecución para los años cuya liquidación está cerrada, o el presupuesto aprobado en caso contrario."
 msgstr "El càlcul dels indicadors està realitzat en termes del Sistema Europeu de Comptes (SEC), excepte el Romanent de Tresoreria."
+
+
+msgid "Principales proveedores del Gobierno de Aragón"
+msgstr "Principals proveïdors de l'Ajuntament de Barcelona"

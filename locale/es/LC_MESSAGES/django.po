@@ -67,3 +67,6 @@ msgstr "Capacidad o necesidad de financiación"
 
 msgid "El cálculo de los indicadores utiliza las cifras de ejecución para los años cuya liquidación está cerrada, o el presupuesto aprobado en caso contrario."
 msgstr "El cálculo de los indicadores está realizado en términos del Sistema Europeo de Cuentas (SEC), excepto el Remanente de Tesorería."
+
+msgid "Principales proveedores del Gobierno de Aragón"
+msgstr "Principales proveedores del Ayuntamiento de Barcelona"
