@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-03-06 21:52+0100\n"
+"PO-Revision-Date: 2016-03-15 15:23+0100\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -16,18 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.7\n"
-
-#: templates/budgets/budgets_indicators.html:2
-msgid "Indicadores presupuestarios"
-msgstr ""
-
-#: templates/budgets/budgets_indicators.html:5
-msgid "Ingresos no financieros (capítulos I-VII) – Gastos no financieros (capítulos I-VII)"
-msgstr ""
-
-#: templates/budgets/budgets_indicators.html:5
-msgid "Capacidad/Necesidad de financiación"
-msgstr "Capacity or need for financing"
 
 #: templates/budgets/budgets_indicators.html:12
 msgid "Ahorro corriente / Ingresos corrientes"
@@ -48,13 +36,13 @@ msgstr "Treasury Surplus"
 
 #: templates/budgets/budgets_indicators.html:40
 msgid "Remanente de tesorería para gastos generales"
-msgstr "Treasury Surplus for General Exepeditures"
+msgstr "Treasury Surplus for General Expenditures"
 
 msgid "Presupuestos del Gobierno de Aragón"
 msgstr "Barcelona City Hall Budget"
 
 msgid "El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros ingresos como el IVA y el IRPF"
-msgstr "El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y de la Generalitat de Catalunya, que son los encargados de recaudar otros ingresos como el IVA y el IRPF"
+msgstr "The money raised locally is complemented with transfers from the Central Government and the Government of Catalonia, who are responsible for raising other revenues such as VAT and income tax"
 
 msgid "Ingresos y gastos en el Gobierno de Aragón"
 msgstr "Revenues and Expenditures for the Barcelona City Hall"
@@ -66,22 +54,22 @@ msgid "Información presupuestaria del Gobierno de Aragón"
 msgstr "Barcelona City Council budgetary information"
 
 msgid "Datos de inflación (Medias anuales de IPC para Aragón)"
-msgstr "Datos de inflación (Medias anuales de IPC para Cataluña)"
+msgstr "Inflation data (Annual average for Catalonia)"
 
 msgid "Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Aragón"
-msgstr "Los ingresos y gastos mostrados incluyen únicamente al Ayuntamiento de Barcelona"
-
-msgid "Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupuestos del Gobierno de Aragón"
-msgstr "Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupuestos del Ayuntamiento de Barcelona"
+msgstr "Income and expenditure shown include only the Barcelona City Council"
 
 msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
-msgstr "¿Cómo y en qué gasta el Ayuntamiento de Barcelona?"
+msgstr "How and where does the Barcelona City Council spend?"
 
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
-msgstr "Para que tengas una idea general de los ingresos y gastos del Ayuntamiento de Barcelona"
+msgstr "To give you a general idea of revenues and expenditures of the Barcelona City Council"
 
 msgid "Presupuestos"
 msgstr "Open Budget"
 
 msgid "El cálculo de los indicadores utiliza las cifras de ejecución para los años cuya liquidación está cerrada, o el presupuesto aprobado en caso contrario."
 msgstr "The indicators are calculated in terms of the European System of Accounts (ESA), excluding the 'Treasury Surplus'."
+
+msgid "Principales proveedores del Gobierno de Aragón"
+msgstr "Main suppliers of the Barcelona City Council"
