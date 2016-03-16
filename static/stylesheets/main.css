@@ -7528,7 +7528,7 @@ header > .container {
 #payments-search .data-controllers {
   margin-left: 15px;
   margin-right: 15px;
-  margin-bottom: 30px; }
+  margin-bottom: 15px; }
 #payments-search .glyphicon-refresh-animate {
   margin-right: 5px; }
   #payments-search .glyphicon-refresh-animate:before {
@@ -7539,7 +7539,8 @@ header > .container {
   padding: 8px 10px;
   margin-left: 5px; }
 #payments-search .btn-primary {
-  font-size: 0.913em; }
+  font-size: 0.913em;
+  margin-top: 15px; }
 
 #query-panel .panel, #query-panel .panel-downloads, #query-panel .home-content .options .option > div, .home-content .options #query-panel .option > div, #query-panel .budget-intro .budget-step, .budget-intro #query-panel .budget-step, #query-panel .policies-chart, #query-panel .tax-receipt-content .form-user-incomings, .tax-receipt-content #query-panel .form-user-incomings, #query-panel .tax-receipt-content #tax-amount, .tax-receipt-content #query-panel #tax-amount {
   border: none;
