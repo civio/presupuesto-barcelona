@@ -60,6 +60,12 @@ msgstr "El cálculo de los indicadores está realizado en términos del Sistema 
 msgid "Principales proveedores del Gobierno de Aragón"
 msgstr "Principales proveedores del Ayuntamiento de Barcelona"
 
+#: templates/search/index.html:244 templates/search/index.html.py:248
+#: templates/shared/header.html:68 templates/welcome/index.html:70
+#: templates/welcome/index.html.py:72
+msgid "Pagos e inversiones"
+msgstr "Gastos facturados"
+
 #: templates/payments/index.html:14
 msgid "Inversiones y pagos"
 msgstr "Gastos facturados"

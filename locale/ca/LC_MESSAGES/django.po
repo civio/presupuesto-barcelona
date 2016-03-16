@@ -89,6 +89,12 @@ msgstr "El càlcul dels indicadors està realitzat en termes del Sistema Europeu
 msgid "Principales proveedores del Gobierno de Aragón"
 msgstr "Principals proveïdors de l'Ajuntament de Barcelona"
 
+#: templates/search/index.html:244 templates/search/index.html.py:248
+#: templates/shared/header.html:68 templates/welcome/index.html:70
+#: templates/welcome/index.html.py:72
+msgid "Pagos e inversiones"
+msgstr "Despeses facturades"
+
 #: templates/payments/index.html:14
 msgid "Inversiones y pagos"
 msgstr "Despeses facturades"
