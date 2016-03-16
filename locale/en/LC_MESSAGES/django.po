@@ -73,3 +73,16 @@ msgstr "The indicators are calculated in terms of the European System of Account
 
 msgid "Principales proveedores del Gobierno de Aragón"
 msgstr "Main suppliers of the Barcelona City Council"
+
+#: templates/payments/index.html:14
+msgid "Inversiones y pagos"
+msgstr "Invoiced expenditures"
+
+#: templates/payments/index.html:32
+msgid "Hay <b id=\"payments-size\"></b> gastos facturados que suman un total de <b id=\"payments-total\"></b> para la búsqueda"
+msgstr "Found <b=\"payments-size\"></b> invoiced expenditures totaling <b id=\"payments-total\"></b>"
+
+#: templates/payments/payments_search.html:2
+#: templates/payments/payments_search.html:9
+msgid "Busca pagos a proveedores"
+msgstr "Search for invoiced expenditures"
