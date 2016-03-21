@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-03-15 14:48+0100\n"
+"PO-Revision-Date: 2016-03-21 19:16+0100\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: ca\n"
@@ -107,3 +107,17 @@ msgstr "Hi ha <b id=\"payments-size\"></b> despeses facturades que sumen un tota
 #: templates/payments/payments_search.html:9
 msgid "Busca pagos a proveedores"
 msgstr "Busca despeses facturades"
+
+# The client prefers 'Política' to 'Área'
+#
+msgid "Área"
+msgstr "Política"
+
+msgid "Por área"
+msgstr "Per política"
+
+msgid "Desglose por área"
+msgstr "Desglossament per política"
+
+msgid "Todas las áreas"
+msgstr "Totes les polítiques"

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-03-15 15:23+0100\n"
+"PO-Revision-Date: 2016-03-21 19:14+0100\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -92,3 +92,17 @@ msgstr "Found <b=\"payments-size\"></b> invoiced expenditures totaling <b id=\"p
 #: templates/payments/payments_search.html:9
 msgid "Busca pagos a proveedores"
 msgstr "Search for invoiced expenditures"
+
+# The client prefers 'Política' to 'Área'
+#
+msgid "Área"
+msgstr "Policy"
+
+msgid "Por área"
+msgstr "By policy"
+
+msgid "Desglose por área"
+msgstr "Breakdown by policy"
+
+msgid "Todas las áreas"
+msgstr "All policies"
