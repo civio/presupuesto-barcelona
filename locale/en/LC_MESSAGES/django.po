@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-03-21 19:14+0100\n"
+"PO-Revision-Date: 2016-03-22 13:59+0100\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -92,6 +92,13 @@ msgstr "Found <b=\"payments-size\"></b> invoiced expenditures totaling <b id=\"p
 #: templates/payments/payments_search.html:9
 msgid "Busca pagos a proveedores"
 msgstr "Search for invoiced expenditures"
+
+#
+msgid "Descarga la tabla de <b>Pagos</b>"
+msgstr "Download the <b>invoiced expenditures</b> table"
+
+msgid "En cumplimiento de La Ley Orgánica de Protección de Datos Personales, y para proteger la identidad personal de los ciudadanos, se engloban dentro del concepto “Anonimizado” todos aquellos pagos efecutados a terceros identificados como personas físicas, así como los gastos de personal del Ayuntamiento. En la medida de lo posible también se han eliminado las referencias identificativas personales dentro de los textos descriptivos de las facturas."
+msgstr "In compliance with the Organic Law on Protection of Personal Data, and to protect the personal identity of citizens, all payments to third parties identified as individuals, as well as the expenses of Council staff, are grouped as “Anonimitzat” (anonymized). Personal identifying references within the descriptive texts of invoices have also been removed as far as possible."
 
 # The client prefers 'Política' to 'Área'
 #
