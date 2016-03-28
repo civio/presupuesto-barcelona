@@ -23,7 +23,7 @@ msgstr "Indicadors pressupostaris"
 
 #: templates/budgets/budgets_indicators.html:5
 msgid "Ingresos no financieros (capítulos I-VII) – Gastos no financieros (capítulos I-VII)"
-msgstr "Ingressos no financers (capítols I-VII) - Despeses no financeres (capítols I-VII)"
+msgstr "Superàvit  o dèficit (Ingressos no financers – Despeses no financeres) en termes SEC"
 
 #: templates/budgets/budgets_indicators.html:5
 msgid "Capacidad/Necesidad de financiación"
@@ -75,7 +75,7 @@ msgid "Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupue
 msgstr "Contribueixes amb un total de <b id=\"tax-amount-paid\"></b> als pressupostos del Ajuntament de Barcelona"
 
 msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
-msgstr "Com i en què gasta el Ajuntament de Barcelona?"
+msgstr "D’on vénen els ingressos? En què i per a què és la despesa de l’Ajuntament de Barcelona?"
 
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
 msgstr "Perquè et facis una idea general dels ingressos i les despeses del Ajuntament de Barcelona"
@@ -128,3 +128,27 @@ msgstr "Desglossament per política"
 
 msgid "Todas las áreas"
 msgstr "Totes les polítiques"
+
+msgid "Políticas concretas"
+msgstr "Detall del Pressupost"
+
+msgid "Educación, protección y bienestar social, cultura... ¿Qué área te interesa?"
+msgstr "Navega per les diferents partides del Pressupost"
+
+msgid "Te mostramos en detalle todos las facturas y pagos efectuados por el Ayuntamiento"
+msgstr "Et mostrem en detall de les despeses facturades a l'Ajuntament"
+
+msgid "¿Cómo se gasta?"
+msgstr "En què es gasta?"
+
+msgid "¿En qué se gasta?"
+msgstr "Per a què es gasta?"
+
+msgid "Gastos del año vigente"
+msgstr "Dades 2015 Liquidades"
+
+msgid "Pago"
+msgstr "Facturat"
+
+msgid "Glosario de términos presupuestarios y financieros"
+msgstr "Glosari de termes pressupostaris i financers"

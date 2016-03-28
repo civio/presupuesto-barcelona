@@ -24,7 +24,7 @@ OVERVIEW_INCOME_NODES = [
                             'nodes': [['11', '115'], ['11', '116'], '13', '29']
                           },
                           {
-                            'label.es': 'Impuestos cedidos (IRPF, VAT y especiales)',
+                            'label.es': 'Impuestos cedidos (IRPF, IVA y especiales)',
                             'label.en': 'Transferred taxes (income tax, VAT and excises)',
                             'label.ca': 'Impostos cedits (IRPF, IVA i especials)',
                             'nodes': ['10', '21', '22']

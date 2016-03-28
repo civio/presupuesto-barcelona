@@ -7087,6 +7087,7 @@ header > .container {
   .navbar-brand {
     position: absolute;
     top: 50%;
+    left: 0;
     width: 100%;
     margin: -0.5em 0 0;
     padding: 0;
@@ -7960,5 +7961,9 @@ table.table-grid tr td .toggle.collapse {
 .modal-content {
   border-radius: 0;
   border: none; }
+
+.payments-content .lead {
+  margin-top: 30px;
+  text-align: center; }
 
 /*# sourceMappingURL=main.css.map */

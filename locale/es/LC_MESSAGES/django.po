@@ -46,7 +46,7 @@ msgid "Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupue
 msgstr "Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupuestos del Ayuntamiento de Barcelona"
 
 msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
-msgstr "¿Cómo y en qué gasta el Ayuntamiento de Barcelona?"
+msgstr "¿De dónde vienen los ingresos? ¿En qué y para qué gasta el Ayuntamiento de Barcelona?"
 
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
 msgstr "Para que tengas una idea general de los ingresos y gastos del Ayuntamiento de Barcelona"
@@ -99,3 +99,27 @@ msgstr "Desglose por política"
 
 msgid "Todas las áreas"
 msgstr "Todas las políticas"
+
+msgid "Políticas concretas"
+msgstr "Detalle del Presupuesto"
+
+msgid "Educación, protección y bienestar social, cultura... ¿Qué área te interesa?"
+msgstr "Navega por las diferentes partidas del Presupuesto"
+
+msgid "Te mostramos en detalle todos las facturas y pagos efectuados por el Ayuntamiento"
+msgstr "Te mostramos el detalle de los gastos facturados al Ayuntamiento"
+
+msgid "Ingresos no financieros (capítulos I-VII) – Gastos no financieros (capítulos I-VII)"
+msgstr "Superávit o déficit  (Ingresos no financieros – Gastos no financieros) en términos SEC"
+
+msgid "¿Cómo se gasta?"
+msgstr "¿En qué se gasta?"
+
+msgid "¿En qué se gasta?"
+msgstr "¿Para qué se gasta?"
+
+msgid "Gastos del año vigente"
+msgstr "Datos 2015 Liquidados"
+
+msgid "Pago"
+msgstr "Facturado"

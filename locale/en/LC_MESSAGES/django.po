@@ -60,7 +60,7 @@ msgid "Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Arag�
 msgstr "Income and expenditure shown include only the Barcelona City Council"
 
 msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
-msgstr "How and where does the Barcelona City Council spend?"
+msgstr "Where do the revenues come from? Where do the expenditure go?"
 
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
 msgstr "To give you a general idea of revenues and expenditures of the Barcelona City Council"
@@ -113,3 +113,39 @@ msgstr "Breakdown by policy"
 
 msgid "Todas las áreas"
 msgstr "All policies"
+
+msgid "Políticas concretas"
+msgstr "Budget detail"
+
+msgid "Educación, protección y bienestar social, cultura... ¿Qué área te interesa?"
+msgstr "Explore the different Budget line-items"
+
+msgid "Te mostramos en detalle todos las facturas y pagos efectuados por el Ayuntamiento"
+msgstr "We show you in detail the expenditures invoiced to the City Council"
+
+msgid "Ingresos no financieros (capítulos I-VII) – Gastos no financieros (capítulos I-VII)"
+msgstr "Budget surplus or déficit (non-financial revenues – non-financial expenditures) in ESA terms"
+
+msgid "¿Cómo se gasta?"
+msgstr "How is it spend?"
+
+msgid "¿En qué se gasta?"
+msgstr "What is the expenditure for?"
+
+msgid "Gastos del año vigente"
+msgstr "Budget Actual Data"
+
+msgid "Pago"
+msgstr "Invoiced"
+
+#: templates/payments/payments_script.html:71
+msgid "Beneficiario"
+msgstr "Supplier"
+
+#: templates/payments/payments_script.html:91
+#: templates/payments/payments_search.html:31
+msgid "Proveedor"
+msgstr "Supplier"
+
+msgid "Glosario de términos presupuestarios y financieros"
+msgstr "Budgetary and financial glossary"
