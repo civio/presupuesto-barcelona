@@ -83,19 +83,22 @@ OVERVIEW_EXPENSE_NODES =  [
                               'label.es': 'Vivienda y urbanismo',
                               'label.en': 'Housing and urban planning',
                               'label.ca': 'Habitatge i urbanisme',
-                              'nodes': ['15', '45']
+                              'nodes': ['15', '45'],
+                              'link_id': '15'
                             },
                             {
                               'label.es': 'Servicios urbanos y medio ambiente',
                               'label.en': 'Urban services and environment',
                               'label.ca': 'Serveis urbans i medi ambient',
-                              'nodes': ['16', '17']
+                              'nodes': ['16', '17'],
+                              'link_id': '16'
                             },
                             {
                               'label.es': 'Servicios sociales y salud',
                               'label.en': 'Social services and health',
                               'label.ca': 'Serveis socials i salut',
-                              'nodes': ['23', '31']
+                              'nodes': ['23', '31'],
+                              'link_id': '23'
                             },
                             {
                               'label.es': 'Educación',
@@ -119,7 +122,8 @@ OVERVIEW_EXPENSE_NODES =  [
                               'label.es': 'Promoción económica y empleo',
                               'label.en': 'Economic promotion and employment',
                               'label.ca': 'Promoció econòmica i ocupació',
-                              'nodes': ['43', ['49', '4931']]
+                              'nodes': ['43', ['49', '4931']],
+                              'link_id': '43'
                             },
                             {
                               'label.es': 'Transporte público',
@@ -143,7 +147,8 @@ OVERVIEW_EXPENSE_NODES =  [
                               'label.es': 'Servicios de carácter general y administración',
                               'label.en': 'General services and administration',
                               'label.ca': 'Serveis de caràcter general i administració',
-                              'nodes': ['21', '92', '93', ['49', '4911']]
+                              'nodes': ['21', '92', '93', ['49', '4911']],
+                              'link_id': '92'
                             }
                           ]
 
