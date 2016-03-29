@@ -152,3 +152,6 @@ msgstr "Facturat"
 
 msgid "Glosario de términos presupuestarios y financieros"
 msgstr "Glosari de termes pressupostaris i financers"
+
+msgid "Los importes mostrados como presupuestados hacen referencia a las previsiones y créditos definitivos del presupuesto"
+msgstr "Els imports mostrats com a pressupostats fan referencia a les previsions i crèdits definitius del pressupost"
