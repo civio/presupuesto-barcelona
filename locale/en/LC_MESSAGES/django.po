@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-03-29 17:26+0200\n"
+"PO-Revision-Date: 2016-03-29 17:30+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -74,7 +74,7 @@ msgstr "The indicators are calculated in terms of the European System of Account
 msgid "Principales proveedores del Gobierno de Aragón"
 msgstr "Main suppliers of the Barcelona City Council"
 
-msgid "Main providers"
+msgid "Principales proveedores"
 msgstr "Main suppliers"
 
 #: templates/search/index.html:244 templates/search/index.html.py:248
