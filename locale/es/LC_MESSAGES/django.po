@@ -126,3 +126,6 @@ msgstr "Facturado"
 
 msgid "Beneficiario"
 msgstr "Proveedor"
+
+msgid "Un proyecto de"
+msgstr "Un proyecto"

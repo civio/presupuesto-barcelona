@@ -155,3 +155,6 @@ msgstr "Budgetary and financial glossary"
 
 msgid "Los importes mostrados como presupuestados hacen referencia a las previsiones y créditos definitivos del presupuesto"
 msgstr "The amounts shown as budgeted are related to the definitive revenue and expenditure estimates"
+
+msgid "Un proyecto de"
+msgstr "A project"

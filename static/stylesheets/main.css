@@ -7200,20 +7200,33 @@ header > .container {
   padding: 30px 0;
   background: white;
   text-align: center; }
-  .main-footer .logo-aragon {
+  .main-footer .credit-aragon {
     font-weight: 300;
     margin-bottom: 30px; }
-    .main-footer .logo-aragon > a {
-      padding-right: 10px;
-      padding-left: 10px;
+    .main-footer .credit-aragon > a {
+      display: inline-block;
+      vertical-align: middle;
+      margin: 0 5px;
+      text-indent: -9999px;
+      overflow: hidden;
+      background-position: 0 0;
+      background-repeat: no-repeat;
+      background-color: transparent;
       -webkit-transition: opacity 0.3s ease-out;
       -o-transition: opacity 0.3s ease-out;
       transition: opacity 0.3s ease-out; }
-      .main-footer .logo-aragon > a:hover {
+      .main-footer .credit-aragon > a:hover {
         opacity: 0.7;
         text-decoration: none; }
-    .main-footer .logo-aragon .img-aragon {
-      margin-top: -4px; }
+      .main-footer .credit-aragon > a.link-civio {
+        width: 107px;
+        height: 30px;
+        background-image: url(../assets/logo-civio.png); }
+      .main-footer .credit-aragon > a.link-aragon {
+        width: 163px;
+        height: 28px;
+        margin-top: -5px;
+        background-image: url(../assets/logoAragonOpenData.png); }
   .main-footer .footer-menu {
     margin: 0;
     padding: 0; }
@@ -7966,7 +7979,15 @@ table.table-grid tr td .toggle.collapse {
   margin-top: 30px;
   text-align: center; }
 
-.main-footer .logo-aragon {
+.main-footer .credit-aragon > a.link-civio {
   display: none; }
+.main-footer .credit-aragon > a.link-aragon {
+  display: inline;
+  text-indent: 0;
+  margin: 0;
+  width: auto;
+  height: auto;
+  background: none;
+  font-weight: 400; }
 
 /*# sourceMappingURL=main.css.map */

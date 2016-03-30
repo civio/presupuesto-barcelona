@@ -158,3 +158,6 @@ msgstr "Els imports mostrats com a pressupostats fan referencia a les previsions
 
 msgid "Beneficiario"
 msgstr "Proveïdor"
+
+msgid "Un proyecto de"
+msgstr "Un projecte"

@@ -207,6 +207,18 @@ table.table-grid tr td .toggle.collapse{
   text-align: center;
 }
 
-.main-footer .logo-aragon{
-  display: none;
+// Remove footer civio link & aragón logo
+.main-footer .credit-aragon > a{
+  &.link-civio{
+    display: none;
+  }
+  &.link-aragon{
+    display: inline;
+    text-indent: 0;
+    margin: 0;
+    width: auto;
+    height: auto;
+    background: none;
+    font-weight: $font-weight-400;
+  }
 }
