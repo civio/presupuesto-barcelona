@@ -129,3 +129,9 @@ msgstr "Proveedor"
 
 msgid "Un proyecto de"
 msgstr "Un proyecto"
+
+msgid "Políticas"
+msgstr "Detalle del Presupuesto"
+
+msgid "Volver a Políticas"
+msgstr "Volver al detalle del Presupuesto"

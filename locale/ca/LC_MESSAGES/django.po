@@ -161,3 +161,9 @@ msgstr "Proveïdor"
 
 msgid "Un proyecto de"
 msgstr "Un projecte"
+
+msgid "Políticas"
+msgstr "Detall del Pressupost"
+
+msgid "Volver a Políticas"
+msgstr "Tornar al detall del Pressupost"

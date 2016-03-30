@@ -7990,4 +7990,7 @@ table.table-grid tr td .toggle.collapse {
   background: none;
   font-weight: 400; }
 
+.policies-header .history-back a {
+  max-width: 260px; }
+
 /*# sourceMappingURL=main.css.map */

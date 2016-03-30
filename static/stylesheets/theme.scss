@@ -222,3 +222,8 @@ table.table-grid tr td .toggle.collapse{
     font-weight: $font-weight-400;
   }
 }
+
+// Make back btn wider
+.policies-header .history-back a{
+  max-width: 260px;
+}

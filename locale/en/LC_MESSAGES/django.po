@@ -158,3 +158,9 @@ msgstr "The amounts shown as budgeted are related to the definitive revenue and 
 
 msgid "Un proyecto de"
 msgstr "A project"
+
+msgid "Políticas"
+msgstr "Budget detail"
+
+msgid "Volver a Políticas"
+msgstr "Back to Budget detail"
