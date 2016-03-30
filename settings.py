@@ -15,7 +15,8 @@ OVERVIEW_INCOME_NODES = [
                             'label.es': 'Impuesto sobre bienes inmuebles (IBI)',
                             'label.en': 'Property tax (IBI)',
                             'label.ca': 'Impost sobre béns immobles (IBI)',
-                            'nodes': [['11', '113'], ['11', '114']]
+                            'nodes': [['11', '113'], ['11', '114']],
+                            'link_id': '11'
                           },
                           {
                             'label.es': 'Otros impuestos locales propios (plusvalía, IAE, circulación y ICIO)',
@@ -39,7 +40,8 @@ OVERVIEW_INCOME_NODES = [
                             'label.es': 'Transferencias corrientes del estado',
                             'label.en': 'Current transfers from Spanish central government',
                             'label.ca': 'Transferències corrents de l\'estat',
-                            'nodes': '42'
+                            'nodes': '42',
+                            'link_id': '42'
                           },
                           {
                             'label.es': 'Transferencias corrientes de comunidades autónomas, entes locales y otros',
