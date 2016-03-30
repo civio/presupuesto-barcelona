@@ -21,7 +21,7 @@ OVERVIEW_INCOME_NODES = [
                           {
                             'label.es': 'Otros impuestos locales propios (plusvalía, IAE, circulación y ICIO)',
                             'label.en': 'Other own local taxes (capital gains, IAE, road tax and ICIO)',
-                            'label.ca': 'Resta d\'impostos locals propis (plusvàlua, IAE, circulació y ICIO)',
+                            'label.ca': 'Resta d\'impostos locals propis (plusvàlua, IAE, circulació i ICIO)',
                             'nodes': [['11', '115'], ['11', '116'], '13', '29']
                           },
                           {

@@ -136,7 +136,7 @@ msgid "¿En qué se gasta?"
 msgstr "What is the expenditure for?"
 
 msgid "Gastos del año vigente"
-msgstr "Budget Actual Data"
+msgstr "Budget 2015 Actual Data"
 
 msgid "Pago"
 msgstr "Invoiced"
@@ -164,3 +164,6 @@ msgstr "Budget detail"
 
 msgid "Volver a Políticas"
 msgstr "Back to Budget detail"
+
+msgid "millones"
+msgstr "million"

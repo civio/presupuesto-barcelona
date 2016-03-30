@@ -167,3 +167,6 @@ msgstr "Detall del Pressupost"
 
 msgid "Volver a Políticas"
 msgstr "Tornar al detall del Pressupost"
+
+msgid "millones"
+msgstr "milions"
