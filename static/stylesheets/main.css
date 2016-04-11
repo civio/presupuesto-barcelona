@@ -7993,4 +7993,13 @@ table.table-grid tr td .toggle.collapse {
 .policies-header .history-back a {
   max-width: 260px; }
 
+.policy-description {
+  font-size: 1em;
+  padding: 15px 20px;
+  margin-top: 15px;
+  margin-right: 20px;
+  margin-left: 80px;
+  margin-bottom: 0;
+  background: #F2F2F2; }
+
 /*# sourceMappingURL=main.css.map */
