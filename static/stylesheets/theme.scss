@@ -231,10 +231,14 @@ table.table-grid tr td .toggle.collapse{
 // Define policy description styles
 .policy-description{
   font-size: 1em;
-  padding: $grid-gutter-width/2 2*$grid-gutter-width/3;
+  padding: $grid-gutter-width/3 2*$grid-gutter-width/3;
   margin-top: $grid-gutter-width/2;
   margin-right: 2*$grid-gutter-width/3;
   margin-left: 80px;
   margin-bottom: 0;
   background: $brand-secondary;
+
+  a{
+    font-weight: $font-weight-600;
+  }
 }

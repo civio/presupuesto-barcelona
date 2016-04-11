@@ -7995,11 +7995,13 @@ table.table-grid tr td .toggle.collapse {
 
 .policy-description {
   font-size: 1em;
-  padding: 15px 20px;
+  padding: 10px 20px;
   margin-top: 15px;
   margin-right: 20px;
   margin-left: 80px;
   margin-bottom: 0;
   background: #F2F2F2; }
+  .policy-description a {
+    font-weight: 600; }
 
 /*# sourceMappingURL=main.css.map */
