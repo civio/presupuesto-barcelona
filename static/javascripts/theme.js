@@ -15,22 +15,22 @@ $(document).ready(function(){
       'link': 'http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-de-deute-p%C3%Bablic',
       'linkText': linkTextCA
     },
-    "/ca/politicas/13/": {
+    "/ca/politicas/13": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-de-seguretat-i-mobilitat",
       'linkText': linkTextCA
     },
-    "/es/politicas/13/": {
+    "/es/politicas/13": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/es/pol%C3%ADtica-de-despesa-de-seguretat-i-mobilitat",
       'linkText': linkTextES
     },
-    "/ca/politicas/15/": {
+    "/ca/politicas/15": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-dhabitatge-i-urbanisme",
       'linkText': linkTextCA
     },
-    "/es/politicas/15/": {
+    "/es/politicas/15": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/es/pol%C3%ADtica-de-gasto-de-bienestar-comunitario-servicios-urbanos",
       'linkText': linkTextES
@@ -45,22 +45,22 @@ $(document).ready(function(){
       'link': 'http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-de-benestar-comunitari-serveis-urbans',
       'linkText': linkTextCA
     },
-    "/ca/politicas/17/": {
+    "/ca/politicas/17": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-de-medi-ambient",
       'linkText': linkTextCA
     },
-    "/es/politicas/17/": {
+    "/es/politicas/17": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/es/pol%C3%ADtica-de-gasto-de-medio-ambiente",
       'linkText': linkTextES
     },
-    "/ca/politicas/21/": {
+    "/ca/politicas/21": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-de-pensions",
       'linkText': linkTextCA
     },
-    "/es/politicas/21/": {
+    "/es/politicas/21": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/es/pol%C3%ADtica-de-despesa-de-pensions",
       'linkText': linkTextES
@@ -75,12 +75,12 @@ $(document).ready(function(){
       'link': 'http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-de-serveis-socials-i-promoci%C3%B3-social',
       'linkText': linkTextCA
     },
-    "/ca/politicas/31/": {
+    "/ca/politicas/31": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-de-salut",
       'linkText': linkTextCA
     },
-    "/es/politicas/31/": {
+    "/es/politicas/31": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/es/pol%C3%ADtica-de-despesa-de-salut",
       'linkText': linkTextES
@@ -95,12 +95,12 @@ $(document).ready(function(){
       'link': 'http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-deducaci%C3%B3',
       'linkText': linkTextCA
     },
-    "/ca/politicas/33/": {
+    "/ca/politicas/33": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-de-cultura",
       'linkText': linkTextCA
     },
-    "/es/politicas/33/": {
+    "/es/politicas/33": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/es/pol%C3%ADtica-de-despesa-de-cultura",
       'linkText': linkTextES
@@ -135,52 +135,52 @@ $(document).ready(function(){
       'link': 'http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-de-transport-p%C3%Bablic',
       'linkText': linkTextCA
     },
-    "/ca/politicas/49/": {
+    "/ca/politicas/49": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-daltres-actuacions-de-car%C3%A0cter-econ%C3%B2mic",
       'linkText': linkTextCA
     },
-    "/es/politicas/49/": {
+    "/es/politicas/49": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/es/pol%C3%ADtica-de-despesa-daltres-actuacions-de-car%C3%A0cter-econ%C3%B2mic",
       'linkText': linkTextES
     },
-    "/ca/politicas/91/": {
+    "/ca/politicas/91": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-d%C3%B2rgans-de-govern",
       'linkText': linkTextCA
     },
-    "/es/politicas/91/": {
+    "/es/politicas/91": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/es/pol%C3%ADtica-de-despesa-d%C3%B2rgans-de-govern",
       'linkText': linkTextES
     },
-    "/ca/politicas/92/": {
+    "/ca/politicas/92": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-de-serveis-de-car%C3%A0cter-general",
       'linkText': linkTextCA
     },
-    "/es/politicas/92/": {
+    "/es/politicas/92": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/es/pol%C3%ADtica-de-despesa-de-serveis-de-car%C3%A0cter-general",
       'linkText': linkTextES
     },
-    "/ca/politicas/93/": {
+    "/ca/politicas/93": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-dadministraci%C3%B3-financera-i-tribut%C3%A0ria",
       'linkText': linkTextCA
     },
-    "/es/politicas/93/": {
+    "/es/politicas/93": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/es/pol%C3%ADtica-de-despesa-dadministraci%C3%B3-financera-i-tribut%C3%A0ria",
       'linkText': linkTextES
     },
-    "/ca/politicas/94/": {
+    "/ca/politicas/94": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/ca/pol%C3%ADtica-de-despesa-de-transfer%C3%A8ncies-altres-administracions",
       'linkText': linkTextCA
     },
-    "/es/politicas/94/": {
+    "/es/politicas/94": {
       'text': '',
       'link': "http://governobert.bcn.cat/estrategiaifinances/es/pol%C3%ADtica-de-despesa-de-transfer%C3%A8ncies-altres-administracions",
       'linkText': linkTextES
