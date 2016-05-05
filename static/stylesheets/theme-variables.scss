@@ -71,12 +71,13 @@ $dvmi-menu-length: 4;  // Number of items in main menu
 
 // Navbar background color
 $navbar-default-bg: $brand-primary;
+$navbar-default-bg-hover: darken( $navbar-default-bg, 3% );
 
 // Navbar options text color
-$dvmi-navbar-color: mix( $brand-primary, white, 10% );
+$dvmi-navbar-color: mix( $brand-primary, white, 5% );
 
 $navbar-default-link-active-color:    white;
-$navbar-default-link-active-bg:       mix( $navbar-default-bg, white, 75% );
+$navbar-default-link-active-bg:       darken( $navbar-default-bg, 4% );
 
 
 // Popover

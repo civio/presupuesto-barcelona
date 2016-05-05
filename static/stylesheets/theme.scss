@@ -1,7 +1,7 @@
 // Btns
 .btn-default:hover{
-  border-color: mix( $brand-primary, white, 75% );
-  background: mix( $brand-primary, white, 75% );
+  border-color: darken( $brand-primary, 5% );
+  background: darken( $brand-primary, 5% );
 }
 
 // Icons
@@ -145,8 +145,8 @@ header > .container{
   border-color: $brand-primary;
 
   &:hover{
-    background-color: mix( $brand-primary, white, 75% );
-    border-color: mix( $brand-primary, white, 75% );
+    background-color: darken( $brand-primary, 5% );
+    border-color: darken( $brand-primary, 5% );
   }
 }
 .glossary-terms h3, 
