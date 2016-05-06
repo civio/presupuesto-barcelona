@@ -224,4 +224,6 @@ MAIN_ENTITY_LEGAL_URL   = 'http://ajuntament.barcelona.cat/es/aviso-legal'
 COOKIES_URL             = 'http://www.barcelona.cat/es/cookies.html'
 
 # Allow overriding of default treemap color scheme
-COLOR_SCALE = [ '#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#e7969c', '#bcbd22', '#17becf' ]
+#COLOR_SCALE = [ '#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#e7969c', '#bcbd22', '#17becf' ]
+
+COLOR_SCALE = [ '#1f77b4', '#ee6f00', '#2ca02c', '#d62728', '#8350b2', '#8c564b', '#d944ac', '#d74a54', '#8c8c19', '#118996' ]
