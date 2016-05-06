@@ -7010,16 +7010,19 @@ table.table-grid {
       width: 22px;
       margin-top: 1px;
       margin-right: 10px;
-      background-color: #33b0af;
+      color: white;
+      background-color: #555555;
       background-position: center center;
       background-repeat: no-repeat;
-      cursor: pointer; }
+      cursor: pointer;
+      text-align: center;
+      font-size: 26px;
+      line-height: 22px;
+      font-weight: 300; }
       table.table-grid tr td .toggle.expand:hover, table.table-grid tr td .toggle.collapse:hover {
         background-color: #009C9B; }
-    table.table-grid tr td .toggle.expand {
-      background-image: url(../assets/slick/expand.png); }
     table.table-grid tr td .toggle.collapse {
-      background-image: url(../assets/slick/collapse.png); }
+      line-height: 18px; }
   table.table-grid tr:last-child td {
     border-bottom: none; }
   table.table-grid tr.indent-1 td,
@@ -7990,7 +7993,7 @@ header > .container {
 
 table.table-grid tr td .toggle.expand,
 table.table-grid tr td .toggle.collapse {
-  background-color: #9b9b9b; }
+  background-color: #666666; }
 
 .form-search-glossary .btn-default:before,
 .form-search .form-inline .btn:before {
