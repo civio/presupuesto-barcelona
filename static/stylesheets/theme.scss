@@ -25,13 +25,70 @@ header > .container{
   height: 110px;  // We need to setup header height because we remove logo
 }
 
-.navbar-default .navbar-nav{
-  [class*="icon-"]:before{
-    display: none;
+.navbar-brand{
+  font-weight: $font-weight-200;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.navbar-default{
+  background: none;
+
+  .navbar-nav{
+  
+    [class*="icon-"]:before{
+      display: none;
+    }
+
+    > li > a{
+      text-transform: uppercase;
+      background: $navbar-default-bg;
+      font-weight: $font-weight-400;
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
   }
 
-  > li > a{
-    text-transform: uppercase;
+  .navbar-toggle{
+    position: absolute;
+    top: -60px;
+    left: $grid-gutter-width/2;
+    width: 60px;
+    height: 60px;
+    text-indent: -9999px;
+    overflow: hidden;
+    background: url(/static/assets/icon-menu.png) no-repeat center center transparent;
+
+    &:hover{
+      background-color: $brand-secondary;
+    }
+
+  }
+}
+
+@media (min-width: $screen-sm-min) {
+  .navbar-default .navbar-nav{
+    padding-left: $navbar-height;
+
+    > li.page-home{
+      width: $navbar-height;
+      margin-left: -$navbar-height;
+      
+      > a{
+        text-indent: -9999px;
+        overflow: hidden;
+        background: url(/static/assets/icon-home.png) no-repeat center center $brand-primary;
+      }
+    }
+  }
+}
+
+.form-search{
+  background: none;
+  
+  .form-inline {
+    //background: $brand-secondary;
+    padding: $grid-gutter-width/2 0;
   }
 }
 

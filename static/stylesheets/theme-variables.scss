@@ -62,6 +62,8 @@ $main-entity-logo-height:  200px;
 // Navbar
 // -------------
 
+$navbar-height: 40px;
+
 $navbar-border-radius: 0;
 
 // Point at which the navbar becomes uncollapsed
@@ -70,14 +72,14 @@ $navbar-border-radius: 0;
 $dvmi-menu-length: 4;  // Number of items in main menu
 
 // Navbar background color
-$navbar-default-bg: $brand-primary;
-$navbar-default-bg-hover: darken( $navbar-default-bg, 3% );
+$navbar-default-bg:             $brand-secondary;
+$navbar-default-bg-hover:       $brand-primary;
 
 // Navbar options text color
-$dvmi-navbar-color: mix( $brand-primary, white, 5% );
+$dvmi-navbar-color:             $text-color;
 
 $navbar-default-link-active-color:    white;
-$navbar-default-link-active-bg:       darken( $navbar-default-bg, 4% );
+$navbar-default-link-active-bg:       $brand-primary;
 
 
 // Popover
