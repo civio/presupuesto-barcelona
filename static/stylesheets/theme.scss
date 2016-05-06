@@ -68,6 +68,11 @@ header > .container{
 }
 
 // Home
+
+.home-content .expense-examples li a{
+  color: $text-color;
+}
+
 .home-content .options{
   background: $brand-secondary;
 
@@ -110,7 +115,7 @@ header > .container{
     }
     .desc{
       font-size: 1em;
-      background: $gray-light;
+      background: $gray;
 
       b{
         font-weight: $font-weight-400;

@@ -7912,6 +7912,9 @@ header > .container {
     .panel-downloads a:hover {
       color: #666666; }
 
+.home-content .expense-examples li a {
+  color: #666666; }
+
 .home-content .options {
   background: #F2F2F2; }
   .home-content .options .option > div .option-title:hover h3 {
@@ -7939,7 +7942,7 @@ header > .container {
       font-weight: 400; }
     .budget-intro .budget-step .desc {
       font-size: 1em;
-      background: #777777; }
+      background: #555555; }
       .budget-intro .budget-step .desc b {
         font-weight: 400; }
 
