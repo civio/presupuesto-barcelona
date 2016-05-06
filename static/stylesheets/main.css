@@ -8049,16 +8049,26 @@ table.table-grid tr td .toggle.collapse {
   margin-top: 30px;
   text-align: center; }
 
-.main-footer .credit-aragon > a.link-civio {
-  display: none; }
-.main-footer .credit-aragon > a.link-aragon {
-  display: inline;
-  text-indent: 0;
-  margin: 0;
-  width: auto;
-  height: auto;
-  background: none;
-  font-weight: 400; }
+.main-footer .credit-aragon {
+  text-align: right; }
+  .main-footer .credit-aragon > a.link-civio {
+    display: none; }
+  .main-footer .credit-aragon > a.link-aragon {
+    display: inline;
+    text-indent: 0;
+    margin: 0;
+    width: auto;
+    height: auto;
+    background: none;
+    font-weight: 400; }
+.main-footer .footer-menu li {
+  float: right;
+  margin-left: 10px;
+  margin-right: 0;
+  padding-left: 10px;
+  padding-right: 0;
+  border-left: 1px solid #eeeeee;
+  border-right: none; }
 
 .policies-header .history-back a {
   max-width: 260px; }

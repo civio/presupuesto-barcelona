@@ -270,18 +270,36 @@ table.table-grid tr td .toggle.collapse{
 }
 
 // Remove footer civio link & aragón logo
-.main-footer .credit-aragon > a{
-  &.link-civio{
-    display: none;
+.main-footer{
+
+
+  .credit-aragon{
+    text-align: right;
+
+    > a{
+      &.link-civio{
+        display: none;
+      }
+      &.link-aragon{
+        display: inline;
+        text-indent: 0;
+        margin: 0;
+        width: auto;
+        height: auto;
+        background: none;
+        font-weight: $font-weight-400;
+      }
+    }
   }
-  &.link-aragon{
-    display: inline;
-    text-indent: 0;
-    margin: 0;
-    width: auto;
-    height: auto;
-    background: none;
-    font-weight: $font-weight-400;
+
+  .footer-menu li {
+    float: right;
+    margin-left: 10px;
+    margin-right: 0;
+    padding-left: 10px;
+    padding-right: 0;
+    border-left: 1px solid $gray-lighter;
+    border-right: none;
   }
 }
 
