@@ -199,6 +199,16 @@ header > .container{
   font-weight: $font-weight-400;
 }
 
+.data-controllers .slider.slider-horizontal .slider-tick-label{
+  vertical-align: top;
+  line-height: 1em;
+  margin-top: 4px;
+
+  small{
+    font-size: 90%;
+  }
+}
+
 // Policies
 .policies-chart{
   background: white;

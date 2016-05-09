@@ -8000,6 +8000,13 @@ header > .container {
   display: none;
   font-weight: 400; }
 
+.data-controllers .slider.slider-horizontal .slider-tick-label {
+  vertical-align: top;
+  line-height: 1em;
+  margin-top: 4px; }
+  .data-controllers .slider.slider-horizontal .slider-tick-label small {
+    font-size: 90%; }
+
 .policies-chart {
   background: white; }
 
