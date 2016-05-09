@@ -7952,8 +7952,15 @@ header > .container {
     .panel-downloads a:hover {
       color: #666666; }
 
-.home-content .expense-examples li a {
-  color: #666666; }
+.home-content .home-intro,
+.home-content .expense-examples {
+  padding-top: 30px; }
+
+.home-content .expense-examples li {
+  color: #009C9B;
+  background: #F2F2F2; }
+  .home-content .expense-examples li a {
+    color: #009C9B; }
 
 .home-content .options {
   background: #F2F2F2; }

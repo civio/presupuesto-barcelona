@@ -126,8 +126,18 @@ header > .container{
 
 // Home
 
-.home-content .expense-examples li a{
-  color: $text-color;
+.home-content .home-intro,
+.home-content .expense-examples{
+  padding-top: $grid-gutter-width;
+}
+
+.home-content .expense-examples li{
+  color: $brand-primary;
+  background: $brand-secondary;
+  
+  a{
+    color: $brand-primary;
+  }
 }
 
 .home-content .options{
