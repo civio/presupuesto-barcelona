@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-05-11 00:24+0200\n"
+"PO-Revision-Date: 2016-05-11 01:33+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: ca\n"
@@ -171,6 +171,9 @@ msgstr "Glosari de termes pressupostaris i financers"
 
 msgid "Los importes mostrados como presupuestados hacen referencia a las previsiones y créditos definitivos del presupuesto"
 msgstr "Els imports mostrats com a pressupostats fan referencia a les previsions i crèdits definitius del pressupost"
+
+msgid "Los datos de gastos por políticas, programas y subprogramas han sido homogeneizados de acuerdo con la estructura presupuestaria por programas vigente."
+msgstr "Les dades de despeses per polítiques, programes i subprogrames han estat homogeneïtzades d'acord amb l'estructura pressupostària per programes vigent."
 
 msgid "Beneficiario"
 msgstr "Proveïdor"

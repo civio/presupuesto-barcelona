@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-05-11 00:24+0200\n"
+"PO-Revision-Date: 2016-05-11 01:33+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -171,6 +171,9 @@ msgstr "Budgetary and financial glossary"
 
 msgid "Los importes mostrados como presupuestados hacen referencia a las previsiones y créditos definitivos del presupuesto"
 msgstr "The amounts shown as budgeted are related to the definitive revenue and expenditure estimates"
+
+msgid "Los datos de gastos por políticas, programas y subprogramas han sido homogeneizados de acuerdo con la estructura presupuestaria por programas vigente."
+msgstr "The expenditure data by policy, program and subprogram have been homogenized according to the current budget program structure/classification."
 
 msgid "Un proyecto de"
 msgstr "A project"
