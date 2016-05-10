@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-05-10 23:16+0200\n"
+"PO-Revision-Date: 2016-05-10 23:42+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -21,18 +21,30 @@ msgstr ""
 msgid "Ahorro corriente / Ingresos corrientes"
 msgstr "Current savings / Current revenues"
 
+msgid "(Ingresos corrientes – Gastos corrientes) / Ingresos corrientes"
+msgstr "(Ingressos corrents – Despeses corrents) / Ingressos corrents"
+
 #: templates/budgets/budgets_indicators.html:19
 #: templates/budgets/budgets_indicators.html:26
 msgid "Deuda viva"
 msgstr "Debt"
 
+msgid "Importe de deuda viva a 31 de diciembre"
+msgstr "Debt stock at December 31"
+
 #: templates/budgets/budgets_indicators.html:26
 msgid "Ingresos corrientes"
 msgstr "Current revenues"
 
+msgid "Indica la importancia relativa de la deuda y la capacidad económica del Ayuntamiento para devolverla"
+msgstr "Shows the relative importance of the debt stock and the payback capacity of the City Council"
+
 #: templates/budgets/budgets_indicators.html:33
 msgid "Remanente de tesorería"
 msgstr "Treasury Surplus"
+
+msgid "Es una magnitud de naturaleza financiera que representa el excedente de liquidez a corto plazo en términos netos (excluyendo derechos de difícil cobro y ajustes de financiación afectada)"
+msgstr "A financial magnitude which shows the net short-term liquidity excess (excluding doubtful debts and adjustments for earmarked accounts)"
 
 #: templates/budgets/budgets_indicators.html:40
 msgid "Remanente de tesorería para gastos generales"

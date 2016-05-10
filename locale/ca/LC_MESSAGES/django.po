@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-05-10 23:17+0200\n"
+"PO-Revision-Date: 2016-05-10 23:42+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: ca\n"
@@ -33,18 +33,30 @@ msgstr "Capacitat o necessitat de finançament"
 msgid "Ahorro corriente / Ingresos corrientes"
 msgstr "Estalvi corrent / Ingressos corrents"
 
+msgid "(Ingresos corrientes – Gastos corrientes) / Ingresos corrientes"
+msgstr "(Ingressos corrents – Despeses corrents) / Ingressos corrents"
+
 #: templates/budgets/budgets_indicators.html:19
 #: templates/budgets/budgets_indicators.html:26
 msgid "Deuda viva"
 msgstr "Deute viu"
 
+msgid "Importe de deuda viva a 31 de diciembre"
+msgstr "Import de deute viu a 31 de desembre"
+
 #: templates/budgets/budgets_indicators.html:26
 msgid "Ingresos corrientes"
 msgstr "Ingressos corrents"
 
+msgid "Indica la importancia relativa de la deuda y la capacidad económica del Ayuntamiento para devolverla"
+msgstr "Indica la importància relativa del deute i la capacitat econòmica de l'Ajuntament per a retornar-lo"
+
 #: templates/budgets/budgets_indicators.html:33
 msgid "Remanente de tesorería"
 msgstr "Romanent de tresoreria"
+
+msgid "Es una magnitud de naturaleza financiera que representa el excedente de liquidez a corto plazo en términos netos (excluyendo derechos de difícil cobro y ajustes de financiación afectada)"
+msgstr "És una magnitud de naturalesa financera que representa l’excedent de liquiditat a curt termini en termes nets (excloent drets de difícil cobrament i ajustos de finançament afectat)"
 
 #: templates/budgets/budgets_indicators.html:40
 msgid "Remanente de tesorería para gastos generales"
