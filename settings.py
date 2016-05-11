@@ -154,6 +154,10 @@ OVERVIEW_EXPENSE_NODES =  [
                             }
                           ]
 
+# How much padding between Sankey nodes. Default: 10 (Optional)
+# Note: higher values will result in a more 'curvy accordion'.
+OVERVIEW_NODE_PADDING = 15
+
 # How aggresive should the Sankey diagram reorder the nodes. Default: 0.79 (Optional)
 # Note: 0.5 usually leaves nodes ordered as defined. 0.95 sorts by size (decreasing).
 OVERVIEW_RELAX_FACTOR = 0.5
