@@ -15,6 +15,15 @@ class BarcelonaPaymentsLoader(PaymentsLoader):
         programme_id = line[2].strip()
         programme = Budget.objects.get_all_descriptions(budget.entity)['functional'][programme_id]
 
+        # We've been asked to clarify the description of the anonymized payee
+        payee = self._titlecase(line[4].strip())
+        if payee == 'Anonimitzat':
+            payee = {
+                'ca': 'Anonimitzat (per compliment normativa protecció de dades personals)',
+                'es': 'Anonimizado (por cumplimento normativa protección de datos personales)',
+                'en': 'Anonimized (to comply with data protection regulations)'
+            }[budget.entity.language]
+
         return {
             'area': area,
             'programme': programme,
@@ -22,7 +31,7 @@ class BarcelonaPaymentsLoader(PaymentsLoader):
             'ec_code': None,
             'date': None,
             'contract_type': None,
-            'payee': self._titlecase(line[4].strip()),
+            'payee': payee,
             'description': self._spanish_titlecase(line[5].strip()),
             'amount': self._read_english_number(line[6])
         }
