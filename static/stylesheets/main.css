@@ -6226,6 +6226,48 @@ label {
   margin-bottom: 30px;
   font-size: 1.125em; }
 
+#cookie-bar {
+  font-size: 13px;
+  height: auto;
+  line-height: 23px;
+  text-align: center;
+  padding: 4px 0;
+  background: #eeeeee; }
+
+#cookie-bar.fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%; }
+
+#cookie-bar.fixed.bottom {
+  bottom: 0;
+  top: auto; }
+
+#cookie-bar p {
+  margin: 0;
+  padding: 0; }
+
+#cookie-bar a {
+  color: #009C9B;
+  display: inline-block;
+  padding: 0 6px;
+  margin-left: 8px;
+  font-weight: bold; }
+  #cookie-bar a:hover {
+    text-decoration: underline; }
+
+#cookie-bar .cb-enable {
+  color: white;
+  background: #009C9B;
+  text-decoration: none; }
+
+#cookie-bar .cb-enable:hover {
+  color: #009C9B;
+  outline: 1px solid #009C9B;
+  background: transparent;
+  text-decoration: none; }
+
 .sankey .link,
 .sankey .link-execution {
   -webkit-transition: stroke-opacity 0.3s ease-out;
