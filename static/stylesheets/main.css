@@ -7896,6 +7896,10 @@ header > .container {
   margin-left: 60px;
   margin-right: 60px; }
 
+@media (min-width: 768px) {
+  .navbar-brand {
+    margin-right: 0;
+    margin-left: 0; } }
 .navbar-default {
   background: none; }
   .navbar-default .navbar-nav [class*="icon-"]:before {
