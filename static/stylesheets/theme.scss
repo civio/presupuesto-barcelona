@@ -304,34 +304,33 @@ table.table-grid tr td .toggle.collapse{
 // Remove footer civio link & aragón logo
 .main-footer{
 
+  .footer-menu li {
+    line-height: 1.5em;
+    margin-right: $grid-gutter-width/2;
+    margin-left: 0;
+    margin-bottom: 0;
+    padding-right: $grid-gutter-width/2;
+    padding-left: 0;
+    border-right: 1px solid $gray-lighter;
+    border-left: none;
 
-  .credit-aragon{
-    text-align: right;
+    a{
+      color: $brand-primary;
+    }
 
-    > a{
-      &.link-civio{
-        display: none;
-      }
-      &.link-aragon{
-        display: inline;
-        text-indent: 0;
-        margin: 0;
-        width: auto;
-        height: auto;
-        background: none;
-        font-weight: $font-weight-400;
-      }
+    &:first-child a{
+      color: $text-color;
+    }
+    &:last-child{
+      margin-right: 0;
+      paddign-right: 0;
     }
   }
+}
 
-  .footer-menu li {
+@media (min-width: $screen-sm-min) {
+  .main-footer .footer-menu{
     float: right;
-    margin-left: 10px;
-    margin-right: 0;
-    padding-left: 10px;
-    padding-right: 0;
-    border-left: 1px solid $gray-lighter;
-    border-right: none;
   }
 }
 

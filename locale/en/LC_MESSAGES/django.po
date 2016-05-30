@@ -186,3 +186,9 @@ msgstr "Back to Budget detail"
 
 msgid "millones"
 msgstr "million"
+
+msgid "Contacto"
+msgstr "Contact"
+
+msgid "Accesibilidad"
+msgstr "Accesibility"

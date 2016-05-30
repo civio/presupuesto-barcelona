@@ -189,3 +189,9 @@ msgstr "Tornar al detall del Pressupost"
 
 msgid "millones"
 msgstr "milions"
+
+msgid "Contacto"
+msgstr "Contacta"
+
+msgid "Accesibilidad"
+msgstr "Accessibilitat"

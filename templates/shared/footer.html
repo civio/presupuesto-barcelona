@@ -1,0 +1,31 @@
+<footer class="main-footer">
+  
+  <div class="container">
+    <ul class="footer-menu">
+      <!-- Link a la Web del Ayuntamiento -->
+      <li>
+        <a href="{{ main_entity_web_url }}" title="{{ _('Gobierno de Aragón') }}" target="_blank">{{ _('Gobierno de Aragón') }}</a>
+      </li>
+      <!-- Link a Contacto del Ayuntamiento -->
+      <li>
+        <a href="http://w10.bcn.cat/APPS/irsconsultesWeb/entrada.consultes.do" title="{{ _('Contacto') }}" target="_blank">{{ _('Contacto') }}</a>
+      </li>
+      <!-- Link al Aviso Legal del Ayuntamiento -->
+      {% if main_entity_legal_url %}
+      <li>
+        <a href="{{ main_entity_legal_url }}" title="{{ _('Aviso Legal') }}" target="_blank">{{ _('Aviso Legal') }}</a>
+      </li>
+      {% endif %}
+      <!-- Link a la Política de Privacidad del Ayuntamiento -->
+      {% if main_entity_privacy_url %}
+      <li>
+        <a href="{{ main_entity_privacy_url }}" title="{{ _('Política de Privacidad') }}" target="_blank">{{ _('Política de Privacidad') }}</a>
+      </li>
+      {% endif %}
+      <!-- Link a Accesibilidad del Ayuntamiento -->
+      <li>
+        <a href="http://ajuntament.barcelona.cat/accessibilitat/es" title="{{ _('Accesibilidad') }}" target="_blank">{{ _('Accesibilidad') }}</a>
+      </li>
+    </ul>
+  </div>
+</footer>
