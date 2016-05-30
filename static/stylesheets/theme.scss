@@ -296,6 +296,11 @@ table.table-grid tr td .toggle.collapse{
   text-align: center;
 }
 
+// Increment stacked area chart legend font-size
+.stacked-area-chart-legend .label {
+  font-size: 0.938em;
+}
+
 // Remove footer civio link & aragón logo
 .main-footer{
 
