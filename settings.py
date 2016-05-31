@@ -8,6 +8,10 @@ MAIN_ENTITY_NAME = 'Barcelona'
 BUDGET_LOADER = 'BarcelonaBudgetLoader'
 PAYMENTS_LOADER = 'BarcelonaPaymentsLoader'
 
+# Number of programmes to feature in home page. Default: 3
+NUMBER_OF_FEATURED_PROGRAMMES = 1
+
+# List of programmes to feature
 FEATURED_PROGRAMMES = ['1532', '2313', '3291', '3321', '3371', '4411', '1711', '1631', '1321', '4314']
 
 OVERVIEW_INCOME_NODES = [
