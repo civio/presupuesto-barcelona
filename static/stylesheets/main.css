@@ -7952,6 +7952,15 @@ header > .container {
     font-weight: 400;
     padding-top: 10px;
     padding-bottom: 10px; }
+  .navbar-default .navbar-nav > li.page-external > a {
+    font-style: italic;
+    font-weight: 600;
+    text-transform: none;
+    font-size: 1.25em;
+    letter-spacing: -0.03em;
+    color: #007b7b; }
+    .navbar-default .navbar-nav > li.page-external > a:hover, .navbar-default .navbar-nav > li.page-external > a:focus {
+      color: white; }
   .navbar-default .navbar-toggle {
     position: absolute;
     top: -60px;
@@ -7967,6 +7976,8 @@ header > .container {
 @media (min-width: 768px) {
   .navbar-default .navbar-nav {
     padding-left: 40px; }
+    .navbar-default .navbar-nav > li {
+      width: 20%; }
     .navbar-default .navbar-nav > li.page-home {
       width: 40px;
       margin-left: -40px; }
