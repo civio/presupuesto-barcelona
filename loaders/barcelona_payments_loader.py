@@ -19,9 +19,9 @@ class BarcelonaPaymentsLoader(PaymentsLoader):
         payee = self._titlecase(line[4].strip())
         if payee == 'Anonimitzat':
             payee = {
-                'ca': 'Anonimitzat (per compliment normativa protecció de dades personals)',
-                'es': 'Anonimizado (por cumplimento normativa protección de datos personales)',
-                'en': 'Anonimized (to comply with data protection regulations)'
+                'ca': 'Persones físiques (anonimitzat per compliment normativa protecció de dades personals)',
+                'es': 'Personas físicas (anonimizado por cumplimento normativa protección de datos personales)',
+                'en': 'Individuals (anonimized to comply with data protection regulations)'
             }[budget.entity.language]
 
         return {
