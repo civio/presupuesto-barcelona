@@ -74,12 +74,6 @@ OVERVIEW_INCOME_NODES = [
                         ]
 OVERVIEW_EXPENSE_NODES =  [
                             {
-                              'label.es': 'Deuda',
-                              'label.en': 'Public debt',
-                              'label.ca': 'Deute',
-                              'nodes': '01'
-                            },
-                            {
                               'label.es': 'Seguridad y mobilidad ciudadana',
                               'label.en': 'Security and citizen mobility',
                               'label.ca': 'Seguretat i mobilitat ciutadana',
@@ -155,6 +149,12 @@ OVERVIEW_EXPENSE_NODES =  [
                               'label.ca': 'Serveis de caràcter general i administració',
                               'nodes': ['21', '92', '93', ['49', '4911']],
                               'link_id': '92'
+                            },
+                            {
+                              'label.es': 'Deuda',
+                              'label.en': 'Public debt',
+                              'label.ca': 'Deute',
+                              'nodes': '01'
                             }
                           ]
 
