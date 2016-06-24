@@ -17,12 +17,14 @@ class BarcelonaPaymentsLoader(PaymentsLoader):
 
         # We've been asked to clarify the description of the anonymized payee
         payee = self._titlecase(line[4].strip())
+        is_anonymized = False
         if payee == 'Anonimitzat':
             payee = {
                 'ca': 'Persones físiques (anonimitzat per compliment normativa protecció de dades personals)',
                 'es': 'Personas físicas (anonimizado por cumplimento normativa protección de datos personales)',
-                'en': 'Individuals (anonimized to comply with data protection regulations)'
+                'en': 'Individuals (anonymized to comply with data protection regulations)'
             }[budget.entity.language]
+            is_anonymized = True
 
         return {
             'area': area,
@@ -32,6 +34,7 @@ class BarcelonaPaymentsLoader(PaymentsLoader):
             'date': None,
             'contract_type': None,
             'payee': payee,
+            'anonymized': is_anonymized,
             'description': self._spanish_titlecase(line[5].strip()),
             'amount': self._read_english_number(line[6])
         }
