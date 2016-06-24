@@ -226,7 +226,7 @@ DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=10019&L=0'
 MAIN_ENTITY_WEB_URL     = 'http://ajuntament.barcelona.cat/es/'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
-MAIN_ENTITY_LEGAL_URL   = 'http://ajuntament.barcelona.cat/es/aviso-legal'
+#MAIN_ENTITY_LEGAL_URL   = 'http://ajuntament.barcelona.cat/es/aviso-legal'
 
 # External URL for Cookies Policy (if empty we use out template page/cookies.html)
 COOKIES_URL             = 'http://www.barcelona.cat/es/cookies.html'
