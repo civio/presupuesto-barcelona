@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-06-08 17:44+0200\n"
+"PO-Revision-Date: 2016-06-24 11:28+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #: templates/budgets/budgets_intro.html:5
 msgid "El recorrido de mis impuestos"
@@ -128,8 +128,8 @@ msgstr "Busca despeses facturades"
 msgid "Descarga la tabla de <b>Pagos</b>"
 msgstr "Descarrega la taula de <b>despeses facturades</b>"
 
-msgid "En cumplimiento de La Ley Orgánica de Protección de Datos Personales, y para proteger la identidad personal de los ciudadanos, se engloban dentro del concepto “Anonimizado” todos aquellos pagos efecutados a terceros identificados como personas físicas, así como los gastos de personal del Ayuntamiento. En la medida de lo posible también se han eliminado las referencias identificativas personales dentro de los textos descriptivos de las facturas."
-msgstr "En acompliment de la Llei Orgànica de Protecció de Dades Personals i per a tal de protegir la identitat personal dels ciutadans, s’engloba dins del grup “Anonimitzat” tots aquells pagaments efectuats a tercers identificats com a persones físiques, juntament amb les despeses de personal de l’Ajuntament. En la mesura del possible també s’han eliminat les referències identificatives personals dins dels textos descriptius de les factures."
+msgid "En cumplimiento de La Ley Orgánica de Protección de Datos Personales, y para proteger la identidad personal de los ciudadanos, se han excluido los gastos facturados de terceros identificados como personas físicas, así como los gastos de personal del Ayuntamiento. En la medida de lo posible también se han eliminado las referencias identificativas personales dentro de los textos descriptivos de las facturas."
+msgstr "En compliment de la Llei Orgànica de Protecció de Dades Personals i per tal de protegir la identitat personal dels ciutadans, s’han exclòs aquelles despeses facturades de tercers identificats com a persones físiques, juntament amb les despeses de personal de l’Ajuntament. En la mesura del possible també s’han eliminat les referències identificatives personals dins dels textos descriptius de les factures."
 
 # The client prefers 'Política' to 'Área'
 #
