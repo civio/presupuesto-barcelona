@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-07-01 12:51+0200\n"
+"PO-Revision-Date: 2016-07-15 17:13+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: ca\n"
@@ -70,7 +70,7 @@ msgid "Presupuestos del Gobierno de Aragón"
 msgstr "Pressupostos de l'Ajuntament de Barcelona"
 
 msgid "El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros ingresos como el IVA y el IRPF"
-msgstr "El pressupost municipal inclou altres ingressos provinents, principalment, de l'Administració General de l'Estat i de la Generalitat de Catalunya, que són els encarregats de recaudar altres ingressos com l'IVA i o l'IRPF"
+msgstr "El pressupost municipal inclou altres ingressos provinents, principalment, de l'Administració General de l'Estat i de la Generalitat de Catalunya, que són els encarregats de recaptar altres ingressos com l'IVA i o l'IRPF"
 
 msgid "Ingresos y gastos en el Gobierno de Aragón"
 msgstr "Ingressos i despeses a l'Ajuntament de Barcelona"
@@ -85,7 +85,7 @@ msgid "Datos de inflación (Medias anuales de IPC para Aragón)"
 msgstr "Dades d'inflació (mitjanes anuals d'IPC per a Catalunya)"
 
 msgid "Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Aragón"
-msgstr "Els ingressos i despeses mostrades inclouen únicament al Ajuntament de Barcelona"
+msgstr "Els ingressos i despeses que es mostren inclouen únicament a l'Ajuntament de Barcelona"
 
 msgid "Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupuestos del Gobierno de Aragón"
 msgstr "Contribueixes amb un total de <b id=\"tax-amount-paid\"></b> als pressupostos del Ajuntament de Barcelona"
@@ -94,7 +94,7 @@ msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
 msgstr "D’on vénen els ingressos? En què i per a què és la despesa de l’Ajuntament de Barcelona?"
 
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
-msgstr "Perquè et facis una idea general dels ingressos i les despeses del Ajuntament de Barcelona"
+msgstr "Perquè et facis una idea general dels ingressos i les despeses de l'Ajuntament de Barcelona"
 
 msgid "Presupuestos"
 msgstr "Pressupost Obert"
@@ -146,10 +146,10 @@ msgid "Todas las áreas"
 msgstr "Totes les polítiques"
 
 msgid "Políticas concretas"
-msgstr "Detall del Pressupost"
+msgstr "Detall del pressupost"
 
 msgid "Educación, protección y bienestar social, cultura... ¿Qué área te interesa?"
-msgstr "Navega per les diferents partides del Pressupost"
+msgstr "Navega per les diverses partides del Pressupost"
 
 msgid "Te mostramos en detalle todos las facturas y pagos efectuados por el Ayuntamiento"
 msgstr "Et mostrem en detall de les despeses facturades a l'Ajuntament"
@@ -170,7 +170,7 @@ msgid "Glosario de términos presupuestarios y financieros"
 msgstr "Glosari de termes pressupostaris i financers"
 
 msgid "Los importes mostrados como presupuestados hacen referencia a las previsiones y créditos definitivos del presupuesto"
-msgstr "Els imports mostrats com a pressupostats fan referencia a les previsions i crèdits definitius del pressupost"
+msgstr "Els imports que es mostren com a pressupostats fan referència a les previsions i els crèdits definitius del pressupost"
 
 msgid "Los datos de gastos por políticas, programas y subprogramas han sido homogeneizados de acuerdo con la estructura presupuestaria por programas vigente."
 msgstr "Les dades de despeses per polítiques, programes i subprogrames han estat homogeneïtzades d'acord amb l'estructura pressupostària per programes vigent."
@@ -191,7 +191,7 @@ msgid "millones"
 msgstr "milions"
 
 msgid "Contacto"
-msgstr "Contacta"
+msgstr "Contacte"
 
 msgid "Accesibilidad"
 msgstr "Accessibilitat"
@@ -201,3 +201,15 @@ msgstr "Un exemple"
 
 msgid "Estrategia y Finanzas"
 msgstr "Estratègia i Finances"
+
+msgid "Buscar"
+msgstr "Cerca"
+
+msgid "Datos presupuestarios en"
+msgstr "Dades pressupostàries de l'any"
+
+msgid "Reales (ajustadas a inflación)"
+msgstr "Ajustades a la inflació"
+
+msgid " (cap. %(chapter)s)"
+msgstr " "
