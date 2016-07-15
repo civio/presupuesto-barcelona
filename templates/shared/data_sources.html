@@ -1,0 +1,21 @@
+<div class="data-sources">
+  <div class="container">
+    <h3 class="data-sources-title">{{ _('Fuentes de datos') }}</h3>
+    <div class="panel">
+      <div class="panel-body">
+        <ul class="source-list">
+          <li><a href="{{ data_source_budget }}" target="_blank">{{ _('Datos presupuestarios') }} · <b>{{ _('Gobierno de Aragón') }}</b></a></li>
+          <li><a href="{{ data_source_population }}" target="_blank">{{ _('Datos de población') }} · <b>{{ _('Instituto Nacional de Estadística (INE)') }}</b></a></li>
+          <li><a href="{{ data_source_inflation }}" target="_blank">{{ _('Datos de inflación (Medias anuales de IPC para Aragón)') }} · <b>{{ _('Instituto Nacional de Estadística (INE)') }}</b></a></li>
+        </ul>
+        <div class="alert">
+          <p class="title">{{ _('Nota') }}</p>
+          <ul>
+            <li>{{ _('Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Aragón') }}.</li>
+            {% include 'shared/data_sources_extra.html' %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
