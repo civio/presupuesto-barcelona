@@ -43,7 +43,7 @@ OVERVIEW_INCOME_NODES = [
                           {
                             'label.es': 'Transferencias corrientes del estado',
                             'label.en': 'Current transfers from Spanish central government',
-                            'label.ca': 'Transferències corrents de l\'estat',
+                            'label.ca': 'Transferències corrents de l\'Estat',
                             'nodes': '42',
                             'link_id': '42'
                           },
