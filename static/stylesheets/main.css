@@ -8157,4 +8157,7 @@ table.table-grid tr td .toggle.collapse {
   .policy-description a {
     font-weight: 600; }
 
+.budget-summary-item .budget-summary-bar small {
+  margin-left: 1px; }
+
 /*# sourceMappingURL=main.css.map */

@@ -372,3 +372,8 @@ table.table-grid tr td .toggle.collapse{
     font-weight: $font-weight-600;
   }
 }
+
+// Move % sign in budget summary bar closer to the amount
+.budget-summary-item .budget-summary-bar small {
+  margin-left: 1px;
+}
