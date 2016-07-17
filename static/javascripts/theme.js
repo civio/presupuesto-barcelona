@@ -214,3 +214,6 @@ $(document).ready(function(){
   addCustomDescriptions();
   addYearSelectorCustomLabels();
 });
+
+// Avoid space before percentage sign
+window.percentage_sign_suffix = '%';
