@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-07-15 17:13+0200\n"
+"PO-Revision-Date: 2016-07-17 19:29+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 #: templates/budgets/budgets_intro.html:5
 msgid "El recorrido de mis impuestos"
-msgstr "From revenues to expenditures"
+msgstr "From revenue to expenditure"
 
 #: templates/budgets/budgets_indicators.html:12
 msgid "Ahorro corriente / Ingresos corrientes"
-msgstr "Current savings / Current revenues"
+msgstr "Current savings / Current revenue"
 
 msgid "(Ingresos corrientes – Gastos corrientes) / Ingresos corrientes"
 msgstr "(Ingressos corrents – Despeses corrents) / Ingressos corrents"
@@ -31,61 +31,61 @@ msgstr "(Ingressos corrents – Despeses corrents) / Ingressos corrents"
 #: templates/budgets/budgets_indicators.html:19
 #: templates/budgets/budgets_indicators.html:26
 msgid "Deuda viva"
-msgstr "Debt"
+msgstr "Outstanding debt"
 
 msgid "Importe de deuda viva a 31 de diciembre"
 msgstr "Debt stock at December 31"
 
 #: templates/budgets/budgets_indicators.html:26
 msgid "Ingresos corrientes"
-msgstr "Current revenues"
+msgstr "Current revenue"
 
 msgid "Indica la importancia relativa de la deuda y la capacidad económica del Ayuntamiento para devolverla"
 msgstr "Shows the relative importance of the debt stock and the payback capacity of the City Council"
-
-#: templates/budgets/budgets_indicators.html:33
-msgid "Remanente de tesorería"
-msgstr "Treasury Surplus"
 
 msgid "Es una magnitud de naturaleza financiera que representa el excedente de liquidez a corto plazo en términos netos (excluyendo derechos de difícil cobro y ajustes de financiación afectada)"
 msgstr "A financial magnitude which shows the net short-term liquidity excess (excluding doubtful debts and adjustments for earmarked accounts)"
 
 #: templates/budgets/budgets_indicators.html:40
 msgid "Remanente de tesorería para gastos generales"
-msgstr "Treasury Surplus for General Expenditures"
+msgstr "Liquidity Surplus for General Expenditures"
 
 msgid "Presupuestos del Gobierno de Aragón"
-msgstr "Barcelona City Hall Budget"
+msgstr "Barcelona City Council Budget"
 
 msgid "El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros ingresos como el IVA y el IRPF"
-msgstr "The money raised locally is complemented with transfers from the Central Government and the Government of Catalonia, who are responsible for raising other revenues such as VAT and income tax"
+msgstr "The municipal budget receives other revenue, mainly from Spain’s central government and the Catalan regional government, which are responsible for collecting other revenue, e.g. from VAT and income tax"
+
+#: templates/budgets/budgets_intro.html:22
+msgid "El ayuntamiento utiliza el dinero recaudado, junto con otras fuentes de financiación como la deuda, para mantener los servicios públicos y la infraestructura de la ciudad."
+msgstr "The City Council uses the municipal budget to maintain public services and the city’s infrastructures."
 
 msgid "Ingresos y gastos en el Gobierno de Aragón"
-msgstr "Revenues and Expenditures for the Barcelona City Hall"
+msgstr "Revenue and Expenditure at Barcelona City Council"
 
 msgid "Gobierno de Aragón"
-msgstr "Barcelona City Hall"
+msgstr "Barcelona City Council"
 
 msgid "Información presupuestaria del Gobierno de Aragón"
 msgstr "Barcelona City Council budgetary information"
 
 msgid "Datos de inflación (Medias anuales de IPC para Aragón)"
-msgstr "Inflation data (Annual average for Catalonia)"
+msgstr "Inflation data (annual average CPI for Catalonia)"
 
 msgid "Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Aragón"
-msgstr "Income and expenditure shown include only the Barcelona City Council"
+msgstr "Income and expenditure shown only refer to Barcelona City Council"
 
 msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
-msgstr "Where do the revenues come from? Where do the expenditure go?"
+msgstr "Where does the revenue come from? Where does the expenditure go?"
 
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
-msgstr "To give you a general idea of revenues and expenditures of the Barcelona City Council"
+msgstr "So you can get a general idea of Barcelona City Council’s revenue and expenditure"
 
 msgid "Presupuestos"
 msgstr "Open Budget"
 
 msgid "El cálculo de los indicadores utiliza las cifras de ejecución para los años cuya liquidación está cerrada, o el presupuesto aprobado en caso contrario."
-msgstr "The indicators are calculated in terms of the European System of Accounts (ESA), excluding the 'Treasury Surplus'."
+msgstr "The indicators are calculated under the European System of Accounts (ESA), with the exception of the ‘Liquidity Surplus’."
 
 msgid "Principales proveedores del Gobierno de Aragón"
 msgstr "Main suppliers of the Barcelona City Council"
@@ -97,27 +97,27 @@ msgstr "Main suppliers"
 #: templates/shared/header.html:68 templates/welcome/index.html:70
 #: templates/welcome/index.html.py:72
 msgid "Pagos e inversiones"
-msgstr "Invoiced expenditures"
+msgstr "Invoiced expenses"
 
 #: templates/payments/index.html:14
 msgid "Inversiones y pagos"
-msgstr "Invoiced expenditures"
+msgstr "Invoiced expenses"
 
 #: templates/payments/index.html:32
 msgid "Hay <b id=\"payments-size\"></b> gastos facturados que suman un total de <b id=\"payments-total\"></b> para la búsqueda"
-msgstr "Found <b=\"payments-size\"></b> invoiced expenditures totaling <b id=\"payments-total\"></b>"
+msgstr "Found <b=\"payments-size\"></b> invoiced expenses totaling <b id=\"payments-total\"></b>"
 
 #: templates/payments/payments_search.html:2
 #: templates/payments/payments_search.html:9
 msgid "Busca pagos a proveedores"
-msgstr "Search for invoiced expenditures"
+msgstr "Search for invoiced expenses"
 
 #
 msgid "Descarga la tabla de <b>Pagos</b>"
-msgstr "Download the <b>invoiced expenditures</b> table"
+msgstr "Download the <b>invoiced expenses</b> table"
 
 msgid "En cumplimiento de La Ley Orgánica de Protección de Datos Personales, y para proteger la identidad personal de los ciudadanos, se han excluido los gastos facturados de terceros identificados como personas físicas, así como los gastos de personal del Ayuntamiento. En la medida de lo posible también se han eliminado las referencias identificativas personales dentro de los textos descriptivos de las facturas."
-msgstr "In compliance with the Organic Law on Protection of Personal Data, and to protect the personal identity of citizens, all invoiced expenditures from third parties identified as individuals, as well as the expenses of City Council staff, have been excluded. Personal identifying references within the descriptive texts of invoices have also been removed as far as possible."
+msgstr "In compliance with the Organic Law on Protection of Personal Data, and to protect the personal identity of citizens, all invoiced expenses from third parties identified as individuals, as well as the expenses of City Council staff, have been excluded. Personal identifying references within the descriptive texts of invoices have also been removed as far as possible."
 
 # The client prefers 'Política' to 'Área'
 #
@@ -137,10 +137,10 @@ msgid "Políticas concretas"
 msgstr "Budget detail"
 
 msgid "Educación, protección y bienestar social, cultura... ¿Qué área te interesa?"
-msgstr "Explore the different Budget line-items"
+msgstr "Browse through the budget’s various items"
 
 msgid "Te mostramos en detalle todos las facturas y pagos efectuados por el Ayuntamiento"
-msgstr "We show you in detail the expenditures invoiced to the City Council"
+msgstr "We provide a detailed breakdown of the City Council’s invoiced expenses"
 
 msgid "Ingresos no financieros (capítulos I-VII) – Gastos no financieros (capítulos I-VII)"
 msgstr "Budget surplus or déficit (non-financial revenues – non-financial expenditures) in ESA terms"
@@ -152,7 +152,7 @@ msgid "¿En qué se gasta?"
 msgstr "What is the expenditure for?"
 
 msgid "Gastos del año vigente"
-msgstr "Budget 2015 actual data. Amounts shown include VAT."
+msgstr "Data for 2015 budget. Amounts shown include VAT."
 
 msgid "Pago"
 msgstr "Invoiced"
@@ -170,10 +170,10 @@ msgid "Glosario de términos presupuestarios y financieros"
 msgstr "Budgetary and financial glossary"
 
 msgid "Los importes mostrados como presupuestados hacen referencia a las previsiones y créditos definitivos del presupuesto"
-msgstr "The amounts shown as budgeted are related to the definitive revenue and expenditure estimates"
+msgstr "The amounts shown as budgeted refer to the budget’s final estimates and appropriations"
 
 msgid "Los datos de gastos por políticas, programas y subprogramas han sido homogeneizados de acuerdo con la estructura presupuestaria por programas vigente."
-msgstr "The expenditure data by policy, program and subprogram have been homogenized according to the current budget program structure/classification."
+msgstr "The expenses data for policies, programmes and sub-programmes were standardised under the budget structure for current programmes."
 
 msgid "Un proyecto de"
 msgstr "A project"

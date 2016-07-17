@@ -24,19 +24,19 @@ OVERVIEW_INCOME_NODES = [
                           },
                           {
                             'label.es': 'Otros impuestos locales propios (plusvalía, IAE, circulación y ICIO)',
-                            'label.en': 'Other own local taxes (capital gains, IAE, road tax and ICIO)',
+                            'label.en': 'Other own local taxes (capital gains, economic activity tax, road tax and construction tax)',
                             'label.ca': 'Resta d\'impostos locals propis (plusvàlua, IAE, circulació i ICIO)',
                             'nodes': [['11', '115'], ['11', '116'], '13', '29']
                           },
                           {
                             'label.es': 'Impuestos cedidos (IRPF, IVA y especiales)',
-                            'label.en': 'Transferred taxes (income tax, VAT and excises)',
+                            'label.en': 'Assigned taxes (income tax, VAT and special taxes)',
                             'label.ca': 'Impostos cedits (IRPF, IVA i especials)',
                             'nodes': ['10', '21', '22']
                           },
                           {
                             'label.es': 'Tasas, precios públicos y otros',
-                            'label.en': 'Fees, sales and other revenues',
+                            'label.en': 'Municipal and public-sector charges and other revenue',
                             'label.ca': 'Taxes, preus públics i altres',
                             'nodes': ['30', '32', '33', '34', '35', '36', '38', '39']
                           },
@@ -49,7 +49,7 @@ OVERVIEW_INCOME_NODES = [
                           },
                           {
                             'label.es': 'Transferencias corrientes de comunidades autónomas, entes locales y otros',
-                            'label.en': 'Current transfers from regions, local authorities and others',
+                            'label.en': 'Current transfers from regional governments, local authorities and others',
                             'label.ca': 'Transferències corrents de comunitats autònomes, ens locals i altres',
                             'nodes': ['41', '44', '45', '46', '47', '48', '49']
                           },
@@ -61,7 +61,7 @@ OVERVIEW_INCOME_NODES = [
                           },
                           {
                             'label.es': 'Ingresos de capital',
-                            'label.en': 'Capital inflows',
+                            'label.en': 'Capital income',
                             'label.ca': 'Ingressos de capital',
                             'nodes': ['60', '61', '68', '75', '79']
                           },
@@ -127,7 +127,7 @@ OVERVIEW_EXPENSE_NODES =  [
                             },
                             {
                               'label.es': 'Transporte público',
-                              'label.en': 'Public transportation',
+                              'label.en': 'Public transport',
                               'label.ca': 'Transport públic',
                               'nodes': '44'
                             },
@@ -139,7 +139,7 @@ OVERVIEW_EXPENSE_NODES =  [
                             },
                             {
                               'label.es': 'Transferencias a otras administraciónes',
-                              'label.en': 'Transfers to other public administrations',
+                              'label.en': 'Transfers to other public authorities',
                               'label.ca': 'Transferències a altres administracions',
                               'nodes': '94'
                             },
