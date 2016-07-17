@@ -153,6 +153,16 @@ header > .container{
 .home-content .home-intro,
 .home-content .expense-examples{
   padding-top: $grid-gutter-width;
+  padding-bottom: 30px;
+}
+
+// @dcabo: Dirty way of selecting the second block of the home page (sorry about that)
+.home-content .col-sm-12 .home-intro {
+  padding-top: 0;
+
+  .lead {
+    margin-bottom: 5px;
+  }
 }
 
 .home-content .expense-examples li{

@@ -8010,7 +8010,13 @@ header > .container {
 
 .home-content .home-intro,
 .home-content .expense-examples {
-  padding-top: 30px; }
+  padding-top: 30px;
+  padding-bottom: 30px; }
+
+.home-content .col-sm-12 .home-intro {
+  padding-top: 0; }
+  .home-content .col-sm-12 .home-intro .lead {
+    margin-bottom: 5px; }
 
 .home-content .expense-examples li {
   color: #007b7b;
