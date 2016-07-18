@@ -197,16 +197,23 @@ $(document).ready(function(){
   };
 
   var addYearSelectorCustomLabels = function(){
-    var str = {
+    var str2013 = {
       'es': 'prorrogado',
       'ca': 'prorrogat',
       'en': 'extended',
     };
+    var str2016 = {
+      'es': 'modificado-ver nota',
+      'ca': 'modificat-veure nota',
+      'en': 'modified-see note',
+    };
 
     $('.data-controllers .layout-slider .slider .slider-tick-label').each(function(){
       var val = $(this).html();
-      if (val === '2013' || val === '2016'){
-        $(this).html(val + '<br/><small><i> ('+ str[ $('html').attr('lang') ] +')</i></small>');
+      if (val === '2013'){
+        $(this).html(val + '<br/><small><i> ('+ str2013[ $('html').attr('lang') ] +')</i></small>');
+      } else if (val === '2016'){
+        $(this).html(val + '<br/><small><i> ('+ str2016[ $('html').attr('lang') ] +')</i></small>');
       }
     });
   };
