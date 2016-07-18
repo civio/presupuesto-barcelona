@@ -7882,4 +7882,14 @@ table.table-grid tr td .toggle.collapse {
 .budget-summary-item .budget-summary-bar small {
   margin-left: 1px; }
 
+.legal .glossary-content,
+.accessibility .glossary-content {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 1.125em; }
+.legal .lead,
+.accessibility .lead {
+  margin-top: 10px;
+  margin-bottom: 30px; }
+
 /*# sourceMappingURL=main.css.map */
