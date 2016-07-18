@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 
 from django.conf.urls import patterns, url
+from django.conf.urls.i18n import i18n_patterns
 
 MAIN_ENTITY_LEVEL = 'municipio'
 MAIN_ENTITY_NAME = 'Barcelona'
@@ -233,6 +234,13 @@ COOKIES_URL             = 'http://www.barcelona.cat/es/cookies.html'
 
 # Allow overriding of default treemap color scheme
 COLOR_SCALE = [ '#1f77b4', '#ee6f00', '#2ca02c', '#d62728', '#8350b2', '#8c564b', '#d944ac', '#d74a54', '#8c8c19', '#118996' ]
+
+# We can define additional URLs applicable only to the theme. These will get added
+# to the project URL patterns list.
+EXTRA_URLS = i18n_patterns('presupuesto-barcelona.views',
+    url(r'^accesibilidad$', 'accesibilidad'),
+    url(r'^aviso_legal$', 'aviso_legal')
+)
 
 # Make environment setting available to URL monkey-patch in __init__.py
 if ENV.get('USE_PRODUCTION_URLS') == True:
