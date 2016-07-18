@@ -211,8 +211,14 @@ $(document).ready(function(){
     });
   };
 
+  var showInvoicesNote = function(){
+    if ( $('body').hasClass('body-payments') )
+      $('.data-sources li.hidden').removeClass('hidden');
+  }
+
   addCustomDescriptions();
   addYearSelectorCustomLabels();
+  showInvoicesNote();
 });
 
 // Avoid space before percentage sign

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-07-17 20:26+0200\n"
+"PO-Revision-Date: 2016-07-18 02:00+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: ca\n"
@@ -222,3 +222,6 @@ msgstr "Permet navegar des de les dades pressupostàries més agregades fins al 
 
 msgid "La herramienta de Presupuesto Abierto permite además la descarga de datos en formatos abiertos, y se encuentra disponible en catalán, castellano e inglés."
 msgstr "L’eina de Pressupost Obert permet a més la descàrrega de dades en formats oberts, i es troba disponible en català, castellà i anglès."
+
+msgid "No incluye nóminas ni facturas de personas físicas en cumplimiento de la normativa sobre protección de datos. Los gastos facturados corresponden a contrataciones realizadas de acuerdo con la normativa vigente."
+msgstr "No inclou nòmines ni factures de persones físiques en acompliment de la normativa sobre protecció de dades. Les despeses facturades corresponen a contractacions realitzades d’acord amb la normativa vigent."
