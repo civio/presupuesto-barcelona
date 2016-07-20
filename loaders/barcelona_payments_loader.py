@@ -25,6 +25,8 @@ class BarcelonaPaymentsLoader(PaymentsLoader):
                 'en': 'Individuals (anonymized to comply with data protection regulations)'
             }[budget.entity.language]
             is_anonymized = True
+            # Eventually, it's been decided by the client to ignore them completely, so do nothing
+            return None
 
         return {
             'area': area,
