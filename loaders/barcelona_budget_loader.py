@@ -13,25 +13,15 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
         return s.split('.')[0]
 
     def parse_item(self, filename, line):
-        # Programme codes have changed in 2015, due to new laws. Since the application expects a code-programme
-        # mapping to be constant over time, we are forced to amend budget data prior to 2015.
-        # See https://github.com/dcabo/presupuestos-aragon/wiki/La-clasificaci%C3%B3n-funcional-en-las-Entidades-Locales
-        programme_mapping = {
-        }
+        # The budget data we have for 2016 doesn't (yet) have amended expense figures,
+        # so in that case we use the initial budget
+        year = re.search('municipio/(\d+)/', filename).group(1)
+        budget_column = 4 if int(year)==2016 else 5
 
         is_expense = (filename.find('gastos.csv')!=-1)
         is_actual = (filename.find('/ejecucion_')!=-1)
         if is_expense:
-            fc_code = self.clean(line[2])
-
-            # For years before 2015 we check whether we need to amend the programme code
-            year = re.search('municipio/(\d+)/', filename).group(1)
-            if int(year) < 2015:
-                fc_code = programme_mapping.get(fc_code, fc_code)
-
-            # The budget data we have for 2016 doesn't (yet) have amended expense figures,
-            # so in that case we use the initial budget
-            budget_column = 4 if int(year)==2016 else 5
+            fc_code = self.clean(line[2]).rjust(5, '0') # Some programmes miss starting 0
 
             return {
                 'is_expense': True,
@@ -52,6 +42,6 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
                 'ic_code': self.clean(line[1])[1:],
                 'item_number': self.clean(line[0])[-2:],    # Last two digits
                 'description': line[3],
-                'amount': self._parse_amount(line[6 if is_actual else 5])
+                'amount': self._parse_amount(line[6 if is_actual else budget_column])
             }
 
