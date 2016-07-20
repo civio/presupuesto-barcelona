@@ -386,3 +386,17 @@ table.table-grid tr td .toggle.collapse{
 .budget-summary-item .budget-summary-bar small {
   margin-left: 1px;
 }
+
+.legal,
+.accessibility{
+  .glossary-content{
+    padding-top: $grid-gutter-width;
+    padding-bottom: $grid-gutter-width;
+    font-size: 1.125em;
+  }
+
+  .lead{
+    margin-top: $grid-gutter-width/3;
+    margin-bottom: $grid-gutter-width;
+  }
+}
