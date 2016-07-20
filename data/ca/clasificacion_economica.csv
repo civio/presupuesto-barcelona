@@ -526,6 +526,8 @@ G,1,2,9,Altres retribucions del personal funcionari
 G,1,3,9,Altres retribucions del personal laboral
 G,1,5,4,Contingències
 G,2,7,0,Despeses imprevistes i funcions no classificades
+G,2,9,,Ajust pròrroga cap.2
+G,2,9,9,Ajust pròrroga cap.2
 G,4,1,0,A organismes autònoms de l'Ajuntament
 G,4,4,3,A EPE'S
 G,4,4,4,A societats mercantils de l'Ajuntament
@@ -535,6 +537,7 @@ G,4,8,5,Transferències nominatives
 G,4,8,6,Transferències nominatives
 G,4,8,9,Altres transferències
 G,4,9,0,A l'exterior
+G,4,9,9,Ajust pròrroga cap.4
 G,5,1,,Fons de contingència social
 G,5,1,0,Fons de contingència social
 G,6,0,1,Inversió nova en infraestructures i béns destinats a l'ús general

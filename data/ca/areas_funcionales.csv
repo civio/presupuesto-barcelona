@@ -9,16 +9,19 @@
 1,5,,,,Habitatge i urbanisme
 1,6,,,,Benestar comunitari ("serveis urbans")
 1,7,,,,Medi ambient
+1,9,,,,Ajust pròrroga AD1
 2,,,,,Actuacions de protecció i promoció social
 2,1,,,,Pensions
 2,2,,,,Altres prestacions econòmiques a favor d'empleats
 2,3,,,,Serveis socials i promoció social
 2,4,,,,Foment de l'ocupació
+2,9,,,,Ajust pròrroga AD2
 3,,,,,Producció de béns públics de caràcter preferent
 3,1,,,,Salut
 3,2,,,,Educació
 3,3,,,,Cultura
 3,4,,,,Esport
+3,9,,,,Ajust pròrroga AD3
 4,,,,,Actuacions de caràcter econòmic
 4,1,,,,"Agricultura, ramaderia i pesca"
 4,2,,,,Indústria i energia
@@ -32,6 +35,7 @@
 9,2,,,,Serveis de caràcter general
 9,3,,,,Administració financera i tributària
 9,4,,,,Transferències a altres administracions
+9,9,,,,Ajust pròrroga AD9
 #
 # Programas específicos de Barcelona
 0,1,1,1,,Servei del deute
@@ -68,6 +72,7 @@
 1,7,2,1,,Protec.contaminació acústica-lumínica-atmosfèrica
 1,7,2,2,,Educació mediambiental
 1,7,9,4,,Gestió i promoció dels recursos energètics
+1,9,9,9,,Ajust pròrroga AD1
 2,1,1,1,,Pensions
 2,3,0,1,,Administració general de serveis socials
 2,3,0,2,,Administració general serveis a persones-territori
@@ -93,6 +98,7 @@
 2,3,4,1,,Atenció a les persones discapacitades
 2,3,9,1,,Fons de contingència social
 2,4,1,1,,Foment de l'ocupació
+2,9,9,9,,Ajust pròrroga AD2
 3,1,1,1,,Promoció i protecció de la salut
 3,1,2,1,,Assistència sanitària
 3,2,0,1,,Administració general d'educació
@@ -118,6 +124,7 @@
 3,4,1,1,,Gestió i promoció de l'esport
 3,4,2,1,,Instal·lacions esportives
 3,4,3,1,,Esdeveniments esportius
+3,9,9,9,,Ajust pròrroga AD3
 4,3,0,1,,Administració general d'acció econòmica
 4,3,1,2,,"Mercats, proveïments i llotges"
 4,3,1,4,,Promoció del comerç
@@ -132,6 +139,7 @@
 4,5,9,1,,Altres infraestructures
 4,9,1,1,,Mitjans de comunicació públics
 4,9,3,1,,Defensa dels drets dels consumidors
+4,9,9,9,,Ajust pròrroga AD4
 9,1,2,1,,Òrgans de govern
 9,1,2,2,,Relacions institucionals
 9,2,0,1,,Direcció i administració generals
@@ -151,6 +159,7 @@
 9,3,3,1,,Gestió del patrimoni municipal
 9,3,4,1,,Gestió del deute i la tresoreria
 9,4,3,1,,Transferències a altres ens locals
+9,9,9,9,,Ajust pròrroga AD9
 0,1,1,1,1,Servei del deute
 1,3,0,1,1,Gestió programa administració seguretat
 1,3,0,1,2,Desenvolupament professional prevenció i seguretat
@@ -225,6 +234,7 @@
 1,7,2,2,1,Educació mediambiental
 1,7,9,4,1,Gestió de recursos energètics locals
 1,7,9,4,2,Coordinació Urbana. Vehicle elèctric
+1,9,9,9,9,Ajust pròrroga AD1
 2,1,1,1,1,Pensions
 2,3,0,1,1,Direcció i administració de serveis socials
 2,3,0,1,2,Direcció d'equitat social
@@ -259,6 +269,7 @@
 2,3,1,6,3,Pla d'assentaments irregulars
 2,3,1,7,1,Atenció a la dona víctima de viol.
 2,3,1,7,2,Abordatge integr. del treball sexual
+2,3,1,7,3,Inclusió amb perspectiva de gènere
 2,3,1,8,1,Atenció i prevenció grupal i comunitària
 2,3,1,8,2,Suport a les accions comunitàries
 2,3,1,9,1,Emergències i urgències socials
@@ -280,6 +291,7 @@
 2,3,4,1,1,Atenció a les persones discapacitades
 2,3,9,1,1,Fons de contingència social
 2,4,1,1,4,Foment de l’ocupació a persones vulnerables
+2,9,9,9,9,Ajust pròrroga AD2
 3,1,1,1,1,Promoció de la salut
 3,1,1,1,2,Protecció de la salut
 3,1,2,1,1,Assistència sanitària
@@ -319,6 +331,7 @@
 3,4,1,1,2,Foment i promoció de la pràctica esportiva
 3,4,2,1,1,Instal·lacions esportives
 3,4,3,1,1,Esdeveniments esportius
+3,9,9,9,9,Ajust pròrroga AD3
 4,3,0,1,1,Administració i gerència de Presidència i Economia
 4,3,0,1,3,Comunicació Presidència i Economia
 4,3,0,1,4,Consell Econòmic i Social
@@ -342,6 +355,7 @@
 4,9,1,1,1,Informació i comunicació de Barcelona
 4,9,3,1,1,Arbitratge
 4,9,3,1,2,Informació al consumidor
+4,9,9,9,9,Ajust pròrroga AD4
 9,1,2,1,1,Representacio política
 9,1,2,1,2,Direcció tècnica de premsa
 9,1,2,2,1,Relacions institucionals
@@ -377,6 +391,7 @@
 9,2,4,1,7,Participació ciutadana
 9,2,4,1,8,Associacionisme
 9,2,5,1,1,Atenció al ciutadà
+9,2,5,1,2,Carnet de ciudat
 9,2,5,2,1,Comunicació corporativa
 9,2,5,2,2,Màrqueting corporatiu
 9,2,5,2,3,Internet
@@ -400,3 +415,4 @@
 9,3,3,1,4,Manteniment d’edificis i solars no centralitzats
 9,3,4,1,1,Tresoreria
 9,4,3,1,1,Transferències a altres ens locals
+9,9,9,9,9,Ajust pròrroga AD9
