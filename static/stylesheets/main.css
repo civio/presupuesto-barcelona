@@ -6162,7 +6162,8 @@ label {
 .stacked-area-chart .line {
   fill: none;
   stroke-width: 2px;
-  cursor: pointer; }
+  cursor: pointer;
+  pointer-events: none; }
 .stacked-area-chart .point {
   stroke-width: 0px;
   cursor: pointer;
