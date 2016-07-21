@@ -3,17 +3,17 @@
 # Áreas de gasto y Políticas, definidas en la Orden EHA/3565/2008 y comunes a todas las EELL.
 # Ver http://www.boe.es/buscar/doc.php?id=BOE-A-2008-19916
 I,1,,,Impuestos directos
-I,1,0,,Impuesto sobre la Renta
-I,1,0,0,Impuestos sobre la Renta de las Personas Físicas
+I,1,0,,Impuesto sobre la renta
+I,1,0,0,Impuestos sobre la renta de las personas físicas
 I,1,0,1,Impuesto sobre sociedades
-I,1,0,2,Impuesto sobre la Renta de no residentes
+I,1,0,2,Impuesto sobre la renta de no residentes
 I,1,1,,Impuestos sobre el capital
 I,1,1,0,Impuesto sobre sucesiones y donaciones
 I,1,1,1,Impuesto sobre patrimonio
 I,1,1,2,Sobre bienes inmuebles de naturaleza rústica
 I,1,1,3,Sobre bienes inmuebles de naturaleza urbana
 I,1,1,4,Sobre bienes inmuebles de características especiales
-I,1,1,5,Impuesto sobre vehículos de tracción mecanica
+I,1,1,5,Impuesto sobre vehículos de tracción mecánica
 I,1,1,6,Impuesto sobre incremento del valor de los terrenos de naturaleza urbana
 I,1,1,7,Impuesto sobre viviendas desocupadas
 I,1,3,,Impuesto sobre actividades económicas
@@ -28,8 +28,8 @@ I,1,7,9,Otros recargos sobre impuestos directos de otros entes locales
 I,1,8,,Impuestos directos extinguidos
 I,1,9,,Otros impuestos directos
 I,2,,,Impuestos indirectos
-I,2,1,,Impuesto sobre el Valor Añadido
-I,2,1,0,Impuesto sobre el Valor Añadido
+I,2,1,,Impuesto sobre el valor añadido
+I,2,1,0,Impuesto sobre el valor añadido
 I,2,2,,Sobre consumos específicos
 I,2,2,0,Impuestos especiales
 I,2,6,,Recargos sobre impuestos indirectos del Estado y de la Comunidad Autónoma
@@ -77,10 +77,10 @@ I,3,3,1,Tasa por entrada de vehículos
 I,3,3,2,Por empresas explotadoras de servicios de suministros
 I,3,3,3,Por empresas explotadoras de servicios de telecomunicaciones
 I,3,3,4,Tasa por apertura de calas y zanjas
-I,3,3,5,Tasa por ocupación de la via pública con terrazas
-I,3,3,6,Tasa por ocupación de la via pública con suspensión temporal del trafico rodado
+I,3,3,5,Tasa por ocupación de la vía pública con terrazas
+I,3,3,6,Tasa por ocupación de la vía pública con suspensión temporal del trafico rodado
 I,3,3,7,Tasas por aprovechamiento del vuelo
-I,3,3,8,Compensación de Telefónica de España SA
+I,3,3,8,"Compensación de Telefónica de España, SA"
 I,3,3,9,Otras tasas por utilización privativa del dominio público
 I,3,4,,Precios públicos por la prestación de servicios
 I,3,4,0,Servicios hospitalarios
@@ -187,7 +187,7 @@ I,6,,,Venta de inversiones reales
 I,6,0,,De terrenos
 I,6,0,0,Venta de solares
 I,6,0,1,Venta de fincas rústicas
-I,6,0,2,Parcelas sobrantes de la via pública
+I,6,0,2,Parcelas sobrantes de la vía pública
 I,6,0,3,Patrimonio público del suelo
 I,6,0,9,Otros terrenos
 I,6,1,,De las demás inversiones reales
@@ -256,7 +256,7 @@ I,8,6,,Venta de acciones y participaciones fuera del sector público
 I,8,7,,Remanente de tesorería
 I,8,7,0,Remanente de tesorería
 I,9,,,Pasivos financieros
-I,9,0,,Emision de deuda pública en euros
+I,9,0,,Emisión de deuda pública en euros
 I,9,0,0,A corto plazo
 I,9,0,1,A largo plazo
 I,9,1,,Préstamos
@@ -264,7 +264,7 @@ I,9,1,0,Préstamos recibidos a corto plazo de entes del sector público
 I,9,1,1,Préstamos recibidos a largo plazo de entes del sector público
 I,9,1,2,Préstamos recibidos a corto plazo de entes de fuera del sector público
 I,9,1,3,Préstamos recibidos a largo plazo de entes de fuera del sector público
-I,9,2,,Emision de deuda pública en moneda distinta del euro
+I,9,2,,Emisión de deuda pública en moneda distinta del euro
 I,9,2,0,A corto plazo
 I,9,2,1,A largo plazo
 I,9,3,,Préstamos recibidos en moneda distinta del euro
@@ -302,7 +302,7 @@ G,1,5,2,Otros incentivos al rendimiento
 G,1,5,3,Complemento de dedicación especial
 G,1,6,,"Cuotas, prestaciones y gastos sociales a cargo del empleador"
 G,1,6,0,Cuotas sociales
-G,1,6,1,Prestaciónes sociales
+G,1,6,1,Prestaciones sociales
 G,1,6,2,Gastos sociales del personal
 G,1,6,4,Complemento familiar
 G,2,,,Gastos corrientes en bienes y servicios
@@ -388,7 +388,7 @@ G,4,5,,A comunidades autónomas
 G,4,5,0,A la Administración General de las comunidades autónomas
 G,4,5,1,A organismos autónomos y agencias de las comunidades autónomas
 G,4,5,2,A fundaciones de las comunidades autónomas
-G,4,5,3,A sociedades mercantiles entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas
+G,4,5,3,"A sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas"
 G,4,6,,A entidades locales
 G,4,6,1,"A diputaciones, consejos o cabildos insulares"
 G,4,6,2,A ayuntamientos
@@ -529,7 +529,7 @@ G,2,7,0,Gastos imprevistos y funciones no clasificadas
 G,2,9,,Ajuste prórroga cap. 2
 G,2,9,9,Ajuste prórroga cap. 2
 G,4,1,0,A organismos autónomos del Ayuntamiento
-G,4,4,3,A EPE'S
+G,4,4,3,A EPE
 G,4,4,4,A sociedades mercantiles del Ayuntamiento
 G,4,8,0,A familias e instituciones sin fines de lucro
 G,4,8,1,Ayudas por estudios e investigación
@@ -551,7 +551,7 @@ G,6,1,1,Inversión de reposición en infraestructuras y bienes destinados al uso
 G,6,2,8,Edificios
 G,6,3,8,Edificios
 G,7,1,0,A organismos autónomos del Ayuntamiento
-G,7,4,3,A EPE's
+G,7,4,3,A EPE
 G,7,4,4,A sociedades mercantiles del Ayuntamiento
 G,7,8,0,A familias e instituciones sin fines de lucro
 G,7,9,0,Otras transferencias de capital
@@ -562,7 +562,7 @@ I,3,6,2,Material inservible
 I,3,6,3,Impresos
 I,3,6,4,De áreas metropolitanas
 I,3,6,5,De comarcas
-I,4,1,0,De organismos autónomos de la entitad local
+I,4,1,0,De organismos autónomos de la entidad local
 I,4,6,9,Otras subvenciones de entidades locales
 I,4,7,0,De empresas privadas
 I,4,8,0,De familias e instituciones sin fines de lucro

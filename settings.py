@@ -24,7 +24,7 @@ OVERVIEW_INCOME_NODES = [
                             'link_id': '11'
                           },
                           {
-                            'label.es': 'Otros impuestos locales propios (plusvalía, IAE, circulación y ICIO)',
+                            'label.es': 'Otros impuestos locales propios (plusvalía, IAE, circulación e ICIO)',
                             'label.en': 'Other own local taxes (capital gains, economic activity tax, road tax and construction tax)',
                             'label.ca': 'Resta d\'impostos locals propis (plusvàlua, IAE, circulació i ICIO)',
                             'nodes': [['11', '115'], ['11', '116'], '13', '29']
@@ -42,7 +42,7 @@ OVERVIEW_INCOME_NODES = [
                             'nodes': ['30', '32', '33', '34', '35', '36', '38', '39']
                           },
                           {
-                            'label.es': 'Transferencias corrientes del estado',
+                            'label.es': 'Transferencias corrientes del Estado',
                             'label.en': 'Current transfers from Spanish central government',
                             'label.ca': 'Transferències corrents de l\'Estat',
                             'nodes': '42',
@@ -75,7 +75,7 @@ OVERVIEW_INCOME_NODES = [
                         ]
 OVERVIEW_EXPENSE_NODES =  [
                             {
-                              'label.es': 'Seguridad y mobilidad ciudadana',
+                              'label.es': 'Seguridad y movilidad ciudadana',
                               'label.en': 'Security and citizen mobility',
                               'label.ca': 'Seguretat i mobilitat ciutadana',
                               'nodes': '13'
@@ -139,7 +139,7 @@ OVERVIEW_EXPENSE_NODES =  [
                               'nodes': '91'
                             },
                             {
-                              'label.es': 'Transferencias a otras administraciónes',
+                              'label.es': 'Transferencias a otras administraciones',
                               'label.en': 'Transfers to other public authorities',
                               'label.ca': 'Transferències a altres administracions',
                               'nodes': '94'
