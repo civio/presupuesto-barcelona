@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-07-18 03:36+0200\n"
+"PO-Revision-Date: 2016-07-21 02:09+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -192,6 +192,9 @@ msgstr "Contact"
 
 msgid "Accesibilidad"
 msgstr "Accessibility"
+
+msgid "Aviso legal"
+msgstr "Legal disclaimer"
 
 msgid "Algunos ejemplos"
 msgstr "An example"

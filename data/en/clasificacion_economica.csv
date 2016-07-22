@@ -526,6 +526,8 @@ G,1,2,9,Otras retribuciones del personal funcionario
 G,1,3,9,Otras retribuciones del personal laboral
 G,1,5,4,Contingencias
 G,2,7,0,Gastos imprevistos y funciones no clasificadas
+G,2,9,,Extension adjustment chapter 2
+G,2,9,9,Extension adjustment chapter 2
 G,4,1,0,Transf. a organismos autónomos del Ayuntamiento
 G,4,4,3,Transf. a EPE'S
 G,4,4,4,Transf. a sociedades mercantiles del Ayuntamiento
@@ -535,6 +537,7 @@ G,4,8,5,Transferencias nominativas
 G,4,8,6,Transferencias nominativas
 G,4,8,9,Otras transferencias
 G,4,9,0,To external organisations
+G,4,9,9,Extension adjustment chapter 4
 G,5,1,,Social contingency fund
 G,5,1,0,Social contingency fund
 G,6,0,1,New investment in general use infrastructures

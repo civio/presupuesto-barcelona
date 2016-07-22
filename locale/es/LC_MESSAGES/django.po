@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-07-15 17:13+0200\n"
+"PO-Revision-Date: 2016-07-21 12:30+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -27,6 +27,12 @@ msgstr "Capacidad o necesidad de financiación"
 
 msgid "Presupuestos del Gobierno de Aragón"
 msgstr "Presupuestos del Ayuntamiento de Barcelona"
+
+msgid "Se realiza a través de impuestos directos -como el impuesto de bienes inmuebles (IBI) o el de vehículos de tracción mecánica (IVTM)- y de tasas -como la de recogida de basura"
+msgstr "Se realiza a través de impuestos directos, como el impuesto de bienes inmuebles (IBI) o el de vehículos de tracción mecánica (IVTM), y de tasas, como la de recogida de basura"
+
+msgid "El ayuntamiento utiliza el dinero recaudado, junto con otras fuentes de financiación como la deuda, para mantener los servicios públicos y la infraestructura de la ciudad."
+msgstr "El Ayuntamiento utiliza el dinero recaudado, junto con otras fuentes de financiación como la deuda, para mantener los servicios públicos y la infraestructura de la ciudad."
 
 msgid "El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros ingresos como el IVA y el IRPF"
 msgstr "El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y de la Generalitat de Catalunya, que son los encargados de recaudar otros ingresos como el IVA y el IRPF"
@@ -50,7 +56,7 @@ msgid "Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupue
 msgstr "Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupuestos del Ayuntamiento de Barcelona"
 
 msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
-msgstr "¿De dónde vienen los ingresos? ¿En qué y para qué gasta el Ayuntamiento de Barcelona?"
+msgstr "¿De dónde vienen los ingresos? ¿En qué y para qué es el gasto del Ayuntamiento de Barcelona?"
 
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
 msgstr "Para que tengas una idea general de los ingresos y gastos del Ayuntamiento de Barcelona"
@@ -59,7 +65,7 @@ msgid "Presupuestos"
 msgstr "Presupuesto Abierto"
 
 msgid "El cálculo de los indicadores utiliza las cifras de ejecución para los años cuya liquidación está cerrada, o el presupuesto aprobado en caso contrario."
-msgstr "El cálculo de los indicadores está realizado en términos del Sistema Europeo de Cuentas (SEC), excepto el Remanente de Tesorería."
+msgstr "El cálculo de los indicadores está realizado en términos del Sistema Europeo de Cuentas (SEC), excepto el remanente de tesorería."
 
 msgid "Principales proveedores del Gobierno de Aragón"
 msgstr "Principales proveedores del Ayuntamiento de Barcelona"
@@ -105,10 +111,10 @@ msgid "Todas las áreas"
 msgstr "Todas las políticas"
 
 msgid "Políticas concretas"
-msgstr "Detalle del Presupuesto"
+msgstr "Detalle del presupuesto"
 
 msgid "Educación, protección y bienestar social, cultura... ¿Qué área te interesa?"
-msgstr "Navega por las diferentes partidas del Presupuesto"
+msgstr "Navega por las diferentes partidas del presupuesto"
 
 msgid "Te mostramos en detalle todos las facturas y pagos efectuados por el Ayuntamiento"
 msgstr "Te mostramos el detalle de los gastos facturados al Ayuntamiento"
@@ -135,10 +141,10 @@ msgid "Un proyecto de"
 msgstr "Un proyecto"
 
 msgid "Políticas"
-msgstr "Detalle del Presupuesto"
+msgstr "Detalle del presupuesto"
 
 msgid "Volver a Políticas"
-msgstr "Volver al detalle del Presupuesto"
+msgstr "Volver al detalle del presupuesto"
 
 msgid "Algunos ejemplos"
 msgstr "Un ejemplo"
@@ -148,3 +154,7 @@ msgstr ""
 
 msgid " (cap. %(chapter)s)"
 msgstr " "
+
+#: templates/budgets/index.html:41
+msgid "Datos presupuestarios en"
+msgstr "Datos presupuestarios en el"

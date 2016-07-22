@@ -9,16 +9,19 @@
 1,5,,,,Vivienda y urbanismo
 1,6,,,,Bienestar comunitario ("servicios urbanos")
 1,7,,,,Medio ambiente
+1,9,,,,Ajuste prórroga AD1
 2,,,,,Actuaciones de protección y promoción social
 2,1,,,,Pensiones
 2,2,,,,Otras prestaciones económicas a favor de empleados
 2,3,,,,Servicios sociales y promoción social
 2,4,,,,Fomento del empleo
-3,,,,,Produccion de bienes públicos de carácter preferente
+2,9,,,,Ajuste prórroga AD2
+3,,,,,Producción de bienes públicos de carácter preferente
 3,1,,,,Salud
 3,2,,,,Educación
 3,3,,,,Cultura
 3,4,,,,Deporte
+3,9,,,,Ajuste prórroga AD3
 4,,,,,Actuaciones de carácter económico
 4,1,,,,Agricultura ganadería y pesca
 4,2,,,,Industria y energía
@@ -31,7 +34,8 @@
 9,1,,,,Órganos de gobierno
 9,2,,,,Servicios de carácter general
 9,3,,,,Administración financiera y tributaria
-9,4,,,,Transferencias a otras administraciónes
+9,4,,,,Transferencias a otras administraciones
+9,9,,,,Ajuste prórroga AD9
 #
 # Programas específicos de Barcelona
 0,1,1,1,,Servicio de la deuda
@@ -68,16 +72,17 @@
 1,7,2,1,,Protec.contaminación acústica-lumínica-atmosférica
 1,7,2,2,,Educación medioambiental
 1,7,9,4,,Gestión y promoción de los recursos energéticos
+1,9,9,9,,Ajuste prórroga AD1
 2,1,1,1,,Pensiones
 2,3,0,1,,Administración general de servicios sociales
 2,3,0,2,,Administración general servicios a las personas
 2,3,0,3,,Estrategia e innovación de servicios sociales
 2,3,1,1,,Atención infancia y adolescencia
 2,3,1,2,,Atención y apoyo a los individuos y a las familias
-2,3,1,3,,Atención a la gente mayor
+2,3,1,3,,Atención a las personas mayores
 2,3,1,4,,Atención personas en situación pobreza-riesgo exclusión
 2,3,1,5,,Servicios sociales básicos
-2,3,1,6,,Atención la inmigración
+2,3,1,6,,Atención a la inmigración
 2,3,1,7,,Atención a la mujer en situación de vulnerabilidad
 2,3,1,8,,Atención a grupos y comunidades
 2,3,1,9,,Emergencias y urgencias sociales
@@ -93,20 +98,21 @@
 2,3,4,1,,Atención a las personas discapacitadas
 2,3,9,1,,Fondo de contingencia social
 2,4,1,1,,Fomento del empleo
+2,9,9,9,,Ajuste prórroga AD2
 3,1,1,1,,Promoción y protección de la salud
 3,1,2,1,,Asistencia sanitaria
 3,2,0,1,,Administración general de educación
-3,2,0,2,,Apoyo obligatorio en los centros educativos
+3,2,0,2,,Apoyo obligatorio a los centros educativos
 3,2,3,2,,Funcionamiento centros educación infantil y primaria
 3,2,3,3,,Funcionamiento de centros de educación especial
-3,2,4,1,,Funcion.centras educación secundaria-FP
+3,2,4,1,,Funcion. centros educación secundaria-FP
 3,2,5,3,,Otras enseñanzas
 3,2,6,1,,Servicios complementarios de educación
 3,2,6,2,,Promoción educativa
 3,2,8,1,,Enseñanzas musicales
 3,2,8,2,,Enseñanzas artísticas
 3,2,8,3,,Formación de adultos
-3,2,9,1,,Funcionamiento de las guarderías municipales
+3,2,9,1,,Funcionamiento de las escoles bressol municipales
 3,3,0,1,,Administración general de cultura
 3,3,2,1,,Bibliotecas
 3,3,3,1,,Museos y artes plásticas
@@ -118,11 +124,12 @@
 3,4,1,1,,Gestión y promoción del deporte
 3,4,2,1,,Instalaciones deportivas
 3,4,3,1,,Acontecimientos deportivos
+3,9,9,9,,Ajuste prórroga AD3
 4,3,0,1,,Administración general de acción económica
 4,3,1,2,,"Mercados, abastecimientos y lonjas"
 4,3,1,4,,Promoción del comercio
 4,3,2,1,,Fomento y promoción del turismo
-4,3,3,1,,"Apoyo a la empresa, la emprendeduría y la ocupación"
+4,3,3,1,,"Apoyo a la empresa, el emprendimiento y el empleo"
 4,3,3,2,,Promoción económica de la ciudad
 4,3,3,3,,Fomento crecimiento económico y sectores estratégicos
 4,3,3,4,,Dinamización económica de proximidad
@@ -132,6 +139,7 @@
 4,5,9,1,,Otras infraestructuras
 4,9,1,1,,Medios de comunicación públicos
 4,9,3,1,,Defensa de los derechos de los consumidores
+4,9,9,9,,Ajuste prórroga AD4
 9,1,2,1,,Órganos de gobierno
 9,1,2,2,,Relaciones institucionales
 9,2,0,1,,Dirección y administración generales
@@ -151,6 +159,7 @@
 9,3,3,1,,Gestión del patrimonio municipal
 9,3,4,1,,Gestión de la deuda y la tesorería
 9,4,3,1,,Transferencias a otros entes locales
+9,9,9,9,,Ajuste prórroga AD9
 #
 0,1,1,1,1,Servicio de la deuda
 1,3,0,1,1,Gestión programa administración seguridad-
@@ -226,6 +235,7 @@
 1,7,2,2,1,Educación medioambiental
 1,7,9,4,1,Gestión de recursos energéticos locales
 1,7,9,4,2,Coordinación Urbana. Vehículo eléctrico
+1,9,9,9,9,Ajuste prórroga AD1
 2,1,1,1,1,Pensiones
 2,3,0,1,1,Dirección y administración servicios sociales
 2,3,0,1,2,Dirección de equidad social
@@ -239,7 +249,7 @@
 2,3,0,3,5,Comunicación e información servicios sociales
 2,3,0,3,6,Planificación y Procesos servicios sociales
 2,3,0,3,8,Gestión sistemas de información serv.sociales
-2,3,1,1,1,Atención infancia y adolescencia
+2,3,1,1,1,Atención a la infancia y adolescencia
 2,3,1,2,1,Acción municipal hacia las familias
 2,3,1,2,2,Atención social individual y familiar
 2,3,1,3,1,Viviendas con servicios gente mayor
@@ -247,7 +257,7 @@
 2,3,1,3,3,Acogida temporal urgencias gente mayor
 2,3,1,3,4,Otros servicios de atención gente mayor
 2,3,1,3,5,Teleasistencia
-2,3,1,4,1,Centros diurnos y res.. inserc. sin techo
+2,3,1,4,1,Centros diurnos y res. inserc. sin techo
 2,3,1,4,2,Servicios y proyecto personas sin techo
 2,3,1,4,3,Servicios de intervención en el espacio público
 2,3,1,4,4,Servicios de alim. - comedores sociales PVSP
@@ -259,8 +269,9 @@
 2,3,1,6,2,Inmigración-reglamento de extranjería
 2,3,1,6,3,Pla de asentamientos irregulares
 2,3,1,7,1,Atención a la mujer víctima de violencia
-2,3,1,7,2,Abordaje *integr. del trabajo sexual
-2,3,1,8,1,Atención y prevención *grupal y comunitaria
+2,3,1,7,2,Abordaje integr. del trabajo sexual
+2,3,1,7,3,Inclusión con perspectiva de género
+2,3,1,8,1,Atención y prevención grupal y comunitaria
 2,3,1,8,2,Apoyo a las acciones comunitarias
 2,3,1,9,1,Emergencias y urgencias sociales
 2,3,2,1,1,Otras acciones mejora de la infancia
@@ -271,7 +282,7 @@
 2,3,2,3,1,Promoción de la gente mayor
 2,3,2,3,2,Gestión de casales y espacios para la gente mayor
 2,3,2,4,1,Promoción de las mujeres
-2,3,2,5,1,Atención la diversidad y no discriminación
+2,3,2,5,1,Atención a la diversidad y no discriminación
 2,3,2,5,2,Fomento y promoción de los derechos humanos
 2,3,2,5,4,Defensa y promoción de los derechos y libertades LGTBI
 2,3,2,6,1,Promoción de la convivencia e interculturalidad
@@ -281,6 +292,7 @@
 2,3,4,1,1,Atención a las personas discapacitadas
 2,3,9,1,1,Fondo de contingencia social
 2,4,1,1,4,Fomento del empleo para personas vulnerables
+2,9,9,9,9,Ajuste prórroga AD2
 3,1,1,1,1,Promoción de la salud
 3,1,1,1,2,Protección de la salud
 3,1,2,1,1,Asistencia sanitaria
@@ -320,6 +332,7 @@
 3,4,1,1,2,Fomento y promoción de la práctica deportiva
 3,4,2,1,1,Instalaciones deportivas
 3,4,3,1,1,Acontecimientos deportivos
+3,9,9,9,9,Ajuste prórroga AD3
 4,3,0,1,1,Administración y gerencia de EEiO
 4,3,0,1,3,Comunicación de EEiO
 4,3,0,1,4,Consejo Económico y Social
@@ -343,6 +356,7 @@
 4,9,1,1,1,Información y comunicación de Barcelona
 4,9,3,1,1,Arbitraje
 4,9,3,1,2,Información al consumidor
+4,9,9,9,9,Ajuste prórroga AD4
 9,1,2,1,1,Representacion política
 9,1,2,1,2,Dirección técnica de prensa
 9,1,2,2,1,Relaciones institucionales
@@ -378,6 +392,7 @@
 9,2,4,1,7,Participación ciudadana y asociativa
 9,2,4,1,8,Asociacionismo
 9,2,5,1,1,Atención al ciudadano
+9,2,5,1,2,Carnet de ciudad
 9,2,5,2,1,Comunicación corporativa
 9,2,5,2,2,Marketing corporativo
 9,2,5,2,3,Internet
@@ -401,3 +416,4 @@
 9,3,3,1,4,Mantenimiento de edificios y solares no centralizados
 9,3,4,1,1,Tesorería
 9,4,3,1,1,Transferencias a otros entes locales
+9,9,9,9,9,Ajuste prórroga AD9
