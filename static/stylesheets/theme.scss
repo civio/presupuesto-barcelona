@@ -400,3 +400,32 @@ table.table-grid tr td .toggle.collapse{
     margin-bottom: $grid-gutter-width;
   }
 }
+
+// Chart Alert
+.policies-chart,
+.sankey-container{
+  .alert{
+    padding: $grid-gutter-width/3 $grid-gutter-width;
+    color: $brand-primary;
+    background: $brand-terciary;
+    border: none;
+    text-align: center;
+
+    .glyphicon{
+      top: 2px;
+    }
+  }
+}
+.sankey-container{
+  text-align: center;
+  .alert{
+    display: inline-block;
+  }
+}
+.policies-chart .alert{
+  margin-bottom: 1.5*$grid-gutter-width;
+}
+.policy-breakdown .policies-chart .alert{
+  margin: 0 $grid-gutter-width/2 $grid-gutter-width 80px;
+}
+

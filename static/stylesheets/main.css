@@ -7892,4 +7892,26 @@ table.table-grid tr td .toggle.collapse {
   margin-top: 10px;
   margin-bottom: 30px; }
 
+.policies-chart .alert,
+.sankey-container .alert {
+  padding: 10px 30px;
+  color: #007b7b;
+  background: #ddf7fb;
+  border: none;
+  text-align: center; }
+  .policies-chart .alert .glyphicon,
+  .sankey-container .alert .glyphicon {
+    top: 2px; }
+
+.sankey-container {
+  text-align: center; }
+  .sankey-container .alert {
+    display: inline-block; }
+
+.policies-chart .alert {
+  margin-bottom: 45px; }
+
+.policy-breakdown .policies-chart .alert {
+  margin: 0 15px 30px 80px; }
+
 /*# sourceMappingURL=main.css.map */

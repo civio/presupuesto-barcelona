@@ -221,8 +221,22 @@ $(document).ready(function(){
   var showInvoicesNote = function(){
     if ( $('body').hasClass('body-payments') )
       $('.data-sources li.hidden').removeClass('hidden');
-  }
+  };
 
+  var addChartsAlert = function(selector){
+    var str = {
+      'es': 'Desplaza el cursor sobre la infografía para ver el detalle',
+      'ca': 'Desplaça el cursor sobre la infografia per veure el detall',
+      'en': 'Hover over the infographic to see the details'
+    };
+    var cont = $(selector);
+    if( cont.size() > 0 ){
+      cont.prepend('<div class="alert alert-success"><i class="glyphicon glyphicon-hand-up"></i> '+str[ $('html').attr('lang') ]+'</div>');
+    }
+  };
+
+  addChartsAlert('.policies-chart');
+  addChartsAlert('.sankey-container');
   addCustomDescriptions();
   addYearSelectorCustomLabels();
   showInvoicesNote();
