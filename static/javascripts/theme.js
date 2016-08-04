@@ -226,7 +226,7 @@ $(document).ready(function(){
   var addChartsAlert = function(selector){
     var str = {
       'es': 'Desplaza el cursor sobre la infografía para ver el detalle',
-      'ca': 'Desplaça el cursor sobre la infografia per veure el detall',
+      'ca': 'Desplaça el cursor sobre la infografia per a veure el detall',
       'en': 'Hover over the infographic to see the details'
     };
     var cont = $(selector);
