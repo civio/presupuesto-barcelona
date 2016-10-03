@@ -204,3 +204,7 @@ msgstr "Strategy and Finance"
 
 msgid " (cap. %(chapter)s)"
 msgstr " "
+
+#: templates/shared/footer.html:5
+msgid "La web de Presupuesto Abierto está basado en el código original de"
+msgstr "The Open Budget website is based on the original"

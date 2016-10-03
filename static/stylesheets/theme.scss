@@ -332,6 +332,13 @@ table.table-grid tr td .toggle.collapse{
 // Remove footer civio link & aragón logo
 .main-footer{
 
+  .credit-aragon{
+    float: left;
+    margin-left: $grid-gutter-width/2;
+    margin-bottom: 0;
+    font-weight: 400;
+  }
+
   .footer-menu li {
     line-height: 1.5em;
     margin-right: $grid-gutter-width/2;

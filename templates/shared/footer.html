@@ -1,6 +1,11 @@
 <footer class="main-footer">
 
   <div class="container">
+    <p class="credit-aragon">
+      <span>{{ _('La web de Presupuesto Abierto está basado en el código original de') }}</span>
+      <a href="http://opendata.aragon.es" class="link-aragon" target="_blank" title="Open Data Aragón">Open Data Aragón</a>
+    </p>
+
     <ul class="footer-menu">
       <!-- Link a la Web del Ayuntamiento -->
       <li>
@@ -10,11 +15,11 @@
       <li>
         <a href="http://w10.bcn.cat/APPS/irsconsultesWeb/entrada.consultes.do" title="{{ _('Contacto') }}" target="_blank">{{ _('Contacto') }}</a>
       </li>
-      <!-- Link al Aviso Legal del Ayuntamiento -->
+      <!-- Link al Aviso Legal del Ayuntamiento --
       <li>
         <a href="{{ url('presupuesto-barcelona.views.aviso_legal') }}" title="{{ _('Aviso Legal') }}">{{ _('Aviso Legal') }}</a>
       </li>
-      <!-- Link a la Política de Privacidad del Ayuntamiento -->
+      -- Link a la Política de Privacidad del Ayuntamiento --
       {% if main_entity_privacy_url %}
       <li>
         <a href="{{ main_entity_privacy_url }}" title="{{ _('Política de Privacidad') }}" target="_blank">{{ _('Política de Privacidad') }}</a>
@@ -23,6 +28,7 @@
       <li>
         <a href="{{ url('presupuesto-barcelona.views.accesibilidad') }}" title="{{ _('Accesibilidad') }}">{{ _('Accesibilidad') }}</a>
       </li>
+      -->
     </ul>
   </div>
 </footer>

@@ -7416,9 +7416,12 @@ header > .container {
   padding-top: 30px;
   background: #ddf7fb; }
   .tax-receipt-table-content .tax-detail-intro {
-    font-size: 1.125em;
+    font-size: 1.5em;
+    font-weight: 300;
     text-align: center;
     margin-bottom: 30px; }
+  .tax-receipt-table-content .table-grid {
+    background: white; }
 
 @media (min-width: 768px) {
   .tax-receipt-content .form-user-incomings h3 {
@@ -7845,6 +7848,11 @@ table.table-grid tr td .toggle.collapse {
 .stacked-area-chart-legend .label {
   font-size: 0.938em; }
 
+.main-footer .credit-aragon {
+  float: left;
+  margin-left: 15px;
+  margin-bottom: 0;
+  font-weight: 400; }
 .main-footer .footer-menu li {
   line-height: 1.5em;
   margin-right: 15px;
