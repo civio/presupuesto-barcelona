@@ -167,6 +167,9 @@ OVERVIEW_NODE_PADDING = 15
 # Note: 0.5 usually leaves nodes ordered as defined. 0.95 sorts by size (decreasing).
 OVERVIEW_RELAX_FACTOR = 0.5
 
+# Does the data includes a fifth functional classification level, subprogrammes?. Default: False
+USE_SUBPROGRAMMES = True
+
 # Show Payments section in menu & home options. Default: False.
 SHOW_PAYMENTS           = True
 
