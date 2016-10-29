@@ -167,3 +167,7 @@ msgstr "Datos presupuestarios en el"
 #: templates/shared/data_controllers.html:12
 msgid "Año"
 msgstr "Elige el año y comprobarás cómo cambia el presupuesto"
+
+#: templates/shared/footer.html:5
+msgid "La web de Presupuesto Abierto está basado en el código original de"
+msgstr "La web de Presupuesto Abierto está basado en el código original de"

@@ -240,3 +240,7 @@ msgstr "No inclou nòmines ni factures de persones físiques en acompliment de l
 
 msgid "El presupuesto 2016 incorpora al presupuesto inicial 2016 (prorrogado) la modificación de crédito global aprobada por el Plenario del Consejo Municipal el 5 de mayo de 2016."
 msgstr "El pressupost 2016 incorpora al Pressupost inicial 2016 (prorrogat) la modificació de crèdit global aprovada pel Plenari del Consell Municipal el 5 de maig de 2016."
+
+#: templates/shared/footer.html:5
+msgid "La web de Presupuesto Abierto está basado en el código original de"
+msgstr "El web de Pressupost Obert està basat en el codi original de"
