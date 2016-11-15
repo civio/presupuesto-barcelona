@@ -166,6 +166,7 @@
 1,3,0,1,3,Assessorament legal a la gerència i òrgans Gov SP
 1,3,0,1,4,Desenvolupament dels serveis de GUB i SPEIS
 1,3,0,1,5,Comunicació interna i externa SP
+1,3,0,1,6,Gestió de processos administratius i tràmits
 1,3,2,1,1,Gestió del programa de seguretat ciutadana
 1,3,2,1,2,Serveis generals de la Guàrdia Urbana
 1,3,2,1,3,"Desenvol. professional,selecció, prevenc.salut GUB"
@@ -187,6 +188,7 @@
 1,5,0,1,5,Anàlisi i sistemes d'informació Ecologia Urbana
 1,5,0,1,6,Comunicació Ecologia Urbana
 1,5,0,1,7,Manteniment i conservació edificis Ecologia Urbana
+1,5,0,1,8,Anàlisi i Avaluació de serveis d'Ecologia Urbana
 1,5,1,1,1,Llicències
 1,5,1,1,2,Inspeccions
 1,5,1,1,3,Altres serveis d'actuació urbanística
@@ -217,6 +219,7 @@
 1,5,3,5,7,Llei de Barris La Vinya-Can Clos
 1,5,3,5,8,Llei de Barris Bon Pastor
 1,5,3,5,9,Llei de Barris Raval Sud
+1,5,3,6,1,Pla de Barris
 1,6,0,1,1,Sanejament xarxa de clavegueram
 1,6,1,1,1,Abastament de les aigües
 1,6,2,1,1,Recollida de residus
@@ -234,6 +237,8 @@
 1,7,2,2,1,Educació mediambiental
 1,7,9,4,1,Gestió de recursos energètics locals
 1,7,9,4,2,Coordinació Urbana. Vehicle elèctric
+1,7,9,4,3,Coordinació Urbana. Obres
+1,7,9,4,4,Coordinació d'obres. Resiliència Urbana
 1,9,9,9,9,Ajust pròrroga AD1
 2,1,1,1,1,Pensions
 2,3,0,1,1,Direcció i administració de serveis socials
@@ -267,6 +272,7 @@
 2,3,1,6,1,Acollida i acompanyament d’immigrants
 2,3,1,6,2,Immigració-reglament d'estrangeria
 2,3,1,6,3,Pla d'assentaments irregulars
+2,3,1,6,4,Atenció a refugiats
 2,3,1,7,1,Atenció a la dona víctima de viol.
 2,3,1,7,2,Abordatge integr. del treball sexual
 2,3,1,7,3,Inclusió amb perspectiva de gènere
@@ -295,6 +301,7 @@
 3,1,1,1,1,Promoció de la salut
 3,1,1,1,2,Protecció de la salut
 3,1,2,1,1,Assistència sanitària
+3,1,3,1,1,Promoció de la salut
 3,2,0,1,1,Administració general d'educació
 3,2,0,2,1,Manteniment dels centres educatius
 3,2,0,2,2,Neteja dels centres educatius
@@ -322,6 +329,7 @@
 3,3,3,1,1,Museus i centres patrimonials
 3,3,3,2,1,Arts escèniques i música
 3,3,4,1,1,Promoció cultural
+3,3,4,1,2,Gestió equipaments culturals districtes
 3,3,6,1,3,Arqueologia
 3,3,7,1,1,Gestió de centres cívics
 3,3,7,1,2,Accions complementàries en els centres cívics
@@ -341,6 +349,8 @@
 4,3,2,1,1,Foment del turisme
 4,3,2,1,2,Promoció del turisme
 4,3,2,1,3,Esdeveniments d'interés econòmic
+4,3,2,1,4,Estratègia i participació en Turisme
+4,3,2,1,5,Altres iniciatives d'activitat turística
 4,3,3,1,1,Suport Ocupació i Empresa
 4,3,3,1,4,Plans d’ocupació
 4,3,3,1,9,Pla de rescat social
@@ -349,10 +359,12 @@
 4,3,3,3,3,Desenvolupament econòmic
 4,3,3,4,1,Dinamització econòmica de proximitat
 4,3,3,5,1,"Foment de l’economia cooperativa, social"
+4,3,3,5,2,Temps i Economia de les Cures
 4,4,1,1,1,Suport al transport públic de viatgers
 4,4,1,2,1,Servei del Bicing
 4,5,9,1,0,Altres infraestructures
 4,9,1,1,1,Informació i comunicació de Barcelona
+4,9,1,1,2,Sistemes d'informació
 4,9,3,1,1,Arbitratge
 4,9,3,1,2,Informació al consumidor
 4,9,9,9,9,Ajust pròrroga AD4
@@ -390,6 +402,8 @@
 9,2,4,1,6,Gestió equipaments de participació dels districtes
 9,2,4,1,7,Participació ciutadana
 9,2,4,1,8,Associacionisme
+9,2,4,1,9,Recerca i innovació en matèria de participació
+9,2,4,9,1,Memòria històrica
 9,2,5,1,1,Atenció al ciutadà
 9,2,5,1,2,Carnet de ciudat
 9,2,5,2,1,Comunicació corporativa

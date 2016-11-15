@@ -207,6 +207,11 @@ $(document).ready(function(){
       'ca': 'modificat-veure nota',
       'en': 'modified-see note',
     };
+    var str2017 = {
+      'es': 'pendiente aprobación',
+      'ca': 'pendent aprovació',
+      'en': 'pending approval',
+    };
 
     $('.data-controllers .layout-slider .slider .slider-tick-label').each(function(){
       var val = $(this).html();
@@ -214,6 +219,8 @@ $(document).ready(function(){
         $(this).html(val + '<br/><small><i> ('+ str2013[ $('html').attr('lang') ] +')</i></small>');
       } else if (val === '2016'){
         $(this).html(val + '<br/><small><i> ('+ str2016[ $('html').attr('lang') ] +')</i></small>');
+      } else if (val === '2017'){
+        $(this).html(val + '<br/><small><i> ('+ str2017[ $('html').attr('lang') ] +')</i></small>');
       }
     });
   };
