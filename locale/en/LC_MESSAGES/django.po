@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-07-21 02:09+0200\n"
+"PO-Revision-Date: 2016-11-28 04:04+0100\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: templates/budgets/budgets_intro.html:5
 msgid "El recorrido de mis impuestos"
@@ -113,8 +113,8 @@ msgid "Busca pagos a proveedores"
 msgstr "Search for invoiced expenses"
 
 #
-msgid "Descarga la tabla de <b>Pagos</b>"
-msgstr "Download the <b>invoiced expenses</b> table"
+msgid "Descarga la tabla de <strong>Pagos</strong>"
+msgstr "Download the <strong>invoiced expenses</strong> table"
 
 msgid "En cumplimiento de La Ley Orgánica de Protección de Datos Personales, y para proteger la identidad personal de los ciudadanos, se han excluido los gastos facturados de terceros identificados como personas físicas, así como los gastos de personal del Ayuntamiento. En la medida de lo posible también se han eliminado las referencias identificativas personales dentro de los textos descriptivos de las facturas."
 msgstr "In compliance with the Organic Law on Protection of Personal Data, and to protect the personal identity of citizens, all invoiced expenses from third parties identified as individuals, as well as the expenses of City Council staff, have been excluded. Personal identifying references within the descriptive texts of invoices have also been removed as far as possible."
