@@ -1,0 +1,34 @@
+<div class="container">
+    <div class="row">
+      <div class="col-sm-6">
+        <div class="home-intro">
+          <h2>{{ _('¿Cómo y en qué gasta el Gobierno de Aragón?') }}</h2>
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <div class="expense-examples">
+          <p class="title">{{ _('Algunos ejemplos') }}</p>
+          <ul>
+            {% for programme in featured_programmes %}
+            {# Items are initially hidden and shown randomly via Javascript, see below #}
+            <li class="hidden" data-budget="{{ breakdown.subtotals[programme.uid()].total_expense[latest_budget.year] }}">
+              <a href="{% url 'budget_app.views.programmes_show' programme.uid(), programme.slug() %}">{{ programme.description }}</a>
+              <strong></strong>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+{% if request.LANGUAGE_CODE != 'en' %}    
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="home-intro">
+        <p class="lead">{{ _('El Presupuesto Abierto es una herramienta que tiene por objetivo facilitar el análisis y comprensión de los presupuestos del Ayuntamiento de Barcelona por parte de los ciudadanos y de todas aquellas personas u organizaciones que puedan estar interesadas.') }}</p>
+        <p class="lead">{{ _('Permite navegar desde los datos presupuestarios más agregadas hasta el máximo nivel de detalle, tanto para el ejercicio actual como para los últimos ejercicios. Facilita la comparación de lo que se ha presupuestado con lo que finalmente se ha ejecutado y muestra el detalle de las facturas que hay detrás de los gastos presupuestarios ejecutadas.') }}</p>
+        <p class="lead">{{ _('La herramienta de Presupuesto Abierto permite además la descarga de datos en formatos abiertos, y se encuentra disponible en catalán, castellano e inglés.') }}</p>
+        </div>
+      </div>
+    </div>
+{% endif %}
+  </div>
