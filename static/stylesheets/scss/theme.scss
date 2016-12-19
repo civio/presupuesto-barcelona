@@ -284,18 +284,6 @@ header > .container{
 .glossary-content .glossary-search-results .alert{
   background: $brand-secondary;
 }
-.search-content .panel{
-  border-color: $brand-primary;
-
-  .panel-heading{
-    color: white;
-    background: $brand-primary;
-
-    h3{
-      color: white;
-    }
-  }
-}
 
 table.table-grid tr td .toggle.expand, 
 table.table-grid tr td .toggle.collapse{
