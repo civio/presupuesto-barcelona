@@ -202,11 +202,6 @@ $(document).ready(function(){
       'ca': 'prorrogat',
       'en': 'extended',
     };
-    var str2016 = {
-      'es': 'modificado-ver nota',
-      'ca': 'modificat-veure nota',
-      'en': 'modified-see note',
-    };
     var str2017 = {
       'es': 'pendiente aprobación',
       'ca': 'pendent aprovació',
@@ -217,8 +212,6 @@ $(document).ready(function(){
       var val = $(this).html();
       if (val === '2013'){
         $(this).html(val + '<br/><small><i> ('+ str2013[ $('html').attr('lang') ] +')</i></small>');
-      } else if (val === '2016'){
-        $(this).html(val + '<br/><small><i> ('+ str2016[ $('html').attr('lang') ] +')</i></small>');
       } else if (val === '2017'){
         $(this).html(val + '<br/><small><i> ('+ str2017[ $('html').attr('lang') ] +')</i></small>');
       }
