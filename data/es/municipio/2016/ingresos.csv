@@ -1,615 +1,688 @@
-10000,0703,93219,Cessió IRPF,51244290,,,2016
-11301,0703,93219,IBI de naturalesa urbana,615314010,,,2016
-11401,0703,93219,IBI de característiques especials,8097000,,,2016
-11500,0703,93219,Impost sobre vehicles tracció mecànica,58620000,,,2016
-11600,0703,93219,I. s/ increm. valor terrenys nat. urbana,120814000,,,2016
-13000,0703,93219,Impost activitats econòmiques (IAE),80629000,,,2016
-13001,0703,93219,Impost activitats profesionals i artisti,10,,,2016
-13004,0703,93219,Quotes nacionals i provincials IAE,9049000,,,2016
-18000,0703,93219,Directes extingits,10,,,2016
-21000,0703,93219,Cessió IVA,30529420,,,2016
-22000,0703,93219,Cessió IE alcohol i derivats,385330,,,2016
-22001,0703,93219,Cessió IE cervesa,132690,,,2016
-22003,0703,93219,Cessió IE tabac,3257390,,,2016
-22004,0703,93219,Cessió IE hidrocarburs,4669180,,,2016
-22006,0703,93219,Cessió IE de productes intermedis,8780,,,2016
-29000,0501,93219,"Impost s/ construccions, instal·lacions",6751812.08,,,2016
-29000,0502,93219,"Impost s/ construccions, instal·lacions",5626.51,,,2016
-29000,0601,93219,"Impost s/ construccions, instal·lacions",675181.21,,,2016
-29000,0602,93219,"Impost s/ construccions, instal·lacions",2813255.03,,,2016
-29000,0603,93219,"Impost s/ construccions, instal·lacions",1350362.41,,,2016
-29000,0604,93219,"Impost s/ construccions, instal·lacions",450120.81,,,2016
-29000,0605,93219,"Impost s/ construccions, instal·lacions",1350362.41,,,2016
-29000,0606,93219,"Impost s/ construccions, instal·lacions",675181.21,,,2016
-29000,0607,93219,"Impost s/ construccions, instal·lacions",450120.81,,,2016
-29000,0608,93219,"Impost s/ construccions, instal·lacions",331964.1,,,2016
-29000,0609,93219,"Impost s/ construccions, instal·lacions",562651.01,,,2016
-29000,0610,93219,"Impost s/ construccions, instal·lacions",1350362.41,,,2016
-30100,0502,16011,Taxa de clavegueram,15500000,,,2016
-30901,0502,93219,Taxa per retirada de sacs i contenidors,35000,,,2016
-30902,0401,93219,Taxa per extinció d'incendis i salvament,211000,,,2016
-30903,0703,93219,Taxa de cementiris,12029885,,,2016
-30904,0401,93219,Taxa per prestacions serveis GU,570000,,,2016
-32100,0501,93219,Taxes per llicències d'obres,3722756.51,,,2016
-32100,0502,93219,Taxes per llicències d'obres,64318.53,,,2016
-32100,0601,93219,Taxes per llicències d'obres,23154.67,,,2016
-32100,0602,93219,Taxes per llicències d'obres,57886.68,,,2016
-32100,0603,93219,Taxes per llicències d'obres,54027.56,,,2016
-32100,0604,93219,Taxes per llicències d'obres,20581.93,,,2016
-32100,0605,93219,Taxes per llicències d'obres,12863.7,,,2016
-32100,0606,93219,Taxes per llicències d'obres,21868.3,,,2016
-32100,0607,93219,Taxes per llicències d'obres,28300.16,,,2016
-32100,0608,93219,Taxes per llicències d'obres,20581.93,,,2016
-32100,0609,93219,Taxes per llicències d'obres,45022.97,,,2016
-32100,0610,93219,Taxes per llicències d'obres,128637.06,,,2016
-32101,0601,93219,Taxes per llicències d'activitats,161965.32,,,2016
-32101,0602,93219,Taxes per llicències d'activitats,593872.83,,,2016
-32101,0603,93219,Taxes per llicències d'activitats,194358.38,,,2016
-32101,0604,93219,Taxes per llicències d'activitats,107976.88,,,2016
-32101,0605,93219,Taxes per llicències d'activitats,188959.54,,,2016
-32101,0606,93219,Taxes per llicències d'activitats,161965.32,,,2016
-32101,0607,93219,Taxes per llicències d'activitats,86381.5,,,2016
-32101,0608,93219,Taxes per llicències d'activitats,64786.13,,,2016
-32101,0609,93219,Taxes per llicències d'activitats,102578.03,,,2016
-32101,0610,93219,Taxes per llicències d'activitats,205156.07,,,2016
-32300,0601,93219,Taxa inspecció d'execució d'obres,10,,,2016
-32300,0602,93219,Taxa inspecció d'execució d'obres,10,,,2016
-32300,0603,93219,Taxa inspecció d'execució d'obres,10,,,2016
-32300,0604,93219,Taxa inspecció d'execució d'obres,10,,,2016
-32300,0605,93219,Taxa inspecció d'execució d'obres,10,,,2016
-32300,0606,93219,Taxa inspecció d'execució d'obres,10,,,2016
-32300,0607,93219,Taxa inspecció d'execució d'obres,10,,,2016
-32300,0608,93219,Taxa inspecció d'execució d'obres,10,,,2016
-32300,0609,93219,Taxa inspecció d'execució d'obres,10,,,2016
-32300,0610,93219,Taxa inspecció d'execució d'obres,10,,,2016
-32301,0501,93219,"Taxes informes, planols i certificats ur (SIR)",2970,,,2016
-32301,0601,93219,"Taxes informes, planols i certificats ur (SIR)",26450,,,2016
-32301,0602,93219,"Taxes informes, planols i certificats ur (SIR)",3450,,,2016
-32301,0603,93219,"Taxes informes, planols i certificats ur (SIR)",18400,,,2016
-32301,0604,93219,"Taxes informes, planols i certificats ur (SIR)",1150,,,2016
-32301,0605,93219,"Taxes informes, planols i certificats ur (SIR)",10,,,2016
-32301,0606,93219,"Taxes informes, planols i certificats ur (SIR)",3450,,,2016
-32301,0607,93219,"Taxes informes, planols i certificats ur (SIR)",1150,,,2016
-32301,0608,93219,"Taxes informes, planols i certificats ur (SIR)",3967.5,,,2016
-32301,0609,93219,"Taxes informes, planols i certificats ur (SIR)",2361.25,,,2016
-32301,0610,93219,"Taxes informes, planols i certificats ur (SIR)",10,,,2016
-32500,0101,93219,Taxa per expedició documents serveis gen,55000,,,2016
-32500,0201,93219,Taxa per expedició documents serveis gen,10,,,2016
-32500,0401,93219,Taxa per expedició documents serveis gen,415990,,,2016
-32500,0501,93219,Taxa per expedició documents serveis gen,1000,,,2016
-32500,0601,93219,Taxa per expedició documents serveis gen,4600,,,2016
-32500,0602,93219,Taxa per expedició documents serveis gen,10416.7,,,2016
-32500,0603,93219,Taxa per expedició documents serveis gen,2300,,,2016
-32500,0604,93219,Taxa per expedició documents serveis gen,2300,,,2016
-32500,0605,93219,Taxa per expedició documents serveis gen,575,,,2016
-32500,0606,93219,Taxa per expedició documents serveis gen,8050,,,2016
-32500,0607,93219,Taxa per expedició documents serveis gen,6670,,,2016
-32500,0608,93219,Taxa per expedició documents serveis gen,10,,,2016
-32500,0609,93219,Taxa per expedició documents serveis gen,1351.68,,,2016
-32500,0610,93219,Taxa per expedició documents serveis gen,5175,,,2016
-32600,0703,93219,Taxa de grua i parany,16001258,,,2016
-32601,0703,93219,Taxa abandonaments vehicles BSM,377000,,,2016
-32602,0401,93219,Taxa permanències al dipòsit municipal,1000,,,2016
-32901,0502,93219,Taxes per homologació gestió residus,4000,,,2016
-32903,0502,93219,Taxa de salut pública i animals,25000,,,2016
-32904,0401,93219,Recollida i trasllat dipòsit elements vi,10,,,2016
-32904,0601,93219,Recollida i trasllat dipòsit elements vi,10,,,2016
-32904,0602,93219,Recollida i trasllat dipòsit elements vi,10,,,2016
-32904,0603,93219,Recollida i trasllat dipòsit elements vi,10,,,2016
-32904,0604,93219,Recollida i trasllat dipòsit elements vi,10,,,2016
-32904,0605,93219,Recollida i trasllat dipòsit elements vi,10,,,2016
-32904,0606,93219,Recollida i trasllat dipòsit elements vi,10,,,2016
-32904,0607,93219,Recollida i trasllat dipòsit elements vi,10,,,2016
-32904,0608,93219,Recollida i trasllat dipòsit elements vi,10,,,2016
-32904,0609,93219,Recollida i trasllat dipòsit elements vi,10,,,2016
-32904,0610,93219,Recollida i trasllat dipòsit elements vi,10,,,2016
-32905,0101,93219,Taxes per accés oferta pública,239000,,,2016
-32910,0101,93219,Taxa per matrimoni civil,10,,,2016
-32912,0401,93219,Taxa per anàlisi d'alcoholèmies,1500,,,2016
-32913,0401,93219,Taxa per anàlisi de drogo-test,1500,,,2016
-32914,0101,93219,Taxa entrevista informe d'arrelament,10,,,2016
-32914,0201,93219,Taxa entrevista informe d'arrelament,10,,,2016
-32915,0101,93219,Taxa inspecció habitatge informe reagrup,10,,,2016
-32915,0201,93219,Taxa inspecció habitatge informe reagrup,10,,,2016
-32916,0401,93219,Taxa per còpies autoritzades informes accidents,10,,,2016
-32917,0504,93219,Taxa per autorització Transport Escolar i menors,10,,,2016
-32918,0401,93219,Taxa per concessió targetes carabines i pistoles,10,,,2016
-33000,0703,93219,Taxa estacionament de vehicles (parquím),35354767,,,2016
-33001,0401,93219,Taxa reserva estacionament,19977.81,,,2016
-33001,0601,93219,Taxa reserva estacionament,99889.05,,,2016
-33001,0602,93219,Taxa reserva estacionament,269700.44,,,2016
-33001,0603,93219,Taxa reserva estacionament,26970.04,,,2016
-33001,0604,93219,Taxa reserva estacionament,54938.97,,,2016
-33001,0605,93219,Taxa reserva estacionament,59933.43,,,2016
-33001,0606,93219,Taxa reserva estacionament,14983.36,,,2016
-33001,0607,93219,Taxa reserva estacionament,19977.81,,,2016
-33001,0608,93219,Taxa reserva estacionament,9988.9,,,2016
-33001,0609,93219,Taxa reserva estacionament,19717.85,,,2016
-33001,0610,93219,Taxa reserva estacionament,69922.33,,,2016
-33100,0601,93219,Taxa per entrada vehicles (Guals),358055.56,,,2016
-33100,0602,93219,Taxa per entrada vehicles (Guals),2685416.67,,,2016
-33100,0603,93219,Taxa per entrada vehicles (Guals),1477234.92,,,2016
-33100,0604,93219,Taxa per entrada vehicles (Guals),1653193.65,,,2016
-33100,0605,93219,Taxa per entrada vehicles (Guals),3478253.97,,,2016
-33100,0606,93219,Taxa per entrada vehicles (Guals),1321736.51,,,2016
-33100,0607,93219,Taxa per entrada vehicles (Guals),1452682.54,,,2016
-33100,0608,93219,Taxa per entrada vehicles (Guals),775446.03,,,2016
-33100,0609,93219,Taxa per entrada vehicles (Guals),1457797.62,,,2016
-33100,0610,93219,Taxa per entrada vehicles (Guals),2097182.54,,,2016
-33200,0502,93219,Taxa uti. priv. empreses explot. submini,21712000,,,2016
-33300,0502,93219,Taxa uti. priv. empreses explot. telecos,1503000,,,2016
-33500,0601,93219,Taxa de taules i cadires (vetlladors),857668.71,,,2016
-33500,0602,93219,Taxa de taules i cadires (vetlladors),2036963.19,,,2016
-33500,0603,93219,Taxa de taules i cadires (vetlladors),321625.77,,,2016
-33500,0604,93219,Taxa de taules i cadires (vetlladors),192975.46,,,2016
-33500,0605,93219,Taxa de taules i cadires (vetlladors),268021.47,,,2016
-33500,0606,93219,Taxa de taules i cadires (vetlladors),176894.17,,,2016
-33500,0607,93219,Taxa de taules i cadires (vetlladors),85766.87,,,2016
-33500,0608,93219,Taxa de taules i cadires (vetlladors),112569.02,,,2016
-33500,0609,93219,Taxa de taules i cadires (vetlladors),197263.8,,,2016
-33500,0610,93219,Taxa de taules i cadires (vetlladors),643251.53,,,2016
-33501,0701,93219,Taxa de quioscos i vidrieres,790000,,,2016
-33502,0401,93219,Taxes d'altres ocupacions via pública,241740,,,2016
-33502,0601,93219,Taxes d'altres ocupacions via pública,618570,,,2016
-33502,0602,93219,Taxes d'altres ocupacions via pública,938520,,,2016
-33502,0603,93219,Taxes d'altres ocupacions via pública,106650,,,2016
-33502,0604,93219,Taxes d'altres ocupacions via pública,241740,,,2016
-33502,0605,93219,Taxes d'altres ocupacions via pública,71100,,,2016
-33502,0606,93219,Taxes d'altres ocupacions via pública,71100,,,2016
-33502,0607,93219,Taxes d'altres ocupacions via pública,28440,,,2016
-33502,0608,93219,Taxes d'altres ocupacions via pública,206190,,,2016
-33502,0609,93219,Taxes d'altres ocupacions via pública,106650,,,2016
-33502,0610,93219,Taxes d'altres ocupacions via pública,213300,,,2016
-33800,0502,93219,Compensació Telefònica de España SA,7344000,,,2016
-33900,0502,93219,Taxa utilitza. privada enllumenat públic,10,,,2016
-33901,0502,93219,Taxa utilització privada fonts ornamenta,22000,,,2016
-33902,0502,93219,Taxa per serveis especials de vialitat,226500,,,2016
-33903,0703,93219,Taxa per caixers automàtics,73000,,,2016
-34100,0201,93219,Residència-habitatge tutelat-centres dia,1989000,,,2016
-34101,0201,93219,Equipaments gent gran,10,,,2016
-34102,0201,93219,Serveis d'atenció domiciliària,10,,,2016
-34104,0701,93219,Temps Barri - cursos famílies i discapac,6000,,,2016
-34300,0601,93219,Activitats centres esportius,10,,,2016
-34300,0602,93219,Activitats centres esportius,10,,,2016
-34300,0603,93219,Activitats centres esportius,10,,,2016
-34300,0604,93219,Activitats centres esportius,10,,,2016
-34300,0605,93219,Activitats centres esportius,10,,,2016
-34300,0606,93219,Activitats centres esportius,10,,,2016
-34300,0607,93219,Activitats centres esportius,10,,,2016
-34300,0608,93219,Activitats centres esportius,10,,,2016
-34300,0609,93219,Activitats centres esportius,10,,,2016
-34300,0610,93219,Activitats centres esportius,10,,,2016
-34400,0201,93219,Actes culturals,7560,,,2016
-34400,0601,93219,Actes culturals,10,,,2016
-34400,0602,93219,Actes culturals,10,,,2016
-34400,0603,93219,Actes culturals,3450,,,2016
-34400,0604,93219,Actes culturals,10,,,2016
-34400,0605,93219,Actes culturals,115,,,2016
-34400,0606,93219,Actes culturals,13225,,,2016
-34400,0607,93219,Actes culturals,230,,,2016
-34400,0608,93219,Actes culturals,2645,,,2016
-34400,0609,93219,Actes culturals,15324,,,2016
-34400,0610,93219,Actes culturals,10,,,2016
-34900,0601,93219,Activitats centres civics districtes,10,,,2016
-34900,0602,93219,Activitats centres civics districtes,10,,,2016
-34900,0603,93219,Activitats centres civics districtes,31050,,,2016
-34900,0604,93219,Activitats centres civics districtes,28175,,,2016
-34900,0605,93219,Activitats centres civics districtes,17250,,,2016
-34900,0606,93219,Activitats centres civics districtes,10,,,2016
-34900,0607,93219,Activitats centres civics districtes,8625,,,2016
-34900,0608,93219,Activitats centres civics districtes,33062.5,,,2016
-34900,0609,93219,Activitats centres civics districtes,65154.02,,,2016
-34900,0610,93219,Activitats centres civics districtes,24150,,,2016
-34901,0201,93219,Activitats Centres Oberts,28800,,,2016
-34902,0201,93219,Atenció a les famílies,10,,,2016
-34908,0601,93219,Esponsoritzacions,10,,,2016
-34908,0602,93219,Esponsoritzacions,10,,,2016
-34908,0603,93219,Esponsoritzacions,10,,,2016
-34908,0604,93219,Esponsoritzacions,10,,,2016
-34908,0605,93219,Esponsoritzacions,10,,,2016
-34908,0606,93219,Esponsoritzacions,10,,,2016
-34908,0607,93219,Esponsoritzacions,10,,,2016
-34908,0608,93219,Esponsoritzacions,10,,,2016
-34908,0609,93219,Esponsoritzacions,10,,,2016
-34908,0610,93219,Esponsoritzacions,10,,,2016
-34908,0703,44121,Esponsoritzacions,597207.34,,,2016
-34910,0401,93219,Unitat montada i secció canina de la GU,10,,,2016
-34911,0401,93219,Cursos SPEIS,2000,,,2016
-34912,0401,93219,Cursos formació policial (GU),10,,,2016
-34913,0401,93219,Cursos utilització torre de pràctiques,10,,,2016
-34920,0502,93219,Recollida comercial residus,17635000,,,2016
-34921,0502,93219,Preus púb. servei especial neteja i rec.,6259000,,,2016
-34930,0101,93219,Productes i serveis de Bcn Informació,10,,,2016
-34932,0703,93219,Encàrrec de gestió Parc Güell,1000000,,,2016
-35100,0401,93219,Contribucions especials per serveis públ,10,,,2016
-36000,0101,93219,Publicacions,64970,,,2016
-36000,0201,93219,Publicacions,10,,,2016
-36000,0501,93219,Publicacions,10,,,2016
-36000,0601,93219,Publicacions,10,,,2016
-36000,0602,93219,Publicacions,10,,,2016
-36000,0603,93219,Publicacions,10,,,2016
-36000,0604,93219,Publicacions,10,,,2016
-36000,0605,93219,Publicacions,10,,,2016
-36000,0606,93219,Publicacions,10,,,2016
-36000,0607,93219,Publicacions,10,,,2016
-36000,0608,93219,Publicacions,10,,,2016
-36000,0609,93219,Publicacions,10,,,2016
-36000,0610,93219,Publicacions,10,,,2016
-36000,0801,93219,Publicacions,10,,,2016
-36001,0101,93219,Publicitat en publicacions municipals,6000,,,2016
-36002,0101,93219,Difusió d'informació per compte de terc.,52980,,,2016
-36002,0501,93219,Difusió d'informació per compte de terc.,10,,,2016
-36002,0502,93219,Difusió d'informació per compte de terc.,10,,,2016
-36002,0601,93219,Difusió d'informació per compte de terc.,10,,,2016
-36002,0602,93219,Difusió d'informació per compte de terc.,10,,,2016
-36002,0603,93219,Difusió d'informació per compte de terc.,10,,,2016
-36002,0604,93219,Difusió d'informació per compte de terc.,10,,,2016
-36002,0605,93219,Difusió d'informació per compte de terc.,10,,,2016
-36002,0606,93219,Difusió d'informació per compte de terc.,10,,,2016
-36002,0607,93219,Difusió d'informació per compte de terc.,10,,,2016
-36002,0608,93219,Difusió d'informació per compte de terc.,10,,,2016
-36002,0609,93219,Difusió d'informació per compte de terc.,10,,,2016
-36002,0610,93219,Difusió d'informació per compte de terc.,10,,,2016
-36003,0703,93219,Altres ingressos per prestació serveis,10,,,2016
-36100,0101,93219,Venda d'energia solar fotovoltaica,225000,,,2016
-36200,0101,93219,Venda de material inservible,10,,,2016
-36300,0101,93219,Impresos,10,,,2016
-36300,0502,93219,Impresos,10,,,2016
-36300,0601,93219,Impresos,10,,,2016
-36300,0602,93219,Impresos,10,,,2016
-36300,0603,93219,Impresos,10,,,2016
-36300,0604,93219,Impresos,10,,,2016
-36300,0605,93219,Impresos,10,,,2016
-36300,0606,93219,Impresos,10,,,2016
-36300,0607,93219,Impresos,10,,,2016
-36300,0608,93219,Impresos,10,,,2016
-36300,0609,93219,Impresos,10,,,2016
-36300,0610,93219,Impresos,10,,,2016
-36401,0101,93219,Treballs impremta municipal,41000,,,2016
-36500,0502,93219,Venda de recollida selectiva residus,6100000,,,2016
-38901,0703,93219,Reintegraments creditors extrapressup,10,,,2016
-38902,0703,93219,Reintegraments despeses avançades (ooaa),10,,,2016
-38903,0101,93219,Pagaments indeguts d'exercicis anteriors,201281.55,,,2016
-38903,0201,93219,Pagaments indeguts d'exercicis anteriors,8.64,,,2016
-38903,0501,93219,Pagaments indeguts d'exercicis anteriors,4319.56,,,2016
-38903,0502,93219,Pagaments indeguts d'exercicis anteriors,4319.56,,,2016
-38903,0601,93219,Pagaments indeguts d'exercicis anteriors,8639.12,,,2016
-38903,0602,93219,Pagaments indeguts d'exercicis anteriors,4319.56,,,2016
-38903,0603,93219,Pagaments indeguts d'exercicis anteriors,4319.56,,,2016
-38903,0604,93219,Pagaments indeguts d'exercicis anteriors,4319.56,,,2016
-38903,0605,93219,Pagaments indeguts d'exercicis anteriors,4319.56,,,2016
-38903,0606,93219,Pagaments indeguts d'exercicis anteriors,4319.56,,,2016
-38903,0607,93219,Pagaments indeguts d'exercicis anteriors,4319.56,,,2016
-38903,0608,93219,Pagaments indeguts d'exercicis anteriors,4319.56,,,2016
-38903,0609,93219,Pagaments indeguts d'exercicis anteriors,4319.56,,,2016
-38903,0610,93219,Pagaments indeguts d'exercicis anteriors,4319.56,,,2016
-38903,0701,93219,Pagaments indeguts d'exercicis anteriors,10,,,2016
-38903,0702,93219,Pagaments indeguts d'exercicis anteriors,86391.22,,,2016
-38903,0703,93219,Pagaments indeguts d'exercicis anteriors,56154.29,,,2016
-38904,0703,93219,Devolucions d'IVA pressupostari,10,,,2016
-38905,0703,93219,Devolucions d'ingressos,10,,,2016
-38906,0201,93219,Reintegraments per subministres,10,,,2016
-38906,0601,93219,Reintegraments per subministres,10,,,2016
-38906,0602,93219,Reintegraments per subministres,109250,,,2016
-38906,0603,93219,Reintegraments per subministres,2300,,,2016
-38906,0604,93219,Reintegraments per subministres,10,,,2016
-38906,0605,93219,Reintegraments per subministres,34500,,,2016
-38906,0606,93219,Reintegraments per subministres,10,,,2016
-38906,0607,93219,Reintegraments per subministres,10,,,2016
-38906,0608,93219,Reintegraments per subministres,10,,,2016
-38906,0609,93219,Reintegraments per subministres,24024,,,2016
-38906,0610,93219,Reintegraments per subministres,10,,,2016
-38908,0101,93219,Reintegrament despeses,10,,,2016
-38908,0702,93219,Reintegrament despeses,10,,,2016
-38909,0703,93219,Reintegraments ADOJ Exercicis anteriors,300000,,,2016
-38910,0101,93219,Reintegraments subvencions SIR,10,,,2016
-38910,0201,93219,Reintegraments subvencions SIR,10,,,2016
-38910,0601,93219,Reintegraments subvencions SIR,10,,,2016
-38910,0602,93219,Reintegraments subvencions SIR,10,,,2016
-38910,0603,93219,Reintegraments subvencions SIR,10,,,2016
-38910,0604,93219,Reintegraments subvencions SIR,10,,,2016
-38910,0605,93219,Reintegraments subvencions SIR,10,,,2016
-38910,0606,93219,Reintegraments subvencions SIR,10,,,2016
-38910,0607,93219,Reintegraments subvencions SIR,10,,,2016
-38910,0608,93219,Reintegraments subvencions SIR,10,,,2016
-38910,0609,93219,Reintegraments subvencions SIR,10,,,2016
-38910,0610,93219,Reintegraments subvencions SIR,10,,,2016
-39120,0401,93219,Infraccions trànsit - ajuntament,45510560.71,,,2016
-39130,0101,93219,Infraccions ordenances,1353297.69,,,2016
-39130,0401,93219,Infraccions ordenances,33832.44,,,2016
-39130,0502,93219,Infraccions ordenances,405989.31,,,2016
-39130,0601,93219,Infraccions ordenances,632500,,,2016
-39130,0602,93219,Infraccions ordenances,460000,,,2016
-39130,0603,93219,Infraccions ordenances,138000,,,2016
-39130,0604,93219,Infraccions ordenances,80500,,,2016
-39130,0605,93219,Infraccions ordenances,115000,,,2016
-39130,0606,93219,Infraccions ordenances,138000,,,2016
-39130,0607,93219,Infraccions ordenances,85675,,,2016
-39130,0608,93219,Infraccions ordenances,132250,,,2016
-39130,0609,93219,Infraccions ordenances,111856.6,,,2016
-39130,0610,93219,Infraccions ordenances,149500,,,2016
-39130,0703,93219,Infraccions ordenances,40598.93,,,2016
-39140,0101,93219,Infraccions d'ordenances inspecció (sanc,670926.27,,,2016
-39140,0703,93219,Infraccions d'ordenances inspecció (sanc,1502073.73,,,2016
-39191,0101,93219,Sancions de Contractes,10,,,2016
-39191,0201,93219,Sancions de Contractes,10,,,2016
-39191,0401,93219,Sancions de Contractes,10,,,2016
-39191,0501,93219,Sancions de Contractes,10,,,2016
-39191,0502,93219,Sancions de Contractes,10,,,2016
-39191,0601,93219,Sancions de Contractes,10,,,2016
-39191,0602,93219,Sancions de Contractes,10,,,2016
-39191,0603,93219,Sancions de Contractes,10,,,2016
-39191,0604,93219,Sancions de Contractes,10,,,2016
-39191,0605,93219,Sancions de Contractes,10,,,2016
-39191,0606,93219,Sancions de Contractes,10,,,2016
-39191,0607,93219,Sancions de Contractes,10,,,2016
-39191,0608,93219,Sancions de Contractes,10,,,2016
-39191,0609,93219,Sancions de Contractes,10,,,2016
-39191,0610,93219,Sancions de Contractes,10,,,2016
-39191,0701,93219,Sancions de Contractes,10,,,2016
-39191,0702,93219,Sancions de Contractes,10,,,2016
-39191,0703,93219,Sancions de Contractes,10,,,2016
-39191,0801,93219,Sancions de Contractes,10,,,2016
-39200,0703,93219,Recàrrecs declaració extemporanea s.r.p.,470000,,,2016
-39210,0703,93219,Recàrrec executiu,8425000,,,2016
-39211,0703,93219,Recàrrec apremi,1813000,,,2016
-39300,0101,93219,Interessos de demora,11.18,,,2016
-39300,0703,93219,Interessos de demora,7162988.82,,,2016
-39612,0703,93219,Càrregues urbanístiques,10,,,2016
-39700,0703,93219,Cessió per aprofitament urbanístic (10%),10,,,2016
-39900,0501,93219,Execucions subsidiàries,596209.64,,,2016
-39900,0502,93219,Execucions subsidiàries,595690.4,,,2016
-39900,0601,93219,Execucions subsidiàries,10,,,2016
-39900,0602,93219,Execucions subsidiàries,10,,,2016
-39900,0603,93219,Execucions subsidiàries,10,,,2016
-39900,0604,93219,Execucions subsidiàries,10,,,2016
-39900,0605,93219,Execucions subsidiàries,10,,,2016
-39900,0606,93219,Execucions subsidiàries,10,,,2016
-39900,0607,93219,Execucions subsidiàries,10,,,2016
-39900,0608,93219,Execucions subsidiàries,10,,,2016
-39900,0609,93219,Execucions subsidiàries,10,,,2016
-39900,0610,93219,Execucions subsidiàries,10,,,2016
-39901,0101,93219,Tarifa plataforma telefònica,536000,,,2016
-39902,0401,93219,Prevenció i extinció incendis port bcn,10,,,2016
-39903,0101,93219,Indemnitzacions desperfectes OOAA,10,,,2016
-39904,0101,93219,Indemnitzacions,10,,,2016
-39904,0201,93219,Indemnitzacions,10,,,2016
-39904,0401,93219,Indemnitzacions,50000,,,2016
-39904,0501,93219,Indemnitzacions,25000,,,2016
-39904,0502,93219,Indemnitzacions,155000,,,2016
-39904,0601,93219,Indemnitzacions,10,,,2016
-39904,0602,93219,Indemnitzacions,11500,,,2016
-39904,0603,93219,Indemnitzacions,44850,,,2016
-39904,0604,93219,Indemnitzacions,10,,,2016
-39904,0605,93219,Indemnitzacions,5750,,,2016
-39904,0606,93219,Indemnitzacions,23690,,,2016
-39904,0607,93219,Indemnitzacions,6900,,,2016
-39904,0608,93219,Indemnitzacions,3967.5,,,2016
-39904,0609,93219,Indemnitzacions,859.8,,,2016
-39904,0610,93219,Indemnitzacions,10,,,2016
-39904,0701,93219,Indemnitzacions,10,,,2016
-39904,0702,93219,Indemnitzacions,10,,,2016
-39904,0703,93219,Indemnitzacions,9.94,,,2016
-39904,0801,93219,Indemnitzacions,10,,,2016
-39906,0603,93219,Actuacions mercadillos varis,87400,,,2016
-39907,0401,93219,Altres ingressos seguretat i mobilitat,73000,,,2016
-39907,0601,93219,Altres ingressos seguretat i mobilitat,10,,,2016
-39907,0602,93219,Altres ingressos seguretat i mobilitat,10,,,2016
-39907,0603,93219,Altres ingressos seguretat i mobilitat,10,,,2016
-39907,0604,93219,Altres ingressos seguretat i mobilitat,10,,,2016
-39907,0605,93219,Altres ingressos seguretat i mobilitat,10,,,2016
-39907,0606,93219,Altres ingressos seguretat i mobilitat,10,,,2016
-39907,0607,93219,Altres ingressos seguretat i mobilitat,10,,,2016
-39907,0608,93219,Altres ingressos seguretat i mobilitat,10,,,2016
-39907,0609,93219,Altres ingressos seguretat i mobilitat,10,,,2016
-39907,0610,93219,Altres ingressos seguretat i mobilitat,10,,,2016
-39908,0801,93219,Actes promoció relacions cíviques,10,,,2016
-39909,0101,93219,Sentències jutjats i tribunals,5000,,,2016
-39909,0703,93219,Sentències jutjats i tribunals,5000,,,2016
-39910,0502,93219,Serveis especials educació ambiental,10,,,2016
-39911,0401,93219,Compensacio costos,8250000,,,2016
-39911,0701,93219,Compensacio costos,920000,,,2016
-39912,0101,93219,Incautació de dipòsits,10,,,2016
-39912,0201,93219,Incautació de dipòsits,10,,,2016
-39912,0401,93219,Incautació de dipòsits,10,,,2016
-39912,0501,93219,Incautació de dipòsits,10,,,2016
-39912,0502,93219,Incautació de dipòsits,10,,,2016
-39912,0503,93219,Incautació de dipòsits,10,,,2016
-39912,0504,93219,Incautació de dipòsits,10,,,2016
-39912,0601,93219,Incautació de dipòsits,10,,,2016
-39912,0602,93219,Incautació de dipòsits,10,,,2016
-39912,0603,93219,Incautació de dipòsits,10,,,2016
-39912,0604,93219,Incautació de dipòsits,10,,,2016
-39912,0605,93219,Incautació de dipòsits,10,,,2016
-39912,0606,93219,Incautació de dipòsits,10,,,2016
-39912,0607,93219,Incautació de dipòsits,10,,,2016
-39912,0608,93219,Incautació de dipòsits,10,,,2016
-39912,0609,93219,Incautació de dipòsits,10,,,2016
-39912,0610,93219,Incautació de dipòsits,10,,,2016
-39912,0701,93219,Incautació de dipòsits,10,,,2016
-39912,0702,93219,Incautació de dipòsits,10,,,2016
-39912,0703,93219,Incautació de dipòsits,10,,,2016
-39912,0801,93219,Incautació de dipòsits,10,,,2016
-39913,0601,93219,Actuacions fires del districte,10,,,2016
-39913,0602,93219,Actuacions fires del districte,10,,,2016
-39913,0603,93219,Actuacions fires del districte,10,,,2016
-39913,0604,93219,Actuacions fires del districte,10,,,2016
-39913,0605,93219,Actuacions fires del districte,10,,,2016
-39913,0606,93219,Actuacions fires del districte,10,,,2016
-39913,0607,93219,Actuacions fires del districte,10,,,2016
-39913,0608,93219,Actuacions fires del districte,10,,,2016
-39913,0609,93219,Actuacions fires del districte,10,,,2016
-39913,0610,93219,Actuacions fires del districte,10,,,2016
-39914,0703,93219,Recuperació costes embargaments,27000,,,2016
-39915,0703,93219,Recuperació costes notificacions,270000,,,2016
-39916,0501,93219,Prestació serveis tècnics projectes i o.,10,,,2016
-39917,0401,93219,Regul.per fin.contr.(renting vehicles),10,,,2016
-39918,0701,93219,Repercussió costos FCV,10,,,2016
-39919,0502,93219,Exec. subsidiària Medi Ambient,10,,,2016
-39920,0502,93219,Exec. subsidiària Ordenança Convivència,10,,,2016
-39998,0703,93219,Altres ingressos extingits,10,,,2016
-39999,0101,93219,Altres ingressos diversos,210,,,2016
-41000,0101,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0201,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0401,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0501,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0502,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0601,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0602,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0603,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0604,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0605,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0606,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0607,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0608,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0609,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0610,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0703,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-41000,0801,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,,2016
-42010,0703,93219,Fons complementari de finançament,857631203.88,,,2016
-42011,0703,93219,Compensació IAE inicial,78836897.67,,,2016
-42012,0703,93219,Compensació IAE addicional,3649347.61,,,2016
-42030,0703,93219,Compensació tributs,2269000,,,2016
-42090,0101,93219,Altres transf. corrents de l'A.G.Estat,10,,,2016
-42090,0201,93219,Altres transf. corrents de l'A.G.Estat,10,,,2016
-42090,0401,93219,Altres transf. corrents de l'A.G.Estat,10,,,2016
-42090,0701,93219,Altres transf. corrents de l'A.G.Estat,10,,,2016
-42090,0702,93219,Altres transf. corrents de l'A.G.Estat,10,,,2016
-42090,0703,93219,Altres transf. corrents de l'A.G.Estat,10,,,2016
-42090,0801,93219,Altres transf. corrents de l'A.G.Estat,10,,,2016
-42091,0801,93219,Aportació Estat institucions àmplia proj,10,,,2016
-42092,0101,93219,Subvencions fin. A.G. Estat eleccions,10,,,2016
-42093,0102,93219,Aport. Estat formació de personal,120000,,,2016
-42110,0101,93219,Aportacions INE eleccions,10,,,2016
-42120,0502,93219,Aportacions IMSERSO,10,,,2016
-42190,0703,93219,D'altres organismes autònoms i agències,9.97,,,2016
-45010,0703,93219,Fons cooperació local de Catalunya (FCLC,3390000,,,2016
-45030,0201,93219,Subv. finanlistes Generalitat per l'IMEB,1214040,,,2016
-45040,0201,93219,Subv. finalistes Gen. atenció primària,21483322,,,2016
-45041,0201,93219,Subv. finalistes Generalitat per l'EAIA,3146136,,,2016
-45042,0201,93219,Aportació de Generalitat per a gent gran,3400000,,,2016
-45043,0201,93219,Aport. Generalitat conveni discapacitats,2404294,,,2016
-45044,0201,93219,Subv. finalistes Generalitat immigració,999990,,,2016
-45044,0801,93219,Subv. finalistes Generalitat immigració,10,,,2016
-45045,0201,93219,Subv. Generalitat per a SAD dependència,14700000,,,2016
-45047,0201,93219,Altres subv. Generalitat Conv. Marc S.S.,1222019,,,2016
-45048,0201,93219,Serveis Informació i atenció dones - SIA,46000,,,2016
-45051,0101,93219,Subvencions fin. Generalitat (ocupació),20,,,2016
-45060,0101,93219,Altres transferències de la CCAA conveni,10,,,2016
-45080,0101,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0401,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0501,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0502,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0503,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0504,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0601,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0602,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0603,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0604,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0605,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0606,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0607,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0608,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0609,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0610,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0703,93219,Altres subvencions de la CCAA,10,,,2016
-45080,0801,93219,Altres subvencions de la CCAA,10,,,2016
-45081,0101,93219,Subvencions fin. Gener. per eleccions,10,,,2016
-45101,0504,93219,Aport. SCT per al manteniment de rondes,386285,,,2016
-45300,0502,93219,D'empreses públiques i altres de CCAA,10,,,2016
-46100,0101,93219,Aportacions de la Diputació de Barcelona,10,,,2016
-46100,0201,93219,Aportacions de la Diputació de Barcelona,10,,,2016
-46100,0401,93219,Aportacions de la Diputació de Barcelona,10,,,2016
-46100,0703,93219,Aportacions de la Diputació de Barcelona,10,,,2016
-46100,0801,93219,Aportacions de la Diputació de Barcelona,10,,,2016
-46110,0201,93219,Subv. finalistes de DiBa afers socials,10,,,2016
-46120,0201,93219,Aport. DiBa per a conveni discapacitats,10,,,2016
-46200,0101,93219,Transferències d'Ajuntaments,10,,,2016
-46401,0502,16221,Aportació AMB (TMTR),56078421,,,2016
-46402,0502,93219,Subv.retorn cànon dep.residus (AMB),448000,,,2016
-46700,0201,93219,Aportacions de Consorcis,10,,,2016
-46900,0101,93219,Altres subvencions d'entitats locals,10,,,2016
-46900,0703,93219,Altres subvencions d'entitats locals,10,,,2016
-47000,0101,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0201,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0401,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0501,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0502,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0503,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0504,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0601,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0602,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0603,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0604,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0605,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0606,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0607,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0608,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0609,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0610,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0701,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0702,93219,Aportacions finalistes empreses privades,10,,,2016
-47000,0801,93219,Aportacions finalistes empreses privades,10,,,2016
-48000,0201,93219,Aportacions de famílies i institucions,10,,,2016
-48010,0101,93219,Aport. finalistes famílies i institucion,10,,,2016
-48010,0201,93219,Aport. finalistes famílies i institucion,10,,,2016
-48010,0401,93219,Aport. finalistes famílies i institucion,10,,,2016
-48010,0601,93219,Aport. finalistes famílies i institucion,10,,,2016
-48010,0602,93219,Aport. finalistes famílies i institucion,10,,,2016
-48010,0603,93219,Aport. finalistes famílies i institucion,10,,,2016
-48010,0604,93219,Aport. finalistes famílies i institucion,10,,,2016
-48010,0605,93219,Aport. finalistes famílies i institucion,10,,,2016
-48010,0606,93219,Aport. finalistes famílies i institucion,10,,,2016
-48010,0607,93219,Aport. finalistes famílies i institucion,10,,,2016
-48010,0608,93219,Aport. finalistes famílies i institucion,10,,,2016
-48010,0609,93219,Aport. finalistes famílies i institucion,10,,,2016
-48010,0610,93219,Aport. finalistes famílies i institucion,10,,,2016
-48010,0701,93219,Aport. finalistes famílies i institucion,10,,,2016
-48010,0702,93219,Aport. finalistes famílies i institucion,10,,,2016
-48010,0801,93219,Aport. finalistes famílies i institucion,10,,,2016
-49700,0101,93219,Aport. UE i d'altres municipis europeus,10,,,2016
-49700,0201,93219,Aport. UE i d'altres municipis europeus,10,,,2016
-49700,0401,93219,Aport. UE i d'altres municipis europeus,10,,,2016
-50000,0703,93219,Int. de títols i val. emesos per l'estat,500000,,,2016
-52000,0703,93219,Inter. de dipòs. ctes. de bancs o caixes,2000000,,,2016
-52001,0703,93219,Interessos ajornats,1200000,,,2016
-53400,0703,93219,De societats i entitats depenents de les,10,,,2016
-54100,0701,93219,Producte de l'arrendament de finques ur.,1941500,,,2016
-54101,0701,93219,Lloguers locals Foment de Ciutat Vella,20,,,2016
-54102,0701,93219,Lloguers habitatges Foment de Ciutat Vella,20,,,2016
-54105,0701,93219,Lloguer sales tècniques,80000,,,2016
-55000,0701,93219,Concessions d'aparcaments,3056000,,,2016
-55001,0701,93219,Concessions d'instal·lacions esportives,10,,,2016
-55002,0601,93219,Altres concessions administratives,14950,,,2016
-55002,0602,93219,Altres concessions administratives,805,,,2016
-55002,0603,93219,Altres concessions administratives,40250,,,2016
-55002,0604,93219,Altres concessions administratives,7245,,,2016
-55002,0605,93219,Altres concessions administratives,6900,,,2016
-55002,0606,93219,Altres concessions administratives,74750,,,2016
-55002,0607,93219,Altres concessions administratives,17250,,,2016
-55002,0608,93219,Altres concessions administratives,9257.5,,,2016
-55002,0609,93219,Altres concessions administratives,49900.5,,,2016
-55002,0610,93219,Altres concessions administratives,73600,,,2016
-55002,0701,93219,Altres concessions administratives,22910000,,,2016
-55003,0701,44121,Canon bicing,3831728,,,2016
-55200,0701,93219,Drets superfície amb contraprest. periòd,2666000,,,2016
-55250,0701,93219,Dret Superficie PMSH,20,,,2016
-55300,0701,93219,Dret super. contraprestació no periòdico,20,,,2016
-55501,0701,93219,Canons i rendiments d'empreses,10,,,2016
-55901,0701,93219,Cànon publicitat quioscos,3655383,,,2016
-60300,0703,15050,Venda Solars PMSH,100000,,,2016
-60301,0703,15050,Permuta solars PMSH,10,,,2016
-60900,0703,93219,Indemnització substitutòria edificabilitat,10,,,2016
-61900,0703,93219,Reversió de finques,10,,,2016
-61901,0703,93219,Venda places aparcaments,10,,,2016
-61902,0703,93219,Habitatges i locals negoci,10,,,2016
-61924,0502,93219,Venda equips mesura gasos,10,,,2016
-61950,0703,15050,Venda habitatges i locals PMSH,10,,,2016
-68000,0703,93219,Reint. tans. cap. empreses del grup,10,,,2016
-75061,0703,93219,Aportació Generalitat Centre Cultural Disseny,10000000,,,2016
-79100,0703,93219,Aportacions del FEDER,10,,,2016
-84010,0703,01111,Devolució dipòsits constituïts a llarg t,5000000,,,2016
-87000,0703,93219,Romanents de tresoreria per a despeses generals,153161763.29,,,2016
-90199,0703,93219,Nou finançament,278468783.52,,,2016
-94101,0703,93219,Fiances per guals (recepció),150000,,,2016
-94102,0703,93219,Fiances urbanístiques (recepció),1400000,,,2016
+10000,0703,93219,Cessió IRPF,51244290,51244290,57224215.88,2016
+11301,0703,93219,IBI de naturalesa urbana,615314010,615314010,659776136.4,2016
+11401,0703,93219,IBI de característiques especials,8097000,8097000,11516965.83,2016
+11500,0703,93219,Impost sobre vehicles tracció mecànica,58620000,58620000,61499397.08,2016
+11600,0703,93219,I. s/ increm. valor terrenys nat. urbana,120814000,120814000,177144214.59,2016
+13000,0703,93219,Impost activitats econòmiques (IAE),80629000,80629000,85049763.96,2016
+13001,0703,93219,Impost activitats profesionals i artisti,10,10,10745.23,2016
+13004,0703,93219,Quotes nacionals i provincials IAE,9049000,9049000,9258116.35,2016
+18000,0703,93219,Directes extingits,10,10,0,2016
+21000,0703,93219,Cessió IVA,30529420,30529420,28502388.58,2016
+22000,0703,93219,Cessió IE alcohol i derivats,385330,385330,345363.63,2016
+22001,0703,93219,Cessió IE cervesa,132690,132690,143321.97,2016
+22003,0703,93219,Cessió IE tabac,3257390,3257390,3347725.36,2016
+22004,0703,93219,Cessió IE hidrocarburs,4669180,4669180,5111790.42,2016
+22006,0703,93219,Cessió IE de productes intermedis,8780,8780,11296.15,2016
+29000,0501,93219,"Impost s/ construccions, instal·lacions",6751812.08,6751812.08,3615446.06,2016
+29000,0502,93219,"Impost s/ construccions, instal·lacions",5626.51,5626.51,39457.53,2016
+29000,0601,93219,"Impost s/ construccions, instal·lacions",675181.21,675181.21,1513771.06,2016
+29000,0602,93219,"Impost s/ construccions, instal·lacions",2813255.03,2813255.03,4076044.51,2016
+29000,0603,93219,"Impost s/ construccions, instal·lacions",1350362.41,1350362.41,5188327.57,2016
+29000,0604,93219,"Impost s/ construccions, instal·lacions",450120.81,450120.81,1298082.62,2016
+29000,0605,93219,"Impost s/ construccions, instal·lacions",1350362.41,1350362.41,2277556.19,2016
+29000,0606,93219,"Impost s/ construccions, instal·lacions",675181.21,675181.21,1373540.28,2016
+29000,0607,93219,"Impost s/ construccions, instal·lacions",450120.81,450120.81,1183901.07,2016
+29000,0608,93219,"Impost s/ construccions, instal·lacions",331964.1,331964.1,653430.91,2016
+29000,0609,93219,"Impost s/ construccions, instal·lacions",562651.01,562651.01,588015.68,2016
+29000,0610,93219,"Impost s/ construccions, instal·lacions",1350362.41,1350362.41,6793083.17,2016
+30100,0502,16011,Taxa de clavegueram,15500000,15500000,15360365.66,2016
+30901,0502,93219,Taxa per retirada de sacs i contenidors,35000,35000,0,2016
+30902,0401,93219,Taxa per extinció d'incendis i salvament,211000,211000,84626.77,2016
+30903,0703,93219,Taxa de cementiris,12029885,12029885,11815590.81,2016
+30904,0401,93219,Taxa per prestacions serveis GU,570000,570000,857472.15,2016
+32100,0501,93219,Taxes per llicències d'obres,3722756.51,3722756.51,8279595.91,2016
+32100,0502,93219,Taxes per llicències d'obres,64318.53,64318.53,78907.18,2016
+32100,0601,93219,Taxes per llicències d'obres,23154.67,23154.67,7119.01,2016
+32100,0602,93219,Taxes per llicències d'obres,57886.68,57886.68,18396.14,2016
+32100,0603,93219,Taxes per llicències d'obres,54027.56,54027.56,21849.82,2016
+32100,0604,93219,Taxes per llicències d'obres,20581.93,20581.93,13693.41,2016
+32100,0605,93219,Taxes per llicències d'obres,12863.7,12863.7,11423.67,2016
+32100,0606,93219,Taxes per llicències d'obres,21868.3,21868.3,16845.67,2016
+32100,0607,93219,Taxes per llicències d'obres,28300.16,28300.16,24207.82,2016
+32100,0608,93219,Taxes per llicències d'obres,20581.93,20581.93,4464.09,2016
+32100,0609,93219,Taxes per llicències d'obres,45022.97,45022.97,28817.52,2016
+32100,0610,93219,Taxes per llicències d'obres,128637.06,128637.06,64579.36,2016
+32101,0601,93219,Taxes per llicències d'activitats,161965.32,161965.32,129908.22,2016
+32101,0602,93219,Taxes per llicències d'activitats,593872.83,593872.83,267278.23,2016
+32101,0603,93219,Taxes per llicències d'activitats,194358.38,194358.38,98521.63,2016
+32101,0604,93219,Taxes per llicències d'activitats,107976.88,107976.88,68020.88,2016
+32101,0605,93219,Taxes per llicències d'activitats,188959.54,188959.54,118510.36,2016
+32101,0606,93219,Taxes per llicències d'activitats,161965.32,161965.32,88721,2016
+32101,0607,93219,Taxes per llicències d'activitats,86381.5,86381.5,54045.21,2016
+32101,0608,93219,Taxes per llicències d'activitats,64786.13,64786.13,51875.54,2016
+32101,0609,93219,Taxes per llicències d'activitats,102578.03,102578.03,72030.26,2016
+32101,0610,93219,Taxes per llicències d'activitats,205156.07,205156.07,133402,2016
+32300,0601,93219,Taxa inspecció d'execució d'obres,10,10,0,2016
+32300,0602,93219,Taxa inspecció d'execució d'obres,10,10,0,2016
+32300,0603,93219,Taxa inspecció d'execució d'obres,10,10,0,2016
+32300,0604,93219,Taxa inspecció d'execució d'obres,10,10,0,2016
+32300,0605,93219,Taxa inspecció d'execució d'obres,10,10,0,2016
+32300,0606,93219,Taxa inspecció d'execució d'obres,10,10,0,2016
+32300,0607,93219,Taxa inspecció d'execució d'obres,10,10,309.97,2016
+32300,0608,93219,Taxa inspecció d'execució d'obres,10,10,0,2016
+32300,0609,93219,Taxa inspecció d'execució d'obres,10,10,0,2016
+32300,0610,93219,Taxa inspecció d'execució d'obres,10,10,0,2016
+32301,0501,93219,"Taxes informes, planols i certificats ur (SIR)",2970,2970,0,2016
+32301,0601,93219,"Taxes informes, planols i certificats ur (SIR)",26450,26450,17191.8,2016
+32301,0602,93219,"Taxes informes, planols i certificats ur (SIR)",3450,3450,22168.74,2016
+32301,0603,93219,"Taxes informes, planols i certificats ur (SIR)",18400,18400,11027.36,2016
+32301,0604,93219,"Taxes informes, planols i certificats ur (SIR)",1150,1150,3480,2016
+32301,0605,93219,"Taxes informes, planols i certificats ur (SIR)",10,10,11218.63,2016
+32301,0606,93219,"Taxes informes, planols i certificats ur (SIR)",3450,3450,21291.99,2016
+32301,0607,93219,"Taxes informes, planols i certificats ur (SIR)",1150,1150,6107.4,2016
+32301,0608,93219,"Taxes informes, planols i certificats ur (SIR)",3967.5,3967.5,3042.22,2016
+32301,0609,93219,"Taxes informes, planols i certificats ur (SIR)",2361.25,2361.25,8778.06,2016
+32301,0610,93219,"Taxes informes, planols i certificats ur (SIR)",10,10,22254.85,2016
+32302,0605,93219,"Taxes informes, planols i certificats ur (SAP)",0,0,3962,2016
+32302,0610,93219,"Taxes informes, planols i certificats ur (SAP)",0,0,2012.6,2016
+32500,0101,93219,Taxa per expedició documents serveis gen,55000,55000,36206.43,2016
+32500,0201,93219,Taxa per expedició documents serveis gen,10,10,235,2016
+32500,0401,93219,Taxa per expedició documents serveis gen,415990,415990,864354.55,2016
+32500,0501,93219,Taxa per expedició documents serveis gen,1000,1000,0,2016
+32500,0502,93219,Taxa per expedició documents serveis gen,0,0,2704.13,2016
+32500,0601,93219,Taxa per expedició documents serveis gen,4600,4600,4034.08,2016
+32500,0602,93219,Taxa per expedició documents serveis gen,10416.7,10416.7,5055.46,2016
+32500,0603,93219,Taxa per expedició documents serveis gen,2300,2300,1237.41,2016
+32500,0604,93219,Taxa per expedició documents serveis gen,2300,2300,562.54,2016
+32500,0605,93219,Taxa per expedició documents serveis gen,575,575,3886.7,2016
+32500,0606,93219,Taxa per expedició documents serveis gen,8050,8050,3915.8,2016
+32500,0607,93219,Taxa per expedició documents serveis gen,6670,6670,5163.12,2016
+32500,0608,93219,Taxa per expedició documents serveis gen,10,10,952.23,2016
+32500,0609,93219,Taxa per expedició documents serveis gen,1351.68,1351.68,347.77,2016
+32500,0610,93219,Taxa per expedició documents serveis gen,5175,5175,3436.52,2016
+32600,0703,93219,Taxa de grua i parany,16001258,16001258,14585298.81,2016
+32601,0703,93219,Taxa abandonaments vehicles BSM,377000,377000,1311374.23,2016
+32602,0401,93219,Taxa permanències al dipòsit municipal,1000,1000,0,2016
+32901,0502,93219,Taxes per homologació gestió residus,4000,4000,0,2016
+32902,0401,93219,Taxa per expedició de documents GU,0,0,7540.9,2016
+32903,0101,93219,Taxa de salut pública i animals,0,0,413.77,2016
+32903,0502,93219,Taxa de salut pública i animals,25000,25000,112220.55,2016
+32904,0401,93219,Recollida i trasllat dipòsit elements vi,10,10,778.08,2016
+32904,0601,93219,Recollida i trasllat dipòsit elements vi,10,10,778.08,2016
+32904,0602,93219,Recollida i trasllat dipòsit elements vi,10,10,583.56,2016
+32904,0603,93219,Recollida i trasllat dipòsit elements vi,10,10,972.6,2016
+32904,0604,93219,Recollida i trasllat dipòsit elements vi,10,10,3050.36,2016
+32904,0605,93219,Recollida i trasllat dipòsit elements vi,10,10,0,2016
+32904,0606,93219,Recollida i trasllat dipòsit elements vi,10,10,972.6,2016
+32904,0607,93219,Recollida i trasllat dipòsit elements vi,10,10,0,2016
+32904,0608,93219,Recollida i trasllat dipòsit elements vi,10,10,0,2016
+32904,0609,93219,Recollida i trasllat dipòsit elements vi,10,10,194.52,2016
+32904,0610,93219,Recollida i trasllat dipòsit elements vi,10,10,0,2016
+32905,0101,93219,Taxes per accés oferta pública,239000,239000,2.89,2016
+32910,0101,93219,Taxa per matrimoni civil,10,10,0,2016
+32912,0401,93219,Taxa per anàlisi d'alcoholèmies,1500,1500,0,2016
+32913,0401,93219,Taxa per anàlisi de drogo-test,1500,1500,0,2016
+32914,0101,93219,Taxa entrevista informe d'arrelament,10,10,0,2016
+32914,0201,93219,Taxa entrevista informe d'arrelament,10,10,0,2016
+32915,0101,93219,Taxa inspecció habitatge informe reagrup,10,10,0,2016
+32915,0201,93219,Taxa inspecció habitatge informe reagrup,10,10,0,2016
+32916,0401,93219,Taxa per còpies autoritzades informes accidents,10,10,954748.81,2016
+32917,0401,93219,Taxa per autorització Transport Escolar i menors,0,0,26.82,2016
+32917,0504,93219,Taxa per autorització Transport Escolar i menors,10,10,0,2016
+32918,0401,93219,Taxa per concessió targetes carabines i pistoles,10,10,6400.39,2016
+32919,0401,93219,Taxa per préstec roba SPEIS,0,0,2599,2016
+32924,0401,93219,Taxa autoritz.sol.ocupació via publ.mudances,0,0,0,2016
+33000,0703,93219,Taxa estacionament de vehicles (parquím),35354767,35354767,38941460.16,2016
+33001,0401,93219,Taxa reserva estacionament,19977.81,19977.81,0,2016
+33001,0601,93219,Taxa reserva estacionament,99889.05,99889.05,52517.14,2016
+33001,0602,93219,Taxa reserva estacionament,269700.44,269700.44,173886.86,2016
+33001,0603,93219,Taxa reserva estacionament,26970.04,26970.04,30150.35,2016
+33001,0604,93219,Taxa reserva estacionament,54938.97,54938.97,62081.39,2016
+33001,0605,93219,Taxa reserva estacionament,59933.43,59933.43,123422,2016
+33001,0606,93219,Taxa reserva estacionament,14983.36,14983.36,17970.35,2016
+33001,0607,93219,Taxa reserva estacionament,19977.81,19977.81,13927.78,2016
+33001,0608,93219,Taxa reserva estacionament,9988.9,9988.9,13892.98,2016
+33001,0609,93219,Taxa reserva estacionament,19717.85,19717.85,15294.62,2016
+33001,0610,93219,Taxa reserva estacionament,69922.33,69922.33,55000.96,2016
+33100,0601,93219,Taxa per entrada vehicles (Guals),358055.56,358055.56,348094.52,2016
+33100,0602,93219,Taxa per entrada vehicles (Guals),2685416.67,2685416.67,2451164.32,2016
+33100,0603,93219,Taxa per entrada vehicles (Guals),1477234.92,1477234.92,1416048.47,2016
+33100,0604,93219,Taxa per entrada vehicles (Guals),1653193.65,1653193.65,1662732.93,2016
+33100,0605,93219,Taxa per entrada vehicles (Guals),3478253.97,3478253.97,3381609.79,2016
+33100,0606,93219,Taxa per entrada vehicles (Guals),1321736.51,1321736.51,1242637.98,2016
+33100,0607,93219,Taxa per entrada vehicles (Guals),1452682.54,1452682.54,1459504.13,2016
+33100,0608,93219,Taxa per entrada vehicles (Guals),775446.03,775446.03,721533.07,2016
+33100,0609,93219,Taxa per entrada vehicles (Guals),1457797.62,1457797.62,1521214.53,2016
+33100,0610,93219,Taxa per entrada vehicles (Guals),2097182.54,2097182.54,2061755.56,2016
+33200,0502,93219,Taxa uti. priv. empreses explot. submini,21712000,21712000,23598053.18,2016
+33300,0502,93219,Taxa uti. priv. empreses explot. telecos,1503000,1503000,799223.32,2016
+33500,0601,93219,Taxa de taules i cadires (vetlladors),857668.71,857668.71,793129.57,2016
+33500,0602,93219,Taxa de taules i cadires (vetlladors),2036963.19,2036963.19,1925445.9,2016
+33500,0603,93219,Taxa de taules i cadires (vetlladors),321625.77,321625.77,271415.18,2016
+33500,0604,93219,Taxa de taules i cadires (vetlladors),192975.46,192975.46,242028.99,2016
+33500,0605,93219,Taxa de taules i cadires (vetlladors),268021.47,268021.47,369544.94,2016
+33500,0606,93219,Taxa de taules i cadires (vetlladors),176894.17,176894.17,146439.11,2016
+33500,0607,93219,Taxa de taules i cadires (vetlladors),85766.87,85766.87,85856.69,2016
+33500,0608,93219,Taxa de taules i cadires (vetlladors),112569.02,112569.02,167356.98,2016
+33500,0609,93219,Taxa de taules i cadires (vetlladors),197263.8,197263.8,207261.37,2016
+33500,0610,93219,Taxa de taules i cadires (vetlladors),643251.53,643251.53,679562.79,2016
+33501,0101,93219,Taxa de quioscos i vidrieres,0,0,18315.27,2016
+33501,0701,93219,Taxa de quioscos i vidrieres,790000,790000,652828.64,2016
+33502,0401,93219,Taxes d'altres ocupacions via pública,241740,241740,478668.32,2016
+33502,0601,93219,Taxes d'altres ocupacions via pública,618570,618570,1265389.13,2016
+33502,0602,93219,Taxes d'altres ocupacions via pública,938520,938520,702923.27,2016
+33502,0603,93219,Taxes d'altres ocupacions via pública,106650,106650,145400.16,2016
+33502,0604,93219,Taxes d'altres ocupacions via pública,241740,241740,333302.08,2016
+33502,0605,93219,Taxes d'altres ocupacions via pública,71100,71100,62853.32,2016
+33502,0606,93219,Taxes d'altres ocupacions via pública,71100,71100,119828.55,2016
+33502,0607,93219,Taxes d'altres ocupacions via pública,28440,28440,43351.95,2016
+33502,0608,93219,Taxes d'altres ocupacions via pública,206190,206190,184218.16,2016
+33502,0609,93219,Taxes d'altres ocupacions via pública,106650,106650,56209.57,2016
+33502,0610,93219,Taxes d'altres ocupacions via pública,213300,213300,295159.46,2016
+33800,0502,93219,Compensació Telefònica de España SA,7344000,7344000,7041552.27,2016
+33900,0502,93219,Taxa utilitza. privada enllumenat públic,10,10,382.32,2016
+33901,0502,93219,Taxa utilització privada fonts ornamenta,22000,22000,63720.82,2016
+33902,0401,93219,Taxa per serveis especials de vialitat,0,0,187681.83,2016
+33902,0502,93219,Taxa per serveis especials de vialitat,226500,226500,105.6,2016
+33903,0703,93219,Taxa per caixers automàtics,73000,73000,341184.42,2016
+33904,0401,93219,Taxa ocupació vp per mudances,0,0,0,2016
+33906,0401,93219,Taxa ocupació vp per grues,0,0,0,2016
+34100,0201,93219,Residència-habitatge tutelat-centres dia,1989000,1989000,2838184.24,2016
+34101,0201,93219,Equipaments gent gran,10,10,81.39,2016
+34102,0201,93219,Serveis d'atenció domiciliària,10,10,0,2016
+34104,0701,93219,Temps Barri - cursos famílies i discapac,6000,6000,0,2016
+34300,0601,93219,Activitats centres esportius,10,10,0,2016
+34300,0602,93219,Activitats centres esportius,10,10,0,2016
+34300,0603,93219,Activitats centres esportius,10,10,0,2016
+34300,0604,93219,Activitats centres esportius,10,10,0,2016
+34300,0605,93219,Activitats centres esportius,10,10,0,2016
+34300,0606,93219,Activitats centres esportius,10,10,0,2016
+34300,0607,93219,Activitats centres esportius,10,10,0,2016
+34300,0608,93219,Activitats centres esportius,10,10,0,2016
+34300,0609,93219,Activitats centres esportius,10,10,0,2016
+34300,0610,93219,Activitats centres esportius,10,10,0,2016
+34400,0201,93219,Actes culturals,7560,7560,5364.87,2016
+34400,0601,93219,Actes culturals,10,10,0,2016
+34400,0602,93219,Actes culturals,10,10,0,2016
+34400,0603,93219,Actes culturals,3450,3450,0,2016
+34400,0604,93219,Actes culturals,10,10,7353.1,2016
+34400,0605,93219,Actes culturals,115,115,44,2016
+34400,0606,93219,Actes culturals,13225,13225,11082.78,2016
+34400,0607,93219,Actes culturals,230,230,1099.99,2016
+34400,0608,93219,Actes culturals,2645,2645,1027.44,2016
+34400,0609,93219,Actes culturals,15324,15324,6804.86,2016
+34400,0610,93219,Actes culturals,10,10,4157.08,2016
+34900,0601,93219,Activitats centres civics districtes,10,10,0,2016
+34900,0602,93219,Activitats centres civics districtes,10,10,0,2016
+34900,0603,93219,Activitats centres civics districtes,31050,31050,12549.75,2016
+34900,0604,93219,Activitats centres civics districtes,28175,28175,40001.29,2016
+34900,0605,93219,Activitats centres civics districtes,17250,17250,12187.15,2016
+34900,0606,93219,Activitats centres civics districtes,10,10,3966.74,2016
+34900,0607,93219,Activitats centres civics districtes,8625,8625,2511.65,2016
+34900,0608,93219,Activitats centres civics districtes,33062.5,33062.5,37515.54,2016
+34900,0609,93219,Activitats centres civics districtes,65154.02,65154.02,32937.41,2016
+34900,0610,93219,Activitats centres civics districtes,24150,24150,2263.19,2016
+34901,0201,93219,Activitats Centres Oberts,28800,28800,30265.03,2016
+34902,0201,93219,Atenció a les famílies,10,10,4643.63,2016
+34908,0601,93219,Esponsoritzacions,10,10,0,2016
+34908,0602,93219,Esponsoritzacions,10,10,0,2016
+34908,0603,93219,Esponsoritzacions,10,10,0,2016
+34908,0604,93219,Esponsoritzacions,10,10,0,2016
+34908,0605,93219,Esponsoritzacions,10,10,0,2016
+34908,0606,93219,Esponsoritzacions,10,10,0,2016
+34908,0607,93219,Esponsoritzacions,10,10,0,2016
+34908,0608,93219,Esponsoritzacions,10,10,0,2016
+34908,0609,93219,Esponsoritzacions,10,10,0,2016
+34908,0610,93219,Esponsoritzacions,10,10,0,2016
+34908,0703,44121,Esponsoritzacions,597207.34,597207.34,0,2016
+34910,0401,93219,Unitat montada i secció canina de la GU,10,10,0,2016
+34911,0401,93219,Cursos SPEIS,2000,2000,89897.51,2016
+34912,0401,93219,Cursos formació policial (GU),10,10,0,2016
+34913,0401,93219,Cursos utilització torre de pràctiques,10,10,0,2016
+34914,0401,93219,Formació Policial a Tercers,0,0,1605.18,2016
+34920,0502,93219,Recollida comercial residus,17635000,17635000,21015820.4,2016
+34921,0502,93219,Preus púb. servei especial neteja i rec.,6259000,6259000,6131426.6,2016
+34930,0101,93219,Productes i serveis de Bcn Informació,10,10,0,2016
+34932,0703,93219,Encàrrec de gestió Parc Güell,1000000,1000000,0,2016
+35100,0401,93219,Contribucions especials per serveis públ,10,10,0,2016
+36000,0101,93219,Publicacions,64970,64970,155182.1,2016
+36000,0201,93219,Publicacions,10,10,0,2016
+36000,0501,93219,Publicacions,10,10,0,2016
+36000,0601,93219,Publicacions,10,10,0,2016
+36000,0602,93219,Publicacions,10,10,0,2016
+36000,0603,93219,Publicacions,10,10,0,2016
+36000,0604,93219,Publicacions,10,10,0,2016
+36000,0605,93219,Publicacions,10,10,0,2016
+36000,0606,93219,Publicacions,10,10,0,2016
+36000,0607,93219,Publicacions,10,10,0,2016
+36000,0608,93219,Publicacions,10,10,0,2016
+36000,0609,93219,Publicacions,10,10,0,2016
+36000,0610,93219,Publicacions,10,10,0,2016
+36000,0801,93219,Publicacions,10,10,0,2016
+36001,0101,93219,Publicitat en publicacions municipals,6000,6000,0,2016
+36002,0101,93219,Difusió d'informació per compte de terc.,52980,52980,90449.44,2016
+36002,0501,93219,Difusió d'informació per compte de terc.,10,10,0,2016
+36002,0502,93219,Difusió d'informació per compte de terc.,10,10,0,2016
+36002,0601,93219,Difusió d'informació per compte de terc.,10,10,0,2016
+36002,0602,93219,Difusió d'informació per compte de terc.,10,10,0,2016
+36002,0603,93219,Difusió d'informació per compte de terc.,10,10,0,2016
+36002,0604,93219,Difusió d'informació per compte de terc.,10,10,0,2016
+36002,0605,93219,Difusió d'informació per compte de terc.,10,10,0,2016
+36002,0606,93219,Difusió d'informació per compte de terc.,10,10,0,2016
+36002,0607,93219,Difusió d'informació per compte de terc.,10,10,0,2016
+36002,0608,93219,Difusió d'informació per compte de terc.,10,10,0,2016
+36002,0609,93219,Difusió d'informació per compte de terc.,10,10,0,2016
+36002,0610,93219,Difusió d'informació per compte de terc.,10,10,0,2016
+36003,0703,93219,Altres ingressos per prestació serveis,10,10,0,2016
+36100,0101,93219,Venda d'energia solar fotovoltaica,225000,225000,0,2016
+36200,0101,93219,Venda de material inservible,10,10,3668.92,2016
+36200,0401,93219,Venda de material inservible,0,0,294.5,2016
+36300,0101,93219,Impresos,10,10,0,2016
+36300,0502,93219,Impresos,10,10,0,2016
+36300,0601,93219,Impresos,10,10,0,2016
+36300,0602,93219,Impresos,10,10,0,2016
+36300,0603,93219,Impresos,10,10,0,2016
+36300,0604,93219,Impresos,10,10,0,2016
+36300,0605,93219,Impresos,10,10,0,2016
+36300,0606,93219,Impresos,10,10,0,2016
+36300,0607,93219,Impresos,10,10,0,2016
+36300,0608,93219,Impresos,10,10,0,2016
+36300,0609,93219,Impresos,10,10,0,2016
+36300,0610,93219,Impresos,10,10,0,2016
+36401,0101,93219,Treballs impremta municipal,41000,41000,45376.31,2016
+36500,0502,93219,Venda de recollida selectiva residus,6100000,6100000,11414987.74,2016
+38901,0703,93219,Reintegraments creditors extrapressup,10,10,0,2016
+38902,0703,93219,Reintegraments despeses avançades (ooaa),10,10,0,2016
+38903,0101,93219,Pagaments indeguts d'exercicis anteriors,201281.55,201281.55,163210.78,2016
+38903,0201,93219,Pagaments indeguts d'exercicis anteriors,8.64,8.64,1269910.15,2016
+38903,0501,93219,Pagaments indeguts d'exercicis anteriors,4319.56,4319.56,47326.77,2016
+38903,0502,93219,Pagaments indeguts d'exercicis anteriors,4319.56,4319.56,0,2016
+38903,0601,93219,Pagaments indeguts d'exercicis anteriors,8639.12,8639.12,3664.24,2016
+38903,0602,93219,Pagaments indeguts d'exercicis anteriors,4319.56,4319.56,500,2016
+38903,0603,93219,Pagaments indeguts d'exercicis anteriors,4319.56,4319.56,7946.55,2016
+38903,0604,93219,Pagaments indeguts d'exercicis anteriors,4319.56,4319.56,1815.16,2016
+38903,0605,93219,Pagaments indeguts d'exercicis anteriors,4319.56,4319.56,8351.68,2016
+38903,0606,93219,Pagaments indeguts d'exercicis anteriors,4319.56,4319.56,7109.59,2016
+38903,0607,93219,Pagaments indeguts d'exercicis anteriors,4319.56,4319.56,19111.32,2016
+38903,0608,93219,Pagaments indeguts d'exercicis anteriors,4319.56,4319.56,11161.14,2016
+38903,0609,93219,Pagaments indeguts d'exercicis anteriors,4319.56,4319.56,14091.99,2016
+38903,0610,93219,Pagaments indeguts d'exercicis anteriors,4319.56,4319.56,218401.61,2016
+38903,0701,93219,Pagaments indeguts d'exercicis anteriors,10,10,0,2016
+38903,0702,93219,Pagaments indeguts d'exercicis anteriors,86391.22,86391.22,3556.68,2016
+38903,0703,93219,Pagaments indeguts d'exercicis anteriors,56154.29,56154.29,641066.6,2016
+38904,0703,93219,Devolucions d'IVA pressupostari,10,10,0,2016
+38905,0703,93219,Devolucions d'ingressos,10,10,0,2016
+38906,0201,93219,Reintegraments per subministres,10,10,0,2016
+38906,0601,93219,Reintegraments per subministres,10,10,0,2016
+38906,0602,93219,Reintegraments per subministres,109250,109250,8892.98,2016
+38906,0603,93219,Reintegraments per subministres,2300,2300,0,2016
+38906,0604,93219,Reintegraments per subministres,10,10,0,2016
+38906,0605,93219,Reintegraments per subministres,34500,34500,24646.52,2016
+38906,0606,93219,Reintegraments per subministres,10,10,0,2016
+38906,0607,93219,Reintegraments per subministres,10,10,0,2016
+38906,0608,93219,Reintegraments per subministres,10,10,0,2016
+38906,0609,93219,Reintegraments per subministres,24024,24024,0,2016
+38906,0610,93219,Reintegraments per subministres,10,10,0,2016
+38908,0101,93219,Reintegrament despeses,10,10,29897.99,2016
+38908,0702,93219,Reintegrament despeses,10,10,0,2016
+38909,0703,93219,Reintegraments ADOJ Exercicis anteriors,300000,300000,737043.97,2016
+38910,0101,93219,Reintegraments subvencions SIR,10,10,0,2016
+38910,0201,93219,Reintegraments subvencions SIR,10,10,0,2016
+38910,0601,93219,Reintegraments subvencions SIR,10,10,0,2016
+38910,0602,93219,Reintegraments subvencions SIR,10,10,2964.15,2016
+38910,0603,93219,Reintegraments subvencions SIR,10,10,0,2016
+38910,0604,93219,Reintegraments subvencions SIR,10,10,0,2016
+38910,0605,93219,Reintegraments subvencions SIR,10,10,1678.96,2016
+38910,0606,93219,Reintegraments subvencions SIR,10,10,0,2016
+38910,0607,93219,Reintegraments subvencions SIR,10,10,0,2016
+38910,0608,93219,Reintegraments subvencions SIR,10,10,0,2016
+38910,0609,93219,Reintegraments subvencions SIR,10,10,1000,2016
+38910,0610,93219,Reintegraments subvencions SIR,10,10,7472.8,2016
+39120,0401,93219,Infraccions trànsit - ajuntament,45510560.71,45510560.71,58071482.76,2016
+39130,0101,93219,Infraccions ordenances,1353297.69,1353297.69,15719879.2,2016
+39130,0401,93219,Infraccions ordenances,33832.44,33832.44,167758.13,2016
+39130,0502,93219,Infraccions ordenances,405989.31,405989.31,197325.89,2016
+39130,0601,93219,Infraccions ordenances,632500,632500,2000040.79,2016
+39130,0602,93219,Infraccions ordenances,460000,460000,997936.07,2016
+39130,0603,93219,Infraccions ordenances,138000,138000,725999.64,2016
+39130,0604,93219,Infraccions ordenances,80500,80500,140344.54,2016
+39130,0605,93219,Infraccions ordenances,115000,115000,485259.4,2016
+39130,0606,93219,Infraccions ordenances,138000,138000,492305.97,2016
+39130,0607,93219,Infraccions ordenances,85675,85675,246864.85,2016
+39130,0608,93219,Infraccions ordenances,132250,132250,453455.77,2016
+39130,0609,93219,Infraccions ordenances,111856.6,111856.6,454720.14,2016
+39130,0610,93219,Infraccions ordenances,149500,149500,620065.71,2016
+39130,0703,93219,Infraccions ordenances,40598.93,40598.93,1482130.05,2016
+39140,0101,93219,Infraccions d'ordenances inspecció (sanc,670926.27,670926.27,3510.35,2016
+39140,0703,93219,Infraccions d'ordenances inspecció (sanc,1502073.73,1502073.73,4493965.53,2016
+39191,0101,93219,Sancions de Contractes,10,10,0,2016
+39191,0201,93219,Sancions de Contractes,10,10,0,2016
+39191,0401,93219,Sancions de Contractes,10,10,0,2016
+39191,0501,93219,Sancions de Contractes,10,10,0,2016
+39191,0502,93219,Sancions de Contractes,10,10,0,2016
+39191,0601,93219,Sancions de Contractes,10,10,0,2016
+39191,0602,93219,Sancions de Contractes,10,10,0,2016
+39191,0603,93219,Sancions de Contractes,10,10,0,2016
+39191,0604,93219,Sancions de Contractes,10,10,0,2016
+39191,0605,93219,Sancions de Contractes,10,10,0,2016
+39191,0606,93219,Sancions de Contractes,10,10,0,2016
+39191,0607,93219,Sancions de Contractes,10,10,0,2016
+39191,0608,93219,Sancions de Contractes,10,10,0,2016
+39191,0609,93219,Sancions de Contractes,10,10,0,2016
+39191,0610,93219,Sancions de Contractes,10,10,0,2016
+39191,0701,93219,Sancions de Contractes,10,10,0,2016
+39191,0702,93219,Sancions de Contractes,10,10,0,2016
+39191,0703,93219,Sancions de Contractes,10,10,0,2016
+39191,0801,93219,Sancions de Contractes,10,10,0,2016
+39200,0703,93219,Recàrrecs declaració extemporanea s.r.p.,470000,470000,571445.62,2016
+39210,0703,93219,Recàrrec executiu,8425000,8425000,5041984.44,2016
+39211,0703,93219,Recàrrec apremi,1813000,1813000,5750591.25,2016
+39300,0101,93219,Interessos de demora,11.18,11.18,591634.48,2016
+39300,0703,93219,Interessos de demora,7162988.82,7162988.82,4724971.21,2016
+39612,0504,93219,Càrregues urbanístiques,0,0,204295.51,2016
+39612,0703,93219,Càrregues urbanístiques,10,10,0,2016
+39700,0703,15050,Cessió per aprofitament urbanístic (10%),0,0,4917238.21,2016
+39700,0703,93219,Cessió per aprofitament urbanístic (10%),10,10,0,2016
+39900,0501,93219,Execucions subsidiàries,596209.64,596209.64,0,2016
+39900,0502,93219,Execucions subsidiàries,595690.4,595690.4,0,2016
+39900,0601,93219,Execucions subsidiàries,10,9435.9,667392.83,2016
+39900,0602,93219,Execucions subsidiàries,10,10,7033.42,2016
+39900,0603,93219,Execucions subsidiàries,10,10,231365.72,2016
+39900,0604,93219,Execucions subsidiàries,10,10,-1148.62,2016
+39900,0605,93219,Execucions subsidiàries,10,10,61226.63,2016
+39900,0606,93219,Execucions subsidiàries,10,10,3737.71,2016
+39900,0607,93219,Execucions subsidiàries,10,10,175017.72,2016
+39900,0608,93219,Execucions subsidiàries,10,10,4445.25,2016
+39900,0609,93219,Execucions subsidiàries,10,10,24449.53,2016
+39900,0610,93219,Execucions subsidiàries,10,10,6450.56,2016
+39901,0101,93219,Tarifa plataforma telefònica,536000,536000,505394.01,2016
+39902,0401,93219,Prevenció i extinció incendis port bcn,10,10,0,2016
+39903,0101,93219,Indemnitzacions desperfectes OOAA,10,10,0,2016
+39904,0101,93219,Indemnitzacions,10,10,1478.32,2016
+39904,0201,93219,Indemnitzacions,10,10,5855.55,2016
+39904,0401,93219,Indemnitzacions,50000,50000,63485.46,2016
+39904,0501,93219,Indemnitzacions,25000,25000,136908.6,2016
+39904,0502,93219,Indemnitzacions,155000,155000,80178.04,2016
+39904,0601,93219,Indemnitzacions,10,10,41184.22,2016
+39904,0602,93219,Indemnitzacions,11500,11500,22585.51,2016
+39904,0603,93219,Indemnitzacions,44850,44850,30862.3,2016
+39904,0604,93219,Indemnitzacions,10,10,19225.53,2016
+39904,0605,93219,Indemnitzacions,5750,5750,6573.04,2016
+39904,0606,93219,Indemnitzacions,23690,23690,6771.84,2016
+39904,0607,93219,Indemnitzacions,6900,6900,5700.07,2016
+39904,0608,93219,Indemnitzacions,3967.5,3967.5,14948.88,2016
+39904,0609,93219,Indemnitzacions,859.8,859.8,1690.08,2016
+39904,0610,93219,Indemnitzacions,10,10,4747.79,2016
+39904,0701,93219,Indemnitzacions,10,10,0,2016
+39904,0702,93219,Indemnitzacions,10,10,0,2016
+39904,0703,93219,Indemnitzacions,9.94,9.94,1859.71,2016
+39904,0801,93219,Indemnitzacions,10,10,0,2016
+39906,0603,93219,Actuacions mercadillos varis,87400,87400,226708.44,2016
+39907,0401,93219,Altres ingressos seguretat i mobilitat,73000,73000,19000,2016
+39907,0601,93219,Altres ingressos seguretat i mobilitat,10,10,0,2016
+39907,0602,93219,Altres ingressos seguretat i mobilitat,10,10,0,2016
+39907,0603,93219,Altres ingressos seguretat i mobilitat,10,10,0,2016
+39907,0604,93219,Altres ingressos seguretat i mobilitat,10,10,0,2016
+39907,0605,93219,Altres ingressos seguretat i mobilitat,10,10,0,2016
+39907,0606,93219,Altres ingressos seguretat i mobilitat,10,10,0,2016
+39907,0607,93219,Altres ingressos seguretat i mobilitat,10,10,0,2016
+39907,0608,93219,Altres ingressos seguretat i mobilitat,10,10,0,2016
+39907,0609,93219,Altres ingressos seguretat i mobilitat,10,10,0,2016
+39907,0610,93219,Altres ingressos seguretat i mobilitat,10,10,0,2016
+39908,0801,93219,Actes promoció relacions cíviques,10,10,0,2016
+39909,0101,93219,Sentències jutjats i tribunals,5000,5000,44395.92,2016
+39909,0703,93219,Sentències jutjats i tribunals,5000,5000,42091.23,2016
+39910,0502,93219,Serveis especials educació ambiental,10,10,10224.72,2016
+39911,0101,93219,Compensacio costos,0,0,154992.73,2016
+39911,0401,93219,Compensacio costos,8250000,8250000,0,2016
+39911,0701,93219,Compensacio costos,920000,920000,8955096.33,2016
+39912,0101,93219,Incautació de dipòsits,10,10,21621.78,2016
+39912,0201,93219,Incautació de dipòsits,10,10,0,2016
+39912,0401,93219,Incautació de dipòsits,10,10,0,2016
+39912,0501,93219,Incautació de dipòsits,10,10,0,2016
+39912,0502,93219,Incautació de dipòsits,10,10,0,2016
+39912,0503,93219,Incautació de dipòsits,10,10,0,2016
+39912,0504,93219,Incautació de dipòsits,10,10,0,2016
+39912,0601,93219,Incautació de dipòsits,10,10,0,2016
+39912,0602,93219,Incautació de dipòsits,10,10,0,2016
+39912,0603,93219,Incautació de dipòsits,10,10,0,2016
+39912,0604,93219,Incautació de dipòsits,10,10,0,2016
+39912,0605,93219,Incautació de dipòsits,10,10,0,2016
+39912,0606,93219,Incautació de dipòsits,10,10,0,2016
+39912,0607,93219,Incautació de dipòsits,10,10,0,2016
+39912,0608,93219,Incautació de dipòsits,10,10,0,2016
+39912,0609,93219,Incautació de dipòsits,10,10,0,2016
+39912,0610,93219,Incautació de dipòsits,10,10,0,2016
+39912,0701,93219,Incautació de dipòsits,10,10,0,2016
+39912,0702,93219,Incautació de dipòsits,10,10,0,2016
+39912,0703,93219,Incautació de dipòsits,10,10,0,2016
+39912,0801,93219,Incautació de dipòsits,10,10,0,2016
+39913,0601,93219,Actuacions fires del districte,10,10,0,2016
+39913,0602,93219,Actuacions fires del districte,10,10,0,2016
+39913,0603,93219,Actuacions fires del districte,10,10,0,2016
+39913,0604,93219,Actuacions fires del districte,10,10,0,2016
+39913,0605,93219,Actuacions fires del districte,10,10,0,2016
+39913,0606,93219,Actuacions fires del districte,10,10,0,2016
+39913,0607,93219,Actuacions fires del districte,10,10,0,2016
+39913,0608,93219,Actuacions fires del districte,10,10,0,2016
+39913,0609,93219,Actuacions fires del districte,10,10,0,2016
+39913,0610,93219,Actuacions fires del districte,10,10,0,2016
+39914,0703,93219,Recuperació costes embargaments,27000,27000,29447.78,2016
+39915,0703,93219,Recuperació costes notificacions,270000,270000,368427.96,2016
+39916,0501,93219,Prestació serveis tècnics projectes i o.,10,10,0,2016
+39917,0401,93219,Regul.per fin.contr.(renting vehicles),10,10,43929.34,2016
+39918,0701,93219,Repercussió costos FCV,10,10,168,2016
+39919,0502,93219,Exec. subsidiària Medi Ambient,10,42148.96,213690.51,2016
+39920,0502,93219,Exec. subsidiària Ordenança Convivència,10,10,724.44,2016
+39998,0703,93219,Altres ingressos extingits,10,10,190.78,2016
+39999,0101,93219,Altres ingressos diversos,210,210,63456.41,2016
+39999,0201,93219,Altres ingressos diversos,0,0,957.43,2016
+39999,0606,93219,Altres ingressos diversos,0,0,0.97,2016
+41000,0101,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,224294.17,2016
+41000,0201,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,122466.67,2016
+41000,0401,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,0,2016
+41000,0501,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,0,2016
+41000,0502,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,0,2016
+41000,0601,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,0,2016
+41000,0602,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,150000,150000,2016
+41000,0603,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,0,2016
+41000,0604,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,0,2016
+41000,0605,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,0,2016
+41000,0606,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,0,2016
+41000,0607,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,12000,12000,2016
+41000,0608,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,0,2016
+41000,0609,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,0,2016
+41000,0610,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,0,2016
+41000,0703,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,0,2016
+41000,0801,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,43843.5,2016
+42010,0703,93219,Fons complementari de finançament,857631203.88,858237523.88,877680717.14,2016
+42011,0703,93219,Compensació IAE inicial,78836897.67,78836897.67,81247289.33,2016
+42012,0703,93219,Compensació IAE addicional,3649347.61,3649347.61,3928539.09,2016
+42030,0703,93219,Compensació tributs,2269000,2269000,4450266.99,2016
+42090,0101,93219,Altres transf. corrents de l'A.G.Estat,10,10,0,2016
+42090,0201,93219,Altres transf. corrents de l'A.G.Estat,10,10,-60000,2016
+42090,0401,93219,Altres transf. corrents de l'A.G.Estat,10,10,0,2016
+42090,0701,93219,Altres transf. corrents de l'A.G.Estat,10,10,23668.54,2016
+42090,0702,93219,Altres transf. corrents de l'A.G.Estat,10,10,0,2016
+42090,0703,93219,Altres transf. corrents de l'A.G.Estat,10,10,0,2016
+42090,0801,93219,Altres transf. corrents de l'A.G.Estat,10,10,0,2016
+42091,0801,93219,Aportació Estat institucions àmplia proj,10,10,0,2016
+42092,0101,93219,Subvencions fin. A.G. Estat eleccions,10,10,256691.16,2016
+42093,0102,93219,Aport. Estat formació de personal,120000,120000,0,2016
+42110,0101,93219,Aportacions INE eleccions,10,10,0,2016
+42120,0502,93219,Aportacions IMSERSO,10,10,0,2016
+42190,0703,93219,D'altres organismes autònoms i agències,9.97,9.97,0,2016
+45010,0703,93219,Fons cooperació local de Catalunya (FCLC,3390000,3390000,3179056.69,2016
+45030,0201,93219,Subv. finanlistes Generalitat per l'IMEB,1214040,1214040,1241760,2016
+45040,0201,93219,Subv. finalistes Gen. atenció primària,21483322,23442924.16,23498894.75,2016
+45041,0201,93219,Subv. finalistes Generalitat per l'EAIA,3146136,3450173.2,3450172.4,2016
+45042,0201,93219,Aportació de Generalitat per a gent gran,3400000,3400000,3628002.92,2016
+45043,0201,93219,Aport. Generalitat conveni discapacitats,2404294,2404294,1545949.34,2016
+45044,0201,93219,Subv. finalistes Generalitat immigració,999990,1131718.3,1131718.3,2016
+45044,0801,93219,Subv. finalistes Generalitat immigració,10,10,0,2016
+45045,0201,93219,Subv. Generalitat per a SAD dependència,14700000,24783713.24,25883713.24,2016
+45047,0201,93219,Altres subv. Generalitat Conv. Marc S.S.,1222019,1222019,286742.52,2016
+45048,0201,93219,Serveis Informació i atenció dones - SIA,46000,46000,2300,2016
+45051,0101,93219,Subvencions fin. Generalitat (ocupació),20,20,0,2016
+45060,0101,93219,Altres transferències de la CCAA conveni,10,10,0,2016
+45070,0703,15351,Aportació de Generalitat per llei barris,0,0,0,2016
+45070,0703,15353,Aportació de Generalitat per llei barris,0,0,61526.77,2016
+45070,0703,15356,Aportació de Generalitat per llei barris,0,0,187561.41,2016
+45070,0703,15357,Aportació de Generalitat per llei barris,0,0,100837.27,2016
+45070,0703,15358,Aportació de Generalitat per llei barris,0,0,134298.97,2016
+45070,0703,15359,Aportació de Generalitat per llei barris,0,65739.47,185062.78,2016
+45080,0101,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0201,93219,Altres subvencions de la CCAA,0,0,330964.47,2016
+45080,0401,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0501,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0502,93219,Altres subvencions de la CCAA,10,10,80252,2016
+45080,0503,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0504,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0601,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0602,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0603,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0604,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0605,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0606,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0607,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0608,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0609,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0610,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0703,93219,Altres subvencions de la CCAA,10,10,0,2016
+45080,0801,93219,Altres subvencions de la CCAA,10,10,0,2016
+45081,0101,93219,Subvencions fin. Gener. per eleccions,10,10,-75112.94,2016
+45083,0701,93219,Fons Foment Turisme,0,5325730.87,9050834.28,2016
+45100,0702,93219,Subvenció OOAA Generalitat,0,677580.13,677580.13,2016
+45101,0504,93219,Aport. SCT per al manteniment de rondes,386285,386285,0,2016
+45102,0201,93219,Aportacions Agència Habitatge de la Generalitat,0,0,12000,2016
+45300,0502,93219,D'empreses públiques i altres de CCAA,10,10,0,2016
+46100,0101,93219,Aportacions de la Diputació de Barcelona,10,10,0,2016
+46100,0201,93219,Aportacions de la Diputació de Barcelona,10,10,37291,2016
+46100,0401,93219,Aportacions de la Diputació de Barcelona,10,10,0,2016
+46100,0702,93219,Aportacions de la Diputació de Barcelona,0,43750,43750,2016
+46100,0703,93219,Aportacions de la Diputació de Barcelona,10,10,0,2016
+46100,0801,93219,Aportacions de la Diputació de Barcelona,10,10,0,2016
+46110,0201,93219,Subv. finalistes de DiBa afers socials,10,10,0,2016
+46120,0201,93219,Aport. DiBa per a conveni discapacitats,10,10,0,2016
+46200,0101,93219,Transferències d'Ajuntaments,10,10,0,2016
+46401,0502,16221,Aportació AMB (TMTR),56078421,56078421,4036234.07,2016
+46402,0502,93219,Subv.retorn cànon dep.residus (AMB),448000,448000,1196504.34,2016
+46408,0702,93219,Aportacions de l'Area Metropolitana,0,100000,100000,2016
+46409,0201,93219,Aportació A.M.B.per gestio CUESB ampliat,0,265168.52,321814.88,2016
+46500,0702,93219,Consell Comarcal del Baix Llobregat,0,18750,18750,2016
+46700,0201,93219,Aportacions de Consorcis,10,72822.36,22798.13,2016
+46900,0101,93219,Altres subvencions d'entitats locals,10,10,0,2016
+46900,0703,93219,Altres subvencions d'entitats locals,10,10,0,2016
+47000,0101,93219,Aportacions finalistes empreses privades,10,10,0,2016
+47000,0201,93219,Aportacions finalistes empreses privades,10,10,0,2016
+47000,0401,93219,Aportacions finalistes empreses privades,10,10,25000,2016
+47000,0501,93219,Aportacions finalistes empreses privades,10,10,0,2016
+47000,0502,93219,Aportacions finalistes empreses privades,10,10,42000,2016
+47000,0503,93219,Aportacions finalistes empreses privades,10,10,0,2016
+47000,0504,93219,Aportacions finalistes empreses privades,10,10,0,2016
+47000,0601,93219,Aportacions finalistes empreses privades,10,10,0,2016
+47000,0602,93219,Aportacions finalistes empreses privades,10,10,26824.25,2016
+47000,0603,93219,Aportacions finalistes empreses privades,10,10,0,2016
+47000,0604,93219,Aportacions finalistes empreses privades,10,10,17029.1,2016
+47000,0605,93219,Aportacions finalistes empreses privades,10,10,0,2016
+47000,0606,93219,Aportacions finalistes empreses privades,10,10,40872.15,2016
+47000,0607,93219,Aportacions finalistes empreses privades,10,10,0,2016
+47000,0608,93219,Aportacions finalistes empreses privades,10,10,0,2016
+47000,0609,93219,Aportacions finalistes empreses privades,10,10,0,2016
+47000,0610,93219,Aportacions finalistes empreses privades,10,10,0,2016
+47000,0701,93219,Aportacions finalistes empreses privades,10,6000,6000,2016
+47000,0702,93219,Aportacions finalistes empreses privades,10,10,0,2016
+47000,0801,93219,Aportacions finalistes empreses privades,10,10,0,2016
+48000,0201,93219,Aportacions de famílies i institucions,10,10,0,2016
+48010,0101,93219,Aport. finalistes famílies i institucion,10,10,0,2016
+48010,0201,93219,Aport. finalistes famílies i institucion,10,10,0,2016
+48010,0401,93219,Aport. finalistes famílies i institucion,10,10,8000,2016
+48010,0601,93219,Aport. finalistes famílies i institucion,10,10,0,2016
+48010,0602,93219,Aport. finalistes famílies i institucion,10,10,0,2016
+48010,0603,93219,Aport. finalistes famílies i institucion,10,10,0,2016
+48010,0604,93219,Aport. finalistes famílies i institucion,10,10,0,2016
+48010,0605,93219,Aport. finalistes famílies i institucion,10,10,0,2016
+48010,0606,93219,Aport. finalistes famílies i institucion,10,10,0,2016
+48010,0607,93219,Aport. finalistes famílies i institucion,10,10,0,2016
+48010,0608,93219,Aport. finalistes famílies i institucion,10,10,0,2016
+48010,0609,93219,Aport. finalistes famílies i institucion,10,10,0,2016
+48010,0610,93219,Aport. finalistes famílies i institucion,10,10,0,2016
+48010,0701,93219,Aport. finalistes famílies i institucion,10,10,0,2016
+48010,0702,93219,Aport. finalistes famílies i institucion,10,10,0,2016
+48010,0801,93219,Aport. finalistes famílies i institucion,10,10,0,2016
+49041,0703,93219,Aport Fons Cohesió 2007-13 Eix 5,0,0,0,2016
+49111,0703,93219,Aportació FEDER 2007-2013 Eix 1,0,0,1503841,2016
+49112,0703,93219,Aportació FEDER 07-13 eix 4 urban,0,0,0,2016
+49114,0703,93219,Aport. FEDER 2007-2013 eix renov. urb.,0,0,0,2016
+49700,0101,93219,Aport. UE i d'altres municipis europeus,10,339677.56,483912.95,2016
+49700,0201,93219,Aport. UE i d'altres municipis europeus,10,10,0,2016
+49700,0401,93219,Aport. UE i d'altres municipis europeus,10,10,0,2016
+49700,0504,93219,Aport. UE i d'altres municipis europeus,0,0,121230.14,2016
+49700,0702,93219,Aport. UE i d'altres municipis europeus,0,280000,280000,2016
+49702,0401,93219,European Forum for Urban Security (EFUS),0,0,17158.2,2016
+49910,0702,93219,Subv. final. d'organismes internacionals,0,180000,180000,2016
+50000,0703,93219,Int. de títols i val. emesos per l'estat,500000,500000,0,2016
+52000,0703,93219,Inter. de dipòs. ctes. de bancs o caixes,2000000,2000000,545091.12,2016
+52001,0703,93219,Interessos ajornats,1200000,1200000,1209140.96,2016
+53400,0703,93219,De societats i entitats depenents de les,10,10,0,2016
+54100,0701,93219,Producte de l'arrendament de finques ur.,1941500,1941500,837982.97,2016
+54101,0701,93219,Lloguers locals Foment de Ciutat Vella,20,20,69611.23,2016
+54102,0701,93219,Lloguers habitatges Foment de Ciutat Vella,20,20,714225.85,2016
+54103,0701,93219,Arrendaments finques sense IVA,0,0,11400.59,2016
+54105,0101,93219,Lloguer sales tècniques,0,0,5582.77,2016
+54105,0701,93219,Lloguer sales tècniques,80000,80000,136671.2,2016
+55000,0101,93219,Concessions d'aparcaments,0,0,9694.25,2016
+55000,0701,93219,Concessions d'aparcaments,3056000,3056000,3495876.01,2016
+55001,0701,93219,Concessions d'instal·lacions esportives,10,10,6734.47,2016
+55002,0101,93219,Altres concessions administratives,0,0,15498.31,2016
+55002,0601,93219,Altres concessions administratives,14950,14950,334102.96,2016
+55002,0602,93219,Altres concessions administratives,805,805,10110.74,2016
+55002,0603,93219,Altres concessions administratives,40250,40250,58123.92,2016
+55002,0604,93219,Altres concessions administratives,7245,7245,17940.12,2016
+55002,0605,93219,Altres concessions administratives,6900,6900,26082.67,2016
+55002,0606,93219,Altres concessions administratives,74750,74750,76968.16,2016
+55002,0607,93219,Altres concessions administratives,17250,17250,30968.52,2016
+55002,0608,93219,Altres concessions administratives,9257.5,9257.5,18561.86,2016
+55002,0609,93219,Altres concessions administratives,49900.5,49900.5,41524.38,2016
+55002,0610,93219,Altres concessions administratives,73600,73600,133628.9,2016
+55002,0701,93219,Altres concessions administratives,22910000,22910000,21166590.6,2016
+55003,0701,44121,Canon bicing,3831728,3831728,4868919.81,2016
+55200,0101,93219,Drets superfície amb contraprest. periòd,0,0,7886.48,2016
+55200,0701,93219,Drets superfície amb contraprest. periòd,2666000,2666000,2599121.78,2016
+55250,0701,93219,Dret Superficie PMSH,20,20,17753.65,2016
+55300,0701,93219,Dret super. contraprestació no periòdico,20,20,0,2016
+55501,0701,93219,Canons i rendiments d'empreses,10,10,188076.62,2016
+55901,0701,93219,Cànon publicitat quioscos,3655383,3655383,3433698.68,2016
+60200,0703,93219,Venda parceles sobrants via pública,0,0,195322.85,2016
+60300,0703,15050,Venda Solars PMSH,100000,100000,0,2016
+60301,0703,15050,Permuta solars PMSH,10,10,0,2016
+60302,0701,15050,Altres indemnitzacions PMSH,0,0,164335.77,2016
+60900,0703,93219,Indemnització substitutòria edificabilitat,10,10,0,2016
+60901,0703,93219,Indemnització per construccions,0,0,1810950.73,2016
+60902,0703,93219,Expropiacions,0,0,158623.62,2016
+61900,0703,93219,Reversió de finques,10,10,0,2016
+61901,0703,93219,Venda places aparcaments,10,10,0,2016
+61902,0703,93219,Habitatges i locals negoci,10,10,4145.57,2016
+61924,0502,93219,Venda equips mesura gasos,10,10,0,2016
+61950,0703,15050,Venda habitatges i locals PMSH,10,10,0,2016
+68000,0703,93219,Reint. tans. cap. empreses del grup,10,10,50415.5,2016
+72011,0703,93219,Fons Estatal Ocupació i Sost. Local,0,0,1406941.59,2016
+75030,0703,93219,Transf. capital conveni en matèria d'educació,0,0,0,2016
+75061,0703,93219,Aportació Generalitat Centre Cultural Disseny,10000000,10000000,10000000,2016
+75062,0703,93219,Aport. Generalitat bateries antiaèries Turó Rovira,0,0,0,2016
+75070,0703,15351,Aport. Generalitat llei de barris,0,0,169785.02,2016
+75070,0703,15353,Aport. Generalitat llei de barris,0,0,561286.42,2016
+75070,0703,15356,Aport. Generalitat llei de barris,0,28029.38,179957.13,2016
+75070,0703,15357,Aport. Generalitat llei de barris,0,175214.95,218494.75,2016
+75070,0703,15358,Aport. Generalitat llei de barris,0,0,225208.42,2016
+75070,0703,15359,Aport. Generalitat llei de barris,0,0,237653.15,2016
+75081,0703,93219,Aport. Generalitat Biblioteques,0,0,856004.74,2016
+75100,0703,93219,Aportació Consell Català de l'Esport,0,0,352035,2016
+76100,0703,93219,Aportacions de la Diputació de Barcelona,0,8805084.65,20374715.45,2016
+77000,0703,93219,Aportacions d'empreses privades,0,0,0,2016
+79100,0703,93219,Aportacions del FEDER,10,10,0,2016
+79101,0703,93219,Aport. Feder Eix 1,0,0,1411126.73,2016
+79112,0703,93219,Aportació Eix 4 iniciativa Urbana,0,0,327932.49,2016
+79201,0703,93219,Fons Cohesio 2007-13 F2 Medi Ambient,0,0,1813096.26,2016
+84010,0703,01111,Devolució dipòsits constituïts a llarg t,5000000,5000000,25000,2016
+85001,0703,93219,Alienació accions. Liquidació Holsa,0,0,24492.98,2016
+85005,0703,93219,Accions BCN Emprèn,0,0,120320.88,2016
+87000,0703,93219,Rom. Tresoreria despeses generals,0,153916120.58,0,2016
+87010,0703,93219,Rom. Tresoreria desp. finanç. afectat,0,5972118.31,0,2016
+90199,0703,93219,Nou finançament,156158736.82,278468783.52,0,2016
+91332,0703,93219,"Préstec BBVA 73,5M (vt. 30/12/2026)",0,0,73500000,2016
+91333,0703,93219,Préstec BBVA 70M (vt. 30/12/2029),0,0,70000000,2016
+91334,0703,93219,Préstec Caixa Enginyers 10M (vt. 19/12/2026),0,0,10000000,2016
+91335,0703,93219,"Préstec FIARE 2,5M (vt. 22/12/2026)",0,0,2500000,2016
+94101,0703,93219,Fiances per guals (recepció),150000,150000,1719180.83,2016
+94102,0703,93219,Fiances urbanístiques (recepció),1400000,1400000,2851912.29,2016
