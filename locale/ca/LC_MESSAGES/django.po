@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2016-11-28 04:04+0100\n"
+"PO-Revision-Date: 2017-05-30 01:12+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.0.2\n"
 
 #: templates/budgets/budgets_intro.html:5
 msgid "El recorrido de mis impuestos"
@@ -31,7 +31,7 @@ msgstr "Indicadors pressupostaris"
 
 #: templates/budgets/budgets_indicators.html:5
 msgid "Ingresos no financieros (capítulos I-VII) – Gastos no financieros (capítulos I-VII)"
-msgstr "Superàvit  o dèficit (Ingressos no financers – Despeses no financeres) en termes SEC"
+msgstr "Superàvit o dèficit (Ingressos no financers – Despeses no financeres) en termes SEC"
 
 #: templates/budgets/budgets_indicators.html:5
 msgid "Capacidad/Necesidad de financiación"
@@ -165,7 +165,7 @@ msgid "¿En qué se gasta?"
 msgstr "Per a què es gasta?"
 
 msgid "Gastos del año vigente"
-msgstr "Dades 2015 liquidades. Els imports mostrats inclouen IVA."
+msgstr "Dades 2016 liquidades. Els imports mostrats inclouen IVA."
 
 msgid "Pago"
 msgstr "Facturat"
