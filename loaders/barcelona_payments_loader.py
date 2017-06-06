@@ -28,6 +28,11 @@ class BarcelonaPaymentsLoader(PaymentsLoader):
             # Eventually, it's been decided by the client to ignore them completely, so do nothing
             return None
 
+        # Careful with missing descriptions
+        description = self._spanish_titlecase(line[5].strip())
+        if description == '':
+            description = ' '
+
         return {
             'area': area,
             'programme': programme,
@@ -37,6 +42,6 @@ class BarcelonaPaymentsLoader(PaymentsLoader):
             'contract_type': None,
             'payee': payee,
             'anonymized': is_anonymized,
-            'description': self._spanish_titlecase(line[5].strip()),
+            'description': description,
             'amount': self._read_english_number(line[6])
         }
