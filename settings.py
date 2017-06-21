@@ -191,6 +191,9 @@ SHOW_INSTITUTIONAL_TAB  = True
 # Show an extra tab with funding breakdown (only applicable to some budgets). Default: False.
 # SHOW_FUNDING_TAB = False
 
+# Show breadcrumbs in policies. Default: False.
+SHOW_BREADCRUMBS = True
+
 # Adjust inflation in amounts in Overview page. Default: True
 ADJUST_INFLATION_IN_OVERVIEW = False
 
