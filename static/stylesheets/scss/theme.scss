@@ -418,9 +418,23 @@ table.table-grid tr td .toggle.collapse{
   }
 }
 .policies-chart .alert{
-  margin-bottom: 1.5*$grid-gutter-width;
+  margin-bottom: $grid-gutter-width;
 }
 .policy-breakdown .policies-chart .alert{
   margin: 0 $grid-gutter-width/2 $grid-gutter-width 80px;
 }
 
+// Move data-controllers on top
+.budget-viz .data-controllers{
+  margin: 0 0 2*$grid-gutter-width/3;
+}
+.budget-viz{
+  margin-bottom: $grid-gutter-width/2;
+}
+
+.policies-content .data-controllers{
+  margin: 2*$grid-gutter-width/3 0 $grid-gutter-width;
+}
+.policies-chart{
+  margin-bottom: 1.5*$grid-gutter-width !important;
+}

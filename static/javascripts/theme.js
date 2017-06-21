@@ -228,11 +228,18 @@ $(document).ready(function(){
     }
   };
 
+  var moveDataControllersOnTop  = function(){
+    $('.policies-content .data-controllers').detach().insertBefore('.policies-chart');
+    $('.budget-viz .data-controllers').detach().insertBefore('.sankey-container');
+  };
+
+
   addChartsAlert('.policies-chart');
   addChartsAlert('.sankey-container');
   addCustomDescriptions();
   addYearSelectorCustomLabels();
   showInvoicesNote();
+  moveDataControllersOnTop();
 });
 
 // Avoid space before percentage sign
