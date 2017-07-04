@@ -159,8 +159,11 @@ OVERVIEW_EXPENSE_NODES =  [
                             }
                           ]
 
-# How much padding between Sankey nodes. Default: 4 (Optional)
-# OVERVIEW_NODE_PADDING = 4
+# How much padding between Sankey nodes. Default: 2 (Optional)
+# OVERVIEW_NODE_PADDING = 2
+
+# Nodes ordered by amount by default. If set to True keeps the order defined in nodes array. Default: False (Optional)
+OVERVIEW_FORCE_ORDER = True
 
 # Does the data includes a fifth functional classification level, subprogrammes?. Default: False
 USE_SUBPROGRAMMES = True
