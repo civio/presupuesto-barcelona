@@ -162,6 +162,15 @@ OVERVIEW_EXPENSE_NODES =  [
 # How much padding between Sankey nodes. Default: 2 (Optional)
 # OVERVIEW_NODE_PADDING = 2
 
+# Overview node minimum height to show labels. Default: 16 (Optional)
+# OVERVIEW_LABELS_MIN_SIZE = 16
+
+# Overview node labels minimum font size. Default: 11 (Optional)
+# OVERVIEW_LABELS_FONT_SIZE_MIN = 11
+
+# Overview node labels maximum font size. Default: 11 (Optional)
+# OVERVIEW_LABELS_FONT_SIZE_MAX = 38
+
 # Nodes ordered by amount by default. If set to True keeps the order defined in nodes array. Default: False (Optional)
 OVERVIEW_FORCE_ORDER = True
 
