@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2017-07-04 16:41+0200\n"
+"PO-Revision-Date: 2017-07-05 16:41+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: ca\n"
@@ -244,3 +244,66 @@ msgstr "El pressupost 2016 incorpora al Pressupost inicial 2016 (prorrogat) la m
 #: templates/shared/footer.html:5
 msgid "La web de Presupuesto Abierto está basado en el código original de"
 msgstr "El web de Pressupost Obert està basat en el codi original de"
+
+# META
+# ----
+#
+msgid "meta_welcome_title"
+msgstr "Pressupost Obert | Ajuntament de Barcelona"
+
+msgid "meta_welcome_description"
+msgstr "D'on vénen els ingressos? En què i per a què és la despesa de l'Ajuntament de Barcelona? Assabenta't de com es distribueix el pressupost de l'Ajuntament."
+
+msgid "meta_welcome_og_title"
+msgstr "Pressupost Obert: Tots els ingressos, les despeses i les partides a un sol clic"
+
+msgid "meta_welcome_og_description"
+msgstr "A través de la web de Pressupost Obert podràs accedir a tota la informació detallada sobre els ingressos, les despeses i les diferents partides a les quals es destina el #pressupost de l'#AjuntamentDeBarcelona. Tota la informació pressupostària a un sol clic."
+
+msgid "meta_summary_title"
+msgstr "Visió Global d'ingressos i despeses | Ajuntament de Barcelona"
+
+msgid "meta_summary_description"
+msgstr "Vista general del conjunt d'ingressos, despeses, partides i altres dades pressupostàries. Coneix com es recapta i en què s'empra el pressupost municipal."
+
+msgid "meta_summary_og_title"
+msgstr "Visió Global d'Ingressos i Despeses: el pressupost municipal amb un cop d'ull"
+
+msgid "meta_summary_og_description"
+msgstr "Coneix el conjunt d'ingressos i despeses dels #PressupostosMunicipals dels darrers 4 anys de forma simple, gràfica i intuïtiva. Totes les fonts d'ingressos i la quantia de les partides pressupostàries i altres depeses de l' #AjuntamentDeBarcelona."
+
+msgid "meta_entities_title"
+msgstr "Detall del Pressupost Municipal | Ajuntament de Barcelona"
+
+msgid "meta_entities_description"
+msgstr "Informació detallada de tots els ingressos, les despeses i les diverses partides dels pressupostos municipals de l'Ajuntament de Barcelona."
+
+msgid "meta_entities_og_title"
+msgstr "Detall del Pressupost: Tota la informació detallada sobre els ingressos i les despeses"
+
+msgid "meta_entities_og_description"
+msgstr "Coneix la quantitat, l'origen i el destí de totes les partides del #PressupostMunicipal de l' #AjuntamentDeBarcelona. ¿Com recapta l'Ajuntament, en què gasta i per a què ho fa? Totes les respostes les trobaràs a un sol clic."
+
+msgid "meta_payments_title"
+msgstr "Despeses Facturades | Pressupostos Ajuntament de Barcelona"
+
+msgid "meta_payments_description"
+msgstr "Desglossament de les despeses facturades durant l'exercici 2015. Dades de liquidació per proveïdors i per política."
+
+msgid "meta_payments_og_title"
+msgstr "Desglossament de despeses facturades i liquidacions 2015 | Pressupost Obert Ajuntament de Barcelona"
+
+msgid "meta_payments_og_description"
+msgstr "Ara pots consultar i descarregar tot el desglossament de despeses facturades durant l'exercici 2015 amb un sol clic. Les quantitats liquidades, els proveïdors, les depeses de cada departament i molt més a la web de Pressupost Obert. Consulta el #PressupostMunicipal de l' #AjuntamentDeBarcelona."
+
+msgid "meta_glossary_title"
+msgstr "Glossari | Pressupost Obert Ajuntament de Barcelona"
+
+msgid "meta_glossary_description"
+msgstr "Glossari de termes i conceptes relatius a la comptabilitat i el registre econòmic. Tota la informació necessària per interpretar el pressupos municipal."
+
+msgid "meta_glossary_og_title"
+msgstr "Glossari de termes i conceptes comptables | Pressupost Obert Ajuntament de Barcelona"
+
+msgid "meta_glossary_og_description"
+msgstr "Consulta les definicions de més de 120 termes i conceptes comptables i econòmics i troba'ls còmodament a través del cercador. El Glossari és l'eina que et permetrà entendre i interpretar els #PressupostosMunicipals de l' #AjuntamentDeBarcelona."

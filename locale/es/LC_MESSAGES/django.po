@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2017-07-04 16:41+0200\n"
+"PO-Revision-Date: 2017-07-05 16:41+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -171,3 +171,66 @@ msgstr "Elige el año y comprobarás cómo cambia el presupuesto"
 #: templates/shared/footer.html:5
 msgid "La web de Presupuesto Abierto está basado en el código original de"
 msgstr "La web de Presupuesto Abierto está basado en el código original de"
+
+# META
+# ----
+#
+msgid "meta_welcome_title"
+msgstr "Presupuesto Abierto | Ayuntamiento de Barcelona"
+
+msgid "meta_welcome_description"
+msgstr "¿De donde vienen los ingresos? ¿En qué y cómo se distribuyen los gastos del Ayuntamiento de Barcelona? Accede a la información del presupuesto municipal."
+
+msgid "meta_welcome_og_title"
+msgstr "Presupuesto Abierto: Todos los ingresos, gastos y partidas del presupuesto municipal"
+
+msgid "meta_welcome_og_description"
+msgstr "A través de la web de Presupuesto Abierto podrás acceder a toda la información detallada sobre los ingresos, los gastos y las diferentes partidas a las que se destina el #PresupuestoMunicipal del #AyuntamientoDeBarcelona. Toda la información presupuestaria a un solo clic."
+
+msgid "meta_summary_title"
+msgstr "Visión Global: gastos e ingresos | Ayuntamiento de Barcelona"
+
+msgid "meta_summary_description"
+msgstr "Vista general del conjunto de ingresos, gastos, partidas y otros datos presupuestarios. Conoce cómo se recauda y en qué se emplea el presupuesto municipal."
+
+msgid "meta_summary_og_title"
+msgstr "Visión Global de Ingresos y Gastos: echa el presupuesto municipal de un vistazo"
+
+msgid "meta_summary_og_description"
+msgstr "Conoce el conjunto de ingresos y gastos de los #PresupuestosMunicipales de los últimos 4 años de forma simple, gráfica e intuitiva. Todas las fuentes de ingresos y la cuantía de las partidas presupuestarias y otros gastos del #AyuntamientoDeBarcelona."
+
+msgid "meta_entities_title"
+msgstr "Detalle del Presupuesto Municipal | Ayuntamiento de Barcelona"
+
+msgid "meta_entities_description"
+msgstr "Información detallada de todos los ingresos, los gastos y las diversas partidas de los presupuestos municipales del Ayuntamiento de Barcelona."
+
+msgid "meta_entities_og_title"
+msgstr "Detalle del Presupuesto: Toda la información detallada sobre los ingresos y los gastos"
+
+msgid "meta_entities_og_description"
+msgstr "Conoce la cantidad, el origen y el destino de todas las partidas del #PresupuestoMunicipal del #AyuntamientoDeBarcelona. ¿Cómo recauda el Ayuntamiento, en qué lo gasta y para qué? Todas las respuestas las encontrarás a solo un clic."
+
+msgid "meta_payments_title"
+msgstr "Gastos facturados | Presupuesto Ayuntamiento de Barcelona"
+
+msgid "meta_payments_description"
+msgstr "Desglose de los Gastos facturados durante el ejercicio 2015 por el Ayuntamiento de Barcelona. Datos de liquidación clasificados por proveedores y política."
+
+msgid "meta_payments_og_title"
+msgstr "Desglose de Gastos facturados y liquidaciones 2015 | Presupuesto Abierto Ayuntamiento de Barcelona"
+
+msgid "meta_payments_og_description"
+msgstr "Ahora puedes consultar y descargar el desglose de Gastos facturados durante el ejercicio 2015 con solo un clic. Las cantidades liquidadas, los proveedores, los gastos de cada departamento y mucho más en la web de Presupuesto Abierto. Consulta el #PresupuestoMunicipal del #AyuntamientoDeBarcelona."
+
+msgid "meta_glossary_title"
+msgstr "Glosario | Presupuesto Abierto Ayuntamiento de Barcelona"
+
+msgid "meta_glossary_description"
+msgstr "Glosario de términos y conceptos de contabilidad y el registro económico. Toda la información necesaria para interpretar los presupuestos municipales."
+
+msgid "meta_glossary_og_title"
+msgstr "Glosario de términos y conceptos contables | Presupuesto Abierto Ayuntamiento de Barcelona"
+
+msgid "meta_glossary_og_description"
+msgstr "Consulta las definiciones de más de 120 términos y conceptos contables y económicos y encuéntralos cómodamente a través del buscador. El Glosario es la herramienta que te permitirá entender e interpretar los #PresupuestosMunicipales del #AyuntamientoDeBarcelona."

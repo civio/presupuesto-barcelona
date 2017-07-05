@@ -1,7 +1,7 @@
+# Adapted from https://djangosnippets.org/snippets/1467/
 from django.core import urlresolvers
 from django.conf import settings
 
-# Adapted from https://djangosnippets.org/snippets/1467/
 def reverse_decorator(func):
     def inner(*args, **kwargs):
         abs_path = func(*args,**kwargs)
@@ -18,3 +18,10 @@ def reverse_decorator(func):
         return abs_path
     return inner
 urlresolvers.reverse = reverse_decorator(urlresolvers.reverse)
+
+
+# Override metadata information from core
+import budget_app.views.helpers as core_helpers
+from views.helpers import _set_meta_fields
+
+core_helpers._set_meta_fields = _set_meta_fields

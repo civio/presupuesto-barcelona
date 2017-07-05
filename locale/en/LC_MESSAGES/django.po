@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2017-07-04 16:41+0200\n"
+"PO-Revision-Date: 2017-07-05 16:41+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -208,3 +208,66 @@ msgstr " "
 #: templates/shared/footer.html:5
 msgid "La web de Presupuesto Abierto está basado en el código original de"
 msgstr "The Open Budget website is based on the original"
+
+# META
+# ----
+#
+msgid "meta_welcome_title"
+msgstr "Open Budget: incomes and expenses | Barcelona City Council"
+
+msgid "meta_welcome_description"
+msgstr "Where do the Barcelona City Council revenues come from? Where do the expenditure go? Check all this information of the municipal budget."
+
+msgid "meta_welcome_og_title"
+msgstr "Open Budget: All incomes, expenses and items of the municipal budget"
+
+msgid "meta_welcome_og_description"
+msgstr "Through the Open Budget website you can access all detailed information on income, expenditure and various items of the #CityBudget. All #BarcelonaCityCouncil budgetary and economical information on a single click."
+
+msgid "meta_summary_title"
+msgstr "Overview: expenditure and revenue | Barcelona City Council"
+
+msgid "meta_summary_description"
+msgstr "An overview of revenues, expenditures and budgetary data. Realise how is the City Budget collected and spent. All the economic information with one click."
+
+msgid "meta_summary_og_title"
+msgstr "Overview of Incomes and Expenses: check the municipal budget at a glance"
+
+msgid "meta_summary_og_description"
+msgstr "Meet all the revenue and expenditure of the last 4 #CityBudgets in simple, graphical and intuitive way. All sources of income and the amount of different budget allocations and other expenses of #BarcelonaCityCouncil."
+
+msgid "meta_entities_title"
+msgstr "Municipal Budget detail | Barcelona City Council"
+
+msgid "meta_entities_description"
+msgstr "Detailed information of all income, expenditure and various items of municipal budgets of the City of Barcelona. All the economic information on a click."
+
+msgid "meta_entities_og_title"
+msgstr "Budget Detail:  Detailed information on Barcelona City Council income and expenses"
+
+msgid "meta_entities_og_description"
+msgstr "Know the quantity, origin and destination of all #BarcelonaCityBudget items. Where revenues come from, how they are spends and what for? Find all the answers for these questions and other economical information with just  a single click."
+
+msgid "meta_payments_title"
+msgstr "Invoiced expenditures | Barcelona City Council Open Budget"
+
+msgid "meta_payments_description"
+msgstr "Breakdown of Invoiced expenditures during the year 2015 by the Barcelona City Council. Check all the Settlement data classified by providers and policy."
+
+msgid "meta_payments_og_title"
+msgstr "Breakdown of Invoiced expenditures and liquidations 2015 | Barcelona City Council Open Budget"
+
+msgid "meta_payments_og_description"
+msgstr "Now you can view and download the breakdown of Invoiced expenditures during the year 2015 with just one click. Liquidated amounts, suppliers, expenses of each department and much more on the Open Budget website. Check the #CityBudget of the #BarcelonaCityCouncil."
+
+msgid "meta_glossary_title"
+msgstr "Glossary | Barcelona City Council Open Budget"
+
+msgid "meta_glossary_description"
+msgstr "Glossary of accountancy and economic terms and concepts. All the information you need to interpret and understand the Barcelona city budget."
+
+msgid "meta_glossary_og_title"
+msgstr "Glossary of accounting concepts and terms: Barcelona City Council Open Budget"
+
+msgid "meta_glossary_og_description"
+msgstr "Browse more than 120 definitions of accounting terms and economic concepts and find them easily through the website search box. The Glossary is the tool that will allow you to understand and interpret the #BarcelonaCityCouncil budgets."
