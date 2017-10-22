@@ -33,4 +33,5 @@ def _set_meta_fields(c):
 
     # The following remain as in the core
     c['meta_keywords'] = _('presupuestos, gastos, ingresos') + ', ' + _(u'Gobierno de Aragón')
+    # Note that Barcelona requested to use AddThis, so we can't control the tweet text
     c['meta_tweet_text'] = c['meta_title']
