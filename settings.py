@@ -15,6 +15,9 @@ NUMBER_OF_FEATURED_PROGRAMMES = 1
 # List of programmes to feature
 FEATURED_PROGRAMMES = ['1532', '2313', '3291', '3321', '3371', '4411', '1711', '1631', '1321', '4314']
 
+# Use new Sankey visualization or the old one. Default: False
+OVERVIEW_USE_NEW_VIS = True
+
 OVERVIEW_INCOME_NODES = [
                           {
                             'label.es': 'Impuesto sobre bienes inmuebles (IBI)',
