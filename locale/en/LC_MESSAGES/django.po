@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2017-10-23 00:07+0200\n"
+"PO-Revision-Date: 2017-10-23 01:34+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -280,3 +280,39 @@ msgstr "Glossary of accounting concepts and terms: Barcelona City Council Open B
 
 msgid "meta_glossary_og_description"
 msgstr "Browse more than 120 definitions of accounting terms and economic concepts and find them easily through the website search box. The Glossary is the tool that will allow you to understand and interpret the #BarcelonaCityCouncil budgets."
+
+msgid "meta_policies_title"
+msgstr "Budget item %s: Open Budget"
+
+msgid "meta_policies_description"
+msgstr "Detail of the concepts that compose the item: %s. All the information of the budget and municipal expenditures."
+
+msgid "meta_policies_og_title"
+msgstr "Budget item %s: Open Budget Barcelona City Council"
+
+msgid "meta_policies_og_description"
+msgstr "All details of the budget item %s and the programs and subprograms that compose it. Access to all the #CityBudget information and #BarcelonaCityCouncil expenses with one click. We show you how the budget is allocated, where revenues come from and what expenditures are for."
+
+msgid "meta_programmes_title"
+msgstr "%s | Open Budget"
+
+msgid "meta_programmes_description"
+msgstr "Detailed information of %s item."
+
+msgid "meta_programmes_og_title"
+msgstr "Detail of the %s item: Open Budget Barcelona City Council"
+
+msgid "meta_programmes_og_description"
+msgstr "Find out detailed information about the %s #CityBudget item. All details of the #BarcelonaCityCouncil budget at one click from you. How the budget is allocated, where revenues come from and what expenditures are for."
+
+msgid "meta_subprogrammes_title"
+msgstr "%s | Open Budget"
+
+msgid "meta_subprogrammes_description"
+msgstr "Breakdown of the different concepts of the %s item of the Barcelona City Council budget. Know all economic information."
+
+msgid "meta_subprogrammes_og_title"
+msgstr "Breakdown of the %s budget item: Barcelona City Council Open Budget"
+
+msgid "meta_subprogrammes_og_description"
+msgstr "Check the breakdown of the %s #CityBudget item. All details of the #BarcelonaCityCouncil budget at one click from you. How the budget is allocated, where revenues come from and what expenditures are for."

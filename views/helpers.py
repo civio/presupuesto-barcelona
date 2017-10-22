@@ -8,7 +8,14 @@ def _set_meta_fields(c):
     # Not ideal, but the body CSS class name is the best proxy to know
     # which section we're dealing with. We remove the prefix for clarity.
     section = c['page_css_class'].replace('body-', '')
-    print section
+
+    # Some sections require some manipulation, though, as they have multiple css classes
+    if 'subprogrammes' in section:
+        section = 'subprogrammes'
+    elif 'programmes' in section:
+        section = 'programmes'
+    elif 'policies' in section:
+        section = 'policies'
 
     # Based on the current section, use different meta tags, per client request.
     # Some of the sections have fixed texts, so we rely on the i18n framework
@@ -19,7 +26,11 @@ def _set_meta_fields(c):
         c['meta_og_title'] = _("meta_%s_og_title" % (section))
         c['meta_og_description'] = _("meta_%s_og_description" % (section))
 
-    # body-summary
+    elif section in ['policies', 'programmes', 'subprogrammes']:
+        c['meta_title'] = (_("meta_%s_title" % (section)) % (c['name']))
+        c['meta_description'] = (_("meta_%s_description" % (section)) % (c['name']))
+        c['meta_og_title'] = (_("meta_%s_og_title" % (section)) % (c['name']))
+        c['meta_og_description'] = (_("meta_%s_og_description" % (section)) % (c['name']))
 
     else:
         c['meta_title'] = _(u'Presupuestos del Gobierno de Aragón')

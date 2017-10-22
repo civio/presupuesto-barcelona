@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2017-07-05 16:41+0200\n"
+"PO-Revision-Date: 2017-10-23 01:34+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #: templates/budgets/budgets_intro.html:5
 msgid "El recorrido de mis impuestos"
@@ -307,3 +307,39 @@ msgstr "Glossari de termes i conceptes comptables | Pressupost Obert Ajuntament 
 
 msgid "meta_glossary_og_description"
 msgstr "Consulta les definicions de més de 120 termes i conceptes comptables i econòmics i troba'ls còmodament a través del cercador. El Glossari és l'eina que et permetrà entendre i interpretar els #PressupostosMunicipals de l' #AjuntamentDeBarcelona."
+
+msgid "meta_policies_title"
+msgstr "Partida de %s: Pressupost Obert"
+
+msgid "meta_policies_description"
+msgstr "Detall dels conceptes que compon la partida de: %s. Tota la informació sobre el pressupost i les despeses municipals."
+
+msgid "meta_policies_og_title"
+msgstr "Partida de %s: Pressupost Obert Ajuntament de Barcelona"
+
+msgid "meta_policies_og_description"
+msgstr "Coneix al detall la partida de %s i els programes i subprogrames que la componen. Accedeix a tota la informació del #PressupostMunicipal i les despeses de l' #AjuntamentDeBarcelona amb un sol clic."
+
+msgid "meta_programmes_title"
+msgstr "%s | Pressupost Obert"
+
+msgid "meta_programmes_description"
+msgstr "Informació detallada de la partida de %s."
+
+msgid "meta_programmes_og_title"
+msgstr "Detall de la partida de %s: Pressupost Obert"
+
+msgid "meta_programmes_og_description"
+msgstr "Consulta informació detallada sobre la partida de %s. Tots els detalls del #PressupostMunicipal de l' #AjuntamentDeBarcelona a un clic de tu."
+
+msgid "meta_subprogrammes_title"
+msgstr "%s | Pressupost Obert"
+
+msgid "meta_subprogrammes_description"
+msgstr "Desglossament dels diferents conceptes de la partida de %s del pressupost municipal de l'Ajuntament de Barcelona."
+
+msgid "meta_subprogrammes_og_title"
+msgstr "Desglossament de la partida de %s: Pressupost Obert"
+
+msgid "meta_subprogrammes_og_description"
+msgstr "Consulta el desglossament de conceptes de la partida de %s del #PressupostMunicipal. Tots els detalls del #PressupostMunicipal de l' #AjuntamentDeBarcelona a un clic de tu."
