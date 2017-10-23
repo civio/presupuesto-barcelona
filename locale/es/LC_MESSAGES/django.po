@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2017-10-23 01:34+0200\n"
+"PO-Revision-Date: 2017-10-23 02:00+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -270,3 +270,27 @@ msgstr "Desglose de la partida de %s: Presupuesto Abierto"
 
 msgid "meta_subprogrammes_og_description"
 msgstr "Consulta el desglose de conceptos de la partida de %s del #PresupuestoMunicipal. Todos los detalles del #PresupuestoMunicipal del #AyuntamientoDeBarcelona a un clic de ti."
+
+msgid "meta_income_title"
+msgstr "Ingresos: %s | Presupuesto Abierto"
+
+msgid "meta_income_description"
+msgstr "Ingresos del Ayuntamiento de Barcelona. Detalle: %s. Toda la información sobre las fuentes de ingresos municipales."
+
+msgid "meta_income_og_title"
+msgstr "%s: Conoce la procedencia de los ingresos del Ayuntamiento"
+
+msgid "meta_income_og_description"
+msgstr "Accede a la información detallada de todas las fuentes de ingresos que nutren el #PresupuestoMunicipal del #AyuntamientoDeBarcelona. %s es una de estas fuentes, conoce su procedencia y evolución a lo largo de los últimos años."
+
+msgid "meta_expense_title"
+msgstr "Gastos: %s | Presupuesto Abierto"
+
+msgid "meta_expense_description"
+msgstr "Gastos del Ayuntamiento de Barcelona. Detalle: %s. Toda la información de las partidas del presupuesto municipal."
+
+msgid "meta_expense_og_title"
+msgstr "%s: Gastos y partidas del presupuesto municipal"
+
+msgid "meta_expense_og_description"
+msgstr "¿En que se gasta el presupuesto? Información detallada sobre los gastos del #AyuntamientoDeBarcelona y las partidas del #PresupuestoMunicipal. Conoce todos los detalles de la partida de %s y que cuesta cada uno de sus conceptos."

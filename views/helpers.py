@@ -14,6 +14,8 @@ def _set_meta_fields(c):
         section = 'subprogrammes'
     elif 'programmes' in section:
         section = 'programmes'
+    elif 'articles' in section:
+        section = c['show_side']
     elif 'policies' in section:
         section = 'policies'
 
@@ -26,7 +28,7 @@ def _set_meta_fields(c):
         c['meta_og_title'] = _("meta_%s_og_title" % (section))
         c['meta_og_description'] = _("meta_%s_og_description" % (section))
 
-    elif section in ['policies', 'programmes', 'subprogrammes']:
+    elif section in ['policies', 'programmes', 'subprogrammes', 'expense', 'income']:
         c['meta_title'] = (_("meta_%s_title" % (section)) % (c['name']))
         c['meta_description'] = (_("meta_%s_description" % (section)) % (c['name']))
         c['meta_og_title'] = (_("meta_%s_og_title" % (section)) % (c['name']))

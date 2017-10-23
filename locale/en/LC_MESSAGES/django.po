@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2017-10-23 01:34+0200\n"
+"PO-Revision-Date: 2017-10-23 02:00+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -316,3 +316,27 @@ msgstr "Breakdown of the %s budget item: Barcelona City Council Open Budget"
 
 msgid "meta_subprogrammes_og_description"
 msgstr "Check the breakdown of the %s #CityBudget item. All details of the #BarcelonaCityCouncil budget at one click from you. How the budget is allocated, where revenues come from and what expenditures are for."
+
+msgid "meta_income_title"
+msgstr "Revenues: %s | Open Budget"
+
+msgid "meta_income_description"
+msgstr "Revenue of the Barcelona City Council. Detail of: %s. All information on the sources of municipal revenue."
+
+msgid "meta_income_og_title"
+msgstr "%s: Know about the source of income of the Barcelona City Council"
+
+msgid "meta_income_og_description"
+msgstr "Access the detailed information of all income sources that nourish the #CityBudget of the #BarcelonaCityCouncil. %s is one of these sources, know its origin and evolution over recent years."
+
+msgid "meta_expense_title"
+msgstr "Expenditures: %s | Open Budget"
+
+msgid "meta_expense_description"
+msgstr "Expenses of Barcelona City Council. Detail: %s. All the information on the municipal budget items."
+
+msgid "meta_expense_og_title"
+msgstr "%s: Expenses and municipal budget"
+
+msgid "meta_expense_og_description"
+msgstr "How is the #CityBudget spent? Detailed information on different #BarcelonaCityCouncil expenses and its budget items. Know all the details of the %s budget item and the costs of each of its concepts."
