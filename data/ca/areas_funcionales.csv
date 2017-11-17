@@ -139,6 +139,7 @@
 4,4,1,1,,Transport col·lectiu urbà de viatgers
 4,4,1,2,,Altres transports de viatgers
 4,5,9,1,,Altres infraestructures
+4,6,3,1,,"Investigació científica,tècnica i aplicada"
 4,9,1,1,,Mitjans de comunicació públics
 4,9,3,1,,Defensa dels drets dels consumidors
 4,9,9,9,,Ajust pròrroga AD4
@@ -333,6 +334,7 @@
 3,3,3,2,1,Arts escèniques i música
 3,3,4,1,1,Promoció cultural
 3,3,4,1,2,Gestió equipaments culturals districtes
+3,3,4,1,4,Normalització lingüística
 3,3,6,1,3,Arqueologia
 3,3,7,1,1,Gestió de centres cívics
 3,3,7,1,2,Accions complementàries en els centres cívics
@@ -349,6 +351,7 @@
 4,3,1,2,1,Mercats municipals
 4,3,1,4,1,Serveis de promoció del comerç
 4,3,1,4,2,Campanyes específiq. promoció del comerç
+4,3,1,4,3,Accions promocionals del sector Restauració
 4,3,2,1,1,Foment del turisme
 4,3,2,1,2,Promoció del turisme
 4,3,2,1,3,Esdeveniments d'interés econòmic
@@ -357,6 +360,7 @@
 4,3,3,1,1,Suport Ocupació i Empresa
 4,3,3,1,3,Bons compromís
 4,3,3,1,4,Plans d’ocupació
+4,3,3,1,5,Foment de l'emprenedoria
 4,3,3,1,9,Pla de rescat social
 4,3,3,2,1,Promoció econòmica de la ciutat
 4,3,3,3,2,Col·laboració públic-privada
@@ -368,6 +372,7 @@
 4,4,1,2,1,Servei del Bicing
 4,5,9,1,0,Altres infraestructures
 4,5,9,1,1,Altres infraestructures
+4,6,3,1,1,Support for innovation and knowledge
 4,9,1,1,1,Informació i comunicació de Barcelona
 4,9,1,1,2,Sistemes d'informació
 4,9,3,1,1,Arbitratge
