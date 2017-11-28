@@ -179,6 +179,9 @@ PAYMENTS_BREAKDOWN_BY_AREA = ['area', 'programme', 'payee', 'description']
 # Configure 'by payee' payment breakdown. Default: ['payee', 'area', 'description']
 # PAYMENTS_BREAKDOWN_BY_PAYEE = ['payee', 'area', 'description']
 
+# Define if payments year slider is a range (True) or a single year (False). Default: True
+PAYMENTS_YEAR_RANGE = False
+
 # Show Tax Receipt section in menu & home options. Default: False.
 # SHOW_TAX_RECEIPT        = False
 
