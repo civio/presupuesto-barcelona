@@ -153,7 +153,23 @@ header > .container{
 .home-content .home-intro,
 .home-content .expense-examples{
   padding-top: $grid-gutter-width;
-  padding-bottom: 30px;
+  padding-bottom: $grid-gutter-width;
+}
+
+@media (max-width: $grid-float-breakpoint) {
+  .home-content .home-intro,
+  .home-content .expense-examples{
+    padding-top: $grid-gutter-width/2;
+    padding-bottom: $grid-gutter-width/2;
+  }
+  .form-search .form-inline{
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+.policies-content #tab-title{
+  margin: 0;
 }
 
 // @dcabo: Dirty way of selecting the second block of the home page (sorry about that)
@@ -450,6 +466,16 @@ table.table-grid tr td .toggle.collapse{
 .policies-content .data-controllers{
   margin: 2*$grid-gutter-width/3 0 $grid-gutter-width;
 }
+
+@media (max-width: $grid-float-breakpoint) {
+  .policies.policy-breakdown .policies-content .tab-content{
+    margin-top: 0;
+  }
+  .data-controllers .layout-slider{
+    margin-top: $grid-gutter-width/2;
+  }
+}
+
 .policies-chart{
   margin-bottom: 1.5*$grid-gutter-width !important;
 }
