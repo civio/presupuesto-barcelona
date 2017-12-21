@@ -252,7 +252,7 @@ MAIN_ENTITY_WEB_URL     = 'http://ajuntament.barcelona.cat/es/'
 COOKIES_URL             = 'http://www.barcelona.cat/es/cookies.html'
 
 # Allow overriding of default treemap color scheme
-COLOR_SCALE = [ '#1f77b4', '#ee6f00', '#2ca02c', '#d62728', '#8350b2', '#8c564b', '#d944ac', '#d74a54', '#8c8c19', '#118996' ]
+COLOR_SCALE = [ '#1f77b4', '#C05411', '#2ca02c', '#d62728', '#8350b2', '#774940', '#d944ac', '#d74a54', '#8c8c19', '#118996' ]
 
 # We can define additional URLs applicable only to the theme. These will get added
 # to the project URL patterns list.
