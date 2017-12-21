@@ -21,25 +21,27 @@
   }
 }
 
-header > .container{
-  height: 110px;  // We need to setup header height because we remove logo
+header {
+  position: relative;
+  /*
+  > .container{
+    height: 110px;  // We need to setup header height because we remove logo
+  }
+  */
 }
 
 .navbar-brand{
+  position: static;
+  padding: $grid-gutter-width 0;
+  margin: 0 auto;
+  height: auto;
   font-weight: $font-weight-200;
-  margin-left: 60px;
-  margin-right: 60px;
-}
-
-@media (min-width: $screen-sm-min) {
-  .navbar-brand {
-    margin-right: 0;
-    margin-left: 0;
-  }
 }
 
 .navbar-default{
+  position: static;
   background: none;
+  min-height: 0;
 
   .navbar-nav{
   
@@ -71,8 +73,8 @@ header > .container{
 
   .navbar-toggle{
     position: absolute;
-    top: -60px;
-    left: $grid-gutter-width/2;
+    top: $grid-gutter-width/3;
+    left: $grid-gutter-width/3;
     width: 60px;
     height: 60px;
     text-indent: -9999px;
@@ -83,6 +85,18 @@ header > .container{
       background-color: $brand-secondary;
     }
 
+  }
+}
+
+@media (max-width: $grid-float-breakpoint) {
+  header{
+    border: 1px solid $brand-secondary;
+  }
+  .navbar-brand{
+    padding-top: 2*$grid-gutter-width/3;
+    padding-bottom: 2*$grid-gutter-width/3;
+    margin-left: 2*$grid-gutter-width;
+    margin-right: 2*$grid-gutter-width;
   }
 }
 
