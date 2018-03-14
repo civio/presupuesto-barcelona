@@ -143,6 +143,15 @@ header {
 // Data Sources
 .data-sources {
   background: $brand-terciary;
+
+  .source-list a {
+    color: #11788F;
+
+    b {
+      font-weight: 600;
+    }
+  }
+
   .alert{
    background: mix( $brand-terciary, white, 50% );
   }
@@ -349,6 +358,7 @@ table.table-grid tr td .toggle.collapse{
 
 // Remove footer civio link & aragón logo
 .main-footer{
+  font-size: 12px;
   text-align: left;
   padding-bottom: $grid-gutter-width/2;
 
