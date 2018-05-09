@@ -212,9 +212,6 @@ $(document).ready(function(){
       var val = $(this).html();
       if (val === '2013'){
         $(this).html(val + '<br/><small><i> ('+ str2013[ $('html').attr('lang') ] +')</i></small>');
-
-      } else if (val === '2018'){
-        $(this).html(val + '<br/><small><i> ('+ str2018[ $('html').attr('lang') ] +')</i></small>');
       }
     });
   };
