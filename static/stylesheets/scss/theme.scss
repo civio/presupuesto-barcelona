@@ -491,6 +491,11 @@ table.table-grid tr td .toggle.collapse{
   margin: 2*$grid-gutter-width/3 0 $grid-gutter-width;
 }
 
+// Hide payments import selector
+#payments-search #data-controller-amount {
+  display: none;
+}
+
 @media (max-width: $grid-float-breakpoint) {
   .policies.policy-breakdown .policies-content .tab-content{
     margin-top: 0;
