@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2017-10-23 02:00+0200\n"
+"PO-Revision-Date: 2018-07-16 21:36+0100\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.0.9\n"
 
 #: templates/budgets/budgets_intro.html:5
 msgid "El recorrido de mis impuestos"
@@ -340,3 +340,9 @@ msgstr "%s: Expenses and municipal budget"
 
 msgid "meta_expense_og_description"
 msgstr "How is the #CityBudget spent? Detailed information on different #BarcelonaCityCouncil expenses and its budget items. Know all the details of the %s budget item and the costs of each of its concepts."
+
+msgid "Bajo la denominación genérica de gastos facturados se incorporan todas las obligaciones de pago presupuestarias reconocidas por el Ayuntamiento."
+msgstr "Under the generic denomination of invoiced expenses, all the budgetary payment obligations recognized by the City Council are incorporated."
+
+msgid "Los gastos incluyen siempre el IVA, a menos que sea deducible por parte del Ayuntamiento (IVA no presupuestario)."
+msgstr "Expenses always include VAT, unless it becomes deductible by the City Council (non-budget VAT)."

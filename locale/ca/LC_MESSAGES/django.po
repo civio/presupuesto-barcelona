@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2017-10-23 02:00+0200\n"
+"PO-Revision-Date: 2018-07-16 21:36+0100\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.0.9\n"
 
 #: templates/budgets/budgets_intro.html:5
 msgid "El recorrido de mis impuestos"
@@ -367,3 +367,9 @@ msgstr "%s: Despeses i partides del pressupost municipal"
 
 msgid "meta_expense_og_description"
 msgstr "En què es gasta el pressupost? Informació detallada sobre les despeses de l' #AjuntamentDeBarcelona i les partides del #PressupostMunicipal. Coneix tots els detalls de la partida de %s i què costa cadascun dels seus conceptes."
+
+msgid "Bajo la denominación genérica de gastos facturados se incorporan todas las obligaciones de pago presupuestarias reconocidas por el Ayuntamiento."
+msgstr "Sota la denominació genèrica de despeses facturades s'incorporen totes les obligacions de pagament pressupostaries reconegudes per l'Ajuntament."
+
+msgid "Los gastos incluyen siempre el IVA, a menos que sea deducible por parte del Ayuntamiento (IVA no presupuestario)."
+msgstr "Les despeses inclouen sempre l'IVA, a no ser que esdevingui deduïble per l'Ajuntament (IVA no pressupostari)."
