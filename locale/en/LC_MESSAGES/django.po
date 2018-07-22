@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-11 17:16+0100\n"
-"PO-Revision-Date: 2018-07-16 21:36+0100\n"
+"PO-Revision-Date: 2018-07-22 14:35+0200\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -204,6 +204,9 @@ msgstr "Strategy and Finance"
 
 msgid " (cap. %(chapter)s)"
 msgstr " "
+
+msgid "No incluye nóminas ni facturas de personas físicas en cumplimiento de la normativa sobre protección de datos."
+msgstr "Does not include payroll or invoices of individuals in compliance with data protection regulations."
 
 msgid "El Presupuesto Abierto es una herramienta que tiene por objetivo facilitar el análisis y comprensión de los presupuestos del Ayuntamiento de Barcelona por parte de los ciudadanos y de todas aquellas personas u organizaciones que puedan estar interesadas."
 msgstr "The Open Budget is a tool created for citizens and all those people or organizations that may be interested, which aims to facilitate the analysis and understanding of the budgets of the City of Barcelona."
