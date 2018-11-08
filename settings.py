@@ -207,8 +207,6 @@ SHOW_INSTITUTIONAL_TAB  = True
 # Show breadcrumbs in policies. Default: False.
 SHOW_BREADCRUMBS = True
 
-# Adjust inflation in amounts in Overview page. Default: True
-ADJUST_INFLATION_IN_OVERVIEW = False
 
 # Show Subtotals panel in Overview. Default: False
 SHOW_OVERVIEW_SUBTOTALS = True
