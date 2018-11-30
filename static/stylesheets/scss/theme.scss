@@ -79,7 +79,7 @@ header {
     height: 60px;
     text-indent: -9999px;
     overflow: hidden;
-    background: url(/static/assets/icon-menu.png) no-repeat center center transparent;
+    background: url(../assets/icon-menu.png) no-repeat center center transparent;
 
     &:hover{
       background-color: $brand-secondary;
@@ -115,7 +115,7 @@ header {
       > a{
         text-indent: -9999px;
         overflow: hidden;
-        background: url(/static/assets/icon-home.png) no-repeat center center $brand-primary;
+        background: url(../assets/icon-home.png) no-repeat center center $brand-primary;
       }
     }
   }
@@ -232,7 +232,7 @@ header {
         width: 19px;
         height: 19px;
         margin-top: 1px;
-        background: url(/static/assets/plus-icon.png) no-repeat 0 0 transparent;
+        background: url(../assets/plus-icon.png) no-repeat 0 0 transparent;
       }
     }
   }
@@ -337,7 +337,7 @@ table.table-grid tr td .toggle.collapse{
   width: 15px;
   height: 15px;
   margin-top: 2px;
-  background: url(/static/assets/search-icon.png) no-repeat 0 0 transparent;
+  background: url(../assets/search-icon.png) no-repeat 0 0 transparent;
 }
 
 // Modal
