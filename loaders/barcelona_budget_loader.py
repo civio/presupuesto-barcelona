@@ -13,10 +13,10 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
         return s.split('.')[0]
 
     def parse_item(self, filename, line):
-        # The budget data we have for 2017 doesn't (yet) have amended expense figures,
+        # The budget data we have for 2018 doesn't (yet) have amended expense figures,
         # so in that case we use the initial budget
         year = re.search('municipio/(\d+)/', filename).group(1)
-        budget_column = 4 if year in ['2017', '2018'] else 5
+        budget_column = 4 if year in ['2018'] else 5
 
         is_expense = (filename.find('gastos.csv')!=-1)
         is_actual = (filename.find('/ejecucion_')!=-1)
