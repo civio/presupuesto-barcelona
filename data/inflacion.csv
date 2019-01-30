@@ -1,4 +1,4 @@
-# Datos de IPC del INE. Medias anuales de IPC para Cataluña, Índice general: 
+# Datos de IPC del INE. Medias anuales de IPC para Cataluña, Índice general:
 #   http://www.ine.es/jaxiT3/Tabla.htm?t=22350&L=0
 #
 # Las tasas de inflación se han calculado a partir de la variación del índice general
@@ -11,4 +11,5 @@
 2015,0.3
 2016,1.9
 2017,1.2
-2018,0
+2018,1.4
+2019,0
