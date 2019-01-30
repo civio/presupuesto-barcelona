@@ -305,22 +305,36 @@ $(document).ready(function(){
   };
 
   var addYearSelectorCustomLabels = function(){
-    var str2013 = {
+    var lang = $('html').attr('lang')
+    var extended = {
       'es': 'prorrogado',
       'ca': 'prorrogat',
       'en': 'extended',
     };
-    var str2018 = {
+    var extendedWithNote = {
+      'es': 'prorrogado, ver nota',
+      'ca': 'prorrogat, veure nota',
+      'en': 'extended, see note',
+    };
+    var pendingApproval = {
       'es': 'pendiente aprobación',
       'ca': 'pendent aprovació',
       'en': 'pending approval',
     };
+    var yearLabels = {
+      '2013': extended,
+      '2019': extendedWithNote
+    }
 
     $('.data-controllers .layout-slider .slider .slider-tick-label').each(function(){
-      var val = $(this).html();
-      if (val === '2013'){
-        $(this).html(val + '<br/><small><i> ('+ str2013[ $('html').attr('lang') ] +')</i></small>');
+      var year = $(this).html();
+      var label = yearLabels[year]
+
+      if (typeof(label) === 'undefined') {
+        return
       }
+
+      $(this).html(year + '<br/><small><i> ('+ label[lang] +')</i></small>');
     });
   };
 

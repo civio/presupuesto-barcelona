@@ -179,6 +179,9 @@ msgstr "Els imports que es mostren com a pressupostats fan referència a les pre
 msgid "Los datos de gastos por políticas, programas y subprogramas han sido homogeneizados de acuerdo con la estructura presupuestaria por programas vigente."
 msgstr "Les dades de despeses per polítiques, programes i subprogrames han estat homogeneïtzades d'acord amb l'estructura pressupostària per programes vigent."
 
+msgid "El presupuesto 2019 incorpora al presupuesto inicial 2019 (prorrogado) la modificación de crédito global aprobada en enero de 2019."
+msgstr "El pressupost 2019 incorpora al pressupost inicial 2019 (prorrogat) la modificació de crèdit aprovada al gener de 2019."
+
 msgid "Beneficiario"
 msgstr "Proveïdor"
 

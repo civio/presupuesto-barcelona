@@ -175,6 +175,9 @@ msgstr "The amounts shown as budgeted refer to the budget’s final estimates an
 msgid "Los datos de gastos por políticas, programas y subprogramas han sido homogeneizados de acuerdo con la estructura presupuestaria por programas vigente."
 msgstr "The expenses data for policies, programmes and sub-programmes were standardised under the budget structure for current programmes."
 
+msgid "El presupuesto 2019 incorpora al presupuesto inicial 2019 (prorrogado) la modificación de crédito global aprobada en enero de 2019."
+msgstr "The 2019 budget incorporates into the 2019 initial budget (extended) the credit modification approved in January 2019."
+
 msgid "Un proyecto de"
 msgstr "A project"
 
