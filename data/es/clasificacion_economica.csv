@@ -94,7 +94,6 @@ I,3,5,,Contribuciones especiales
 I,3,5,0,Para la ejecución de obras
 I,3,5,1,Para el establecimiento o ampliación de servicios
 I,3,6,,Ventas
-I,3,6,0,Ventas
 I,3,8,,Reintegros
 I,3,8,0,Reintegro de avales
 I,3,8,9,Otros reintegros de operaciones corrientes
@@ -559,11 +558,12 @@ G,7,8,0,A familias e instituciones sin fines de lucro
 G,7,9,0,Otras transferencias de capital
 G,8,5,0,Adquisición de acciones y participaciones del sector público
 I,1,8,0,Impuestos directos extinguidos
+I,3,6,0,Publicaciones
 I,3,6,1,Venta de energía
 I,3,6,2,Material inservible
 I,3,6,3,Impresos
-I,3,6,4,De áreas metropolitanas
-I,3,6,5,De comarcas
+I,3,6,4,Bienes producidos en establecimientos del Ayuntamiento
+I,3,6,5,Otras ventas
 I,4,1,0,De organismos autónomos de la entidad local
 I,4,6,9,Otras subvenciones de entidades locales
 I,4,7,0,De empresas privadas
@@ -571,6 +571,6 @@ I,4,8,0,De familias e instituciones sin fines de lucro
 I,5,2,0,En cuentas de bancos o cajas de ahorro
 I,6,0,3,Patrimonio público del suelo
 I,7,1,0,De organismos autónomos de la entidad local
-I,7,7,0,Aportaciones de empreses privades
+I,7,7,0,Aportaciones de empresas privadas
 I,7,8,0,Aportación Hospital Santa Creu Restauración
 I,8,5,0,Venta de acciones y participaciones del sector público

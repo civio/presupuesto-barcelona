@@ -94,7 +94,6 @@ I,3,5,,Contribucions especials
 I,3,5,0,Per l'execució d'obres
 I,3,5,1,Per a l'establiment o ampliació de serveis
 I,3,6,,Vendes
-I,3,6,0,Vendes
 I,3,8,,Reintegraments
 I,3,8,0,Reintegrament d'avals
 I,3,8,9,Altres reintegraments d'operacions corrents
@@ -427,7 +426,7 @@ G,6,2,9,Altres inversions noves
 G,6,3,,Inversió de reposició associada al funcionament operatiu dels serveis
 G,6,3,1,terrenys i béns naturals
 G,6,3,2,Edificis i altres construccions
-G,6,3,3,"maquinària, instal·lacions i utillatge"
+G,6,3,3,"Maquinària, instal·lacions i utillatge"
 G,6,3,4,Elements de transport
 G,6,3,5,Mobiliari
 G,6,3,6,Equips per a processos d'informació
@@ -559,11 +558,12 @@ G,7,8,0,Transf. a famílies e institucions sense fins de lucre
 G,7,9,0,Altres transferències de capital
 G,8,5,0,Adquisició d'accions i participacions del sector públic
 I,1,8,0,Impostos directes extingits
+I,3,6,0,Publicacions
 I,3,6,1,Venda energia
 I,3,6,2,Material inservible
 I,3,6,3,Impresos
-I,3,6,4,D'àrees metropolitanes
-I,3,6,5,De comarques
+I,3,6,4,Bens produits en establiments de l'Ajuntament
+I,3,6,5,Altres vendes
 I,4,1,0,D'organismes autònoms de l'entitat local
 I,4,6,9,Altres subvencions entitats locals
 I,4,7,0,D'empreses privades
