@@ -22,13 +22,14 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
         is_actual = (filename.find('/ejecucion_')!=-1)
         if is_expense:
             fc_code = self.clean(line[2]).rjust(5, '0') # Some programmes miss starting 0
+            ic_code = self.clean(line[1]).rjust(4, '0') # Some organisms miss starting 0
 
             return {
                 'is_expense': True,
                 'is_actual': is_actual,
                 'fc_code': fc_code,
                 'ec_code': self.clean(line[0])[:-2],
-                'ic_code': self.clean(line[1])[1:],
+                'ic_code': ic_code[1:],
                 'item_number': self.clean(line[0])[-2:],    # Last two digits
                 'description': line[3],
                 'amount': self._parse_amount(line[6 if is_actual else budget_column])
