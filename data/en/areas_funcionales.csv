@@ -184,7 +184,7 @@
 1,3,4,1,4,Road signaling (horizontal and vertical)
 1,3,5,1,1,Civil protection
 1,3,6,1,2,"Fire extinction, prevention and salvation intervention"
-1,3,6,1,3,Professional development,selection,prevention
+1,3,6,1,3,"Professional development,selection,prevention"
 1,3,6,1,4,Forest fire extinction
 1,5,0,1,1,General expenses of urban habitat
 1,5,0,1,2,Juridical coordination inhabited urban
@@ -194,6 +194,7 @@
 1,5,0,1,6,Communication urban habitat
 1,5,0,1,7,Maintenance and conservation of buildings urban habitat
 1,5,0,1,8,Analysis and evaluation of urban habitat services
+1,5,0,1,9,Document management for urban habitat services
 1,5,1,1,1,Licences
 1,5,1,1,2,Inspections
 1,5,1,1,3,Other services of urban planning activity
@@ -216,6 +217,7 @@
 1,5,3,4,3,Integral improvement of neighbourhoods
 1,5,3,4,4,Maintenance and improved public spaces (non-centralised)
 1,5,3,4,5,Maintenance and improvement of public space of Collserola
+1,5,3,4,7,UIA climate shelter schools
 1,5,3,5,1,Neighbourhood Act Barceloneta
 1,5,3,5,3,Neighbourhood Act Torre Baró-Ciutat Meridiana
 1,5,3,5,4,Neighbourhood Act La Bordeta

@@ -7,16 +7,24 @@
 6,,,Districts
 7,,,Manager's Office for Presidency and Economy
 8,,,"Manager's Office for Citizen Rights, Participation and Transparency"
+1,0,0,Municipal Management
 1,0,1,Manager's Office for Resources
 1,0,2,Manager's Office for Human Resources and Organisation
 1,0,4,Chief Executive department
+1,0,6,Manager's Office for Territorial Coordination and Proximity
+2,0,0,"Manager's Office for Social Rights, Global Justice, Feminism and LGBTI"
 2,0,1,Manager's Office for Social Rights
+2,0,2,Manager's Office for Housing
+3,0,0,"Manager's Office for 2030 Agenda, Digital Transformation, Territorial Coordination amd Sports"
 3,0,1,"Manager's Office for Companies, Culture and Innovation"
+4,0,0,Manager's Office of Safety and Prevention
 4,0,1,Manager's Office of Safety and Prevention
+5,0,0,Manager's Office of Urban Ecology
 5,0,1,"Manager's Office of Ecology, Urban Planning and Mobility"
 5,0,2,Manager's Office of Environment and Urban Services
 5,0,3,Manager's Office of Urban Planning
 5,0,4,Manager's Office of Infrastructures and Urban Coordination
+5,0,5,Chief Architect's Office
 6,0,1,District of Ciutat Vella
 6,0,2,District of l'Eixample
 6,0,3,District of Sants-Montjuïc
@@ -27,8 +35,12 @@
 6,0,8,District of Nou Barris
 6,0,9,District of Sant Andreu
 6,1,0,District of Sant Martí
+7,0,0,"Manager's Office of Economy, Resources and Economic Promotion"
 7,0,1,Manager's Office of Presidency and Economy
 7,0,2,"Manager's Office for Business, Employment and Tourism"
 7,0,3,Central Services
 7,0,4,"Manager's Office for tourism, commerce and markets"
+7,0,5,Manager's Office of Resources
+7,0,7,Manager's Office of Staff and Organisational Development
+8,0,0,"Manager's Office for Culture, Education, Science and Community"
 8,0,1,"Manager's Office for Citizen Rights, Participation and Transparency"

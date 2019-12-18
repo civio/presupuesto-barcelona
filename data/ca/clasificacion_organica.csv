@@ -6,17 +6,25 @@
 5,,,"Sector Ecologia, Urbanisme i Mobilitat"
 6,,,Districtes
 7,,,Sector Presidència i Economia
-8,,,Gerència Drets Ciutadania Participació i Transparència
+8,,,"Gerència Drets Ciutadania, Participació i Transparència"
+1,0,0,Gerència Municipal
 1,0,1,Gerència de Recursos
 1,0,2,Gerència de Recursos Humans i Organització
 1,0,4,Gerència Municipal i Coord. Ens i Territori
+1,0,6,Gerència de Coordinació Territorial i Proximitat
+2,0,0,"Gerència de Drets Socials, Justícia Global, Feminisme i LGTBI"
 2,0,1,Gerència de Drets Socials
+2,0,2,Gerència d'Habitatge
+3,0,0,"Gerència d'Agenda 2030, Transformació Digital, Coordinació Territorial i Esports"
 3,0,1,"Gerència d'Empresa, Cultura i Innovació"
+4,0,0,"Gerència de Seguretat i Prevenció"
 4,0,1,Gerència de Seguretat i Prevenció
+5,0,0,Gerencia de Ecología Urbana
 5,0,1,"Gerència Ecologia, Urbanisme i Mobilitat"
 5,0,2,Gerència Medi Ambient i Serveis Urbans
 5,0,3,Gerència d'Urbanisme
 5,0,4,Gerència d'Infraestructures i Coordinació Urbana
+5,0,5,Gerència de l'Arquitecte en Cap
 6,0,1,Districte de Ciutat Vella
 6,0,2,Districte de l'Eixample
 6,0,3,Districte de Sants-Montjuïc
@@ -27,8 +35,12 @@
 6,0,8,Districte de Nou Barris
 6,0,9,Districte de Sant Andreu
 6,1,0,Districte de Sant Martí
+7,0,0,"Gerència d'Economia, Recursos i Promoció Econòmica"
 7,0,1,Gerència de Presidència i Economia
 7,0,2,"Gerència d'Empresa, Ocupació i Turisme"
 7,0,3,Serveis Centrals
 7,0,4,"Gerència turisme, comerç i mercats"
+7,0,5,Gerència de Recursos
+7,0,7,Gerència de Persones i Desenvolupament Organitzatiu
+8,0,0,"Gerència de Cultura, Educació, Ciència i Comunitat"
 8,0,1,"Gerència de Drets de Ciutadania, Participació i Transparència"

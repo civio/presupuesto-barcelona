@@ -184,7 +184,7 @@
 1,3,4,1,4,Señalización viaria horizontal y vertical
 1,3,5,1,1,Protección civil
 1,3,6,1,2,Intervención en extinción de incendios y salvamentos
-1,3,6,1,3,Desenvol.profesional,selección,prevenc.s
+1,3,6,1,3,"Desenvol.profesional,selección,prevenc.s"
 1,3,6,1,4,Actuaciones de prevención de incendios forestales
 1,5,0,1,1,Gastos generales de hábitat urbano
 1,5,0,1,2,Coordinación jurídica habitado urbano
@@ -194,6 +194,7 @@
 1,5,0,1,6,Comunicación hábitat urbano
 1,5,0,1,7,Mantenimiento y conservación de edificios hábitat urbano
 1,5,0,1,8,Análisis y evaluación de servicios de Ecología Urbana
+1,5,0,1,9,Gestión documental hábitat urbano
 1,5,1,1,1,Licencias
 1,5,1,1,2,Inspecciones
 1,5,1,1,3,Otros servicios de actuación urbanística
@@ -216,6 +217,7 @@
 1,5,3,4,3,Mejora integral de barrios
 1,5,3,4,4,Mantenimiento-mejora espacios públicos no centralizado
 1,5,3,4,5,Mantenimiento y mejora de espacio púb. de Collserola
+1,5,3,4,7,UIA refugios climáticos escuelas
 1,5,3,5,1,Ley de Barrios Barceloneta
 1,5,3,5,3,Ley de Barrios Torre Baró-Ciutat Meridiana
 1,5,3,5,4,Ley de Barrios La Bordeta

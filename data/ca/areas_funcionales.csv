@@ -183,7 +183,7 @@
 1,3,4,1,4,Senyalització viària horitzontal i vertical
 1,3,5,1,1,Protecció civil
 1,3,6,1,2,Intervenció en extinció d’incendis i salvament
-1,3,6,1,3,Desenvol.professional,selecció,prevenc.salut SPEIS
+1,3,6,1,3,"Desenvol.professional,selecció,prevenc.salut SPEIS"
 1,3,6,1,4,Actuacions de prevenció d'incendis forestals
 1,5,0,1,1,Despeses generals d'Ecologia Urbana
 1,5,0,1,2,Coordinació jurídica Ecologia Urbana
@@ -193,6 +193,7 @@
 1,5,0,1,6,Comunicació Ecologia Urbana
 1,5,0,1,7,Manteniment i conservació edificis Ecologia Urbana
 1,5,0,1,8,Anàlisi i Avaluació de serveis d'Ecologia Urbana
+1,5,0,1,9,Gestió Documental Ecologia Urbana
 1,5,1,1,1,Llicències
 1,5,1,1,2,Inspeccions
 1,5,1,1,3,Altres serveis d'actuació urbanística
@@ -215,6 +216,7 @@
 1,5,3,4,3,Millora integral de barris
 1,5,3,4,4,Manteniment-millora espais públics no centralitzat
 1,5,3,4,5,Manteniment i millora d'espai públic de Collserola
+1,5,3,4,7,UIA refugis climàtics escoles
 1,5,3,5,1,Llei de Barris Barceloneta
 1,5,3,5,3,Llei de Barris Torre Baró-Ciutat Meridiana
 1,5,3,5,4,Llei de Barris La Bordeta
