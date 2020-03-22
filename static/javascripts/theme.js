@@ -311,11 +311,6 @@ $(document).ready(function(){
       'ca': 'prorrogat',
       'en': 'extended',
     };
-    var extendedWithNote = {
-      'es': 'prorrogado, ver nota',
-      'ca': 'prorrogat, veure nota',
-      'en': 'extended, see note',
-    };
     var pendingApproval = {
       'es': 'pendiente aprobación',
       'ca': 'pendent aprovació',
@@ -323,7 +318,6 @@ $(document).ready(function(){
     };
     var yearLabels = {
       '2013': extended,
-      '2019': extendedWithNote,
       '2020': pendingApproval
     }
 
