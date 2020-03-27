@@ -317,8 +317,7 @@ $(document).ready(function(){
       'en': 'pending approval',
     };
     var yearLabels = {
-      '2013': extended,
-      '2020': pendingApproval
+      '2013': extended
     }
 
     $('.data-controllers .layout-slider .slider .slider-tick-label').each(function(){
