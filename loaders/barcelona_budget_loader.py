@@ -16,7 +16,7 @@ class BarcelonaBudgetLoader(SimpleBudgetLoader):
         # The budget data we have for 2018 and 2019 doesn't (yet) have amended expense figures,
         # so in that case we use the initial budget
         year = re.search('municipio/(\d+)/', filename).group(1)
-        budget_column = 4 if year in ['2018', '2019', '2020'] else 5
+        budget_column = 4 if year in ['2018', '2019', '2020', '2021'] else 5
 
         is_expense = (filename.find('gastos.csv')!=-1)
         is_actual = (filename.find('/ejecucion_')!=-1)

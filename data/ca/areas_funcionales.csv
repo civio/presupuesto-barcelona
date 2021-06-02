@@ -370,8 +370,11 @@
 4,3,3,1,5,Foment de l'emprenedoria
 4,3,3,1,9,Pla de rescat social
 4,3,3,2,1,Promoció econòmica de la ciutat
+4,3,3,2,2,Promoció de ciutat (GERPE)
 4,3,3,3,2,Col·laboració públic-privada
 4,3,3,3,3,Desenvolupament econòmic
+4,3,3,3,5,Foment industries creatives
+4,3,3,3,6,Promoció econòmica
 4,3,3,4,1,Dinamització econòmica de proximitat
 4,3,3,5,1,"Foment de l’economia cooperativa, social"
 4,3,3,5,2,Temps i Economia de les Cures
@@ -392,6 +395,7 @@
 9,1,2,2,2,Protocol
 9,1,2,2,3,Relacions internacionals
 9,1,2,2,4,Comissionat Agenda 2030
+9,1,2,2,5,Comissionat Innovació Digital
 9,2,0,1,1,Administració general
 9,2,0,1,2,Serveis editorials
 9,2,0,1,3,Programa actuació sectorial
@@ -403,6 +407,7 @@
 9,2,0,3,1,Arxiu municipal administratiu
 9,2,0,3,2,Sistema d'arxius
 9,2,0,3,3,Biblioteca general
+9,2,0,3,4,Administració electrònica
 9,2,2,1,1,Direcció de recursos humans i organització
 9,2,2,1,2,Gestió-administració recursos humans-organització
 9,2,2,1,3,Assessoria jurídica de recursos humans i organització
@@ -443,6 +448,7 @@
 9,3,2,1,1,Gestió tributària
 9,3,2,1,2,Consell Tributari
 9,3,2,1,3,Dipòsits i fiances
+9,3,2,1,9,Serveis d’ingressos
 9,3,3,1,1,Patrimoni
 9,3,3,1,2,Manteniment d’edificis centralitzats
 9,3,3,1,4,Manteniment d’edificis i solars no centralitzats

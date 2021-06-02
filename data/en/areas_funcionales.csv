@@ -371,8 +371,11 @@
 4,3,3,1,5,Promotion of entrepreneurship
 4,3,3,1,9,Social rescue plan
 4,3,3,2,1,Promoting the city’s economy
+4,3,3,2,2,City promotion (GERPE)
 4,3,3,3,2,Public private partnerships
 4,3,3,3,3,Economic growth
+4,3,3,3,5,Promotion of creative industries
+4,3,3,3,6,Economic promotion
 4,3,3,4,1,Boosting local economies
 4,3,3,5,1,"Cooperative, social and solidary economy"
 4,3,3,5,2,Time and economy of caring
@@ -393,6 +396,7 @@
 9,1,2,2,2,Protocol
 9,1,2,2,3,International relations
 9,1,2,2,4,Agenda 2030 Commissioner
+9,1,2,2,5,Digitional Innovation Comissioner
 9,2,0,1,1,General administration
 9,2,0,1,2,Publishing services
 9,2,0,1,3,Program of sectorial action
@@ -404,6 +408,7 @@
 9,2,0,3,1,Administrative municipal archives
 9,2,0,3,2,Archive system
 9,2,0,3,3,General library
+9,2,0,3,4,Online administration
 9,2,2,1,1,Direction of human resources and organization
 9,2,2,1,2,Management-administration of human resources and organization
 9,2,2,1,3,Juridical services of human resources and organization
@@ -444,6 +449,7 @@
 9,3,2,1,1,Tax and revenue management
 9,3,2,1,2,Tax Council 
 9,3,2,1,3,Deposits
+9,3,2,1,9,Revenue services
 9,3,3,1,1,Property management
 9,3,3,1,2,Maintenance of buildings (centralised)
 9,3,3,1,4,Maintenance of buildings and solars (no centralised)
