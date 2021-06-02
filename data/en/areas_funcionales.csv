@@ -47,6 +47,7 @@
 1,3,5,1,,Civil protection
 1,3,6,1,,Fire prevention, extinction and rescue
 1,5,0,1,,Urban habitat administration
+1,5,0,2,,Environment and Urban Services administration
 1,5,1,1,,Urban planning activity and discipline
 1,5,1,2,,Land management
 1,5,1,3,,Project preparation and work implementation
@@ -195,6 +196,7 @@
 1,5,0,1,7,Maintenance and conservation of buildings urban habitat
 1,5,0,1,8,Analysis and evaluation of urban habitat services
 1,5,0,1,9,Document management for urban habitat services
+1,5,0,2,1,General expenses of Environment and Urban Services
 1,5,1,1,1,Licences
 1,5,1,1,2,Inspections
 1,5,1,1,3,Other services of urban planning activity
@@ -327,6 +329,7 @@
 3,2,6,2,1,Actions of educational promotion
 3,2,6,2,3,Educational services and educational innovation
 3,2,6,2,4,Promotion of the university education
+3,2,6,2,6,Promotion of science and universities
 3,2,8,1,1,Music schools
 3,2,8,1,2,Conservatoire
 3,2,8,2,1,Artistic education and training
@@ -382,12 +385,14 @@
 4,9,1,1,2,Information systems
 4,9,3,1,1,Arbitration
 4,9,3,1,2,Information to the consumers
+4,9,3,1,3,Urban food policies
 4,9,9,9,9,Extension adjustment AD4
 9,1,2,1,1,Political representation
 9,1,2,1,2,Technical direction of press
 9,1,2,2,1,Institutional relations
 9,1,2,2,2,Protocol
 9,1,2,2,3,International relations
+9,1,2,2,4,Agenda 2030 Commissioner
 9,2,0,1,1,General administration
 9,2,0,1,2,Publishing services
 9,2,0,1,3,Program of sectorial action

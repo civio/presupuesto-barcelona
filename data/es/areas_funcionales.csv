@@ -46,7 +46,8 @@
 1,3,4,1,,Movilidad
 1,3,5,1,,Protección civil
 1,3,6,1,,Prevención y extinción de incendios y salvamento
-1,5,0,1,,Administración de hábitat urbano
+1,5,0,1,,Administración de Hábitat Urbano
+1,5,0,2,,Administración de Medio Ambiente y Servicios Urbanos
 1,5,1,1,,Actuación urbanística y disciplina
 1,5,1,2,,Gestión del suelo
 1,5,1,3,,Redacción de proyectos-ejecución de obras
@@ -195,6 +196,7 @@
 1,5,0,1,7,Mantenimiento y conservación de edificios hábitat urbano
 1,5,0,1,8,Análisis y evaluación de servicios de Ecología Urbana
 1,5,0,1,9,Gestión documental hábitat urbano
+1,5,0,2,1,Gastos generales de Medio Ambiente y Servicios Urbanos
 1,5,1,1,1,Licencias
 1,5,1,1,2,Inspecciones
 1,5,1,1,3,Otros servicios de actuación urbanística
@@ -327,6 +329,7 @@
 3,2,6,2,1,Acciones de promoción educativa
 3,2,6,2,3,Servicios educativos e innovación educativa
 3,2,6,2,4,Promoción de la educación universitaria
+3,2,6,2,6,Acciones de promoción de ciencia y universidades
 3,2,8,1,1,Escuelas de música
 3,2,8,1,2,Conservatorio
 3,2,8,2,1,Enseñanzas artísticas
@@ -382,12 +385,14 @@
 4,9,1,1,2,Sistemas de información
 4,9,3,1,1,Arbitraje
 4,9,3,1,2,Información al consumidor
+4,9,3,1,3,Políticas alimentarias urbanas
 4,9,9,9,9,Ajuste prórroga AD4
 9,1,2,1,1,Representacion política
 9,1,2,1,2,Dirección técnica de prensa
 9,1,2,2,1,Relaciones institucionales
 9,1,2,2,2,Protocolo
 9,1,2,2,3,Relaciones internacionales
+9,1,2,2,4,Comisionado Agenda 2030
 9,2,0,1,1,Administración general
 9,2,0,1,2,Servicios editoriales
 9,2,0,1,3,Programa actuación sectorial

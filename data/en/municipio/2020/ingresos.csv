@@ -1,549 +1,628 @@
-32500,0200,93219,Taxa per expedició documents serveis gen,5.31,,
-34100,0200,93219,Residència-habitatge tutelat-centres dia,2708818,,
-34101,0200,93219,Equipaments gent gran,0.03,,
-34102,0200,93219,Serveis d'atenció domiciliària,2000000,,
-34103,0200,93219,Activitats Centre de dia,10,,
-34400,0200,93219,Actes culturals,5485.64,,
-34901,0200,93219,Activitats Centres Oberts,29990,,
-34902,0200,93219,Atenció a les famílies,4000,,
-36000,0200,93219,Publicacions,10,,
-38903,0200,93219,Pagaments indeguts d'exercicis anteriors,5,,
-38906,0200,93219,Reintegraments per subministres,2.35,,
-38910,0200,93219,Reintegraments subvencions SIR,416.67,,
-39191,0200,93219,Sancions de contractes,13050,,
-39192,0200,93219,Sancions incompliment Llei,10,,
-39904,0200,93219,Indemnitzacions,4.58,,
-39800,0200,93219,Indemnitzacions Assegurances No de Vida,250,,
-45030,0200,93219,Subv. finanlistes Generalitat per l'IMEB,1455000,,
-45040,0200,93219,Subv. finalistes Gen. atenció primària,26896324.52,,
-45041,0200,93219,Subv. finalistes Generalitat per l'EAIA,4531310,,
-45042,0200,93219,Aportació de Generalitat per a gent gran,3400000,,
-45043,0200,93219,Aport. Generalitat conveni discapacitats,1920057.34,,
-45045,0200,93219,Subv. Generalitat per a SAD dependència,31000000,,
-45047,0200,93219,Altres subv. Generalitat Conv. Marc S.S.,292647.52,,
-45048,0200,93219,Serveis Informació i atenció dones - SIA,18250,,
-45053,0200,93219,Generalitat-Programes joventut,18000,,
-45102,0200,93219,Aportacions Agència Habitatge de la Generalitat,10,,
-46110,0200,93219,Subv. finalistes de DIBA afers socials,10,,
-46120,0200,93219,Aport. DIBA per a conveni discapacitats,10,,
-46409,0200,93219,Aportació A.M.B.per gestió CUESB ampliat,400000,,
-46700,0200,93219,Aportacions de Consorcis,10,,
-49700,0200,93219,Aport. UE i d'altres municipis europeus,600000,,
-49920,0200,93219,Altres aportacions de l’exterior,10,,
-30902,0400,93219,Taxa per extinció d'incendis i salvament,91000,,
-30904,0400,93219,Taxa per prestacions serveis GU,10000,,
-32500,0400,93219,Taxa per expedició documents serveis gen,727248.73,,
-32602,0400,93219,Taxa permanències al dipòsit municipal,1000,,
-32902,0400,93219,Taxa per expedició de documents GU,100,,
-32904,0400,93219,Recollida i trasllat dipòsit elements vi,181.8,,
-32912,0400,93219,Taxa per anàlisi d'alcoholèmies,1000,,
-32913,0400,93219,Taxa per anàlisi de drogo-test,1000,,
-32916,0400,93219,Taxa per còpies autoritzades informes accidents,1082000,,
-32918,0400,93219,Taxa per concessió targetes carabines i pistoles,100,,
-32919,0400,93219,Taxa per préstec roba SPEIS,12000,,
-33001,0400,93219,Taxa reserva estacionament,15760.56,,
-33502,0400,93219,Taxes d'altres ocupacions via pública,784360.17,,
-33902,0400,93219,Taxa per serveis especials de vialitat,10,,
-33904,0400,93219,Taxa ocupació vp per mudances,1014000,,
-33906,0400,93219,Taxa ocupació vp per grues,14000,,
-33905,0400,93219,Taxa ocupació vp per bastides,1000,,
-33907,0400,93219,Taxa ocupació vp per reserves,27000,,
-34901,0400,93219,Activitats Centres Oberts,10,,
-34910,0400,93219,Unitat montada i secció canina de la GU,10,,
-34911,0400,93219,Cursos SPEIS,30000,,
-34912,0400,93219,Cursos formació policial (GU),10,,
-34913,0400,93219,Cursos utilització torre de pràctiques,10,,
-34914,0400,93219,Formació Policial a Tercers,10,,
-38903,0400,93219,Pagaments indeguts d'exercicis anteriors,5,,
-39120,0400,93219,Infraccions trànsit - Ajuntament,55446000,,
-39130,0400,93219,Infraccions ordenances,52289.12,,
-39191,0400,93219,Sancions de contractes,13050,,
-39902,0400,93219,Prevenció i extinció incendis port Bcn.,10,,
-39904,0400,93219,Indemnitzacions,22893.27,,
-39907,0400,93219,Altres ingressos seguretat i mobilitat,14979.5,,
-39911,0400,93219,Compensacio costos,746885.84,,
-39917,0400,93219,Regul.per fin.contr.(renting vehicles),10,,
-29000,0500,93219,"Impost s/ construccions, instal·lacions",22618111.38,,
-32100,0500,93219,Taxes per llicències d'obres,3602542.44,,
-32301,0500,93219,"Taxes informes, planols i certificats ur (SIR)",9082,,
-32500,0500,93219,Taxa per expedició documents serveis gen,529.88,,
-36000,0500,93219,Publicacions,10,,
-36002,0500,93219,Difusió d'informació per compte de terc.,10,,
-38903,0500,93219,Pagaments indeguts d'exercicis anteriors,2159.78,,
-39191,0500,93219,Sancions de contractes,13050,,
-39900,0500,93219,Execucions subsidiàries,138380.51,,
-39904,0500,93219,Indemnitzacions,11446.64,,
-39916,0500,93219,Prestació serveis tècnics projectes i o.,10,,
-30100,0502,16011,Taxa de clavegueram,32598000,,
-29000,0502,93219,"Impost s/ construccions, instal·lacions",9422.98,,
-30901,0502,93219,Taxa per retirada de sacs i contenidors,10,,
-32100,0502,93219,Taxes per llicències d'obres,102622.31,,
-32901,0502,93219,Taxes per homologació gestió residus,10,,
-32903,0502,93219,Taxa de salut pública i animals,45000,,
-33200,0502,93219,Taxa uti. priv. empreses explot. submini,21868000,,
-33300,0502,93219,Taxa uti. priv. empreses explot. telecos,908000,,
-33800,0502,93219,Compensació Telefònica de España SA,7133000,,
-33900,0502,93219,Taxa utilitza. privada enllumenat públic,1000,,
-33901,0502,93219,Taxa utilització privada fonts ornamenta,21000,,
-33902,0502,93219,Taxa per serveis especials de vialitat,157990,,
-34920,0502,93219,Recollida comercial residus,20109000,,
-34921,0502,93219,Preus púb. servei especial neteja i rec.,5868980,,
-36002,0502,93219,Difusió d'informació per compte de terc.,10,,
-36500,0502,93219,Venda de recollida selectiva residus,8000000,,
-38903,0502,93219,Pagaments indeguts d'exercicis anteriors,2159.78,,
-39130,0502,93219,Infraccions ordenances,627469.67,,
-39191,0502,93219,Sancions de contractes,13050,,
-39900,0502,93219,Execucions subsidiàries,63607.89,,
-39904,0502,93219,Indemnitzacions,70969.1,,
-39910,0502,93219,Serveis especials educació ambiental,8000,,
-39919,0502,93219,Exec. subsidiària Medi Ambient,131000,,
-39920,0502,93219,Exec. subsidiària Ordenança Convivència,10,,
-42120,0502,93219,Aportacions IMSERSO,10,,
-45300,0502,93219,D'empreses públiques i altres de CCAA,10,,
-46402,0502,93219,Subv.retorn cànon dep.residus (AMB),1000000,,
-32917,0504,93219,Taxa per autorització Transport Escolar i menors,100,,
-39191,0504,93219,Sancions de contractes,13050,,
-45060,0504,93219,Altres transferències de la CCAA conveni,10000,,
-46408,0504,93219,Aportacions de l'Àrea Metropolitana,20000,,
-29000,0601,93219,"Impost s/ construccions, instal·lacions",1130756.55,,
-32100,0601,93219,Taxes per llicències d'obres,36944.03,,
-32101,0601,93219,Taxes per llicències d'activitats,9650.64,,
-32300,0601,93219,Taxa inspecció d'execució d'obres,1,,
-32301,0601,93219,"Taxes informes, planols i certificats ur (SIR)",86105.79,,
-32500,0601,93219,Taxa per expedició documents serveis gen,2437.46,,
-32904,0601,93219,Recollida i trasllat dipòsit elements vi,181.82,,
-33001,0601,93219,Taxa reserva estacionament,43746.3,,
-33100,0601,93219,Taxa per entrada vehicles (Guals),347312.41,,
-33500,0601,93219,Taxa de taules i cadires (vetlladors),2126138.55,,
-33502,0601,93219,Taxes d'altres ocupacions via pública,1139104.23,,
-34101,0601,93219,Equipaments gent gran,581.12,,
-34105,0601,93219,Casals Infància i Joves,0.64,,
-34300,0601,93219,Activitats centres esportius,1,,
-34400,0601,93219,Actes culturals,7.25,,
-34900,0601,93219,Activitats centres civics districtes,437421.42,,
-34921,0601,93219,Preus púb. servei especial neteja i rec.,10,,
-36000,0601,93219,Publicacions,10,,
-36002,0601,93219,Difusió d'informació per compte de terc.,10,,
-36300,0601,93219,Impresos,1,,
-38903,0601,93219,Pagaments indeguts d'exercicis anteriors,4319.56,,
-38906,0601,93219,Reintegraments per subministres,2.35,,
-38910,0601,93219,Reintegraments subvencions SIR,416.67,,
-39130,0601,93219,Infraccions ordenances,977549.31,,
-39191,0601,93219,Sancions de contractes,13050,,
-39900,0601,93219,Execucions subsidiàries,1.16,,
-39904,0601,93219,Indemnitzacions,4.58,,
-39907,0601,93219,Altres ingressos seguretat i mobilitat,2.05,,
-39913,0601,93219,Actuacions fires del districte,10,,
-55002,0601,93219,Altres concessions administratives,10976.3,,
-29000,0602,93219,"Impost s/ construccions, instal·lacions",4711485.56,,
-32100,0602,93219,Taxes per llicències d'obres,92360.08,,
-32101,0602,93219,Taxes per llicències d'activitats,41342.32,,
-32300,0602,93219,Taxa inspecció d'execució d'obres,1,,
-32301,0602,93219,"Taxes informes, planols i certificats ur (SIR)",10549.79,,
-32500,0602,93219,Taxa per expedició documents serveis gen,5519.63,,
-32904,0602,93219,Recollida i trasllat dipòsit elements vi,181.82,,
-33001,0602,93219,Taxa reserva estacionament,284414.43,,
-33100,0602,93219,Taxa per entrada vehicles (Guals),2604843.03,,
-33500,0602,93219,Taxa de taules i cadires (vetlladors),6303458.67,,
-33502,0602,93219,Taxes d'altres ocupacions via pública,1959842.21,,
-34101,0602,93219,Equipaments gent gran,101.18,,
-34300,0602,93219,Activitats centres esportius,1,,
-34400,0602,93219,Actes culturals,7.25,,
-34900,0602,93219,Activitats centres civics districtes,6.75,,
-34921,0602,93219,Preus púb. servei especial neteja i rec.,10,,
-36000,0602,93219,Publicacions,10,,
-36002,0602,93219,Difusió d'informació per compte de terc.,10,,
-36300,0602,93219,Impresos,1,,
-38903,0602,93219,Pagaments indeguts d'exercicis anteriors,2159.78,,
-38906,0602,93219,Reintegraments per subministres,25684.13,,
-38910,0602,93219,Reintegraments subvencions SIR,416.67,,
-39130,0602,93219,Infraccions ordenances,710944.95,,
-39191,0602,93219,Sancions de contractes,13050,,
-39900,0602,93219,Execucions subsidiàries,1.16,,
-39904,0602,93219,Indemnitzacions,5265.45,,
-39907,0602,93219,Altres ingressos seguretat i mobilitat,2.05,,
-55002,0602,93219,Altres concessions administratives,591.03,,
-29000,0603,93219,"Impost s/ construccions, instal·lacions",2261513.06,,
-32100,0603,93219,Taxes per llicències d'obres,86202.73,,
-32101,0603,93219,Taxes per llicències d'activitats,11709.97,,
-32300,0603,93219,Taxa inspecció d'execució d'obres,1,,
-32301,0603,93219,"Taxes informes, planols i certificats ur (SIR)",56265.53,,
-32500,0603,93219,Taxa per expedició documents serveis gen,1218.73,,
-32904,0603,93219,Recollida i trasllat dipòsit elements vi,181.82,,
-33001,0603,93219,Taxa reserva estacionament,21276.75,,
-33100,0603,93219,Taxa per entrada vehicles (Guals),1432911.74,,
-33500,0603,93219,Taxa de taules i cadires (vetlladors),797301.97,,
-33502,0603,93219,Taxes d'altres ocupacions via pública,196397.28,,
-34101,0603,93219,Equipaments gent gran,108.87,,
-34105,0603,93219,Casals Infància i Joves,2.56,,
-34300,0603,93219,Activitats centres esportius,1,,
-34400,0603,93219,Actes culturals,2503.37,,
-34900,0603,93219,Activitats centres civics districtes,116171.22,,
-36000,0603,93219,Publicacions,10,,
-36002,0603,93219,Difusió d'informació per compte de terc.,10,,
-36300,0603,93219,Impresos,1,,
-38903,0603,93219,Pagaments indeguts d'exercicis anteriors,2159.78,,
-38906,0603,93219,Reintegraments per subministres,540.72,,
-38910,0603,93219,Reintegraments subvencions SIR,416.67,,
-39130,0603,93219,Infraccions ordenances,213283.5,,
-39191,0603,93219,Sancions de contractes,13050,,
-39900,0603,93219,Execucions subsidiàries,1.16,,
-39904,0603,93219,Indemnitzacions,20535.26,,
-39906,0603,93219,Actuacions mercadillos varis,150000,,
-39907,0603,93219,Altres ingressos seguretat i mobilitat,2.05,,
-55002,0603,93219,Altres concessions administratives,29551.57,,
-29000,0604,93219,"Impost s/ construccions, instal·lacions",753837.7,,
-32100,0604,93219,Taxes per llicències d'obres,32839.15,,
-32101,0604,93219,Taxes per llicències d'activitats,6505.54,,
-32300,0604,93219,Taxa inspecció d'execució d'obres,1,,
-32301,0604,93219,"Taxes informes, planols i certificats ur (SIR)",3516.59,,
-32500,0604,93219,Taxa per expedició documents serveis gen,1218.73,,
-32904,0604,93219,Recollida i trasllat dipòsit elements vi,181.82,,
-33001,0604,93219,Taxa reserva estacionament,43341.55,,
-33100,0604,93219,Taxa per entrada vehicles (Guals),1603590.98,,
-33500,0604,93219,Taxa de taules i cadires (vetlladors),478381.18,,
-33502,0604,93219,Taxes d'altres ocupacions via pública,445167.17,,
-34300,0604,93219,Activitats centres esportius,1,,
-34400,0604,93219,Actes culturals,7.25,,
-34900,0604,93219,Activitats centres civics districtes,248017.67,,
-36000,0604,93219,Publicacions,10,,
-36002,0604,93219,Difusió d'informació per compte de terc.,10,,
-36300,0604,93219,Impresos,1,,
-38903,0604,93219,Pagaments indeguts d'exercicis anteriors,2159.78,,
-38906,0604,93219,Reintegraments per subministres,2.35,,
-38910,0604,93219,Reintegraments subvencions SIR,416.67,,
-39130,0604,93219,Infraccions ordenances,124415.36,,
-39191,0604,93219,Sancions de contractes,13050,,
-39900,0604,93219,Execucions subsidiàries,1.16,,
-39904,0604,93219,Indemnitzacions,4.58,,
-39907,0604,93219,Altres ingressos seguretat i mobilitat,2.05,,
-55002,0604,93219,Altres concessions administratives,5319.28,,
-29000,0605,93219,"Impost s/ construccions, instal·lacions",2261513.06,,
-32100,0605,93219,Taxes per llicències d'obres,20524.45,,
-32101,0605,93219,Taxes per llicències d'activitats,11384.69,,
-32300,0605,93219,Taxa inspecció d'execució d'obres,1,,
-32301,0605,93219,"Taxes informes, planols i certificats ur (SIR)",30.58,,
-32302,0605,93219,"Taxes informes, planols i certificats ur (SAP)",700,,
-32500,0605,93219,Taxa per expedició documents serveis gen,304.68,,
-32904,0605,93219,Recollida i trasllat dipòsit elements vi,181.82,,
-33001,0605,93219,Taxa reserva estacionament,47281.7,,
-33100,0605,93219,Taxa per entrada vehicles (Guals),3364671.42,,
-33500,0605,93219,Taxa de taules i cadires (vetlladors),664418.28,,
-33502,0605,93219,Taxes d'altres ocupacions via pública,130931.53,,
-34105,0605,93219,Casals Infància i Joves,0.85,,
-34300,0605,93219,Activitats centres esportius,1,,
-34400,0605,93219,Actes culturals,83.45,,
-34900,0605,93219,Activitats centres civics districtes,182209.97,,
-36000,0605,93219,Publicacions,10,,
-36002,0605,93219,Difusió d'informació per compte de terc.,10,,
-36300,0605,93219,Impresos,1,,
-38903,0605,93219,Pagaments indeguts d'exercicis anteriors,2159.78,,
-38906,0605,93219,Reintegraments per subministres,8110.78,,
-38910,0605,93219,Reintegraments subvencions SIR,416.67,,
-39130,0605,93219,Infraccions ordenances,177736.23,,
-39191,0605,93219,Sancions de contractes,13050,,
-39900,0605,93219,Execucions subsidiàries,1.16,,
-39904,0605,93219,Indemnitzacions,2632.73,,
-39907,0605,93219,Altres ingressos seguretat i mobilitat,2.05,,
-55002,0605,93219,Altres concessions administratives,5075.98,,
-29000,0606,93219,"Impost s/ construccions, instal·lacions",1130756.54,,
-32100,0606,93219,Taxes per llicències d'obres,34891.59,,
-32101,0606,93219,Taxes per llicències d'activitats,9758.31,,
-32300,0606,93219,Taxa inspecció d'execució d'obres,1,,
-32301,0606,93219,"Taxes informes, planols i certificats ur (SIR)",10549.79,,
-32500,0606,93219,Taxa per expedició documents serveis gen,4265.56,,
-32904,0606,93219,Recollida i trasllat dipòsit elements vi,181.82,,
-33001,0606,93219,Taxa reserva estacionament,11820.43,,
-33100,0606,93219,Taxa per entrada vehicles (Guals),1282078.93,,
-33500,0606,93219,Taxa de taules i cadires (vetlladors),438516.06,,
-33502,0606,93219,Taxes d'altres ocupacions via pública,130931.53,,
-34101,0606,93219,Equipaments gent gran,77.49,,
-34105,0606,93219,Casals Infància i Joves,1.03,,
-34300,0606,93219,Activitats centres esportius,1,,
-34400,0606,93219,Actes culturals,9596.26,,
-34900,0606,93219,Activitats centres civics districtes,22346.14,,
-36000,0606,93219,Publicacions,10,,
-36002,0606,93219,Difusió d'informació per compte de terc.,10,,
-36300,0606,93219,Impresos,1,,
-38903,0606,93219,Pagaments indeguts d'exercicis anteriors,2159.78,,
-38906,0606,93219,Reintegraments per subministres,2.35,,
-38910,0606,93219,Reintegraments subvencions SIR,416.67,,
-39130,0606,93219,Infraccions ordenances,213283.5,,
-39191,0606,93219,Sancions de contractes,13050,,
-39900,0606,93219,Execucions subsidiàries,1.16,,
-39904,0606,93219,Indemnitzacions,10846.83,,
-39907,0606,93219,Altres ingressos seguretat i mobilitat,2.05,,
-39800,0606,93219,Indemnitzacions Assegurances No de Vida,250,,
-55002,0606,93219,Altres concessions administratives,54881.49,,
-29000,0607,93219,"Impost s/ construccions, instal·lacions",753837.69,,
-32100,0607,93219,Taxes per llicències d'obres,45153.83,,
-32101,0607,93219,Taxes per llicències d'activitats,5204.43,,
-32300,0607,93219,Taxa inspecció d'execució d'obres,1,,
-32301,0607,93219,"Taxes informes, planols i certificats ur (SIR)",3516.59,,
-32500,0607,93219,Taxa per expedició documents serveis gen,3534.31,,
-32904,0607,93219,Recollida i trasllat dipòsit elements vi,181.82,,
-33001,0607,93219,Taxa reserva estacionament,15760.56,,
-33100,0607,93219,Taxa per entrada vehicles (Guals),1409096.04,,
-33500,0607,93219,Taxa de taules i cadires (vetlladors),212613.85,,
-33502,0607,93219,Taxes d'altres ocupacions via pública,52372.62,,
-34105,0607,93219,Casals Infància i Joves,1.51,,
-34300,0607,93219,Activitats centres esportius,1,,
-34400,0607,93219,Actes culturals,166.89,,
-34900,0607,93219,Activitats centres civics districtes,40898.86,,
-36000,0607,93219,Publicacions,10,,
-36002,0607,93219,Difusió d'informació per compte de terc.,10,,
-36300,0607,93219,Impresos,1,,
-38903,0607,93219,Pagaments indeguts d'exercicis anteriors,2159.78,,
-38906,0607,93219,Reintegraments per subministres,2.35,,
-38910,0607,93219,Reintegraments subvencions SIR,416.67,,
-39130,0607,93219,Infraccions ordenances,132413.5,,
-39191,0607,93219,Sancions de contractes,13050,,
-39900,0607,93219,Execucions subsidiàries,1.16,,
-39904,0607,93219,Indemnitzacions,3159.27,,
-39907,0607,93219,Altres ingressos seguretat i mobilitat,2.05,,
-55002,0607,93219,Altres concessions administratives,12664.96,,
-78000,0607,93219,Aport.famílies i instituc. s/ afany lucre,10,,
-29000,0608,93219,"Impost s/ construccions, instal·lacions",555955.3,,
-32100,0608,93219,Taxes per llicències d'obres,32839.15,,
-32101,0608,93219,Taxes per llicències d'activitats,3903.32,,
-32300,0608,93219,Taxa inspecció d'execució d'obres,1,,
-32301,0608,93219,"Taxes informes, planols i certificats ur (SIR)",12132.26,,
-32500,0608,93219,Taxa per expedició documents serveis gen,5.31,,
-32904,0608,93219,Recollida i trasllat dipòsit elements vi,181.82,,
-33001,0608,93219,Taxa reserva estacionament,7880.27,,
-33100,0608,93219,Taxa per entrada vehicles (Guals),752179.43,,
-33500,0608,93219,Taxa de taules i cadires (vetlladors),279055.67,,
-33502,0608,93219,Taxes d'altres ocupacions via pública,379701.41,,
-34300,0608,93219,Activitats centres esportius,1,,
-34400,0608,93219,Actes culturals,1919.25,,
-34900,0608,93219,Activitats centres civics districtes,178121.62,,
-36000,0608,93219,Publicacions,10,,
-36002,0608,93219,Difusió d'informació per compte de terc.,10,,
-36300,0608,93219,Impresos,1,,
-38903,0608,93219,Pagaments indeguts d'exercicis anteriors,2159.78,,
-38906,0608,93219,Reintegraments per subministres,2.35,,
-38910,0608,93219,Reintegraments subvencions SIR,416.67,,
-39130,0608,93219,Infraccions ordenances,204396.68,,
-39191,0608,93219,Sancions de contractes,13050,,
-39900,0608,93219,Execucions subsidiàries,1.16,,
-39904,0608,93219,Indemnitzacions,1816.58,,
-39907,0608,93219,Altres ingressos seguretat i mobilitat,2.05,,
-55002,0608,93219,Altres concessions administratives,6796.86,,
-29000,0609,93219,"Impost s/ construccions, instal·lacions",942297.12,,
-32100,0609,93219,Taxes per llicències d'obres,71835.62,,
-32101,0609,93219,Taxes per llicències d'activitats,6180.26,,
-32300,0609,93219,Taxa inspecció d'execució d'obres,1,,
-32301,0609,93219,"Taxes informes, planols i certificats ur (SIR)",7220.5,,
-32500,0609,93219,Taxa per expedició documents serveis gen,716.24,,
-32904,0609,93219,Recollida i trasllat dipòsit elements vi,181.82,,
-33001,0609,93219,Taxa reserva estacionament,15555.48,,
-33100,0609,93219,Taxa per entrada vehicles (Guals),1414057.65,,
-33500,0609,93219,Taxa de taules i cadires (vetlladors),489011.86,,
-33502,0609,93219,Taxes d'altres ocupacions via pública,196397.28,,
-34300,0609,93219,Activitats centres esportius,1,,
-34400,0609,93219,Actes culturals,11119.33,,
-34900,0609,93219,Activitats centres civics districtes,44037.72,,
-36000,0609,93219,Publicacions,10,,
-36002,0609,93219,Difusió d'informació per compte de terc.,10,,
-36300,0609,93219,Impresos,1,,
-38903,0609,93219,Pagaments indeguts d'exercicis anteriors,2159.78,,
-38906,0609,93219,Reintegraments per subministres,5647.92,,
-38910,0609,93219,Reintegraments subvencions SIR,416.67,,
-39130,0609,93219,Infraccions ordenances,172878,,
-39191,0609,93219,Sancions de contractes,13050,,
-39900,0609,93219,Execucions subsidiàries,1.16,,
-39904,0609,93219,Indemnitzacions,393.68,,
-39907,0609,93219,Altres ingressos seguretat i mobilitat,2.05,,
-55002,0609,93219,Altres concessions administratives,36636.97,,
-29000,0610,93219,"Impost s/ construccions, instal·lacions",2261513.06,,
-32100,0610,93219,Taxes per llicències d'obres,205244.62,,
-32101,0610,93219,Taxes per llicències d'activitats,12360.52,,
-32300,0610,93219,Taxa inspecció d'execució d'obres,1,,
-32301,0610,93219,"Taxes informes, planols i certificats ur (SIR)",30.58,,
-32302,0610,93219,"Taxes informes, planols i certificats ur (SAP)",800,,
-32500,0610,93219,Taxa per expedició documents serveis gen,2742.14,,
-32904,0610,93219,Recollida i trasllat dipòsit elements vi,181.82,,
-33001,0610,93219,Taxa reserva estacionament,55161.97,,
-33100,0610,93219,Taxa per entrada vehicles (Guals),2034258.37,,
-33500,0610,93219,Taxa de taules i cadires (vetlladors),1594603.91,,
-33502,0610,93219,Taxes d'altres ocupacions via pública,392794.57,,
-34101,0610,93219,Equipaments gent gran,131.31,,
-34105,0610,93219,Casals Infància i Joves,3.41,,
-34300,0610,93219,Activitats centres esportius,1,,
-34400,0610,93219,Actes culturals,9104.06,,
-34900,0610,93219,Activitats centres civics districtes,60768.63,,
-36000,0610,93219,Publicacions,10,,
-36002,0610,93219,Difusió d'informació per compte de terc.,10,,
-36300,0610,93219,Impresos,1,,
-38903,0610,93219,Pagaments indeguts d'exercicis anteriors,2159.78,,
-38906,0610,93219,Reintegraments per subministres,2.35,,
-38910,0610,93219,Reintegraments subvencions SIR,416.67,,
-39130,0610,93219,Infraccions ordenances,231057.11,,
-39191,0610,93219,Sancions de contractes,13050,,
-39900,0610,93219,Execucions subsidiàries,1.16,,
-39904,0610,93219,Indemnitzacions,4.58,,
-39907,0610,93219,Altres ingressos seguretat i mobilitat,2.05,,
-39800,0610,93219,Indemnitzacions Assegurances No de Vida,250,,
-55002,0610,93219,Altres concessions administratives,54037.15,,
-38903,0700,93219,Pagaments indeguts d'exercicis anteriors,43200.61,,
-38908,0700,93219,Reintegrament despeses,500,,
-39191,0700,93219,Sancions de contractes,13050,,
-39904,0700,93219,Indemnitzacions,4.58,,
-42190,0700,93219,D'altres organismes autònoms i agències,10,,
-45083,0700,93219,Fons Foment Turisme,15940000,,
-45100,0700,93219,Subvenció OOAA Generalitat,10,,
-60302,0701,15050,Altres indemnitzacions PMSH,10,,
-34931,0701,44121,Serveing del Bicing,5000000,,
-32500,0701,93219,Taxa per expedició documents serveis gen,12.17,,
-33501,0701,93219,Taxa de quioscos i vidrieres,625000,,
-34104,0701,93219,Temps Barri - cursos famílies i discapac,10,,
-38903,0701,93219,Pagaments indeguts d'exercicis anteriors,5,,
-39191,0701,93219,Sancions de contractes,13050,,
-39904,0701,93219,Indemnitzacions,4.58,,
-39911,0701,93219,Compensacio costos,7407104.16,,
-39918,0701,93219,Repercussió costos FC SA,10,,
-54100,0701,93219,Producte de l'arrendament de finques ur.,2020551.74,,
-54105,0701,93219,Lloguer sales tècniques,127000,,
-55000,0701,93219,Concessions d'aparcaments,1859633.08,,
-55001,0701,93219,Concessions d'instal·lacions esportives,6000,,
-55002,0701,93219,Altres concessions administratives,18195568.37,,
-55200,0701,93219,Drets superfície amb contraprest. periòd,2558384.28,,
-55901,0701,93219,Cànon publicitat quioscos,3000000,,
-39700,0703,15050,Cessió per aprofitament urbanístic (10%),2713164.23,,
-60300,0703,15050,Venda Solars PMH,10,,
-60301,0703,15050,Permuta solars PMH,10,,
-61950,0703,15050,Venda habitatges i locals PMH,10,,
-75070,0703,15357,Aport. Generalitat llei de barris,700000,,
-75070,0703,15359,Aport. Generalitat llei de barris,3300000,,
-27100,0703,93219,Recàrrec sobre estades en establiments turístics,0,,
-86000,0703,93219,Venda accions fora sector públic (BAMSA),0,,
-10000,0703,93219,Cessió IRPF,62317602.75,,
-11301,0703,93219,IBI de naturalesa urbana,674515900,,
-11401,0703,93219,IBI de característiques especials,13090000,,
-11500,0703,93219,Impost sobre vehicles tracció mecànica,57810200,,
-11600,0703,93219,I. s/ increm. valor terrenys nat. urbana,169422500,,
-13000,0703,93219,Impost activitats econòmiques (IAE),83405000,,
-13004,0703,93219,Quotes nacionals i provincials IAE,8982000,,
-21000,0703,93219,Cessió IVA,36386278.67,,
-22000,0703,93219,Cessió IE alcohol i derivats,466351.71,,
-22001,0703,93219,Cessió IE cervesa,162680.83000000002,,
-22003,0703,93219,Cessió IE tabac,3958566.83,,
-22004,0703,93219,Cessió IE hidrocarburs,5151559.57,,
-22006,0703,93219,Cessió IE de productes intermedis,10845.390000000001,,
-26100,0703,93219,Recàrrec sobre estades en establiments turístics,20000000,,
-32600,0703,93219,Taxa de grua i parany,17900000,,
-32601,0703,93219,Taxa abandonaments vehicles BSM,598000,,
-32920,0703,93219,Taxa recollida domiciliària residus,18000000,,
-33000,0703,93219,Taxa estacionament de vehicles (parquím.),51000000,,
-33903,0703,93219,Taxa per caixers automàtics,373000,,
-33910,0703,93219,Taxa transport energia,1000000,,
-34908,0703,93219,Esponsoritzacions,10,,
-34932,0703,93219,Encàrrec de gestió Parc Güell,10,,
-36003,0703,93219,Altres ingressos per prestació serveis,10,,
-38901,0703,93219,Reintegraments creditors extrapressup,10,,
-38902,0703,93219,Reintegraments despeses avançades (ooaa),10,,
-38903,0703,93219,Pagaments indeguts d'exercicis anteriors,28077.14,,
-38904,0703,93219,Devolucions d'IVA pressupostari,10,,
-38905,0703,93219,Devolucions d'ingressos,10,,
-38909,0703,93219,Reintegraments ADOJ Exercicis anteriors,10,,
-39130,0703,93219,Infraccions ordenances,62746.95,,
-39140,0703,93219,Infraccions d'ordenances inspecció (sanc,2835046.78,,
-39191,0703,93219,Sancions de contractes,13050,,
-39200,0703,93219,Recàrrecs declaració extemporanea s.r.p.,680000,,
-39210,0703,93219,Recàrrec executiu,10510000,,
-39211,0703,93219,Recàrrec apremi,3239000,,
-39300,0703,93219,Interessos de demora,8020990,,
-39612,0703,93219,Càrregues urbanístiques,1000000,,
-39904,0703,93219,Indemnitzacions,4.55,,
-39909,0703,93219,Sentències jutjats i tribunals,12500,,
-39914,0703,93219,Recuperació costes embargaments,17000,,
-39915,0703,93219,Recuperació costes notificacions,427000,,
-39998,0703,93219,Altres ingressos extingits,10,,
-42010,0703,93219,Fons complementari de finançament,1020101992.04,,
-42011,0703,93219,Compensació IAE inicial,94455960.64999999,,
-42012,0703,93219,Compensació IAE addicional,4588500.46,,
-42030,0703,93219,Compensació tributs,2518000,,
-44100,0703,93219,De societats mercantils de l'Ajuntament,10,,
-45010,0703,93219,Fons cooperació local de Catalunya (FCLC,3179000,,
-46900,0703,93219,Altres subvencions d'entitats locals,10,,
-47000,0703,93219,Aportacions finalistes empreses privades,10,,
-48000,0703,93219,Aportacions de famílies i institucions,10,,
-49910,0703,93219,Subv. final. d'organismes internacionals,10,,
-52000,0703,93219,Inter. de dipòs. ctes. de bancs o caixes,200000,,
-52001,0703,93219,Interessos ajornats,3000000,,
-55004,0703,93219,Concessions aparcaments municipals BAMSA,1814555.23,,
-60000,0703,93219,Venda de solars,10,,
-60200,0703,93219,Venda parceles sobrants via pública,100000,,
-60900,0703,93219,Indemnització substitutòria edificabilitat,10,,
-60901,0703,93219,Indemnització per construccions,10,,
-60902,0703,93219,Expropiacions,10,,
-61900,0703,93219,Reversió de finques,10,,
-61901,0703,93219,Venda places aparcaments,10,,
-61902,0703,93219,Habitatges i locals negoci,1000,,
-61928,0703,93219,Venda elements de transport,10,,
-68000,0703,93219,Reint. tans. cap. empreses del grup,10,,
-68001,0703,93219,Reinteg operacions capital exerc.tancats,10,,
-68009,0703,93219,Reintegrament ADOJ exer. anteriors,10,,
-72014,0703,93219,"Aportació Ministerio de Educación, Cultura y Depor",10,,
-72000,0703,93219,Aportacions de l'AG Estat,10,,
-72390,0703,93219,"De soc. mercantils estats, EPE's i altres",10,,
-75030,0703,93219,Transf. capital conveni en matèria d'educació,10,,
-75031,0703,93219,Aportació Gencat/places educ preescolar,10,,
-75081,0703,93219,Aport. Generalitat Biblioteques,500000,,
-76100,0703,93219,Aportacions de la Diputació de Barcelona,10000000,,
-79105,0703,93219,Conveni PO FEDER Catalunya 2014-2020,1300000,,
-71000,0703,93219,Transf. capital Institut de Paisatge Urbà,10,,
-84010,0703,93219,Devolució dipòsits constituïts a llarg t,10,,
-85000,0703,93219,Venda d'accions,27963812.97,,
-85005,0703,93219,Accions BCN Emprèn,20,,
-85001,0703,93219,Alienació accions. Liquidació Holsa,20,,
-90199,0703,93219,Nou finançament,157521098.8,,
-94101,0703,93219,Fiances per guals (recepció),500000,,
-94102,0703,93219,Fiances urbanístiques (recepció),3000000,,
-32500,0705,93219,Taxa per expedició documents serveis gen,237241.12,,
-32905,0705,93219,Taxes per accés oferta pública,421000,,
-34930,0705,93219,Productes i serveis de Bcn Informació,10,,
-36000,0705,93219,Publicacions,99870,,
-36001,0705,93219,Publicitat en publicacions municipals,10,,
-36002,0705,93219,Difusió d'informació per compte de terc.,49880,,
-36100,0705,93219,Venda d'energia solar fotovoltaica,10,,
-36200,0705,93219,Venda de material inservible,1000,,
-36401,0705,93219,Treballs impremta municipal,30000,,
-36501,0705,93219,Altres vendes,10,,
-38903,0705,93219,Pagaments indeguts d'exercicis anteriors,100625.11,,
-38908,0705,93219,Reintegrament despeses,500,,
-38910,0705,93219,Reintegraments subvencions SIR,416.63,,
-39130,0705,93219,Infraccions ordenances,3487536.12,,
-39140,0705,93219,Infraccions d'ordenances inspecció (sanc,970953.22,,
-39191,0705,93219,Sancions de contractes,13050,,
-39300,0705,93219,Interessos de demora,10,,
-39901,0705,93219,Tarifa plataforma telefònica,500000,,
-39903,0705,93219,Indemnitzacions desperfectes OOAA,10,,
-39904,0705,93219,Indemnitzacions,4.58,,
-39909,0705,93219,Sentències jutjats i tribunals,12500,,
-39911,0705,93219,Compensacio costos,10,,
-39912,0705,93219,Incautació de dipòsits,10,,
-39999,0705,93219,Altres ingressos diversos,10,,
-39800,0705,93219,Indemnitzacions Assegurances No de Vida,250,,
-41000,0705,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,,
-42092,0705,93219,Subvencions fin. A.G. Estat eleccions,10,,
-42110,0705,93219,Aportacions INE eleccions,10,,
-45051,0705,93219,Subvencions fin. Generalitat (ocupació),10,,
-45081,0705,93219,Subvencions fin. Gener. per eleccions,10,,
-46100,0705,93219,Aportacions de la Diputació de Barcelona,10,,
-46200,0705,93219,Transferències d'Ajuntaments,10,,
-55002,0705,93219,Altres concessions administratives,10,,
-55100,0705,93219,Conces.administr.sense contraprestació periòdica,10,,
-42093,0707,93219,Aport. Estat formació de personal,10,,
-45103,0707,93219,Aportacions EAPC Formació de personal,10,,
-36000,0800,93219,Publicacions,10,,
-38903,0800,93219,Pagaments indeguts d'exercicis anteriors,5,,
-39191,0800,93219,Sancions de contractes,13050,,
-39904,0800,93219,Indemnitzacions,4.58,,
-39908,0800,93219,Actes promoció relacions cíviques,10,,
-42090,0800,93219,Altres transf. corrents de l'A.G.Estat,10,,
-42091,0800,93219,Aportació Estat institucions àmplia proj,10,,
-45044,0800,93219,Subv. finalistes Generalitat immigració,1000000,,
-45080,0800,93219,Altres subvencions de la CCAA,10,,
-45049,0800,93219,Generalitat-Desenvolupament comunitari,10,,
-48010,0800,93219,Aport. finalistes famílies i institucions,10,,
+10000,0703,93219,Cessió IRPF,62317602.75,62317602.75,75033731.26,2020
+11200,0703,93219,IBI de naturalesa rústega,0,0,98259.92,2020
+11301,0703,93219,IBI de naturalesa urbana,674515900,674515900,678171198.2,2020
+11401,0703,93219,IBI de característiques especials,13090000,13090000,14548268.83,2020
+11500,0703,93219,Impost sobre vehicles tracció mecànica,57810200,57810200,59419704.19,2020
+11600,0703,93219,I. s/ increm. valor terrenys nat. urbana,169422500,169422500,183389989.06,2020
+13000,0703,93219,Impost activitats econòmiques (IAE),83405000,83405000,95219626.16,2020
+13001,0703,93219,Impost activitats profesionals i artísti,0,0,-18130.65,2020
+13004,0703,93219,Quotes nacionals i provincials IAE,8982000,8982000,8859941.79,2020
+18000,0703,93219,Directes extingits,0,0,-944.82,2020
+21000,0703,93219,Cessió IVA,36386278.67,36386278.67,36535497.67,2020
+22000,0703,93219,Cessió IE alcohol i derivats,466351.71,466351.71,382326.3,2020
+22001,0703,93219,Cessió IE cervesa,162680.83,162680.83,145336.88,2020
+22003,0703,93219,Cessió IE tabac,3958566.83,3958566.83,2807835.15,2020
+22004,0703,93219,Cessió IE hidrocarburs,5151559.57,5151559.57,4972066.11,2020
+22006,0703,93219,Cessió IE de productes intermedis,10845.39,10845.39,9078.42,2020
+26100,0703,93219,Recàrrec sobre estades en establiments turístics,40000000,40000000,0,2020
+29000,0500,93219,"Impost s/ construccions, instal·lacions",22618111.38,22618111.38,10211044.34,2020
+29000,0502,93219,"Impost s/ construccions, instal·lacions",9422.98,9422.98,42728.98,2020
+29000,0601,93219,"Impost s/ construccions, instal·lacions",1130756.55,1130756.55,1334911.17,2020
+29000,0602,93219,"Impost s/ construccions, instal·lacions",4711485.56,4711485.56,5565719.47,2020
+29000,0603,93219,"Impost s/ construccions, instal·lacions",2261513.06,2261513.06,3878538.49,2020
+29000,0604,93219,"Impost s/ construccions, instal·lacions",753837.7,753837.7,1106623.39,2020
+29000,0605,93219,"Impost s/ construccions, instal·lacions",2261513.06,2261513.06,2690073.69,2020
+29000,0606,93219,"Impost s/ construccions, instal·lacions",1130756.54,1130756.54,880405.53,2020
+29000,0607,93219,"Impost s/ construccions, instal·lacions",753837.69,753837.69,968563.7,2020
+29000,0608,93219,"Impost s/ construccions, instal·lacions",555955.3,555955.3,616536.01,2020
+29000,0609,93219,"Impost s/ construccions, instal·lacions",942297.12,942297.12,1758912.8,2020
+29000,0610,93219,"Impost s/ construccions, instal·lacions",2261513.06,2261513.06,8864362.91,2020
+30100,0502,16011,Taxa de clavegueram,32598000,32598000,22243356.18,2020
+30301,0502,93219,Taxa de recollida domiciliària de residus,0,0,15222442.45,2020
+30901,0502,93219,Taxa per retirada de sacs i contenidors,10,10,0,2020
+30902,0400,93219,Taxa per extinció d'incendis i salvament,91000,91000,14409.79,2020
+30904,0400,93219,Taxa per prestacions serveis GU,10000,10000,93516.11,2020
+32100,0500,93219,Taxes per llicències d'obres,3602542.44,3602542.44,5512175.3,2020
+32100,0502,93219,Taxes per llicències d'obres,102622.31,102622.31,91463.15,2020
+32100,0601,93219,Taxes per llicències d'obres,36944.03,36944.03,12735.06,2020
+32100,0602,93219,Taxes per llicències d'obres,92360.08,92360.08,8135.89,2020
+32100,0603,93219,Taxes per llicències d'obres,86202.73,86202.73,12742.75,2020
+32100,0604,93219,Taxes per llicències d'obres,32839.15,32839.15,4418.71,2020
+32100,0605,93219,Taxes per llicències d'obres,20524.45,20524.45,6287.15,2020
+32100,0606,93219,Taxes per llicències d'obres,34891.59,34891.59,8784.01,2020
+32100,0607,93219,Taxes per llicències d'obres,45153.83,45153.83,7500.24,2020
+32100,0608,93219,Taxes per llicències d'obres,32839.15,32839.15,2349.8,2020
+32100,0609,93219,Taxes per llicències d'obres,71835.62,71835.62,9773.04,2020
+32100,0610,93219,Taxes per llicències d'obres,205244.62,205244.62,18253.41,2020
+32101,0601,93219,Taxes per llicències d'activitats,9650.64,9650.64,42329,2020
+32101,0602,93219,Taxes per llicències d'activitats,41342.32,41342.32,26746.5,2020
+32101,0603,93219,Taxes per llicències d'activitats,11709.97,11709.97,14098.95,2020
+32101,0604,93219,Taxes per llicències d'activitats,6505.54,6505.54,6731,2020
+32101,0605,93219,Taxes per llicències d'activitats,11384.69,11384.69,12151.37,2020
+32101,0606,93219,Taxes per llicències d'activitats,9758.31,9758.31,3702,2020
+32101,0607,93219,Taxes per llicències d'activitats,5204.43,5204.43,10046.5,2020
+32101,0608,93219,Taxes per llicències d'activitats,3903.32,3903.32,2724.5,2020
+32101,0609,93219,Taxes per llicències d'activitats,6180.26,6180.26,10282.62,2020
+32101,0610,93219,Taxes per llicències d'activitats,12360.52,12360.52,14547.81,2020
+32300,0601,93219,Taxa inspecció d'execució d'obres,1,1,0,2020
+32300,0602,93219,Taxa inspecció d'execució d'obres,1,1,0,2020
+32300,0603,93219,Taxa inspecció d'execució d'obres,1,1,0,2020
+32300,0604,93219,Taxa inspecció d'execució d'obres,1,1,0,2020
+32300,0605,93219,Taxa inspecció d'execució d'obres,1,1,0,2020
+32300,0606,93219,Taxa inspecció d'execució d'obres,1,1,0,2020
+32300,0607,93219,Taxa inspecció d'execució d'obres,1,1,0,2020
+32300,0608,93219,Taxa inspecció d'execució d'obres,1,1,0,2020
+32300,0609,93219,Taxa inspecció d'execució d'obres,1,1,0,2020
+32300,0610,93219,Taxa inspecció d'execució d'obres,1,1,0,2020
+32301,0500,93219,"Taxes informes, planols i certificats ur (SIR)",9082,9082,14083.16,2020
+32301,0601,93219,"Taxes informes, planols i certificats ur (SIR)",86105.79,86105.79,13284,2020
+32301,0602,93219,"Taxes informes, planols i certificats ur (SIR)",10549.79,10549.79,15498.85,2020
+32301,0603,93219,"Taxes informes, planols i certificats ur (SIR)",56265.53,56265.53,5400.6,2020
+32301,0604,93219,"Taxes informes, planols i certificats ur (SIR)",3516.59,3516.59,3087,2020
+32301,0605,93219,"Taxes informes, planols i certificats ur (SIR)",30.58,30.58,9192,2020
+32301,0606,93219,"Taxes informes, planols i certificats ur (SIR)",10549.79,10549.79,14580,2020
+32301,0607,93219,"Taxes informes, planols i certificats ur (SIR)",3516.59,3516.59,3828.72,2020
+32301,0608,93219,"Taxes informes, planols i certificats ur (SIR)",12132.26,12132.26,2268,2020
+32301,0609,93219,"Taxes informes, planols i certificats ur (SIR)",7220.5,7220.5,3403.13,2020
+32301,0610,93219,"Taxes informes, planols i certificats ur (SIR)",30.58,30.58,19769.19,2020
+32302,0605,93219,"Taxes informes, planols i certificats ur (SAP)",700,700,3946.62,2020
+32302,0610,93219,"Taxes informes, planols i certificats ur (SAP)",800,800,0,2020
+32500,0200,93219,Taxa per expedició documents serveis gen,5.31,5.31,0,2020
+32500,0400,93219,Taxa per expedició documents serveis gen,727248.73,727248.73,-1133.71,2020
+32500,0500,93219,Taxa per expedició documents serveis gen,529.88,529.88,563.02,2020
+32500,0601,93219,Taxa per expedició documents serveis gen,2437.46,2437.46,977.56,2020
+32500,0602,93219,Taxa per expedició documents serveis gen,5519.63,5519.63,3089.25,2020
+32500,0603,93219,Taxa per expedició documents serveis gen,1218.73,1218.73,1733.44,2020
+32500,0604,93219,Taxa per expedició documents serveis gen,1218.73,1218.73,669.56,2020
+32500,0605,93219,Taxa per expedició documents serveis gen,304.68,304.68,868.59,2020
+32500,0606,93219,Taxa per expedició documents serveis gen,4265.56,4265.56,1181.16,2020
+32500,0607,93219,Taxa per expedició documents serveis gen,3534.31,3534.31,4022.8,2020
+32500,0608,93219,Taxa per expedició documents serveis gen,5.31,5.31,1165.75,2020
+32500,0609,93219,Taxa per expedició documents serveis gen,716.24,716.24,235.58,2020
+32500,0610,93219,Taxa per expedició documents serveis gen,2742.14,2742.14,1266,2020
+32500,0701,93219,Taxa per expedició documents serveis gen,12.17,12.17,0,2020
+32500,0703,93219,Taxa per expedició documents serveis gen,0,0,59180.28,2020
+32500,0705,93219,Taxa per expedició documents serveis gen,237241.12,237241.12,11343.47,2020
+32600,0703,93219,Taxa de grua i parany,17900000,17900000,9751321.61,2020
+32601,0703,93219,Taxa abandonaments vehicles BSM,598000,598000,114952.44,2020
+32602,0400,93219,Taxa permanències al dipòsit municipal,1000,1000,282.09,2020
+32901,0502,93219,Taxes per homologació gestió residus,10,10,0,2020
+32902,0400,93219,Taxa per expedició de documents GU,100,100,0,2020
+32903,0300,93219,Taxa de salut pública i animals,0,0,41580.01,2020
+32903,0502,93219,Taxa de salut pública i animals,45000,45000,37088.83,2020
+32904,0400,93219,Recollida i trasllat dipòsit elements vi,181.8,181.8,2139.72,2020
+32904,0601,93219,Recollida i trasllat dipòsit elements vi,181.82,181.82,0,2020
+32904,0602,93219,Recollida i trasllat dipòsit elements vi,181.82,181.82,0,2020
+32904,0603,93219,Recollida i trasllat dipòsit elements vi,181.82,181.82,0,2020
+32904,0604,93219,Recollida i trasllat dipòsit elements vi,181.82,181.82,0,2020
+32904,0605,93219,Recollida i trasllat dipòsit elements vi,181.82,181.82,0,2020
+32904,0606,93219,Recollida i trasllat dipòsit elements vi,181.82,181.82,0,2020
+32904,0607,93219,Recollida i trasllat dipòsit elements vi,181.82,181.82,0,2020
+32904,0608,93219,Recollida i trasllat dipòsit elements vi,181.82,181.82,0,2020
+32904,0609,93219,Recollida i trasllat dipòsit elements vi,181.82,181.82,0,2020
+32904,0610,93219,Recollida i trasllat dipòsit elements vi,181.82,181.82,0,2020
+32905,0705,93219,Taxes per accés oferta pública,421000,421000,100374.18,2020
+32912,0400,93219,Taxa per anàlisi d'alcoholèmies,1000,1000,192.26,2020
+32913,0400,93219,Taxa per anàlisi de drogo-test,1000,1000,0,2020
+32916,0400,93219,Taxa per còpies autoritzades informes accidents,1082000,1082000,725658.49,2020
+32917,0504,93219,Taxa per autorització Transport Escolar i menors,100,100,0,2020
+32918,0400,93219,Taxa per concessió targetes carabines i pistoles,100,100,9756.88,2020
+32919,0400,93219,Taxa per préstec roba SPEIS,12000,12000,612.73,2020
+32920,0703,93219,Taxa per serveis de mobilitat (croquis semàfors),18000000,18000000,0,2020
+32923,0400,93219,Taxa autoritz.sol.ocupació via publ.filmacions,0,0,90528.72,2020
+32924,0400,93219,Taxa autoritz.sol.ocupació via publ.mudances,0,0,310485.84,2020
+32925,0400,93219,Taxa autoritz.sol.ocupació via publ.bastides,0,0,23399.6,2020
+32926,0400,93219,Taxa autoritz.sol.ocupació via publ.grues,0,0,113852.48,2020
+32927,0400,93219,Taxa autoritz.sol.ocupació via publ.reserves,0,0,231349.16,2020
+33000,0703,93219,Taxa estacionament de vehicles (parquím.),51000000,51000000,27563177.87,2020
+33001,0400,93219,Taxa reserva estacionament,15760.56,15760.56,0,2020
+33001,0601,93219,Taxa reserva estacionament,43746.3,43746.3,42945.68,2020
+33001,0602,93219,Taxa reserva estacionament,284414.43,284414.43,83163.66,2020
+33001,0603,93219,Taxa reserva estacionament,21276.75,21276.75,30836.02,2020
+33001,0604,93219,Taxa reserva estacionament,43341.55,43341.55,36757.71,2020
+33001,0605,93219,Taxa reserva estacionament,47281.7,47281.7,49955.45,2020
+33001,0606,93219,Taxa reserva estacionament,11820.43,11820.43,24857.33,2020
+33001,0607,93219,Taxa reserva estacionament,15760.56,15760.56,17696.06,2020
+33001,0608,93219,Taxa reserva estacionament,7880.27,7880.27,3790,2020
+33001,0609,93219,Taxa reserva estacionament,15555.48,15555.48,12423.11,2020
+33001,0610,93219,Taxa reserva estacionament,55161.97,55161.97,247373.92,2020
+33100,0601,93219,Taxa per entrada vehicles (Guals),347312.41,347312.41,400197.9,2020
+33100,0602,93219,Taxa per entrada vehicles (Guals),2604843.03,2604843.03,2643860.99,2020
+33100,0603,93219,Taxa per entrada vehicles (Guals),1432911.74,1432911.74,1473610.4,2020
+33100,0604,93219,Taxa per entrada vehicles (Guals),1603590.98,1603590.98,1705256.11,2020
+33100,0605,93219,Taxa per entrada vehicles (Guals),3364671.42,3364671.42,3576692.91,2020
+33100,0606,93219,Taxa per entrada vehicles (Guals),1282078.93,1282078.93,1297358.97,2020
+33100,0607,93219,Taxa per entrada vehicles (Guals),1409096.04,1409096.04,1460542.45,2020
+33100,0608,93219,Taxa per entrada vehicles (Guals),752179.43,752179.43,728504.15,2020
+33100,0609,93219,Taxa per entrada vehicles (Guals),1414057.65,1414057.65,1484805.81,2020
+33100,0610,93219,Taxa per entrada vehicles (Guals),2034258.37,2034258.37,2062925.57,2020
+33200,0502,93219,Taxa uti. priv. empreses explot. submini,21868000,21868000,22749590.8,2020
+33300,0502,93219,Taxa uti. priv. empreses explot. telecos,908000,908000,8380119.43,2020
+33500,0601,93219,Taxa de taules i cadires (vetlladors),2126138.55,2126138.55,784828.11,2020
+33500,0602,93219,Taxa de taules i cadires (vetlladors),6303458.67,6303458.67,2081629.04,2020
+33500,0603,93219,Taxa de taules i cadires (vetlladors),797301.97,797301.97,258865.52,2020
+33500,0604,93219,Taxa de taules i cadires (vetlladors),478381.18,478381.18,173905.41,2020
+33500,0605,93219,Taxa de taules i cadires (vetlladors),664418.28,664418.28,155621.95,2020
+33500,0606,93219,Taxa de taules i cadires (vetlladors),438516.06,438516.06,124377.58,2020
+33500,0607,93219,Taxa de taules i cadires (vetlladors),212613.85,212613.85,80161.31,2020
+33500,0608,93219,Taxa de taules i cadires (vetlladors),279055.67,279055.67,90061.5,2020
+33500,0609,93219,Taxa de taules i cadires (vetlladors),489011.86,489011.86,117642.95,2020
+33500,0610,93219,Taxa de taules i cadires (vetlladors),1594603.91,1594603.91,554879.06,2020
+33501,0701,93219,Taxa de quioscos i vidrieres,625000,625000,331366.72,2020
+33501,0705,93219,Taxa de quioscos i vidrieres,0,0,5544.89,2020
+33502,0400,93219,Taxes d'altres ocupacions via pública,784360.17,784360.17,184311.91,2020
+33502,0502,93219,Taxes d'altres ocupacions via pública,0,0,182574.8,2020
+33502,0601,93219,Taxes d'altres ocupacions via pública,1139104.23,1139104.23,317125.57,2020
+33502,0602,93219,Taxes d'altres ocupacions via pública,1959842.21,1959842.21,302029.25,2020
+33502,0603,93219,Taxes d'altres ocupacions via pública,196397.28,196397.28,236224.72,2020
+33502,0604,93219,Taxes d'altres ocupacions via pública,445167.17,445167.17,47217.42,2020
+33502,0605,93219,Taxes d'altres ocupacions via pública,130931.53,130931.53,45376.93,2020
+33502,0606,93219,Taxes d'altres ocupacions via pública,130931.53,130931.53,58100.07,2020
+33502,0607,93219,Taxes d'altres ocupacions via pública,52372.62,52372.62,20136.95,2020
+33502,0608,93219,Taxes d'altres ocupacions via pública,379701.41,379701.41,50626.81,2020
+33502,0609,93219,Taxes d'altres ocupacions via pública,196397.28,196397.28,27386.69,2020
+33502,0610,93219,Taxes d'altres ocupacions via pública,392794.57,392794.57,60700.13,2020
+33800,0502,93219,Compensació Telefònica de España SA,7133000,7133000,6161885,2020
+33900,0502,93219,Taxa utilitza. privada enllumenat públic,1000,1000,0,2020
+33901,0502,93219,Taxa utilització privada fonts ornamenta,21000,21000,34389.58,2020
+33902,0400,93219,Taxa per serveis especials de vialitat,10,10,434945.78,2020
+33902,0502,93219,Taxa per serveis especials de vialitat,157990,157990,0,2020
+33903,0703,93219,Taxa per caixers automàtics,373000,373000,471525.1,2020
+33904,0400,93219,Taxa ocupació vp per mudances,1014000,1014000,544034.45,2020
+33905,0400,93219,Taxa ocupació vp per bastides,1000,1000,35488.85,2020
+33906,0400,93219,Taxa ocupació vp per grues,14000,14000,193602.72,2020
+33907,0400,93219,Taxa ocupació vp per reserves,27000,27000,451409.22,2020
+33910,0500,93219,Taxa transport energia,0,0,0,2020
+33910,0502,93219,Taxa transport energia,0,0,1111646.71,2020
+33910,0703,93219,Taxa transport energia,1000000,1000000,0,2020
+34100,0200,93219,Residència-habitatge tutelat-centres dia,2708818,2708818,2379344.16,2020
+34101,0200,93219,Equipaments gent gran,0.03,0.03,0,2020
+34101,0601,93219,Equipaments gent gran,581.12,581.12,0,2020
+34101,0602,93219,Equipaments gent gran,101.18,101.18,0,2020
+34101,0603,93219,Equipaments gent gran,108.87,108.87,0,2020
+34101,0606,93219,Equipaments gent gran,77.49,77.49,0,2020
+34101,0610,93219,Equipaments gent gran,131.31,131.31,0,2020
+34102,0200,93219,Serveis d'atenció domiciliària,2000000,2000000,0,2020
+34103,0200,93219,Granja Escola Can Girona,10,10,0,2020
+34104,0701,93219,Temps Barri - cursos famílies i discapac,10,10,0,2020
+34105,0601,93219,Casals Infància i Joves,0.64,0.64,0,2020
+34105,0603,93219,Casals Infància i Joves,2.56,2.56,0,2020
+34105,0605,93219,Casals Infància i Joves,0.85,0.85,0,2020
+34105,0606,93219,Casals Infància i Joves,1.03,1.03,0,2020
+34105,0607,93219,Casals Infància i Joves,1.51,1.51,0,2020
+34105,0610,93219,Casals Infància i Joves,3.41,3.41,0,2020
+34300,0601,93219,Activitats centres esportius,1,1,29400.67,2020
+34300,0602,93219,Activitats centres esportius,1,1,0,2020
+34300,0603,93219,Activitats centres esportius,1,1,0,2020
+34300,0604,93219,Activitats centres esportius,1,1,0,2020
+34300,0605,93219,Activitats centres esportius,1,1,0,2020
+34300,0606,93219,Activitats centres esportius,1,1,0,2020
+34300,0607,93219,Activitats centres esportius,1,1,0,2020
+34300,0608,93219,Activitats centres esportius,1,1,0,2020
+34300,0609,93219,Activitats centres esportius,1,1,0,2020
+34300,0610,93219,Activitats centres esportius,1,1,0,2020
+34400,0200,93219,Actes culturals,5485.64,5485.64,1396.41,2020
+34400,0601,93219,Actes culturals,7.25,7.25,22792.33,2020
+34400,0602,93219,Actes culturals,7.25,7.25,0,2020
+34400,0603,93219,Actes culturals,2503.37,2503.37,8638,2020
+34400,0604,93219,Actes culturals,7.25,7.25,2708.69,2020
+34400,0605,93219,Actes culturals,83.45,83.45,4961.26,2020
+34400,0606,93219,Actes culturals,9596.26,9596.26,9663.47,2020
+34400,0607,93219,Actes culturals,166.89,166.89,1202,2020
+34400,0608,93219,Actes culturals,1919.25,1919.25,3507.28,2020
+34400,0609,93219,Actes culturals,11119.33,11119.33,1993.63,2020
+34400,0610,93219,Actes culturals,9104.06,9104.06,2693.47,2020
+34900,0601,93219,Activitats centres civics districtes,437421.42,437421.42,160294.82,2020
+34900,0602,93219,Activitats centres civics districtes,6.75,6.75,96623.6,2020
+34900,0603,93219,Activitats centres civics districtes,116171.22,116171.22,61476.47,2020
+34900,0604,93219,Activitats centres civics districtes,248017.67,248017.67,41062.62,2020
+34900,0605,93219,Activitats centres civics districtes,182209.97,182209.97,77158.85,2020
+34900,0606,93219,Activitats centres civics districtes,22346.14,22346.14,42123.96,2020
+34900,0607,93219,Activitats centres civics districtes,40898.86,40898.86,76283.93,2020
+34900,0608,93219,Activitats centres civics districtes,178121.62,178121.62,66696.52,2020
+34900,0609,93219,Activitats centres civics districtes,44037.72,44037.72,162376.41,2020
+34900,0610,93219,Activitats centres civics districtes,60768.63,60768.63,100251.07,2020
+34901,0200,93219,Activitats Centres Oberts,29990,29990,0,2020
+34901,0400,93219,Activitats Centres Oberts,10,10,2501,2020
+34902,0200,93219,Atenció a les famílies,4000,4000,0,2020
+34908,0703,93219,Esponsoritzacions,10,10,0,2020
+34910,0400,93219,Unitat montada i secció canina de la GU,10,10,0,2020
+34911,0400,93219,Cursos SPEIS,30000,30000,8050.26,2020
+34912,0400,93219,Cursos formació policial (GU),10,10,0,2020
+34913,0400,93219,Cursos utilització torre de pràctiques,10,10,0,2020
+34914,0400,93219,Formació Policial a Tercers,10,10,0,2020
+34917,0601,93219,Cessió espais esportius,0,0,9568.44,2020
+34920,0502,93219,Recollida comercial residus,20109000,20109000,14546105,2020
+34921,0502,93219,Preus púb. servei especial neteja i rec.,5868980,5868980,4229698.99,2020
+34921,0601,93219,Preus púb. servei especial neteja i rec.,10,10,23618.03,2020
+34921,0602,93219,Preus púb. servei especial neteja i rec.,10,10,28971.2,2020
+34930,0705,93219,Productes i serveis de Bcn Informació,10,10,0,2020
+34931,0701,44121,Servei del Bicing,5000000,5000000,5773869.22,2020
+34932,0703,93219,Encàrrec de gestió Parc Güell,10,10,0,2020
+36000,0200,93219,Publicacions,10,10,0,2020
+36000,0500,93219,Publicacions,10,10,0,2020
+36000,0601,93219,Publicacions,10,10,0,2020
+36000,0602,93219,Publicacions,10,10,0,2020
+36000,0603,93219,Publicacions,10,10,0,2020
+36000,0604,93219,Publicacions,10,10,0,2020
+36000,0605,93219,Publicacions,10,10,0,2020
+36000,0606,93219,Publicacions,10,10,0,2020
+36000,0607,93219,Publicacions,10,10,0,2020
+36000,0608,93219,Publicacions,10,10,0,2020
+36000,0609,93219,Publicacions,10,10,0,2020
+36000,0610,93219,Publicacions,10,10,0,2020
+36000,0705,93219,Publicacions,99870,99870,36388.22,2020
+36000,0800,93219,Publicacions,10,10,0,2020
+36001,0502,93219,Publicitat en publicacions municipals,0,0,301.17,2020
+36001,0705,93219,Publicitat en publicacions municipals,10,10,0,2020
+36002,0500,93219,Difusió d'informació per compte de terc.,10,10,0,2020
+36002,0502,93219,Difusió d'informació per compte de terc.,10,10,0,2020
+36002,0601,93219,Difusió d'informació per compte de terc.,10,10,0,2020
+36002,0602,93219,Difusió d'informació per compte de terc.,10,10,0,2020
+36002,0603,93219,Difusió d'informació per compte de terc.,10,10,0,2020
+36002,0604,93219,Difusió d'informació per compte de terc.,10,10,0,2020
+36002,0605,93219,Difusió d'informació per compte de terc.,10,10,0,2020
+36002,0606,93219,Difusió d'informació per compte de terc.,10,10,0,2020
+36002,0607,93219,Difusió d'informació per compte de terc.,10,10,0,2020
+36002,0608,93219,Difusió d'informació per compte de terc.,10,10,0,2020
+36002,0609,93219,Difusió d'informació per compte de terc.,10,10,0,2020
+36002,0610,93219,Difusió d'informació per compte de terc.,10,10,0,2020
+36002,0705,93219,Difusió d'informació per compte de terc.,49880,49880,4861.78,2020
+36003,0703,93219,Altres ingressos per prestació serveis,10,10,0,2020
+36100,0705,93219,Venda d'energia solar fotovoltaica,10,10,2023227.05,2020
+36200,0705,93219,Venda de material inservible,1000,1000,2049.52,2020
+36300,0601,93219,Impresos,1,1,0,2020
+36300,0602,93219,Impresos,1,1,0,2020
+36300,0603,93219,Impresos,1,1,0,2020
+36300,0604,93219,Impresos,1,1,0,2020
+36300,0605,93219,Impresos,1,1,0,2020
+36300,0606,93219,Impresos,1,1,0,2020
+36300,0607,93219,Impresos,1,1,0,2020
+36300,0608,93219,Impresos,1,1,0,2020
+36300,0609,93219,Impresos,1,1,0,2020
+36300,0610,93219,Impresos,1,1,0,2020
+36401,0705,93219,Treballs impremta municipal,30000,30000,10838.2,2020
+36500,0502,93219,Venda de recollida selectiva residus,8000000,8000000,8006881.11,2020
+36501,0705,93219,Altres vendes,10,10,133.89,2020
+38901,0703,93219,Reintegraments creditors extrapressup,10,10,0,2020
+38902,0703,93219,Reintegraments despeses avançades (ooaa),10,10,0,2020
+38903,0200,93219,Pagaments indeguts d'exercicis anteriors,5,5,87220.26,2020
+38903,0400,93219,Pagaments indeguts d'exercicis anteriors,5,5,0,2020
+38903,0500,93219,Pagaments indeguts d'exercicis anteriors,2159.78,2159.78,46104.54,2020
+38903,0502,93219,Pagaments indeguts d'exercicis anteriors,2159.78,2159.78,8027.53,2020
+38903,0601,93219,Pagaments indeguts d'exercicis anteriors,4319.56,4319.56,6040.62,2020
+38903,0602,93219,Pagaments indeguts d'exercicis anteriors,2159.78,2159.78,2800,2020
+38903,0603,93219,Pagaments indeguts d'exercicis anteriors,2159.78,2159.78,11100,2020
+38903,0604,93219,Pagaments indeguts d'exercicis anteriors,2159.78,2159.78,2363.77,2020
+38903,0605,93219,Pagaments indeguts d'exercicis anteriors,2159.78,2159.78,23207.81,2020
+38903,0606,93219,Pagaments indeguts d'exercicis anteriors,2159.78,2159.78,9270.72,2020
+38903,0607,93219,Pagaments indeguts d'exercicis anteriors,2159.78,2159.78,11730.33,2020
+38903,0608,93219,Pagaments indeguts d'exercicis anteriors,2159.78,2159.78,14376.59,2020
+38903,0609,93219,Pagaments indeguts d'exercicis anteriors,2159.78,2159.78,5490.5,2020
+38903,0610,93219,Pagaments indeguts d'exercicis anteriors,2159.78,2159.78,10805.03,2020
+38903,0700,93219,Pagaments indeguts d'exercicis anteriors,43200.61,43200.61,46110.19,2020
+38903,0701,93219,Pagaments indeguts d'exercicis anteriors,5,5,213.11,2020
+38903,0703,93219,Pagaments indeguts d'exercicis anteriors,28077.14,28077.14,361206.61,2020
+38903,0705,93219,Pagaments indeguts d'exercicis anteriors,100625.11,100625.11,420185.73,2020
+38903,0800,93219,Pagaments indeguts d'exercicis anteriors,5,5,36052.42,2020
+38904,0703,93219,Devolucions d'IVA pressupostari,10,10,0,2020
+38905,0703,93219,Devolucions d'ingressos,10,10,0,2020
+38906,0200,93219,Reintegraments per subministres,2.35,2.35,0,2020
+38906,0601,93219,Reintegraments per subministres,2.35,2.35,0,2020
+38906,0602,93219,Reintegraments per subministres,25684.13,25684.13,0,2020
+38906,0603,93219,Reintegraments per subministres,540.72,540.72,0,2020
+38906,0604,93219,Reintegraments per subministres,2.35,2.35,0,2020
+38906,0605,93219,Reintegraments per subministres,8110.78,8110.78,33573.94,2020
+38906,0606,93219,Reintegraments per subministres,2.35,2.35,0,2020
+38906,0607,93219,Reintegraments per subministres,2.35,2.35,0,2020
+38906,0608,93219,Reintegraments per subministres,2.35,2.35,0,2020
+38906,0609,93219,Reintegraments per subministres,5647.92,5647.92,0,2020
+38906,0610,93219,Reintegraments per subministres,2.35,2.35,0,2020
+38908,0700,93219,Reintegrament despeses,500,500,0,2020
+38908,0705,93219,Reintegrament despeses,500,500,1316,2020
+38909,0703,93219,Reintegraments ADOJ Exercicis anteriors,10,10,0,2020
+38910,0200,93219,Reintegraments subvencions SIR,416.67,416.67,0,2020
+38910,0601,93219,Reintegraments subvencions SIR,416.67,416.67,0,2020
+38910,0602,93219,Reintegraments subvencions SIR,416.67,416.67,0,2020
+38910,0603,93219,Reintegraments subvencions SIR,416.67,416.67,0,2020
+38910,0604,93219,Reintegraments subvencions SIR,416.67,416.67,0,2020
+38910,0605,93219,Reintegraments subvencions SIR,416.67,416.67,0,2020
+38910,0606,93219,Reintegraments subvencions SIR,416.67,416.67,0,2020
+38910,0607,93219,Reintegraments subvencions SIR,416.67,416.67,0,2020
+38910,0608,93219,Reintegraments subvencions SIR,416.67,416.67,0,2020
+38910,0609,93219,Reintegraments subvencions SIR,416.67,416.67,5017.72,2020
+38910,0610,93219,Reintegraments subvencions SIR,416.67,416.67,9256.17,2020
+38910,0705,93219,Reintegraments subvencions SIR,416.63,416.63,0,2020
+39120,0400,93219,Infraccions trànsit - Ajuntament,55446000,55446000,69209209.19,2020
+39130,0400,93219,Infraccions ordenances,52289.12,52289.12,33354087.02,2020
+39130,0502,93219,Infraccions ordenances,627469.67,627469.67,74305.65,2020
+39130,0601,93219,Infraccions ordenances,977549.31,977549.31,3212346.33,2020
+39130,0602,93219,Infraccions ordenances,710944.95,710944.95,1017872.95,2020
+39130,0603,93219,Infraccions ordenances,213283.5,213283.5,1310753.67,2020
+39130,0604,93219,Infraccions ordenances,124415.36,124415.36,90173.63,2020
+39130,0605,93219,Infraccions ordenances,177736.23,177736.23,573013.35,2020
+39130,0606,93219,Infraccions ordenances,213283.5,213283.5,305966.6,2020
+39130,0607,93219,Infraccions ordenances,132413.5,132413.5,575576.95,2020
+39130,0608,93219,Infraccions ordenances,204396.68,204396.68,393402.45,2020
+39130,0609,93219,Infraccions ordenances,172878,172878,323004.6,2020
+39130,0610,93219,Infraccions ordenances,231057.11,231057.11,585362.95,2020
+39130,0703,93219,Infraccions ordenances,62746.95,62746.95,85453.24,2020
+39130,0705,93219,Infraccions ordenances,3487536.12,3487536.12,4622096.73,2020
+39140,0703,93219,Infraccions d'ordenances inspecció (sanc,2835046.78,2835046.78,909906.48,2020
+39140,0705,93219,Infraccions d'ordenances inspecció (sanc,970953.22,970953.22,3549744.56,2020
+39150,0400,93219,Sancions per incompliment normativa COVID,0,0,3600,2020
+39191,0200,93219,Sancions de contractes,13050,13050,0,2020
+39191,0400,93219,Sancions de contractes,13050,13050,0,2020
+39191,0500,93219,Sancions de contractes,13050,13050,0,2020
+39191,0502,93219,Sancions de contractes,13050,13050,996852,2020
+39191,0504,93219,Sancions de contractes,13050,13050,0,2020
+39191,0601,93219,Sancions de contractes,13050,13050,0,2020
+39191,0602,93219,Sancions de contractes,13050,13050,0,2020
+39191,0603,93219,Sancions de contractes,13050,13050,0,2020
+39191,0604,93219,Sancions de contractes,13050,13050,6564,2020
+39191,0605,93219,Sancions de contractes,13050,13050,0,2020
+39191,0606,93219,Sancions de contractes,13050,13050,0,2020
+39191,0607,93219,Sancions de contractes,13050,13050,0,2020
+39191,0608,93219,Sancions de contractes,13050,13050,0,2020
+39191,0609,93219,Sancions de contractes,13050,13050,0,2020
+39191,0610,93219,Sancions de contractes,13050,13050,0,2020
+39191,0700,93219,Sancions de contractes,13050,13050,0,2020
+39191,0701,93219,Sancions de contractes,13050,13050,0,2020
+39191,0703,93219,Sancions de contractes,13050,13050,0,2020
+39191,0705,93219,Sancions de contractes,13050,13050,0,2020
+39191,0800,93219,Sancions de contractes,13050,13050,0,2020
+39192,0200,93219,Sancions incompliment Llei,10,10,1778223.39,2020
+39200,0703,93219,Recàrrecs declaració extemporanea s.r.p.,680000,680000,549552.08,2020
+39210,0703,93219,Recàrrec executiu,10510000,10510000,6752590.6,2020
+39211,0703,93219,Recàrrec apremi,3239000,3239000,2661320.95,2020
+39300,0703,93219,Interessos de demora,8020990,8020990,7614387.06,2020
+39300,0705,93219,Interessos de demora,10,10,0,2020
+39610,0703,93219,Quotes urbanització,0,0,0,2020
+39612,0703,93219,Càrregues urbanístiques,1000000,1000000,0,2020
+39700,0703,15050,Cessió per aprofitament urbanístic (10%),8668672.73,8668672.73,10543424.27,2020
+39800,0200,93219,Indemnitzacions Assegurances No de Vida,250,250,55624.02,2020
+39800,0602,93219,Indemnitzacions Assegurances No de Vida,0,0,495.09,2020
+39800,0605,93219,Indemnitzacions Assegurances No de Vida,0,0,13503.57,2020
+39800,0606,93219,Indemnitzacions Assegurances No de Vida,250,250,0,2020
+39800,0610,93219,Indemnitzacions Assegurances No de Vida,250,250,47789.95,2020
+39800,0703,93219,Indemnitzacions Assegurances No de Vida,0,0,139306.99,2020
+39800,0705,93219,Indemnitzacions Assegurances No de Vida,250,250,0,2020
+39900,0500,93219,Execucions subsidiàries,138380.51,138380.51,99077.14,2020
+39900,0502,93219,Execucions subsidiàries,63607.89,63607.89,0,2020
+39900,0601,93219,Execucions subsidiàries,1.16,1.16,-5964.06,2020
+39900,0602,93219,Execucions subsidiàries,1.16,1.16,373591.4,2020
+39900,0603,93219,Execucions subsidiàries,1.16,1.16,26307.4,2020
+39900,0604,93219,Execucions subsidiàries,1.16,1.16,0,2020
+39900,0605,93219,Execucions subsidiàries,1.16,1.16,3456.2,2020
+39900,0606,93219,Execucions subsidiàries,1.16,1.16,389.04,2020
+39900,0607,93219,Execucions subsidiàries,1.16,1.16,3016.5,2020
+39900,0608,93219,Execucions subsidiàries,1.16,1.16,0,2020
+39900,0609,93219,Execucions subsidiàries,1.16,1.16,1960.6,2020
+39900,0610,93219,Execucions subsidiàries,1.16,1.16,0,2020
+39901,0705,93219,Tarifa plataforma telefònica,500000,500000,0,2020
+39902,0400,93219,Prevenció i extinció incendis port Bcn.,10,10,0,2020
+39903,0705,93219,Indemnitzacions desperfectes OOAA,10,10,0,2020
+39904,0200,93219,Indemnitzacions,4.58,4.58,0,2020
+39904,0400,93219,Indemnitzacions,22893.27,22893.27,32731.56,2020
+39904,0500,93219,Indemnitzacions,11446.64,11446.64,67125.53,2020
+39904,0502,93219,Indemnitzacions,70969.1,70969.1,0,2020
+39904,0601,93219,Indemnitzacions,4.58,4.58,1977.56,2020
+39904,0602,93219,Indemnitzacions,5265.45,5265.45,949.02,2020
+39904,0603,93219,Indemnitzacions,20535.26,20535.26,4058.89,2020
+39904,0604,93219,Indemnitzacions,4.58,4.58,903.31,2020
+39904,0605,93219,Indemnitzacions,2632.73,2632.73,39791.02,2020
+39904,0606,93219,Indemnitzacions,10846.83,10846.83,607.5,2020
+39904,0607,93219,Indemnitzacions,3159.27,3159.27,303.29,2020
+39904,0608,93219,Indemnitzacions,1816.58,1816.58,11741.28,2020
+39904,0609,93219,Indemnitzacions,393.68,393.68,9058.06,2020
+39904,0610,93219,Indemnitzacions,4.58,4.58,1479.52,2020
+39904,0700,93219,Indemnitzacions,4.58,4.58,0,2020
+39904,0701,93219,Indemnitzacions,4.58,4.58,0,2020
+39904,0703,93219,Indemnitzacions,4.55,4.55,0,2020
+39904,0705,93219,Indemnitzacions,4.58,4.58,0,2020
+39904,0800,93219,Indemnitzacions,4.58,4.58,0,2020
+39906,0603,93219,Actuacions mercadillos varis,150000,150000,11657.07,2020
+39907,0400,93219,Altres ingressos seguretat i mobilitat,14979.5,14979.5,228.95,2020
+39907,0601,93219,Altres ingressos seguretat i mobilitat,2.05,2.05,0,2020
+39907,0602,93219,Altres ingressos seguretat i mobilitat,2.05,2.05,0,2020
+39907,0603,93219,Altres ingressos seguretat i mobilitat,2.05,2.05,0,2020
+39907,0604,93219,Altres ingressos seguretat i mobilitat,2.05,2.05,0,2020
+39907,0605,93219,Altres ingressos seguretat i mobilitat,2.05,2.05,0,2020
+39907,0606,93219,Altres ingressos seguretat i mobilitat,2.05,2.05,0,2020
+39907,0607,93219,Altres ingressos seguretat i mobilitat,2.05,2.05,0,2020
+39907,0608,93219,Altres ingressos seguretat i mobilitat,2.05,2.05,0,2020
+39907,0609,93219,Altres ingressos seguretat i mobilitat,2.05,2.05,0,2020
+39907,0610,93219,Altres ingressos seguretat i mobilitat,2.05,2.05,0,2020
+39908,0800,93219,Actes promoció relacions cíviques,10,10,0,2020
+39909,0703,93219,Sentències jutjats i tribunals,12500,12500,44073.3,2020
+39909,0705,93219,Sentències jutjats i tribunals,12500,12500,16141.15,2020
+39910,0502,93219,Serveis especials educació ambiental,8000,8000,2394.9,2020
+39911,0100,93219,Compensacio costos,0,0,13448.49,2020
+39911,0400,93219,Compensacio costos,746885.84,746885.84,0,2020
+39911,0701,93219,Compensacio costos,7407104.16,7407104.16,8505976.82,2020
+39911,0705,93219,Compensacio costos,10,10,0,2020
+39912,0703,93219,Incautació de dipòsits,0,0,16872.94,2020
+39912,0705,93219,Incautació de dipòsits,10,10,0,2020
+39913,0601,93219,Actuacions fires del districte,10,10,0,2020
+39914,0200,93219,Recuperació costes embargaments,0,0,43.56,2020
+39914,0701,93219,Recuperació costes embargaments,0,0,0,2020
+39914,0703,93219,Recuperació costes embargaments,17000,17000,6280.58,2020
+39915,0703,93219,Recuperació costes notificacions,427000,427000,281637.36,2020
+39916,0500,93219,Prestació serveis tècnics projectes i o.,10,10,0,2020
+39917,0400,93219,Regul.per fin.contr.(renting vehicles),10,10,33876.38,2020
+39918,0701,93219,Repercussió costos FC SA,10,10,0,2020
+39919,0502,93219,Exec. subsidiària Medi Ambient,131000,131000,80414.86,2020
+39920,0502,93219,Exec. subsidiària Ordenança Convivència,10,10,407.85,2020
+39998,0703,93219,Altres ingressos extingits,10,10,0,2020
+39999,0500,93219,Altres ingressos diversos,0,0,389.93,2020
+39999,0601,93219,Altres ingressos diversos,0,0,3139.84,2020
+39999,0703,93219,Altres ingressos diversos,0,0,34970.16,2020
+39999,0705,93219,Altres ingressos diversos,10,10,0.19,2020
+41000,0200,93219,Aport. d'OOAA de l'Ajuntament Barcelona,0,0,98606.43,2020
+41000,0300,93219,Aport. d'OOAA de l'Ajuntament Barcelona,0,0,216123.11,2020
+41000,0603,93219,Aport. d'OOAA de l'Ajuntament Barcelona,0,17168.76,17168.76,2020
+41000,0705,93219,Aport. d'OOAA de l'Ajuntament Barcelona,10,10,6600,2020
+42010,0703,93219,Fons complementari de finançament,1020101992.04,1020101992.04,985028859.03,2020
+42011,0703,93219,Compensació IAE inicial,94455960.65,94455960.65,91184567.9,2020
+42012,0703,93219,Compensació IAE addicional,4588500.46,4588500.46,4412525.54,2020
+42030,0703,93219,Compensació tributs,2518000,2518000,2628804.04,2020
+42090,0200,93219,Altres transf. corrents de l'A.G.Estat,0,0,297590.22,2020
+42090,0705,93219,Altres transf. corrents de l'A.G.Estat,0,0,71837.18,2020
+42090,0800,93219,Altres transf. corrents de l'A.G.Estat,10,10,0,2020
+42091,0800,93219,Aportació Estat institucions àmplia proj,10,10,0,2020
+42092,0101,93219,Subvencions fin. A.G. Estat eleccions,0,0,-650,2020
+42092,0705,93219,Subvencions fin. A.G. Estat eleccions,10,10,53058,2020
+42093,0707,93219,Aport. Estat formació de personal,10,10,0,2020
+42110,0705,93219,Aportacions INE eleccions,10,10,16079.76,2020
+42120,0502,93219,Aportacions IMSERSO,10,10,0,2020
+42190,0700,93219,D'altres organismes autònoms i agències,10,10,0,2020
+44100,0703,93219,De societats mercantils de l'Ajuntament,10,10,0,2020
+45010,0703,93219,Fons cooperació local de Catalunya (FCLC,3179000,3179000,3678346.8,2020
+45030,0200,93219,Subv. finanlistes Generalitat per l'IMEB,1455000,1455000,0,2020
+45030,0800,93219,Subv. finanlistes Generalitat per l'IMEB,0,0,13842981.42,2020
+45040,0200,93219,Subv. finalistes Gen. atenció primària,26896324.52,26896324.52,31483976.45,2020
+45041,0200,93219,Subv. finalistes Generalitat per l'EAIA,4531310,4531310,5131207.53,2020
+45042,0200,93219,Aportació de Generalitat per a gent gran,3400000,3400000,0,2020
+45043,0200,93219,Aport. Generalitat conveni discapacitats,1920057.34,1920057.34,1226789.15,2020
+45044,0200,93219,Subv. finalistes Generalitat immigració,0,0,2204400.9,2020
+45044,0800,93219,Subv. finalistes Generalitat immigració,1000000,1000000,0,2020
+45045,0200,93219,Subv. Generalitat per a SAD dependència,31000000,31000000,30662977.01,2020
+45047,0200,93219,Altres subv. Generalitat Conv. Marc S.S.,292647.52,292647.52,80697.52,2020
+45048,0200,93219,Serveis Informació i atenció dones - SIA,18250,18250,0,2020
+45049,0800,93219,Generalitat-Desenvolupament comunitari,10,10,607360.59,2020
+45050,0200,93219,Generalitat LGTBI,0,0,47500,2020
+45051,0705,93219,Subvencions fin. Generalitat (ocupació),10,10,0,2020
+45053,0200,93219,Generalitat-Programes joventut,18000,18000,912.5,2020
+45060,0504,93219,Altres transferències de la CCAA conveni,10000,10000,0,2020
+45070,0703,15357,Aportació de Generalitat per llei barris,0,5203,23052.16,2020
+45070,0703,15359,Aportació de Generalitat per llei barris,0,0,76485.56,2020
+45080,0200,93219,Altres subvencions de la CCAA,0,0,63073.35,2020
+45080,0400,93219,Altres subvencions de la CCAA,0,0,291000.33,2020
+45080,0800,93219,Altres subvencions de la CCAA,10,10,0,2020
+45081,0705,93219,Subvencions fin. Gener. per eleccions,10,10,0,2020
+45083,0700,93219,Fons Foment Turisme,15940000,15940000,10028823.04,2020
+45100,0700,93219,Subvenció OOAA Generalitat,10,746213.11,746213.11,2020
+45102,0200,93219,Aportacions Agència Habitatge de la Generalitat,10,10,0,2020
+45103,0707,93219,Aportacions EAPC Formació de personal,10,10,204140.66,2020
+45104,0200,93219,Aportació ICD Inst. Cat. Dona,0,0,46000,2020
+45300,0300,93219,D'empreses públiques i altres de CCAA,0,408781,408781,2020
+45300,0502,93219,D'empreses públiques i altres de CCAA,10,10,0,2020
+45300,0705,93219,D'empreses públiques i altres de CCAA,0,0,273898.55,2020
+45300,0800,93219,D'empreses públiques i altres de CCAA,0,179797.61,179797.61,2020
+46100,0700,93219,Aportacions de la Diputació de Barcelona,0,0,100000,2020
+46100,0705,93219,Aportacions de la Diputació de Barcelona,10,10,0,2020
+46110,0200,93219,Subv. finalistes de DIBA afers socials,10,10,0,2020
+46120,0200,93219,Aport. DIBA per a conveni discapacitats,10,10,0,2020
+46200,0705,93219,Transferències d'Ajuntaments,10,10,0,2020
+46402,0502,93219,Subv.retorn cànon dep.residus (AMB),1000000,1000000,1026128.14,2020
+46408,0300,93219,Aportacions de l'Àrea Metropolitana,0,168231.16,168231.16,2020
+46408,0504,93219,Aportacions de l'Àrea Metropolitana,20000,20000,390638.25,2020
+46409,0200,93219,Aportació A.M.B.per gestió CUESB ampliat,400000,400000,0,2020
+46700,0200,93219,Aportacions de Consorcis,10,10,70644.8,2020
+46900,0703,93219,Altres subvencions d'entitats locals,10,10,0,2020
+47000,0502,93219,Aportacions finalistes empreses privades,0,0,20000,2020
+47000,0504,93219,Aportacions finalistes empreses privades,0,42010.05,0,2020
+47000,0602,93219,Aportacions finalistes empreses privades,0,0,36000,2020
+47000,0604,93219,Aportacions finalistes empreses privades,0,0,128.3,2020
+47000,0703,93219,Aportacions finalistes empreses privades,10,10,0,2020
+47001,0703,93219,Donacions COVID-19,0,0,250000,2020
+48000,0703,93219,Aportacions de famílies i institucions,10,10,2200000,2020
+48001,0703,93219,Donacions particulars COVID-19,0,0,496,2020
+48010,0800,93219,Aport. finalistes famílies i institucions,10,200000,200000,2020
+49116,0703,15346,Aport. FEDER 2014-2020 eix 2 EDUSI,0,0,23262.67,2020
+49700,0200,93219,Aport. UE i d'altres municipis europeus,600000,600000,82318.72,2020
+49700,0300,93219,Aport. UE i d'altres municipis europeus,0,109079.27,109079.27,2020
+49700,0400,93219,Aport. UE i d'altres municipis europeus,0,1331,0,2020
+49700,0502,93219,Aport. UE i d'altres municipis europeus,0,18994.56,18994.56,2020
+49700,0504,93219,Aport. UE i d'altres municipis europeus,0,81890.97,36210,2020
+49703,0703,93219,Donacions UE COVID-19,0,0,10000,2020
+49910,0700,93219,Subv. final. d'organismes internacionals,0,0,10000,2020
+49910,0703,93219,Subv. final. d'organismes internacionals,10,10,0,2020
+49920,0200,93219,Altres aportacions de l’exterior,10,10,1104016,2020
+51400,0703,93219,Ing.crèdits – Operac. BAMSA,0,0,3000000,2020
+52000,0703,93219,Inter. de dipòs. ctes. de bancs o caixes,200000,200000,18697.95,2020
+52001,0703,93219,Interessos ajornats,3000000,3000000,0,2020
+53400,0703,93219,De societats i entitats dependents entitats locals,6000000,6000000,0,2020
+53410,0703,93219,De societats i entitats NO dependents entitats loc,0,0,474548,2020
+54100,0701,93219,Producte de l'arrendament de finques ur.,2020551.74,2020551.74,2681076.96,2020
+54103,0701,93219,Arrendaments finques sense IVA,0,0,8381.92,2020
+54105,0701,93219,Lloguer sales tècniques,127000,127000,128885.94,2020
+55000,0701,93219,Concessions d'aparcaments,1859633.08,1859633.08,1847540.75,2020
+55001,0701,93219,Concessions d'instal·lacions esportives,6000,6000,0,2020
+55002,0601,93219,Altres concessions administratives,10976.3,10976.3,2917946.48,2020
+55002,0602,93219,Altres concessions administratives,591.03,591.03,0,2020
+55002,0603,93219,Altres concessions administratives,29551.57,29551.57,9590.84,2020
+55002,0604,93219,Altres concessions administratives,5319.28,5319.28,0,2020
+55002,0605,93219,Altres concessions administratives,5075.98,5075.98,33936.49,2020
+55002,0606,93219,Altres concessions administratives,54881.49,54881.49,6285.34,2020
+55002,0607,93219,Altres concessions administratives,12664.96,12664.96,42954.2,2020
+55002,0608,93219,Altres concessions administratives,6796.86,6796.86,0,2020
+55002,0609,93219,Altres concessions administratives,36636.97,36636.97,68475.73,2020
+55002,0610,93219,Altres concessions administratives,54037.15,54037.15,0,2020
+55002,0701,93219,Altres concessions administratives,18195568.37,18195568.37,10227590.97,2020
+55002,0705,93219,Altres concessions administratives,10,10,132488.43,2020
+55004,0703,93219,Concessions aparcaments municipals BAMSA,1814555.23,1814555.23,1814555.23,2020
+55100,0705,93219,Conces.administr.sense contraprestació periòdica,10,10,0,2020
+55200,0701,93219,Drets superfície amb contraprest. periòd,2558384.28,2558384.28,688438.66,2020
+55200,0705,93219,Drets superfície amb contraprest. periòd,0,0,1739912.3,2020
+55250,0701,93219,Dret Superficie PMSH,0,0,13836.51,2020
+55300,0705,93219,Dret super. contraprestació no periòdico,0,0,-6500505,2020
+55501,0701,93219,Cànons i rendiments d'empreses,0,0,194110.89,2020
+55901,0701,93219,Cànon publicitat quioscos,3000000,3000000,2643717.96,2020
+59900,0701,93219,Altres ingressos patrimonials,0,0,19865.25,2020
+60000,0703,93219,Venda de solars,25000010,25000010,404212.93,2020
+60200,0703,93219,Venda parceles sobrants via pública,100000,100000,150266.52,2020
+60300,0703,15050,Venda Solars PMH,10,10,0,2020
+60301,0703,15050,Permuta solars PMH,10,10,0,2020
+60302,0701,15050,Altres indemnitzacions PMSH,10,10,1566129.7,2020
+60900,0703,93219,Indemnització substitutòria edificabilitat,1847971.12,1847971.12,1882267.41,2020
+60901,0703,93219,Indemnització per construccions,10,10,0,2020
+60902,0703,93219,Expropiacions,10,10,0,2020
+61900,0703,93219,Reversió de finques,10,10,0,2020
+61901,0703,93219,Venda places aparcaments,10,10,9188,2020
+61902,0703,93219,Habitatges i locals negoci,1000,1000,0,2020
+61928,0703,93219,Venda elements de transport,10,10,0,2020
+61950,0703,15050,Venda habitatges i locals PMH,10,10,0,2020
+68000,0703,93219,Reint. tans. cap. empreses del grup,10,10,0,2020
+68001,0500,93219,Reinteg operacions capital exerc.tancats,0,0,843374.41,2020
+68001,0703,93219,Reinteg operacions capital exerc.tancats,10,10,16391.35,2020
+68009,0703,93219,Reintegrament ADOJ exer. anteriors,10,10,0,2020
+71000,0703,93219,Transf. capital Institut de Paisatge Urbà,10,10,0,2020
+72000,0703,93219,Aportacions de l'AG Estat,10,10,0,2020
+72014,0703,93219,"Aportació Ministerio de Educación, Cultura y Depor",10,10,0,2020
+72390,0703,93219,"De soc. mercantils estats, EPE's i altres",10,10,0,2020
+75030,0703,93219,Transf. capital conveni en matèria d'educació,10,10,0,2020
+75030,0800,93219,Transf. capital conveni en matèria d'educació,0,500000,500000,2020
+75031,0703,93219,Aportació Gencat/places educ preescolar,10,10,0,2020
+75070,0703,15357,Aport. Generalitat llei de barris,700000,700000,687727.71,2020
+75070,0703,15359,Aport. Generalitat llei de barris,3300000,3300000,3231320.68,2020
+75081,0703,93219,Aport. Generalitat Biblioteques,500000,500000,0,2020
+75100,0703,93219,Aportació Consell Català de l'Esport,0,0,345398,2020
+76100,0703,93219,Aportacions de la Diputació de Barcelona,10000000,10000000,7283911.71,2020
+77000,0703,93219,Aportacions d'empreses privades,0,0,0,2020
+78000,0607,93219,Aport.famílies i instituc. s/ afany lucre,10,10,0,2020
+79105,0703,93219,Conveni PO FEDER Catalunya 2014-2020,1300000,1300000,0,2020
+79113,0703,15346,Projecte EDUSI-Eix Besòs,0,0,1464737.41,2020
+79700,0400,93219,Aportacions UE i d'altres municipis europeus,0,173000,0,2020
+84010,0703,93219,Devolució dipòsits constituïts a llarg t,10,10,0,2020
+85000,0703,93219,Alienació accions.,27963812.97,27963812.97,0,2020
+85001,0703,93219,Alienació accions. Liquidació Holsa,20,20,0,2020
+85005,0703,93219,Accions BCN Emprèn,20,20,0,2020
+87000,0703,93219,Romanents de tresoreria per a despeses generals,0,5220791.95,0,2020
+87010,0703,93219,Romanents de tresoreria per a despeses amb F.A,0,3849485.15,0,2020
+90199,0703,93219,Nou finançament,161021098.8,161021098.8,0,2020
+91342,0703,93219,Préstec 100 M (vt. 29/06/35) 2n Tram 50 M,0,0,50000000,2020
+91343,0703,93219,Préstec 95 M (vt. 29/10/40) Tram 45 M,0,0,45000000,2020
+91346,0703,93219,Préstec 6 M€ (vt. 15/12/28),0,0,6000000,2020
+94101,0703,93219,Fiances per guals (recepció),500000,500000,481515.23,2020
+94102,0703,93219,Fiances urbanístiques (recepció),3000000,3000000,154702.82,2020
