@@ -21,7 +21,10 @@ urlresolvers.reverse = reverse_decorator(urlresolvers.reverse)
 
 
 # Override metadata information from core
-import budget_app.views.helpers as core_helpers
-from views.helpers import _set_meta_fields
-
-core_helpers._set_meta_fields = _set_meta_fields
+# XXX: This stopped working when upgrading Django, since now we import the module when defining the URL paths,
+# so there are circular dependencies, `budget_app` is not imported yet (I think). I'm disabling this for now
+# because we're not using the theme anyway, I'm just testing subprogrammes for #80.
+#
+# import budget_app.views.helpers as core_helpers
+# from views.helpers import _set_meta_fields
+# core_helpers._set_meta_fields = _set_meta_fields

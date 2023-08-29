@@ -1,10 +1,11 @@
 # -*- coding: UTF-8 -*-
-from budget_app.models import *
-from budget_app.loaders import SimpleBudgetLoader
-from decimal import *
 import csv
 import os
 import re
+
+from budget_app.models import *
+from budget_app.loaders import SimpleBudgetLoader
+from decimal import *
 
 class BarcelonaBudgetLoader(SimpleBudgetLoader):
 

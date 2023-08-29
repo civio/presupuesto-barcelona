@@ -1,8 +1,5 @@
 # -*- coding: UTF-8 -*-
 
-from django.conf.urls import patterns, url
-from django.conf.urls.i18n import i18n_patterns
-
 MAIN_ENTITY_LEVEL = 'municipio'
 MAIN_ENTITY_NAME = 'Barcelona'
 
@@ -166,13 +163,13 @@ OVERVIEW_EXPENSE_NODES =  [
 # OVERVIEW_NODE_PADDING = 2
 
 # Overview node minimum height to show labels. Default: 16 (Optional)
-# OVERVIEW_LABELS_MIN_SIZE = 16
+# OVERVIEW_LABELS_MIN_SIZE = 16
 
 # Overview node labels minimum font size. Default: 11 (Optional)
 # OVERVIEW_LABELS_FONT_SIZE_MIN = 11
 
 # Overview node labels maximum font size. Default: 11 (Optional)
-# OVERVIEW_LABELS_FONT_SIZE_MAX = 38
+# OVERVIEW_LABELS_FONT_SIZE_MAX = 38
 
 # Nodes ordered by amount by default. If set to True keeps the order defined in nodes array. Default: False (Optional)
 OVERVIEW_FORCE_ORDER = True
@@ -183,20 +180,20 @@ USE_SUBPROGRAMMES = True
 # Show Payments section in menu & home options. Default: False.
 SHOW_PAYMENTS           = True
 
-# Configure 'by area' payment breakdown. Default: ['area', 'payee', 'description']
+# Configure 'by area' payment breakdown. Default: ['area', 'payee', 'description']
 PAYMENTS_BREAKDOWN_BY_AREA = ['area', 'programme', 'payee', 'description']
 
-# Configure 'by payee' payment breakdown. Default: ['payee', 'area', 'description']
+# Configure 'by payee' payment breakdown. Default: ['payee', 'area', 'description']
 # PAYMENTS_BREAKDOWN_BY_PAYEE = ['payee', 'area', 'description']
 
-# Define if payments year slider is a range (True) or a single year (False). Default: True
+# Define if payments year slider is a range (True) or a single year (False). Default: True
 PAYMENTS_YEAR_RANGE = False
 
 # Show Tax Receipt section in menu & home options. Default: False.
 # SHOW_TAX_RECEIPT        = False
 
 # Show Counties & Towns links in Policies section in menu & home options. Default: False.
-# SHOW_COUNTIES_AND_TOWNS = False
+# SHOW_COUNTIES_AND_TOWNS = False
 
 # Show an extra tab with institutional breakdown. Default: True.
 SHOW_INSTITUTIONAL_TAB  = True
@@ -251,13 +248,6 @@ COOKIES_URL             = 'http://www.barcelona.cat/es/cookies.html'
 
 # Allow overriding of default treemap color scheme
 COLOR_SCALE = [ '#1f77b4', '#C05411', '#2ca02c', '#d62728', '#8350b2', '#774940', '#d944ac', '#d74a54', '#8c8c19', '#118996' ]
-
-# We can define additional URLs applicable only to the theme. These will get added
-# to the project URL patterns list.
-EXTRA_URLS = i18n_patterns('presupuesto-barcelona.views',
-    url(r'^accesibilidad$', 'accesibilidad'),
-    url(r'^aviso_legal$', 'aviso_legal')
-)
 
 # Make environment setting available to URL monkey-patch in __init__.py
 if ENV.get('USE_PRODUCTION_URLS') == True:
