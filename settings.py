@@ -229,22 +229,22 @@ LANGUAGES = (
 )
 
 # Setup Data Source Budget link
-DATA_SOURCE_BUDGET      = 'http://governobert.bcn.cat/estrategiaifinances/es/i-pressupost'
+DATA_SOURCE_BUDGET      = 'https://governobert.bcn.cat/estrategiaifinances/es/i-pressupost'
 
 # Setup Data Source Population link
-DATA_SOURCE_POPULATION  = 'http://www.ine.es/jaxiT3/Tabla.htm?t=2861'
+DATA_SOURCE_POPULATION  = 'https://www.ine.es/jaxiT3/Tabla.htm?t=2861'
 
 # Setup Data Source Inflation link
-DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=22350&L=0'
+DATA_SOURCE_INFLATION   = 'https://www.ine.es/jaxiT3/Tabla.htm?t=22350&L=0'
 
 # Setup Main Entity Web Url
-MAIN_ENTITY_WEB_URL     = 'http://ajuntament.barcelona.cat/es/'
+MAIN_ENTITY_WEB_URL     = 'https://ajuntament.barcelona.cat/es/'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
-#MAIN_ENTITY_LEGAL_URL   = 'http://ajuntament.barcelona.cat/es/aviso-legal'
+#MAIN_ENTITY_LEGAL_URL   = 'https://ajuntament.barcelona.cat/es/aviso-legal'
 
 # External URL for Cookies Policy (if empty we use out template page/cookies.html)
-COOKIES_URL             = 'http://www.barcelona.cat/es/cookies.html'
+COOKIES_URL             = 'https://www.barcelona.cat/es/cookies.html'
 
 # Allow overriding of default treemap color scheme
 COLOR_SCALE = [ '#1f77b4', '#C05411', '#2ca02c', '#d62728', '#8350b2', '#774940', '#d944ac', '#d74a54', '#8c8c19', '#118996' ]
